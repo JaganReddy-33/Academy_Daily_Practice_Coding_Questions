@@ -1,19 +1,19 @@
 # Hardware and Software Combination
 
+> ✅ Solved
+
 ## Question
 
 Hardware and Software Combination
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Platform | Yes | Yes |
-| O | Operating System | No | No |
-| M | Microprocessor | No | No |
-| N | None of the above | No | No |
+- ✅ **A. Platform** — Correct answer
+- ⬜ **B.** Operating System
+- ⬜ **C.** Microprocessor
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Platform
 - **Submitted at:** 2026-05-27T17:10:53.850Z
