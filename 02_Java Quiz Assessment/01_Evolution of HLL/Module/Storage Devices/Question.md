@@ -4,7 +4,7 @@
 
 ## Question
 
-Storage Devices
+Is a storage device a type of hardware used for storing or extracting data files and objects?
 
 ## Answer choices
 
