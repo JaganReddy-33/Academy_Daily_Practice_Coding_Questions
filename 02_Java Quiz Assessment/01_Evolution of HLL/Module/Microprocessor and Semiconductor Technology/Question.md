@@ -4,7 +4,7 @@
 
 ## Question
 
-Microprocessor and Semiconductor Technology
+Is the microprocessor a semiconductor technology device based on the principles of current and voltage?
 
 ## Answer choices
 
