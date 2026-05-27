@@ -1,22 +1,22 @@
 # Computer Components
 
+> ✅ Solved
+
 ## Question
 
 Computer Components
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| M | Microprocessor | Yes | Yes |
-| R | RAM | No | No |
-| H | Hard Disk | No | No |
-| G | GPU | No | No |
+- ⬜ **A.** <p>Hard Disk</p>
+- ⬜ **B.** <p>RAM</p>
+- ⬜ **C.** <p>Microprocessor</p>
+- ✅ **D. <p>All of the above</p>** — Correct answer
 
-## Result
+## Submission
 
-- **Correct answer:** Microprocessor
-- **Submitted at:** 2026-05-27T17:13:50.336Z
+- **Correct answer:** <p>All of the above</p>
+- **Submitted at:** 2026-05-27T17:13:35.743Z
 - **Correct submission:** True
 
 ## Explanation
