@@ -4,7 +4,7 @@
 
 ## Question
 
-CPU and Binary Language
+Does the CPU understand only 0's and 1's?
 
 ## Answer choices
 
