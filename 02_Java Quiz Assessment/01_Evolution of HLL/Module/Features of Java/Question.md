@@ -4,7 +4,7 @@
 
 ## Question
 
-Features of Java
+<p>Which of the following are the features of Java?</p>
 
 ## Answer choices
 
