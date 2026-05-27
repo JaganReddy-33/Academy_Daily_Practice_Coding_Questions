@@ -1,17 +1,17 @@
 # Speed of RAM and Hard Disk
 
+> ✅ Solved
+
 ## Question
 
 Speed of RAM and Hard Disk
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-05-27T17:06:13.455Z
