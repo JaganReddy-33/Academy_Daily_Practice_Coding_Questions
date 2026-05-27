@@ -4,7 +4,7 @@
 
 ## Question
 
-CPU Technology Device
+What type of technology device is the CPU (Central Processing Unit)?
 
 ## Answer choices
 
