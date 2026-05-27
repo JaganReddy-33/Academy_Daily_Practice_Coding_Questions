@@ -4,7 +4,7 @@
 
 ## Question
 
-Execution of Assembly Level Language
+Can we directly give the Assembly level language code to the CPU for execution?
 
 ## Answer choices
 
