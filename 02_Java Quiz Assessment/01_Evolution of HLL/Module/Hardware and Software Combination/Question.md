@@ -4,7 +4,7 @@
 
 ## Question
 
-Hardware and Software Combination
+Which of the following is a combination of hardware and software?
 
 ## Answer choices
 
