@@ -1,18 +1,18 @@
 # Device Speed
 
+> ✅ Solved
+
 ## Question
 
 Device Speed
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | RAM | No | No |
-| H | Hard Disk | Yes | Yes |
-| N | None of the above | No | No |
+- ⬜ **A.** RAM
+- ✅ **B. Hard Disk** — Correct answer
+- ⬜ **C.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Hard Disk
 - **Submitted at:** 2026-05-27T17:11:59.737Z
