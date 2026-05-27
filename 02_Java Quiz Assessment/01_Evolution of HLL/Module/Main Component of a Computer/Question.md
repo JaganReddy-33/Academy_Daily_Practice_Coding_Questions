@@ -4,7 +4,7 @@
 
 ## Question
 
-Main Component of a Computer
+Which component is considered the main component of a computer?
 
 ## Answer choices
 
