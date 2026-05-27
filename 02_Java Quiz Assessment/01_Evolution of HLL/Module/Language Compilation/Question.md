@@ -4,7 +4,7 @@
 
 ## Question
 
-Language Compilation
+Which of the following converts high-level language to byte codes?
 
 ## Answer choices
 
