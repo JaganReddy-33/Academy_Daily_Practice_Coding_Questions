@@ -4,7 +4,7 @@
 
 ## Question
 
-Hard Disk and Microprocessor Connection
+Is the connection between the hard disk and the microprocessor achieved through a set of wires referred to as 'Bus Connection'?
 
 ## Answer choices
 
