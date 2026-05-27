@@ -1,21 +1,21 @@
 # Copying a File from Hard Disk to RAM
 
+> ✅ Solved
+
 ## Question
 
 Copying a File from Hard Disk to RAM
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | ALoading | Yes | Yes |
-| B | BSaving | No | No |
-| C | CDeleting | No | No |
-| D | DNone of the above | No | No |
+- ✅ **A. Loading** — Correct answer
+- ⬜ **B.** Saving
+- ⬜ **C.** Deleting
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
-- **Correct answer:** ALoading
+- **Correct answer:** Loading
 - **Submitted at:** 2026-05-27T17:02:46.089Z
 - **Correct submission:** True
 
