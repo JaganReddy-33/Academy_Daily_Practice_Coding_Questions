@@ -4,7 +4,7 @@
 
 ## Question
 
-Computer Storage Device
+Which of the following is the storage device in a computer?
 
 ## Answer choices
 
