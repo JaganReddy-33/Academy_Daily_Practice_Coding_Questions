@@ -4,7 +4,7 @@
 
 ## Question
 
-Composition of CPU
+Is the CPU (Central Processing Unit) made up of transistors?
 
 ## Answer choices
 
