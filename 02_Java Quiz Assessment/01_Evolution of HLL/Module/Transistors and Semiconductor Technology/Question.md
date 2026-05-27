@@ -4,7 +4,7 @@
 
 ## Question
 
-Transistors and Semiconductor Technology
+Are transistors made up of semiconductor technology?
 
 ## Answer choices
 
