@@ -4,7 +4,7 @@
 
 ## Question
 
-Nature of Hard Disk
+Is Hard Disk volatile in nature?
 
 ## Answer choices
 
