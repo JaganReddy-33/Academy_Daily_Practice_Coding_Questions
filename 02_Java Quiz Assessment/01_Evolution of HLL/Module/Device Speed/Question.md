@@ -4,7 +4,7 @@
 
 ## Question
 
-Device Speed
+Which of the following device is slow in terms of sending the instructions to microprocessor for execution?
 
 ## Answer choices
 
