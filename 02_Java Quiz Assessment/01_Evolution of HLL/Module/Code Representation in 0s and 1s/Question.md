@@ -4,7 +4,7 @@
 
 ## Question
 
-Code Representation in 0's and 1's
+Which type of language contains the code represented in 0's and 1's?
 
 ## Answer choices
 
