@@ -4,7 +4,7 @@
 
 ## Question
 
-Microprocessor Bus Connection
+An instruction will be sent to the microprocessor for execution through a bunch of wires known as the Bus connection.
 
 ## Answer choices
 
