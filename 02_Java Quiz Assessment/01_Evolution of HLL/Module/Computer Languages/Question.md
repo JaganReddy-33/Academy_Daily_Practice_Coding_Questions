@@ -4,7 +4,7 @@
 
 ## Question
 
-Computer Languages
+Which of the following language is understood by computers?
 
 ## Answer choices
 
