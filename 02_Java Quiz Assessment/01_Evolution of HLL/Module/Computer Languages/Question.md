@@ -1,19 +1,19 @@
 # Computer Languages
 
+> ✅ Solved
+
 ## Question
 
 Computer Languages
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| H | High Level Language | No | No |
-| I | Intermediate Level Language | No | No |
-| B | Binary Language | Yes | Yes |
-| C | Code Language | No | No |
+- ⬜ **A.** High Level Language
+- ⬜ **B.** Intermediate Level Language
+- ✅ **C. Binary Language** — Correct answer
+- ⬜ **D.** Code Language
 
-## Result
+## Submission
 
 - **Correct answer:** Binary Language
 - **Submitted at:** 2026-05-27T17:02:13.594Z
