@@ -4,7 +4,7 @@
 
 ## Question
 
-Device Technology
+<p>RAM and Microprocessor both are the semi-conductor technology devices.</p>
 
 ## Answer choices
 
