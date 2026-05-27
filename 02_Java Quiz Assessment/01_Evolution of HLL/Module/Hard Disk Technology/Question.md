@@ -4,7 +4,7 @@
 
 ## Question
 
-Hard Disk Technology
+Hard Disk is a magnetic technology device.
 
 ## Answer choices
 
