@@ -1,19 +1,19 @@
 # Language Compilation
 
+> ✅ Solved
+
 ## Question
 
 Language Compilation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Compiler | Yes | Yes |
-| A | Assembler | No | No |
-| L | Loader | No | No |
-| L | Linker | No | No |
+- ✅ **A. Compiler** — Correct answer
+- ⬜ **B.** Assembler
+- ⬜ **C.** Loader
+- ⬜ **D.** Linker
 
-## Result
+## Submission
 
 - **Correct answer:** Compiler
 - **Submitted at:** 2026-05-27T17:10:21.741Z
