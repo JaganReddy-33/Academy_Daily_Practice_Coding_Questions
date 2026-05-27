@@ -4,7 +4,7 @@
 
 ## Question
 
-Copying a File from Hard Disk to RAM
+What do we call the process of sending a copy of a file from Hard Disk to RAM?
 
 ## Answer choices
 
