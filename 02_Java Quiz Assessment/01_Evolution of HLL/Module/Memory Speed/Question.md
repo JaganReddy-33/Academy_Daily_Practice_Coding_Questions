@@ -1,18 +1,18 @@
 # Memory Speed
 
+> ✅ Solved
+
 ## Question
 
 Memory Speed
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | RAM | Yes | Yes |
-| H | Hard disk | No | No |
-| N | None of the above | No | No |
+- ✅ **A. RAM** — Correct answer
+- ⬜ **B.** Hard disk
+- ⬜ **C.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** RAM
 - **Submitted at:** 2026-05-27T17:05:53.114Z
