@@ -4,7 +4,7 @@
 
 ## Question
 
-Speed of RAM and Hard Disk
+Is RAM slower than Hard Disk?
 
 ## Answer choices
 
