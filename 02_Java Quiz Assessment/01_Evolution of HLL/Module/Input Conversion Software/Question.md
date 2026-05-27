@@ -1,18 +1,18 @@
 # Input Conversion Software
 
+> ✅ Solved
+
 ## Question
 
 Input Conversion Software
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Compiler | No | No |
-| A | Assembler | Yes | Yes |
-| N | None of the above | No | No |
+- ⬜ **A.** Compiler
+- ✅ **B. Assembler** — Correct answer
+- ⬜ **C.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Assembler
 - **Submitted at:** 2026-05-27T17:09:54.243Z
