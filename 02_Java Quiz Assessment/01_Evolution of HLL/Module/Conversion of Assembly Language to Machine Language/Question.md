@@ -1,19 +1,19 @@
 # Conversion of Assembly Language to Machine Language
 
+> ✅ Solved
+
 ## Question
 
 Conversion of Assembly Language to Machine Language
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Compiler | No | No |
-| A | Assembler | Yes | Yes |
-| I | Interpreter | No | No |
-| J | JVM | No | No |
+- ⬜ **A.** Compiler
+- ✅ **B. Assembler** — Correct answer
+- ⬜ **C.** Interpreter
+- ⬜ **D.** JVM
 
-## Result
+## Submission
 
 - **Correct answer:** Assembler
 - **Submitted at:** 2026-05-27T17:14:23.094Z
