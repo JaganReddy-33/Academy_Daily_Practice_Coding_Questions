@@ -1,17 +1,17 @@
 # Device Technology
 
+> ✅ Solved
+
 ## Question
 
 Device Technology
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Yes</p> | Yes | Yes |
-| < | <p>No</p> | No | No |
+- ✅ **A. <p>Yes</p>** — Correct answer
+- ⬜ **B.** <p>No</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Yes</p>
 - **Submitted at:** 2026-05-27T17:05:01.618Z
