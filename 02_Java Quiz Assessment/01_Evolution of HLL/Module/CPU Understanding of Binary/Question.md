@@ -4,7 +4,7 @@
 
 ## Question
 
-CPU Understanding of Binary
+Does the CPU (Central Processing Unit) understand only 0's and 1's?
 
 ## Answer choices
 
