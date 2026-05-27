@@ -4,7 +4,7 @@
 
 ## Question
 
-Memory Speed
+Which of the following memory is fast in execution?
 
 ## Answer choices
 
