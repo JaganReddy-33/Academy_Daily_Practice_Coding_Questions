@@ -1,17 +1,17 @@
 # CPU and Binary Language
 
+> ✅ Solved
+
 ## Question
 
 CPU and Binary Language
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-05-27T17:04:35.058Z
