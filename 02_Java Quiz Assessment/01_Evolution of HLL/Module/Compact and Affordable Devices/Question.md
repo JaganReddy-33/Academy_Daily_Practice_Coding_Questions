@@ -4,7 +4,7 @@
 
 ## Question
 
-Compact and Affordable Devices
+Which of the following devices are compact and less expensive?
 
 ## Answer choices
 
