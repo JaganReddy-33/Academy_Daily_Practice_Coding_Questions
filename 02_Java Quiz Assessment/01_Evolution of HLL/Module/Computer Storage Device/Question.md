@@ -1,18 +1,18 @@
 # Computer Storage Device
 
+> ✅ Solved
+
 ## Question
 
 Computer Storage Device
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| H | Hard Disk | Yes | Yes |
-| R | RAM | No | No |
-| M | Microprocessor | No | No |
+- ✅ **A. Hard Disk** — Correct answer
+- ⬜ **B.** RAM
+- ⬜ **C.** Microprocessor
 
-## Result
+## Submission
 
 - **Correct answer:** Hard Disk
 - **Submitted at:** 2026-05-27T17:12:46.763Z
