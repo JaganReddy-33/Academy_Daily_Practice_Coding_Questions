@@ -4,7 +4,7 @@
 
 ## Question
 
-Volatile Memory
+Which of the following memory is volatile in nature?
 
 ## Answer choices
 
