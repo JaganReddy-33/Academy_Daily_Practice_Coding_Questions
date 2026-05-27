@@ -1,19 +1,19 @@
 # CPU Technology Device
 
+> ✅ Solved
+
 ## Question
 
 CPU Technology Device
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | Semi-conductor Technology device | Yes | Yes |
-| M | Magnetic Technology device | No | No |
-| R | Register Technology device | No | No |
-| I | It is both semi-conductor and Magnetic Technology device | No | No |
+- ✅ **A. Semi-conductor Technology device** — Correct answer
+- ⬜ **B.** Magnetic Technology device
+- ⬜ **C.** Register Technology device
+- ⬜ **D.** It is both semi-conductor and Magnetic Technology device
 
-## Result
+## Submission
 
 - **Correct answer:** Semi-conductor Technology device
 - **Submitted at:** 2026-05-27T17:15:40.041Z
