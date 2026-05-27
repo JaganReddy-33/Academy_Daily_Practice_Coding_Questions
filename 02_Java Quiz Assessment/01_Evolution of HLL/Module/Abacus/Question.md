@@ -4,7 +4,7 @@
 
 ## Question
 
-Abacus
+Is an abacus a computer that contains electrical components?
 
 ## Answer choices
 
