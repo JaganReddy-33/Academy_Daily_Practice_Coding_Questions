@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Specifying Maximum Characters in Text Input Field
+Which attribute is used to specify the maximum number of characters allowed in a text input field?
 
 ## Answer choices
 
