@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Defining Document Title
+<p>Which HTML element defines the title of a document?</p>
 
 ## Answer choices
 
