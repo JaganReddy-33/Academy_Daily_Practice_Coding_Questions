@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML URL Acronym MCQ
+In HTML, what does the acronym 'URL' stand for?
 
 ## Answer choices
 
