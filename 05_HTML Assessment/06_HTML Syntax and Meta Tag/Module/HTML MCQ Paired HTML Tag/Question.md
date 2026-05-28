@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Paired HTML Tag
+<p>Which of the following is an example of a paired HTML tag?</p>
 
 ## Answer choices
 
