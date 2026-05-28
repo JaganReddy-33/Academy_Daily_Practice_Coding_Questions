@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: <!DOCTYPE html> Declaration
+<p>What does the declaration <code>&lt;!DOCTYPE html&gt;</code> do?</p>
 
 ## Answer choices
 
