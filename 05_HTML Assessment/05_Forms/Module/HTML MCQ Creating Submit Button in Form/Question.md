@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Creating Submit Button in Form
+<p>How can you create a submit button in HTML?</p>
 
 ## Answer choices
 
