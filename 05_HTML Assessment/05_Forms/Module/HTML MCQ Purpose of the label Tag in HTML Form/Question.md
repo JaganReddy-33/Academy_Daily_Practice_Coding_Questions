@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of the <label> Tag in HTML Form
+<p><strong>What is the purpose of the </strong><code><strong>&lt;label&gt;</strong></code><strong> tag in an HTML form?</strong></p>
 
 ## Answer choices
 
