@@ -4,7 +4,7 @@
 
 ## Question
 
-Preferred Browser for Frontend Development MCQ
+What is the preferred browser for frontend development, known for its robust developer tools and compatibility with web standards?
 
 ## Answer choices
 
