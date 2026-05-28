@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: HTML Version with <!DOCTYPE html>
+<p>Which HTML version is declared with &lt;!DOCTYPE html&gt;?</p>
 
 ## Answer choices
 
