@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Definition List MCQ
+<p>Which HTML tag is used to create a definition list?</p>
 
 ## Answer choices
 
