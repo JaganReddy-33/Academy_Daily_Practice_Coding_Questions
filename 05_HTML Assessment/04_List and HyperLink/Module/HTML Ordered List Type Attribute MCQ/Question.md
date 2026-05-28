@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Ordered List Type Attribute MCQ
+<p>Which of the following is <strong>NOT</strong> a valid value for the <code>type</code> attribute in an ordered list (<code>&lt;ol&gt;</code>)?</p>
 
 ## Answer choices
 
