@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Placement of <html> Tag
+In an HTML document, where is the <html> tag typically located?
 
 ## Answer choices
 
