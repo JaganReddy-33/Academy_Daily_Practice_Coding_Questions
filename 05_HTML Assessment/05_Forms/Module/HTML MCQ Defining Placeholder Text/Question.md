@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Defining Placeholder Text
+Which HTML attribute is used to define a placeholder text in an input field?
 
 ## Answer choices
 
