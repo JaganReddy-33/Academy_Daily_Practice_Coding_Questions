@@ -4,7 +4,7 @@
 
 ## Question
 
-Including Controls for the Video Element
+How do you include controls for the video element?
 
 ## Answer choices
 
