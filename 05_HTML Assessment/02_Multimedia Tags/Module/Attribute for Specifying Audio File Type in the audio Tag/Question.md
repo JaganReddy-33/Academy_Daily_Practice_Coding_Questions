@@ -4,7 +4,7 @@
 
 ## Question
 
-Attribute for Specifying Audio File Type in the <audio> Tag
+Which attribute specifies the type of audio file in the <audio> tag?
 
 ## Answer choices
 
