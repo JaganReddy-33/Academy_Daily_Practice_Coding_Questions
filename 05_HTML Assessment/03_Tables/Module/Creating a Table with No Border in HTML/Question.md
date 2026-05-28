@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating a Table with No Border in HTML
+<p>How do you create a table that has no border?</p>
 
 ## Answer choices
 
