@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Title Element Purpose MCQ
+<p>What is the purpose of the "<span style="background-color: rgb(245, 245, 245);">&lt;title&gt;</span>" HTML element?</p>
 
 ## Answer choices
 
