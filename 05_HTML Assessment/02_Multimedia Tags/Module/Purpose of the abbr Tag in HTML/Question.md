@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the <abbr> Tag in HTML
+What is the purpose of the <abbr> tag in HTML?
 
 ## Answer choices
 
