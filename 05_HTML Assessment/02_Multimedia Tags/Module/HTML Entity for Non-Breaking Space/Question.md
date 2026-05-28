@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Entity for Non-Breaking Space
+<p>Which HTML entity is used for a non-breaking space?</p>
 
 ## Answer choices
 
