@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Placement of <!DOCTYPE html>
+<p><strong>Where should the </strong><code><strong>&lt;!DOCTYPE html&gt;</strong></code><strong> declaration be placed in an HTML document?</strong></p>
 
 ## Answer choices
 
