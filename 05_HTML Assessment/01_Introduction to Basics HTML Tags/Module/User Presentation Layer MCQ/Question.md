@@ -4,7 +4,7 @@
 
 ## Question
 
-User Presentation Layer MCQ
+<p>As a developer, which layer should we present to the user?</p>
 
 ## Answer choices
 
