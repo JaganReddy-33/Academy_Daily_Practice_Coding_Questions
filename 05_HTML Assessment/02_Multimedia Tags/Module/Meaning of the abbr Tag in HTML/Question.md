@@ -4,7 +4,7 @@
 
 ## Question
 
-Meaning of the <abbr> Tag in HTML
+<p>What does the &lt;abbr&gt; tag in HTML stand for?</p>
 
 ## Answer choices
 
