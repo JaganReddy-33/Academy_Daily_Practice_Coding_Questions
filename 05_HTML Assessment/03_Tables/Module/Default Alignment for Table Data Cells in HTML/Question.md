@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Alignment for Table Data Cells in HTML
+What is the default alignment for table data cells (<td>)?
 
 ## Answer choices
 
