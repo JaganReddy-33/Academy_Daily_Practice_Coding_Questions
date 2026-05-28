@@ -4,7 +4,7 @@
 
 ## Question
 
-Representation of Cells in a Table
+<p>Each cell of the table can be represented by using __________</p>
 
 ## Answer choices
 
