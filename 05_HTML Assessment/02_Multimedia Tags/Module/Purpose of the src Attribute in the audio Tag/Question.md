@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the src Attribute in the <audio> Tag
+What does the src attribute in the audio tag specify?
 
 ## Answer choices
 
