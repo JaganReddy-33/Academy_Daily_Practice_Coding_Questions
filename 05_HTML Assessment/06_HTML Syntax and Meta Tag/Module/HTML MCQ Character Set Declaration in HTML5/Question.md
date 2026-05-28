@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Character Set Declaration in HTML5
+<p>What is the correct syntax to define the character set of a document in HTML5?</p>
 
 ## Answer choices
 
