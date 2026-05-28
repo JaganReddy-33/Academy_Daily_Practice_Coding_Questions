@@ -4,7 +4,7 @@
 
 ## Question
 
-Applying Borders in HTML Tables
+<p>Borders can’t be applied on ________________</p>
 
 ## Answer choices
 
