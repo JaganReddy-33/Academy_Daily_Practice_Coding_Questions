@@ -4,19 +4,19 @@
 
 ## Question
 
-HTML Description List Tag MCQ
+<p>In a description list, which HTML tag is used to represent the data term?</p>
 
 ## Answer choices
 
-- ✅ **A. <p>&lt;dd&gt;</p>** — Correct answer
-- ⬜ **B.** <p>&lt;dl&gt;</p>
-- ⬜ **C.** <p>&lt;term&gt;</p>
-- ⬜ **D.** <p>&lt;dt&gt;</p>
+- ✅ **A. <p>&lt;dt&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;term&gt;</p>
+- ⬜ **C.** <p>&lt;dd&gt;</p>
+- ⬜ **D.** <p><code>&lt;dl&gt;</code></p>
 
 ## Submission
 
-- **Correct answer:** <p>&lt;dd&gt;</p>
-- **Submitted at:** 2026-05-28T07:53:38.386Z
+- **Correct answer:** <p>&lt;dt&gt;</p>
+- **Submitted at:** 2026-05-28T07:53:14.945Z
 - **Correct submission:** True
 
 ## Explanation
