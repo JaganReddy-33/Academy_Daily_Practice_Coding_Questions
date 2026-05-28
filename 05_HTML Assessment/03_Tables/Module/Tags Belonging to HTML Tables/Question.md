@@ -4,7 +4,7 @@
 
 ## Question
 
-Tags Belonging to HTML Tables
+<p>Which of these tags belong to a table?</p>
 
 ## Answer choices
 
