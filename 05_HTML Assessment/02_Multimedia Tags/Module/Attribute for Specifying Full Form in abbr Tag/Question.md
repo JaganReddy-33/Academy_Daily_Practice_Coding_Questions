@@ -4,7 +4,7 @@
 
 ## Question
 
-Attribute for Specifying Full Form in <abbr> Tag
+Which attribute is used in the <abbr> tag to specify the full form of an abbreviation?
 
 ## Answer choices
 
