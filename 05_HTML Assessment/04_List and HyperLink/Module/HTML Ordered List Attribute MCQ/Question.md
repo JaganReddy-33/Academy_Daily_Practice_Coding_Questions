@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Ordered List Attribute MCQ
+In an ordered list, which attribute is used to specify the type of numbering?
 
 ## Answer choices
 
