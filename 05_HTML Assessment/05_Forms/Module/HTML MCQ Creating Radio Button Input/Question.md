@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Creating Radio Button Input
+<p>How can you create a radio button input in HTML?</p>
 
 ## Answer choices
 
