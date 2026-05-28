@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Creating Dropdown List in HTML
+<p>How can you create a dropdown list (select box) in HTML?</p>
 
 ## Answer choices
 
