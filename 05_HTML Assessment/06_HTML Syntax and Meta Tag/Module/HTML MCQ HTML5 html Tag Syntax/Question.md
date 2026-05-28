@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: HTML5 <html> Tag Syntax
+<p>Which of the following is the correct syntax of the &lt;html&gt; tag in an HTML5 document?</p>
 
 ## Answer choices
 
