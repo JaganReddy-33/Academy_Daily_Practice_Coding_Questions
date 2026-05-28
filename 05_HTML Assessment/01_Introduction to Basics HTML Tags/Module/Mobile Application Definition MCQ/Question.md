@@ -4,7 +4,7 @@
 
 ## Question
 
-Mobile Application Definition MCQ
+<p>What is a mobile application?</p>
 
 ## Answer choices
 
