@@ -4,7 +4,7 @@
 
 ## Question
 
-Application Definition MCQ
+What is an application?
 
 ## Answer choices
 
