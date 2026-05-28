@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Specifying Form Control Names
+Which HTML attribute is used to specify the name of a form control?
 
 ## Answer choices
 
