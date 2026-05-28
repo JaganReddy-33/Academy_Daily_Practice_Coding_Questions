@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating a Table in HTML
+<p>Which HTML tag is used to create a table?</p>
 
 ## Answer choices
 
