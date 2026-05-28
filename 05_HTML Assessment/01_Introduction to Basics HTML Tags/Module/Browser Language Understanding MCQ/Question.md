@@ -4,7 +4,7 @@
 
 ## Question
 
-Browser Language Understanding MCQ
+Which type of language does the browser understand?
 
 ## Answer choices
 
