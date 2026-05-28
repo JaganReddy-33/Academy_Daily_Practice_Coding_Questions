@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of HTML Attribute
+What is the purpose of the HTML attribute in an element?
 
 ## Answer choices
 
