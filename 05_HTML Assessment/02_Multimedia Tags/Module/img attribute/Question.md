@@ -4,7 +4,7 @@
 
 ## Question
 
-img attribute
+<p>Which of the following attributes is <strong>required</strong> in the &lt;img&gt; tag to display an image correctly in HTML?</p>
 
 ## Answer choices
 
