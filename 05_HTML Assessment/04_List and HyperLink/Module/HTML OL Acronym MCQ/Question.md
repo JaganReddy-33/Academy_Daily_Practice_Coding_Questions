@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML OL Acronym MCQ
+What does the acronym 'OL' stand for in HTML?
 
 ## Answer choices
 
