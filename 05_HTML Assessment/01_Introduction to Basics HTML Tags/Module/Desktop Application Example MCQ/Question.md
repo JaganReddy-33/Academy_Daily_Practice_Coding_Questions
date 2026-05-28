@@ -4,7 +4,7 @@
 
 ## Question
 
-Desktop Application Example MCQ
+<p>Which of the following is a specific example of a desktop application?</p>
 
 ## Answer choices
 
