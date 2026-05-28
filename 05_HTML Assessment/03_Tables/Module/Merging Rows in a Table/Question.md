@@ -4,7 +4,7 @@
 
 ## Question
 
-Merging Rows in a Table
+Which attribute is used to merge two or more rows in a table?
 
 ## Answer choices
 
