@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Associating Label with Form Element
+Which HTML attribute is used to associate a label with a form element?
 
 ## Answer choices
 
