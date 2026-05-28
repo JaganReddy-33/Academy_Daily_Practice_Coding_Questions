@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML List Items MCQ
+<p>Which tag is used to create list items in both ordered and unordered lists?</p>
 
 ## Answer choices
 
