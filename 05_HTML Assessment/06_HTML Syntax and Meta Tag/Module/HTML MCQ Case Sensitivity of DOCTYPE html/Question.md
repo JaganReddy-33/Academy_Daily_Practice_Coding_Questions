@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Case Sensitivity of <!DOCTYPE html>
+<p>Is the &lt;!DOCTYPE html&gt; declaration case-sensitive?</p>
 
 ## Answer choices
 
