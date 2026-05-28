@@ -4,7 +4,7 @@
 
 ## Question
 
-Adding a Border Around a Table in HTML
+Which attribute is used to add a border around a table in HTML?
 
 ## Answer choices
 
