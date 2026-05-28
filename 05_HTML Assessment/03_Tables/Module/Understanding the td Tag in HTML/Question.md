@@ -4,7 +4,7 @@
 
 ## Question
 
-Understanding the <td> Tag in HTML
+<p>What does the &lt;td&gt; tag indicate in a table?</p>
 
 ## Answer choices
 
