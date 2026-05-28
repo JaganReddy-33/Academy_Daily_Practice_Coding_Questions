@@ -4,7 +4,7 @@
 
 ## Question
 
-Defining a Standard Data Cell in a Table
+<p>Which tag is used to define a standard data cell in a table?</p>
 
 ## Answer choices
 
