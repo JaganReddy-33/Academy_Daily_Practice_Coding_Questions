@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of the 'multiple' Attribute in Select Box
+What is the purpose of the multiple attribute in a select box?
 
 ## Answer choices
 
