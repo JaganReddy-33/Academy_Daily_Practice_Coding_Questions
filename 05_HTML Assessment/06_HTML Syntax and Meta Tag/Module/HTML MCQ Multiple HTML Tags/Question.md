@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Multiple HTML Tags
+Can an HTML document contain more than one <html> tag?
 
 ## Answer choices
 
