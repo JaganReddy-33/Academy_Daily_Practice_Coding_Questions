@@ -4,7 +4,7 @@
 
 ## Question
 
-Merging Columns in a Table
+Which attribute is used to merge two or more columns in a table?
 
 ## Answer choices
 
