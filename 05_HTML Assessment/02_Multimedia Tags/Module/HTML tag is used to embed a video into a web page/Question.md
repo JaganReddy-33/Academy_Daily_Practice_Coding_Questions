@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML tag is used to embed a video into a web page
+<p>Which HTML tag is used to embed a video into a web page, and how can you ensure it provides multiple formats for cross-browser compatibility?</p>
 
 ## Answer choices
 
