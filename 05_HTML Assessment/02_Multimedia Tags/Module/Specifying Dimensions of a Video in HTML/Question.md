@@ -4,7 +4,7 @@
 
 ## Question
 
-Specifying Dimensions of a Video in HTML
+<p>How can you specify the dimensions (width and height) of a video in HTML?</p>
 
 ## Answer choices
 
