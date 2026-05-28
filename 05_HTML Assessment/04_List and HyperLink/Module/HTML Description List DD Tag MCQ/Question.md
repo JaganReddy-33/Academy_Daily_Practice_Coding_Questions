@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Description List DD Tag MCQ
+<p>In a description list (<code>&lt;dl&gt;</code>), what is the function of the <code>&lt;dd&gt;</code> tag?</p>
 
 ## Answer choices
 
