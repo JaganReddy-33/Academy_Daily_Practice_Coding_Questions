@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Elements Inside <head> Tag
+<p><strong>Which of the following elements can be included inside the </strong><code><strong>&lt;head&gt;</strong></code><strong> tag?</strong></p>
 
 ## Answer choices
 
