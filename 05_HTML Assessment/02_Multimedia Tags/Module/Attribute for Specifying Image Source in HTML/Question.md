@@ -4,7 +4,7 @@
 
 ## Question
 
-Attribute for Specifying Image Source in HTML
+Which attribute is used to specify the source file for an image in HTML?
 
 ## Answer choices
 
