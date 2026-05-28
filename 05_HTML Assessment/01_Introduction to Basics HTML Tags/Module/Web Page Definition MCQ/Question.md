@@ -4,17 +4,18 @@
 
 ## Question
 
-Web Page Definition MCQ
+<p>What is a web page?</p>
 
 ## Answer choices
 
-- ⬜ **A.** AA collection of server-side scripts
-- ⬜ **B.** CA database management system that displayed in the browser
-- ⬜ **C.** DA collection of websites in the web browser.
+- ⬜ **A.** <p>A collection of server-side scripts</p>
+- ✅ **B. <p>A document commonly written in HTML, displayed in a web browser</p>** — Correct answer
+- ⬜ **C.** <p>A database management system that displayed in the browser</p>
+- ⬜ **D.** <p>A collection of websites in the web browser.</p>
 
 ## Submission
 
-- **Correct answer:** 664f2ad47adf493676e87c3d
+- **Correct answer:** <p>A document commonly written in HTML, displayed in a web browser</p>
 - **Submitted at:** 2026-05-28T07:29:50.500Z
 - **Correct submission:** True
 
