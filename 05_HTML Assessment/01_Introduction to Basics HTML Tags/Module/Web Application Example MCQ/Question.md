@@ -4,7 +4,7 @@
 
 ## Question
 
-Web Application Example MCQ
+<p>Which of the following is an example of a web application?</p>
 
 ## Answer choices
 
