@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML DL Acronym MCQ
+What does the acronym 'DL' stand for in HTML?
 
 ## Answer choices
 
