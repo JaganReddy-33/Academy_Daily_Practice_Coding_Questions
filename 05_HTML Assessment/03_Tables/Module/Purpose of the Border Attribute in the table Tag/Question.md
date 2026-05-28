@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the Border Attribute in the <table> Tag
+<p>What is the purpose of the border attribute in the &nbsp;&lt;table&gt; tag?</p>
 
 ## Answer choices
 
