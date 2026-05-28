@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of <meta> Tag
+<p>What is the purpose of the &lt;meta&gt; HTML tag in the &lt;head&gt; section?</p>
 
 ## Answer choices
 
