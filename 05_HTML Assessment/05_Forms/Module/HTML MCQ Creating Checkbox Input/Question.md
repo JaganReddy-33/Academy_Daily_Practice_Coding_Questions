@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Creating Checkbox Input
+<p>How can you create a checkbox input in HTML?</p>
 
 ## Answer choices
 
