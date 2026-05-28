@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of maxlength Attribute
+What is the purpose of the maxlength attribute in an input field?
 
 ## Answer choices
 
