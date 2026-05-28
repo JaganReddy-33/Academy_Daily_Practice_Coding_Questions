@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Language Attribute
+What attribute is often included in the <html> tag to define the language of the document?
 
 ## Answer choices
 
