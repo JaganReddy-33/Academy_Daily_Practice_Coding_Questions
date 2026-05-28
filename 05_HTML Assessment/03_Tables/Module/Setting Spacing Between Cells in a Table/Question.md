@@ -4,7 +4,7 @@
 
 ## Question
 
-Setting Spacing Between Cells in a Table
+Which attribute is used to set the spacing between cells in a table?
 
 ## Answer choices
 
