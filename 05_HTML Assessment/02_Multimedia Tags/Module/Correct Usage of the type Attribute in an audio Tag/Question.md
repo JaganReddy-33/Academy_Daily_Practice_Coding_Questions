@@ -4,7 +4,7 @@
 
 ## Question
 
-Correct Usage of the type Attribute in an <audio> Tag
+<p>Which of the following is the correct usage of the &lt;audio&gt; tag to provide playback controls?</p>
 
 ## Answer choices
 
