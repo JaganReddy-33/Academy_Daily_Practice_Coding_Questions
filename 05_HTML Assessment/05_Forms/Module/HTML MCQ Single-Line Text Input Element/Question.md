@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Single-Line Text Input Element
+<p>What type of form element is used to create a single-line text input in HTML?</p>
 
 ## Answer choices
 
