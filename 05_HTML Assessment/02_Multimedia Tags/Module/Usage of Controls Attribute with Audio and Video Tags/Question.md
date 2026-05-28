@@ -4,7 +4,7 @@
 
 ## Question
 
-Usage of Controls Attribute with Audio and Video Tags
+Can the controls attribute be used with both audio and video tags?
 
 ## Answer choices
 
