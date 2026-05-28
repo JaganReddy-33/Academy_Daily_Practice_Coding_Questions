@@ -4,7 +4,7 @@
 
 ## Question
 
-Properties of the <abbr> Tag
+Which of the following is true about the <abbr> tag?
 
 ## Answer choices
 
