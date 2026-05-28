@@ -4,7 +4,7 @@
 
 ## Question
 
-Mobile Application Example MCQ
+<p>What is an example of a mobile application?</p>
 
 ## Answer choices
 
