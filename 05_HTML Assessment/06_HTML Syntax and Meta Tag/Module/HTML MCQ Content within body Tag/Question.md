@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Content within <body> Tag
+<p><strong>Can the </strong><code><strong>&lt;body&gt;</strong></code><strong> tag contain other HTML elements?</strong></p>
 
 ## Answer choices
 
