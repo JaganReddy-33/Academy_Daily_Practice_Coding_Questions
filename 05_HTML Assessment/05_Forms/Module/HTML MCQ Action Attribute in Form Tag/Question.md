@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Action Attribute in Form Tag
+<p>What is the purpose of the action attribute in the &lt;form&gt; tag?</p>
 
 ## Answer choices
 
