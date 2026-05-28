@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of the 'required' Attribute
+What is the purpose of the required attribute in an HTML form?
 
 ## Answer choices
 
