@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Description List Creation MCQ
+<p>Which of the following HTML structures represents a list with alternating numbered and bulleted items?</p>
 
 ## Answer choices
 
