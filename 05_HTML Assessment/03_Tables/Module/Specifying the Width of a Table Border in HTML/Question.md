@@ -4,7 +4,7 @@
 
 ## Question
 
-Specifying the Width of a Table Border in HTML
+Which HTML attribute specifies the width of a table border?
 
 ## Answer choices
 
