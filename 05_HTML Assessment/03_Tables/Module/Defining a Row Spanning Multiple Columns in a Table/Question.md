@@ -4,7 +4,7 @@
 
 ## Question
 
-Defining a Row Spanning Multiple Columns in a Table
+<p>Which tag is used to define a row that should span across multiple columns in a table?</p>
 
 ## Answer choices
 
