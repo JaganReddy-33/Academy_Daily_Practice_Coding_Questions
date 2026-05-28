@@ -4,7 +4,7 @@
 
 ## Question
 
-Presentation Layer Synonym MCQ
+<p>In web development, which layer is synonymous with the presentation layer?</p>
 
 ## Answer choices
 
