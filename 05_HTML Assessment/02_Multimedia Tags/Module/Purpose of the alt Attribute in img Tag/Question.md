@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the alt Attribute in <img> Tag
+What is the purpose of the alt attribute in an <img> tag?
 
 ## Answer choices
 
