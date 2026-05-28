@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Division or Section Tag in <body>
+<p>Which tag is used to define a division or a section in the of an HTML document?</p>
 
 ## Answer choices
 
