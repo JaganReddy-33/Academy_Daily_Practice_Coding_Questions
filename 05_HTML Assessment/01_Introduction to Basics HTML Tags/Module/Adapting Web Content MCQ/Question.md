@@ -4,7 +4,7 @@
 
 ## Question
 
-Adapting Web Content MCQ
+Which term describes the process of adapting web content to be accessible on various devices and screen sizes?
 
 ## Answer choices
 
