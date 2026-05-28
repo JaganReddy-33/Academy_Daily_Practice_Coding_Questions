@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Hyperlink URL Attribute MCQ
+<p>Which attribute is used in the  tag to specify the URL of the page the link goes to?</p>
 
 ## Answer choices
 
