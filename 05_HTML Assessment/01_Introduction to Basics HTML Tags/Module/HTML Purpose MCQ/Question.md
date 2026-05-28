@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Purpose MCQ
+Which of the following best describes the purpose of HTML?
 
 ## Answer choices
 
