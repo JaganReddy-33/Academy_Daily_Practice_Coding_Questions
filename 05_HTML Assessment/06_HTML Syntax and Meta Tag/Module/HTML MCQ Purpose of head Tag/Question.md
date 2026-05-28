@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Purpose of <head> Tag
+<p>What is the main purpose of the tag &lt;head&gt;&nbsp; in an HTML document?</p>
 
 ## Answer choices
 
