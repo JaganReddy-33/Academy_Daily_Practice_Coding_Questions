@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Line Break Tag
+<p>Which HTML tag is used to create a line break within a paragraph?</p>
 
 ## Answer choices
 
