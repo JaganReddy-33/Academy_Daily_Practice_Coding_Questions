@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the type Attribute in the <audio> Tag
+In the audio tag, what is the purpose of the type attribute within the source element?
 
 ## Answer choices
 
