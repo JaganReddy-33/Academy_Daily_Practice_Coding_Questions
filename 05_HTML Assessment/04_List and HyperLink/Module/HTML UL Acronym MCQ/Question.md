@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML UL Acronym MCQ
+What does the acronym 'UL' stand for in HTML?
 
 ## Answer choices
 
