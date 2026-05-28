@@ -4,7 +4,7 @@
 
 ## Question
 
-Representation of &lt; in HTML
+What does &lt; represent in HTML?
 
 ## Answer choices
 
