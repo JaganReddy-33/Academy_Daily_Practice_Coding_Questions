@@ -8,15 +8,15 @@ HTML Numbered List Creation MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>&nbsp;Using the <code>&lt;ul&gt;</code> tag</p> | No | No |
-| < | <p>Using the <code>&lt;ol&gt;</code> tag</p> | Yes | Yes |
-| < | <p>Using the <code>&lt;li&gt;</code> tag</p> | No | No |
-| < | <p>&nbsp;Lists cannot be numbered in HTML</p> | No | No |
+| < | <p>&lt;ul&gt;</p><p>    &lt;li&gt;Item 1&lt;/li&gt;</p><p>&lt;/ul&gt;</p> | No | No |
+| < | <p>&lt;ul&gt;</p><p>   &lt;ol&gt;</p><p>      &lt;li&gt;Item 1&lt;/li&gt;</p><p>   &lt;/ol&gt;</p><p>&lt;/ul&gt;</p> | No | No |
+| < | <p>&lt;ol&gt;</p><p>   &lt;li&gt;Item 1&lt;/li&gt;</p><p>&lt;/ol&gt;</p> | Yes | Yes |
+| < | <p>&lt;ol&gt;</p><p>    &lt;ul&gt;</p><p>       &lt;li&gt;Item 1&lt;/li&gt;</p><p>    &lt;/ul&gt;</p><p>&lt;/ol&gt;</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Using the <code>&lt;ol&gt;</code> tag</p>
-- **Submitted at:** 2026-05-28T07:57:07.893Z
+- **Correct answer:** <p>&lt;ol&gt;</p><p>   &lt;li&gt;Item 1&lt;/li&gt;</p><p>&lt;/ol&gt;</p>
+- **Submitted at:** 2026-05-28T07:57:22.708Z
 - **Correct submission:** True
 
 ## Explanation
