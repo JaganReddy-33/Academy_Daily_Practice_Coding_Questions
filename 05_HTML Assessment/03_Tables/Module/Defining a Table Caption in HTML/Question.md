@@ -4,7 +4,7 @@
 
 ## Question
 
-Defining a Table Caption in HTML
+<p>How do you define a caption for a table in HTML?</p>
 
 ## Answer choices
 
