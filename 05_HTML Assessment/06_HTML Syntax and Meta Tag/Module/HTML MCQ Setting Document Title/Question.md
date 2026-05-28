@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Setting Document Title
+<p>Which HTML tag is commonly placed within the <code>&lt;head&gt;</code> section to set the title of the document?</p>
 
 ## Answer choices
 
