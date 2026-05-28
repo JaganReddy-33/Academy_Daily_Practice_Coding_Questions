@@ -4,7 +4,7 @@
 
 ## Question
 
-Vertical Alignment of Cell Content in a Table
+Which attribute is used to align the content of a cell vertically in a table?
 
 ## Answer choices
 
