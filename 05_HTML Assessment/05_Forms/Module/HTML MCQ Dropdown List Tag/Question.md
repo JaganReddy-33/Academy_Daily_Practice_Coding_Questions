@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Dropdown List Tag
+<p>Which of the following tag is used for drop down list?</p>
 
 ## Answer choices
 
