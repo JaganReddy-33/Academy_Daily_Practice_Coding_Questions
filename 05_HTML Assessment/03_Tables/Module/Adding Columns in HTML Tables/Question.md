@@ -4,7 +4,7 @@
 
 ## Question
 
-Adding Columns in HTML Tables
+<p>Which tag is used to add columns in tables?</p>
 
 ## Answer choices
 
