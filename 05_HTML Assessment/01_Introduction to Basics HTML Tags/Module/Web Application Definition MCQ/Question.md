@@ -4,7 +4,7 @@
 
 ## Question
 
-Web Application Definition MCQ
+What is a web application?
 
 ## Answer choices
 
