@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the controls Attribute in the <audio> Tag
+What is the purpose of the controls attribute in the <audio> tag?
 
 ## Answer choices
 
