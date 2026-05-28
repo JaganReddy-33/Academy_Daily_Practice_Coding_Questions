@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Content Display in HTML Document
+<p>Which of the following tags is used to contain the content that is displayed to the user in an HTML document?</p>
 
 ## Answer choices
 
