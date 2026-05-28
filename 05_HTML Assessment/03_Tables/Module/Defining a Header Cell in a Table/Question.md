@@ -4,7 +4,7 @@
 
 ## Question
 
-Defining a Header Cell in a Table
+<p>Which tag is used to define a header cell in a table?</p>
 
 ## Answer choices
 
