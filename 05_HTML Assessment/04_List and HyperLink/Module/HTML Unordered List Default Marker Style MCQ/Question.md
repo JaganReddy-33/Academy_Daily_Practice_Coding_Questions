@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Unordered List Default Marker Style MCQ
+<p>In an unordered list (<code>&lt;ul&gt;</code>), what is the default marker style?</p>
 
 ## Answer choices
 
