@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Full Form MCQ
+What is the full form of HTML?
 
 ## Answer choices
 
