@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML MCQ: Setting Initial Value of Text Input
+Which HTML attribute is used to set the initial value of a text input?
 
 ## Answer choices
 
