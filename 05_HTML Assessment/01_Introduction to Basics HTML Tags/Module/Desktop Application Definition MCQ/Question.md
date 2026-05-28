@@ -4,7 +4,7 @@
 
 ## Question
 
-Desktop Application Definition MCQ
+What is a desktop application?
 
 ## Answer choices
 
