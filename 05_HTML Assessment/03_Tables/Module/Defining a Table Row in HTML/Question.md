@@ -4,7 +4,7 @@
 
 ## Question
 
-Defining a Table Row in HTML
+<p>How do you define a table row in HTML?</p>
 
 ## Answer choices
 
