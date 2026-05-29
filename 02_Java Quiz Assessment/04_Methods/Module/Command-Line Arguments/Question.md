@@ -4,7 +4,7 @@
 
 ## Question
 
-Command-Line Arguments
+What does the 'args' parameter in the 'main' method represent?
 
 ## Answer choices
 
