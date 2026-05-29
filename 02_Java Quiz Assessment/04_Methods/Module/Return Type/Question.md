@@ -4,7 +4,7 @@
 
 ## Question
 
-Return Type
+What is the return type of the 'main' method in Java?
 
 ## Answer choices
 
