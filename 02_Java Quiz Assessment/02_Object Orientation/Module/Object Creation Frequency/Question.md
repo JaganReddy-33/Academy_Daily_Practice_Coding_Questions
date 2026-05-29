@@ -4,7 +4,7 @@
 
 ## Question
 
-Object Creation Frequency
+How many times can we create an object for one class?
 
 ## Answer choices
 
