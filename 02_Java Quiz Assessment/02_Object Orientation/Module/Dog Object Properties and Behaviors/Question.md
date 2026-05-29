@@ -4,7 +4,7 @@
 
 ## Question
 
-Dog Object Properties and Behaviors
+<p>Which of the following comes under the 'does' part of the dog object?</p>
 
 ## Answer choices
 
