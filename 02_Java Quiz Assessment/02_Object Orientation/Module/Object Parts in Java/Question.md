@@ -4,7 +4,7 @@
 
 ## Question
 
-Object Parts in Java
+<p>How many parts does every object contain in Java?</p>
 
 ## Answer choices
 
