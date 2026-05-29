@@ -8,15 +8,15 @@ Output Prediction for Code [Main Method]
 
 ## Answer choices
 
-- ⬜ **A.** <p>It will throw an error at Line-1</p>
-- ✅ **B. <p>It will throw an error at Line-2</p>** — Correct answer
-- ⬜ **C.** <p>It will throw an error at Line-3</p>
-- ⬜ **D.** <p>None of the above</p>
+- ✅ **A. <p>Welcome to Main() Method</p>** — Correct answer
+- ⬜ **B.** <p>It will throw an error at Line-1</p>
+- ⬜ **C.** <p>It will throw an error at Line-2</p>
+- ⬜ **D.** <p>It will throw an error at Line-3</p>
 
 ## Submission
 
-- **Correct answer:** <p>It will throw an error at Line-2</p>
-- **Submitted at:** 2026-05-29T18:16:29.059Z
+- **Correct answer:** <p>Welcome to Main() Method</p>
+- **Submitted at:** 2026-05-29T18:15:23.124Z
 - **Correct submission:** True
 
 ## Explanation
