@@ -4,7 +4,7 @@
 
 ## Question
 
-Main Method Invocation
+Which of the following is true about the invocation of a 'main' method in Java?
 
 ## Answer choices
 
