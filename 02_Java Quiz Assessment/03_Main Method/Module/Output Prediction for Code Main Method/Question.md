@@ -1,22 +1,22 @@
 # Output Prediction for Code [Main Method]
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction for Code [Main Method]
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>It will throw an error at Line-1</p> | No | No |
-| < | <p>It will throw an error at Line-2</p> | Yes | Yes |
-| < | <p>Welcome to Main() Method</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ✅ **A. <p>Welcome to Main() Method</p>** — Correct answer
+- ⬜ **B.** <p>It will throw an error at Line-1</p>
+- ⬜ **C.** <p>It will throw an error at Line-2</p>
+- ⬜ **D.** <p>It will throw an error at Line-3</p>
 
-## Result
+## Submission
 
-- **Correct answer:** <p>It will throw an error at Line-2</p>
-- **Submitted at:** 2026-05-29T18:18:23.313Z
+- **Correct answer:** <p>Welcome to Main() Method</p>
+- **Submitted at:** 2026-05-29T18:15:23.124Z
 - **Correct submission:** True
 
 ## Explanation
