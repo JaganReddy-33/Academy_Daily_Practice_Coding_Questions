@@ -4,7 +4,7 @@
 
 ## Question
 
-Objects and Types
+<p>Every object in the world belongs to a?</p>
 
 ## Answer choices
 
