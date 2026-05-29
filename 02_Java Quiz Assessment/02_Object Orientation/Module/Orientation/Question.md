@@ -4,7 +4,7 @@
 
 ## Question
 
-Orientation
+Which of the following statements is true regarding the term 'orientation'?
 
 ## Answer choices
 
