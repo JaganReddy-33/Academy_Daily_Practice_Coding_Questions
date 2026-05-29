@@ -1,19 +1,19 @@
 # Multiple Main Methods
 
+> ✅ Solved
+
 ## Question
 
 Multiple Main Methods
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | The program will throw a compilation error. | No | No |
-| T | The 'main' method of the first class in the file will run. | No | No |
-| A | All 'main' methods will be executed. | No | No |
-| O | Only the 'main' method of the class which is started from the command line will be executed. | Yes | Yes |
+- ⬜ **A.** The program will throw a compilation error.
+- ⬜ **B.** The 'main' method of the first class in the file will run.
+- ⬜ **C.** All 'main' methods will be executed.
+- ✅ **D. Only the 'main' method of the class which is started from the command line will be executed.** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Only the 'main' method of the class which is started from the command line will be executed.
 - **Submitted at:** 2026-05-29T18:20:06.283Z
