@@ -1,19 +1,19 @@
 # Java Program Entry Point
 
+> ✅ Solved
+
 ## Question
 
 Java Program Entry Point
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| a | add() method | No | No |
-| s | sub() method | No | No |
-| m | mul() method | No | No |
-| m | main() method | Yes | Yes |
+- ⬜ **A.** add() method
+- ⬜ **B.** sub() method
+- ⬜ **C.** mul() method
+- ✅ **D. main() method** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** main() method
 - **Submitted at:** 2026-05-29T18:19:21.505Z
