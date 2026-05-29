@@ -4,7 +4,7 @@
 
 ## Question
 
-Java Class and Instance
+Is a class in Java a template for creating instances?
 
 ## Answer choices
 
