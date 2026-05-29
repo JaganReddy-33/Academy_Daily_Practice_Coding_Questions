@@ -1,19 +1,19 @@
 # Understanding 'public' in a Method Declaration
 
+> ✅ Solved
+
 ## Question
 
 Understanding 'public' in a Method Declaration
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Keyword</p> | No | No |
-| < | <p>Return type</p> | No | No |
-| < | <p>Method name</p> | No | No |
-| < | <p>Access Specifier</p> | Yes | Yes |
+- ⬜ **A.** <p>Keyword</p>
+- ⬜ **B.** <p>Return type</p>
+- ⬜ **C.** <p>Method name</p>
+- ✅ **D. <p>Access Specifier</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Access Specifier</p>
 - **Submitted at:** 2026-05-29T18:14:06.529Z
