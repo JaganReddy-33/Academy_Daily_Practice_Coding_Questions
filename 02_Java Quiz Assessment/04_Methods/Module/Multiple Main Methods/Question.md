@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Main Methods
+What happens if a Java program has multiple classes, each with a 'main' method?
 
 ## Answer choices
 
