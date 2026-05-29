@@ -1,19 +1,19 @@
 # Main Method
 
+> ✅ Solved
+
 ## Question
 
 Main Method
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | public void main(String[] args) | No | No |
-| p | public static int main(String[] args) | No | No |
-| p | public static void main(String[] args) | Yes | Yes |
-| v | void main(String[] args) | No | No |
+- ⬜ **A.** public void main(String[] args)
+- ⬜ **B.** public static int main(String[] args)
+- ✅ **C. public static void main(String[] args)** — Correct answer
+- ⬜ **D.** void main(String[] args)
 
-## Result
+## Submission
 
 - **Correct answer:** public static void main(String[] args)
 - **Submitted at:** 2026-05-29T18:20:57.783Z
