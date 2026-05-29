@@ -1,19 +1,19 @@
 # Valid Declarations of main() Method
 
+> ✅ Solved
+
 ## Question
 
 Valid Declarations of main() Method
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | public static void main(String[] args) | No | No |
-| p | public static void main(String args[]) | No | No |
-| p | public static void main(String []args) | No | No |
-| A | All of the above | Yes | Yes |
+- ⬜ **A.** public static void main(String[] args)
+- ⬜ **B.** public static void main(String args[])
+- ⬜ **C.** public static void main(String []args)
+- ✅ **D. All of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All of the above
 - **Submitted at:** 2026-05-29T18:14:35.087Z
