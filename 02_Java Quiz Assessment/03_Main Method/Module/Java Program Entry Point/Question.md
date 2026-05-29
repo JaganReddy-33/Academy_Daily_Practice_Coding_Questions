@@ -4,7 +4,7 @@
 
 ## Question
 
-Java Program Entry Point
+Which of the following is the main entry point for a Java program?
 
 ## Answer choices
 
