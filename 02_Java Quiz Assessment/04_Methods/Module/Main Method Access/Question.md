@@ -1,19 +1,19 @@
 # Main Method Access
 
+> ✅ Solved
+
 ## Question
 
 Main Method Access
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>static method</p> | No | No |
-| < | <p>Main method with public static void main(String[] args)</p> | Yes | Yes |
-| < | <p>Any method with name of the method as main</p> | No | No |
-| < | <p>Final method</p> | No | No |
+- ⬜ **A.** <p>static method</p>
+- ✅ **B. <p>Main method with public static void main(String[] args)</p>** — Correct answer
+- ⬜ **C.** <p>Any method with name of the method as main</p>
+- ⬜ **D.** <p>Final method</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Main method with public static void main(String[] args)</p>
 - **Submitted at:** 2026-05-29T18:20:39.961Z
