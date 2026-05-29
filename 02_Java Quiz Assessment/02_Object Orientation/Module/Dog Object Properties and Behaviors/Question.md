@@ -1,19 +1,19 @@
 # Dog Object Properties and Behaviors
 
+> ✅ Solved
+
 ## Question
 
 Dog Object Properties and Behaviors
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Name</p> | No | No |
-| < | <p>Cost</p> | No | No |
-| < | <p>Bread</p> | No | No |
-| < | <p>None of the above</p> | Yes | Yes |
+- ⬜ **A.** <p>Name</p>
+- ⬜ **B.** <p>Cost</p>
+- ⬜ **C.** <p>Bread</p>
+- ✅ **D. <p>None of the above</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>None of the above</p>
 - **Submitted at:** 2026-05-29T18:09:59.690Z
