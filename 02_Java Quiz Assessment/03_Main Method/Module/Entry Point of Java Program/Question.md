@@ -4,7 +4,7 @@
 
 ## Question
 
-Entry Point of Java Program
+ The main() method is an entry point for a Java program.
 
 ## Answer choices
 
