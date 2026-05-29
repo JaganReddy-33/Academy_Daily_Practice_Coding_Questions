@@ -4,7 +4,7 @@
 
 ## Question
 
-Object Behavior
+To take care of the behavior of an object, we should use?
 
 ## Answer choices
 
