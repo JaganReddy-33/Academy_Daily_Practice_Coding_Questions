@@ -1,17 +1,17 @@
 # Entry Point of Java Program
 
+> ✅ Solved
+
 ## Question
 
 Entry Point of Java Program
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-05-29T18:14:53.897Z
