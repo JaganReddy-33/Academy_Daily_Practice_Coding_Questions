@@ -1,19 +1,19 @@
 # Object Parts in Java
 
+> ✅ Solved
+
 ## Question
 
 Object Parts in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>2 parts</p> | Yes | Yes |
-| < | <p>3 parts</p> | No | No |
-| < | <p>4 parts</p> | No | No |
-| < | <p>5 parts</p> | No | No |
+- ✅ **A. <p>2 parts</p>** — Correct answer
+- ⬜ **B.** <p>3 parts</p>
+- ⬜ **C.** <p>4 parts</p>
+- ⬜ **D.** <p>5 parts</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>2 parts</p>
 - **Submitted at:** 2026-05-29T18:10:51.578Z
