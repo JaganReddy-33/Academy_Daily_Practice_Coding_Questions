@@ -4,7 +4,7 @@
 
 ## Question
 
-Main Method Access
+<p>Which of these method can be defined only once in a program?</p>
 
 ## Answer choices
 
