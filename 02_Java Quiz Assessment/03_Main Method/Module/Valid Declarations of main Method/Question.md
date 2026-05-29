@@ -4,7 +4,7 @@
 
 ## Question
 
-Valid Declarations of main() Method
+Identify the valid declarations of the main() method in Java.
 
 ## Answer choices
 
