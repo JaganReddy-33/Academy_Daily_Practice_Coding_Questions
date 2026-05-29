@@ -8,15 +8,15 @@ Output Prediction for Code [Main Method]
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Welcome to Main() Method</p> | No | No |
 | < | <p>It will throw an error at Line-1</p> | Yes | Yes |
 | < | <p>It will throw an error at Line-2</p> | No | No |
+| < | <p>It will throw an error at Line-1 and Line-2</p> | No | No |
 | < | <p>None of the above</p> | No | No |
 
 ## Result
 
 - **Correct answer:** <p>It will throw an error at Line-1</p>
-- **Submitted at:** 2026-05-29T18:16:58.282Z
+- **Submitted at:** 2026-05-29T18:17:47.076Z
 - **Correct submission:** True
 
 ## Explanation
