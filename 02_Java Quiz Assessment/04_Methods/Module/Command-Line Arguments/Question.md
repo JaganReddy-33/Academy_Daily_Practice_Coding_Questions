@@ -1,19 +1,19 @@
 # Command-Line Arguments
 
+> ✅ Solved
+
 ## Question
 
 Command-Line Arguments
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It represents the arguments passed to the 'main' method from within the program. | No | No |
-| I | It represents the command-line arguments passed when the program is started. | Yes | Yes |
-| I | It represents the environment variables for the program. | No | No |
-| I | It represents the return values of the 'main' method. | No | No |
+- ⬜ **A.** It represents the arguments passed to the 'main' method from within the program.
+- ✅ **B. It represents the command-line arguments passed when the program is started.** — Correct answer
+- ⬜ **C.** It represents the environment variables for the program.
+- ⬜ **D.** It represents the return values of the 'main' method.
 
-## Result
+## Submission
 
 - **Correct answer:** It represents the command-line arguments passed when the program is started.
 - **Submitted at:** 2026-05-29T18:21:21.091Z
