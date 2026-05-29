@@ -1,19 +1,19 @@
 # Car Object Composition
 
+> ✅ Solved
+
 ## Question
 
 Car Object Composition
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Cost | Yes | Yes |
-| S | Start() | No | No |
-| S | Stop() | No | No |
-| A | All of the above | No | No |
+- ✅ **A. Cost** — Correct answer
+- ⬜ **B.** Start()
+- ⬜ **C.** Stop()
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Cost
 - **Submitted at:** 2026-05-29T18:10:30.263Z
