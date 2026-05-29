@@ -4,7 +4,7 @@
 
 ## Question
 
-Car Object Composition
+Which of the following comes under the 'has' part of the car object?
 
 ## Answer choices
 
