@@ -1,19 +1,19 @@
 # Object Creation Frequency
 
+> ✅ Solved
+
 ## Question
 
 Object Creation Frequency
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 1 | 1 time | No | No |
-| 2 | 2 times | No | No |
-| 3 | 3 times | No | No |
-| N | N number of times | Yes | Yes |
+- ⬜ **A.** 1 time
+- ⬜ **B.** 2 times
+- ⬜ **C.** 3 times
+- ✅ **D. N number of times** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** N number of times
 - **Submitted at:** 2026-05-29T18:07:16.382Z
