@@ -1,19 +1,19 @@
 # Object Behavior
 
+> ✅ Solved
+
 ## Question
 
 Object Behavior
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| M | Method | Yes | Yes |
-| C | Class | No | No |
-| D | Data type | No | No |
-| N | None of the above | No | No |
+- ✅ **A. Method** — Correct answer
+- ⬜ **B.** Class
+- ⬜ **C.** Data type
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Method
 - **Submitted at:** 2026-05-29T18:08:17.500Z
