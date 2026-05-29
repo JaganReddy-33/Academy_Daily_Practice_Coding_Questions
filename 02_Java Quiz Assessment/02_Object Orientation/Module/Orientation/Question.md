@@ -1,17 +1,17 @@
 # Orientation
 
+> ✅ Solved
+
 ## Question
 
 Orientation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | Orientation means the way of looking at something. | Yes | Yes |
-| O | Orientation refers to the physical positioning or placement of something. | No | No |
+- ✅ **A. Orientation means the way of looking at something.** — Correct answer
+- ⬜ **B.** Orientation refers to the physical positioning or placement of something.
 
-## Result
+## Submission
 
 - **Correct answer:** Orientation means the way of looking at something.
 - **Submitted at:** 2026-05-29T18:12:16.259Z
