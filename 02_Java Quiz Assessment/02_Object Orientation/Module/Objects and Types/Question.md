@@ -1,19 +1,19 @@
 # Objects and Types
 
+> ✅ Solved
+
 ## Question
 
 Objects and Types
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Method</p> | No | No |
-| < | <p>Function</p> | No | No |
-| < | <p>object</p> | No | No |
-| < | <p>Type</p> | Yes | Yes |
+- ⬜ **A.** <p>Method</p>
+- ⬜ **B.** <p>Function</p>
+- ⬜ **C.** <p>object</p>
+- ✅ **D. <p>Type</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Type</p>
 - **Submitted at:** 2026-05-29T18:12:00.871Z
