@@ -1,19 +1,19 @@
 # Understanding 'void' in the main() Method
 
+> ✅ Solved
+
 ## Question
 
 Understanding 'void' in the main() Method
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Yes</p> | No | No |
-| < | <p>No</p> | Yes | Yes |
-| < | <p>Keyword</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ⬜ **A.** <p>Yes</p>
+- ✅ **B. <p>No</p>** — Correct answer
+- ⬜ **C.** <p>Keyword</p>
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>No</p>
 - **Submitted at:** 2026-05-29T18:13:42.973Z
