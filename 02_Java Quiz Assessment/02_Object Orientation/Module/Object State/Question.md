@@ -1,19 +1,19 @@
 # Object State
 
+> ✅ Solved
+
 ## Question
 
 Object State
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | Data types | Yes | Yes |
-| M | Methods | No | No |
-| F | Functions | No | No |
-| N | None of the above | No | No |
+- ✅ **A. Data types** — Correct answer
+- ⬜ **B.** Methods
+- ⬜ **C.** Functions
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Data types
 - **Submitted at:** 2026-05-29T18:12:30.612Z
