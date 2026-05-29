@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating a Dog Object
+Which of the following is a correct statement for creating a Dog object?
 
 ## Answer choices
 
