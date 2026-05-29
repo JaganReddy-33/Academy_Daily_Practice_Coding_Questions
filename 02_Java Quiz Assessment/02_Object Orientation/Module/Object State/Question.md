@@ -4,7 +4,7 @@
 
 ## Question
 
-Object State
+To take care of the state of an object, we should use?
 
 ## Answer choices
 
