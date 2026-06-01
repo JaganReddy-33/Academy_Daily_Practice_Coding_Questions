@@ -4,7 +4,7 @@
 
 ## Question
 
-Inline CSS in HTML MCQ
+Where is inline CSS defined in HTML?
 
 ## Answer choices
 
