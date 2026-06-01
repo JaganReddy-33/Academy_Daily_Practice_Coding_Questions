@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Text Color MCQ
+Which property is used to change the color of text?
 
 ## Answer choices
 
