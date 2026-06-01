@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Property Value Syntax MCQ
+What is the syntax for defining property values in CSS?
 
 ## Answer choices
 
