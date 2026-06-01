@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Background Color Property MCQ
+Which CSS property is used to change the background color?
 
 ## Answer choices
 
