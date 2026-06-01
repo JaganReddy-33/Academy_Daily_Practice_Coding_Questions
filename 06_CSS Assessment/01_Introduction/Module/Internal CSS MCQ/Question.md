@@ -4,7 +4,7 @@
 
 ## Question
 
-Internal CSS MCQ
+<p>Which of the following is true about internal CSS?</p>
 
 ## Answer choices
 
