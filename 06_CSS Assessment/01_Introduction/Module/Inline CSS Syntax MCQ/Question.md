@@ -4,7 +4,7 @@
 
 ## Question
 
-Inline CSS Syntax MCQ
+<p>What is the syntax for applying inline CSS to an HTML element?</p>
 
 ## Answer choices
 
