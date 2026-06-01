@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of <style> Tag in HTML MCQ
+<p>What is the purpose of the <code>&lt;style&gt;</code> tag in HTML?</p>
 
 ## Answer choices
 
