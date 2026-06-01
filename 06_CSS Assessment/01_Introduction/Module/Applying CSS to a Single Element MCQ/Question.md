@@ -4,7 +4,7 @@
 
 ## Question
 
-Applying CSS to a Single Element MCQ
+What is recommended for applying CSS to a single element?
 
 ## Answer choices
 
