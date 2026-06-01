@@ -4,7 +4,7 @@
 
 ## Question
 
-Best Practice for CSS Implementation MCQ
+Which types of CSS implementation is considered the best practice for separating style from content?
 
 ## Answer choices
 
