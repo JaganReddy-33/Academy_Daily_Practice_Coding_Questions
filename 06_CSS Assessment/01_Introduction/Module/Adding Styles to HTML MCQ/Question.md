@@ -4,7 +4,7 @@
 
 ## Question
 
-Adding Styles to HTML MCQ
+<p>How can you add styles to HTML?</p>
 
 ## Answer choices
 
