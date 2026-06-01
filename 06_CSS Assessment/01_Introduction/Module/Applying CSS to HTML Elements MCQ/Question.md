@@ -4,7 +4,7 @@
 
 ## Question
 
-Applying CSS to HTML Elements MCQ
+How can CSS be applied to HTML elements without modifying the HTML code directly?
 
 ## Answer choices
 
