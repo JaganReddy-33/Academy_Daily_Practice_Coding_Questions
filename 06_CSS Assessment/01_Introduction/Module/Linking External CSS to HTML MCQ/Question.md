@@ -4,7 +4,7 @@
 
 ## Question
 
-Linking External CSS to HTML MCQ
+<p>How is external CSS linked to an HTML document?</p>
 
 ## Answer choices
 
