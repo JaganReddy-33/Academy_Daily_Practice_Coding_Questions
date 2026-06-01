@@ -4,7 +4,7 @@
 
 ## Question
 
-Ways to Write CSS MCQ
+In how many ways can CSS be written?
 
 ## Answer choices
 
