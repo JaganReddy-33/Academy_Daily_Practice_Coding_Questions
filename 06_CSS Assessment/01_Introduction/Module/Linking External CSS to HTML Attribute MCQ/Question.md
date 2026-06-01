@@ -4,7 +4,7 @@
 
 ## Question
 
-Linking External CSS to HTML Attribute MCQ
+Which attribute is used to link an external CSS file to an HTML document?
 
 ## Answer choices
 
