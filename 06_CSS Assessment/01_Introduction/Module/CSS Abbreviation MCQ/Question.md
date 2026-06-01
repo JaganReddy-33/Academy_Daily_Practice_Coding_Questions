@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Abbreviation MCQ
+What does CSS stand for?
 
 ## Answer choices
 
