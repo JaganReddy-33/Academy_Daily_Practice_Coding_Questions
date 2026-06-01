@@ -4,7 +4,7 @@
 
 ## Question
 
-Quickest Styling of HTML Elements MCQ
+Which CSS method allows for the quickest and easiest styling of individual HTML elements?
 
 ## Answer choices
 
