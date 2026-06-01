@@ -4,7 +4,7 @@
 
 ## Question
 
-Styling a Large Website MCQ
+What is the recommended approach for styling a large website with multiple pages?
 
 ## Answer choices
 
