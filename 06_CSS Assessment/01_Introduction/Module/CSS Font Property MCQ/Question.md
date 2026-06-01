@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Font Property MCQ
+Which CSS property is used to change the font of text?
 
 ## Answer choices
 
