@@ -4,7 +4,7 @@
 
 ## Question
 
-Advantage of Internal CSS over Inline CSS MCQ
+What is the advantage of using internal CSS over inline CSS?
 
 ## Answer choices
 
