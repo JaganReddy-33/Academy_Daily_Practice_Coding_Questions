@@ -8,15 +8,15 @@ Operator Precedence
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>5</p> | No | No |
-| < | <p>6</p> | Yes | Yes |
-| < | <p>3</p> | No | No |
-| < | <p>4</p> | No | No |
+| < | <p>1000</p> | No | No |
+| < | <p>610</p> | Yes | Yes |
+| < | <p>60</p> | No | No |
+| < | <p>Compilation Error</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>6</p>
-- **Submitted at:** 2026-06-02T05:52:55.689Z
+- **Correct answer:** <p>610</p>
+- **Submitted at:** 2026-06-02T05:55:05.517Z
 - **Correct submission:** True
 
 ## Explanation
