@@ -1,17 +1,17 @@
 # Double Datatype in Java
 
+> ✅ Solved
+
 ## Question
 
 Double Datatype in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>True</p> | No | No |
-| < | <p>False</p> | Yes | Yes |
+- ⬜ **A.** <p>True</p>
+- ✅ **B. <p>False</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>False</p>
 - **Submitted at:** 2026-06-02T05:36:20.757Z
