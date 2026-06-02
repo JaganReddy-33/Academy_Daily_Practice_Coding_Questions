@@ -1,19 +1,19 @@
 # Declaring a 1-Dimensional Array
 
+> ✅ Solved
+
 ## Question
 
 Declaring a 1-Dimensional Array
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | int []a=new int[5]; | Yes | Yes |
-| i | int a=new int[5]; | No | No |
-| i | int []a=new int(5); | No | No |
-| i | int a=new int(5); | No | No |
+- ✅ **A. int []a=new int[5];** — Correct answer
+- ⬜ **B.** int a=new int[5];
+- ⬜ **C.** int []a=new int(5);
+- ⬜ **D.** int a=new int(5);
 
-## Result
+## Submission
 
 - **Correct answer:** int []a=new int[5];
 - **Submitted at:** 2026-06-02T16:18:00.678Z
