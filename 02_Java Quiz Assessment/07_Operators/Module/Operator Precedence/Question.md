@@ -8,15 +8,15 @@ Operator Precedence
 
 ## Answer choices
 
-- ⬜ **A.** <p>1000</p>
-- ✅ **B. <p>610</p>** — Correct answer
-- ⬜ **C.** <p>60</p>
-- ⬜ **D.** <p>Compilation Error</p>
+- ⬜ **A.** <p>5</p>
+- ✅ **B. <p>6</p>** — Correct answer
+- ⬜ **C.** <p>3</p>
+- ⬜ **D.** <p>4</p>
 
 ## Submission
 
-- **Correct answer:** <p>610</p>
-- **Submitted at:** 2026-06-02T05:55:05.517Z
+- **Correct answer:** <p>6</p>
+- **Submitted at:** 2026-06-02T05:52:55.689Z
 - **Correct submission:** True
 
 ## Explanation
