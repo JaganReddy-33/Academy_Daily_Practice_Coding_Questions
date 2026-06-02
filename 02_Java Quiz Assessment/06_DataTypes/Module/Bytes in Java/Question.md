@@ -4,7 +4,7 @@
 
 ## Question
 
-Bytes in Java
+<p>In Java, bytes are collection of bits.</p>
 
 ## Answer choices
 
