@@ -4,7 +4,7 @@
 
 ## Question
 
-Array Usage
+Which of the following approach is used to avoid the difficulty in accessing and keeping track of multiple variables with distinct names?
 
 ## Answer choices
 
