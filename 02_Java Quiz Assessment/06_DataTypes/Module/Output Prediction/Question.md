@@ -1,22 +1,22 @@
 # Output Prediction
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>15</p> | No | No |
-| < | <p>8</p> | No | No |
-| < | <p>10.0</p> | No | No |
-| < | <p>Error</p> | Yes | Yes |
+- ⬜ **A.** <p>12.5</p>
+- ⬜ **B.** <p>12</p>
+- ✅ **C. <p>12.0</p>** — Correct answer
+- ⬜ **D.** <p>Error</p>
 
-## Result
+## Submission
 
-- **Correct answer:** <p>Error</p>
-- **Submitted at:** 2026-06-02T05:26:34.108Z
+- **Correct answer:** <p>12.0</p>
+- **Submitted at:** 2026-06-02T05:25:51.394Z
 - **Correct submission:** True
 
 ## Explanation
