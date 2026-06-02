@@ -1,22 +1,22 @@
 # Operators
 
+> ✅ Solved
+
 ## Question
 
 Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>10</p> | No | No |
-| < | <p>23</p> | No | No |
-| < | <p>39</p> | No | No |
-| < | <p>40</p> | Yes | Yes |
+- ⬜ **A.** <p>11</p>
+- ✅ **B. <p>10</p>** — Correct answer
+- ⬜ **C.** <p>9</p>
+- ⬜ **D.** <p>None of the mentioned</p>
 
-## Result
+## Submission
 
-- **Correct answer:** <p>40</p>
-- **Submitted at:** 2026-06-02T05:57:28.138Z
+- **Correct answer:** <p>10</p>
+- **Submitted at:** 2026-06-02T05:53:36.196Z
 - **Correct submission:** True
 
 ## Explanation
