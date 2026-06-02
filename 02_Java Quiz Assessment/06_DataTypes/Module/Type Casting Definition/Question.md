@@ -1,17 +1,17 @@
 # Type Casting Definition
 
+> ✅ Solved
+
 ## Question
 
 Type Casting Definition
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-06-02T05:32:44.601Z
