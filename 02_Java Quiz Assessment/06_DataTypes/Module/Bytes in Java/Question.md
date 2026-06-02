@@ -1,17 +1,17 @@
 # Bytes in Java
 
+> ✅ Solved
+
 ## Question
 
 Bytes in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>True</p> | Yes | Yes |
-| < | <p>False</p> | No | No |
+- ✅ **A. <p>True</p>** — Correct answer
+- ⬜ **B.** <p>False</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>True</p>
 - **Submitted at:** 2026-06-02T05:30:17.163Z
