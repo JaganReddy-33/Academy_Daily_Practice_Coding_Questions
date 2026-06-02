@@ -1,19 +1,19 @@
 # Logical Operator
 
+> ✅ Solved
+
 ## Question
 
 Logical Operator
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>false</p> | No | No |
-| < | <p>true</p> | Yes | Yes |
-| < | <p>15</p> | No | No |
-| < | <p>Compilation Error</p> | No | No |
+- ⬜ **A.** <p>false</p>
+- ✅ **B. <p>true</p>** — Correct answer
+- ⬜ **C.** <p>15</p>
+- ⬜ **D.** <p>Compilation Error</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>true</p>
 - **Submitted at:** 2026-06-02T05:37:05.083Z
