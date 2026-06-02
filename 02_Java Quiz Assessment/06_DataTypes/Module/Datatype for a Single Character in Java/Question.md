@@ -1,19 +1,19 @@
 # Datatype for a Single Character in Java
 
+> ✅ Solved
+
 ## Question
 
 Datatype for a Single Character in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | int | No | No |
-| f | float | No | No |
-| s | string | No | No |
-| c | char | Yes | Yes |
+- ⬜ **A.** int
+- ⬜ **B.** float
+- ⬜ **C.** string
+- ✅ **D. char** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** char
 - **Submitted at:** 2026-06-02T05:23:45.002Z
