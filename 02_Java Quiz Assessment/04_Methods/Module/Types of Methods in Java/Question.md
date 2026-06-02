@@ -1,19 +1,19 @@
 # Types of Methods in Java
 
+> ✅ Solved
+
 ## Question
 
 Types of Methods in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 2 | 2 types | No | No |
-| 4 | 4 types | Yes | Yes |
-| 8 | 8 types | No | No |
-| 1 | 10 types | No | No |
+- ⬜ **A.** 2 types
+- ✅ **B. 4 types** — Correct answer
+- ⬜ **C.** 8 types
+- ⬜ **D.** 10 types
 
-## Result
+## Submission
 
 - **Correct answer:** 4 types
 - **Submitted at:** 2026-06-02T06:04:54.505Z
