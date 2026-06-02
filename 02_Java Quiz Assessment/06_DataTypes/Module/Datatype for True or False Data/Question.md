@@ -4,7 +4,7 @@
 
 ## Question
 
-Datatype for True or False Data
+Which of the following datatype holds true or false data?
 
 ## Answer choices
 
