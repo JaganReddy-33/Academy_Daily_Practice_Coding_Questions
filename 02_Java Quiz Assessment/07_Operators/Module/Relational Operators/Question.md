@@ -4,7 +4,7 @@
 
 ## Question
 
-Relational Operators
+<p>What will be the output of the following Java code snippet? </p><p>int x = 10; </p><p>int y = 20; </p><p>System.out.println(x &gt; y);</p>
 
 ## Answer choices
 
