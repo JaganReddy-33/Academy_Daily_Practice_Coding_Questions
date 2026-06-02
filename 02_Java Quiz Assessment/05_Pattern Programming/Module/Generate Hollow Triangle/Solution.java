@@ -15,7 +15,7 @@ public class Main {
                 if(k==1 || k==i || i==n){
                     System.out.print("* ");
                 } else {
-                    System.out.print("  ");
+                    System.out.print(" ");
                 }
             }
             System.out.println();
