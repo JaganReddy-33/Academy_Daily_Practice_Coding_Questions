@@ -1,17 +1,17 @@
 # Byte vs Short Datatype
 
+> ✅ Solved
+
 ## Question
 
 Byte vs Short Datatype
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>True</p> | No | No |
-| < | <p>False</p> | Yes | Yes |
+- ⬜ **A.** <p>True</p>
+- ✅ **B. <p>False</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>False</p>
 - **Submitted at:** 2026-06-02T05:31:56.837Z
