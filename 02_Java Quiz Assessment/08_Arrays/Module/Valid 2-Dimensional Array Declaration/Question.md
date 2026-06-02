@@ -4,7 +4,7 @@
 
 ## Question
 
-Valid 2-Dimensional Array Declaration
+Which of the following is a valid 2-dimensional array declaration?
 
 ## Answer choices
 
