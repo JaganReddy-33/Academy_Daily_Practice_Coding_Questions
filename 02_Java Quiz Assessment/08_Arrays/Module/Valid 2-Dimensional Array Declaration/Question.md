@@ -1,19 +1,19 @@
 # Valid 2-Dimensional Array Declaration
 
+> ✅ Solved
+
 ## Question
 
 Valid 2-Dimensional Array Declaration
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | int [][]x=new int[2][3]; | Yes | Yes |
-| i | int []x=new int[2][3]; | No | No |
-| i | int x=new int[2][3]; | No | No |
-| A | All of the above | No | No |
+- ✅ **A. int [][]x=new int[2][3];** — Correct answer
+- ⬜ **B.** int []x=new int[2][3];
+- ⬜ **C.** int x=new int[2][3];
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** int [][]x=new int[2][3];
 - **Submitted at:** 2026-06-02T16:18:09.165Z
