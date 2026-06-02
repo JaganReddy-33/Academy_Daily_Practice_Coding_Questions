@@ -4,7 +4,7 @@
 
 ## Question
 
-Assignment Operators
+<p>What will be the output of the following Java code snippet? </p><p>int x = 10; </p><p>x += 5; </p><p>System.out.println(x);</p>
 
 ## Answer choices
 
