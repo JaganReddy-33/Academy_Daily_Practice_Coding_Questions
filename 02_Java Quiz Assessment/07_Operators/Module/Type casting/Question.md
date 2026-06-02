@@ -1,19 +1,19 @@
 # Type casting
 
+> ✅ Solved
+
 ## Question
 
 Type casting
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>97</p> | Yes | Yes |
-| < | <p>65</p> | No | No |
-| < | <p>a</p> | No | No |
-| < | <p>96</p> | No | No |
+- ✅ **A. <p>97</p>** — Correct answer
+- ⬜ **B.** <p>65</p>
+- ⬜ **C.** <p>a</p>
+- ⬜ **D.** <p>96</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>97</p>
 - **Submitted at:** 2026-06-02T05:33:06.148Z
