@@ -4,7 +4,7 @@
 
 ## Question
 
-Byte vs Short Datatype
+<p>In Java, byte datatype is larger in size compared to the short datatype.</p>
 
 ## Answer choices
 
