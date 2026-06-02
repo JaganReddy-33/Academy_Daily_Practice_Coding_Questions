@@ -4,7 +4,10 @@
 
 ## Question
 
-Logical Operator
+<p>What will be the output of the following Java code snippet?</p><pre class="ql-syntax" spellcheck="false">int x = 5;
+int y = 10;
+System.out.println((x &gt; 3) &amp;&amp; (y &lt; 15));
+</pre>
 
 ## Answer choices
 
