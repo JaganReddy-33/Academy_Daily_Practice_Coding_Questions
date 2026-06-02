@@ -4,7 +4,7 @@
 
 ## Question
 
-Using 'new' Keyword for Array Creation
+Why is the 'new' keyword used while creating an array?
 
 ## Answer choices
 
