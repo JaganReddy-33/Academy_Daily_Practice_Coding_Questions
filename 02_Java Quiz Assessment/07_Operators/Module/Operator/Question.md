@@ -4,7 +4,14 @@
 
 ## Question
 
-Operator
+<p>What will be the output of the following Java code snippet?</p><pre class="ql-syntax" spellcheck="false">public class Main {
+&nbsp;&nbsp;public static void main(String[] args) {
+&nbsp;&nbsp;&nbsp;&nbsp;int x = 10;
+&nbsp;&nbsp;&nbsp;&nbsp;int y = 5;
+&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(x + y * 2);
+&nbsp;&nbsp;}
+}
+</pre><p><br></p>
 
 ## Answer choices
 
