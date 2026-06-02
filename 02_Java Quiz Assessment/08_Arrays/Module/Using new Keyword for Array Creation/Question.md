@@ -1,19 +1,19 @@
 # Using 'new' Keyword for Array Creation
 
+> ✅ Solved
+
 ## Question
 
 Using 'new' Keyword for Array Creation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To tell the type of an array | No | No |
-| T | To allocate memory for the array | Yes | Yes |
-| T | To tell the reference of the array | No | No |
-| N | None of the above | No | No |
+- ⬜ **A.** To tell the type of an array
+- ✅ **B. To allocate memory for the array** — Correct answer
+- ⬜ **C.** To tell the reference of the array
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** To allocate memory for the array
 - **Submitted at:** 2026-06-02T16:15:47.983Z
