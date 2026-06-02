@@ -4,7 +4,7 @@
 
 ## Question
 
-Size of Long Datatype
+What is the size of the long datatype?
 
 ## Answer choices
 
