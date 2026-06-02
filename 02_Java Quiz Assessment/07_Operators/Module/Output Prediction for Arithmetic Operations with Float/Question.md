@@ -1,19 +1,19 @@
 # Output Prediction for Arithmetic Operations with Float
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction for Arithmetic Operations with Float
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>11.0 8.0</p> | No | No |
-| < | <p>11.0 7.0</p> | Yes | Yes |
-| < | <p>11.0 6.0</p> | No | No |
-| < | <p>11.0 11.0</p> | No | No |
+- ⬜ **A.** <p>11.0 8.0</p>
+- ✅ **B. <p>11.0 7.0</p>** — Correct answer
+- ⬜ **C.** <p>11.0 6.0</p>
+- ⬜ **D.** <p>11.0 11.0</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>11.0 7.0</p>
 - **Submitted at:** 2026-06-02T05:43:49.319Z
