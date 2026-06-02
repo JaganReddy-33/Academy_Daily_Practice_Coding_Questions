@@ -1,19 +1,19 @@
 # Real Number Datatypes
 
+> ✅ Solved
+
 ## Question
 
 Real Number Datatypes
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>byte</p> | No | No |
-| < | <p>double</p> | Yes | Yes |
-| < | <p>boolean</p> | No | No |
-| < | <p>long</p> | No | No |
+- ⬜ **A.** <p>byte</p>
+- ✅ **B. <p>double</p>** — Correct answer
+- ⬜ **C.** <p>boolean</p>
+- ⬜ **D.** <p>long</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>double</p>
 - **Submitted at:** 2026-06-02T05:38:00.144Z
