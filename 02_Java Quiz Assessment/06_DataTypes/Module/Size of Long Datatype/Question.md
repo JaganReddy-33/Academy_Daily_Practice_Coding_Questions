@@ -1,19 +1,19 @@
 # Size of Long Datatype
 
+> ✅ Solved
+
 ## Question
 
 Size of Long Datatype
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 1 | 1byte | No | No |
-| 2 | 2bytes | No | No |
-| 4 | 4bytes | No | No |
-| 8 | 8bytes | Yes | Yes |
+- ⬜ **A.** 1byte
+- ⬜ **B.** 2bytes
+- ⬜ **C.** 4bytes
+- ✅ **D. 8bytes** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** 8bytes
 - **Submitted at:** 2026-06-02T05:31:30.039Z
