@@ -1,19 +1,19 @@
 # Increment Operators
 
+> ✅ Solved
+
 ## Question
 
 Increment Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 9 | 9 | No | No |
-| 1 | 10 | Yes | Yes |
-| 1 | 11 | No | No |
-| C | Compiler error | No | No |
+- ⬜ **A.** 9
+- ✅ **B. 10** — Correct answer
+- ⬜ **C.** 11
+- ⬜ **D.** Compiler error
 
-## Result
+## Submission
 
 - **Correct answer:** 10
 - **Submitted at:** 2026-06-02T05:39:04.536Z
