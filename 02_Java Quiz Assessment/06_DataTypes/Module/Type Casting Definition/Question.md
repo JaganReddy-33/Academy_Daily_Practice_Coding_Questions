@@ -4,7 +4,7 @@
 
 ## Question
 
-Type Casting Definition
+Is type casting a process of converting a variable from one data type to another?
 
 ## Answer choices
 
