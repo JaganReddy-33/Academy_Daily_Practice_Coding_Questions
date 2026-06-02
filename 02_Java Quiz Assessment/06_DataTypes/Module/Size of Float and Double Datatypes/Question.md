@@ -4,7 +4,7 @@
 
 ## Question
 
-Size of Float and Double Datatypes
+<p>In Java, both float and double datatypes are same in size.</p>
 
 ## Answer choices
 
