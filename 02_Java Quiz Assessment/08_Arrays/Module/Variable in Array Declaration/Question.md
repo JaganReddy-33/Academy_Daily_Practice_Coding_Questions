@@ -4,7 +4,7 @@
 
 ## Question
 
-Variable in Array Declaration
+<p>In the below statement, what does 'b' represents.</p><p><br></p><p>int []b=new int[3];</p>
 
 ## Answer choices
 
