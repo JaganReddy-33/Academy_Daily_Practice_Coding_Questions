@@ -8,15 +8,15 @@ Ternary Operator
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>10</p> | No | No |
-| < | <p>20</p> | Yes | Yes |
-| < | <p>30</p> | No | No |
-| < | <p>0</p> | No | No |
+| 1 | 10 | No | No |
+| 2 | 20 | Yes | Yes |
+| 3 | 30 | No | No |
+| C | Compilation Error | No | No |
 
 ## Result
 
-- **Correct answer:** <p>20</p>
-- **Submitted at:** 2026-06-02T05:38:47.869Z
+- **Correct answer:** 20
+- **Submitted at:** 2026-06-02T05:39:38.747Z
 - **Correct submission:** True
 
 ## Explanation
