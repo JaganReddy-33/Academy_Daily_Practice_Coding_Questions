@@ -1,22 +1,22 @@
 # Unary Minus Operator
 
+> ✅ Solved
+
 ## Question
 
 Unary Minus Operator
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>10</p> | No | No |
-| < | <p>-10</p> | Yes | Yes |
-| < | <p>0</p> | No | No |
-| < | <p>-1</p> | No | No |
+- ⬜ **A.** <p>10</p>
+- ✅ **B. <p>-10</p>** — Correct answer
+- ⬜ **C.** <p>0</p>
+- ⬜ **D.** <p>Compilation Error</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>-10</p>
-- **Submitted at:** 2026-06-02T05:57:56.947Z
+- **Submitted at:** 2026-06-02T05:50:24.170Z
 - **Correct submission:** True
 
 ## Explanation
