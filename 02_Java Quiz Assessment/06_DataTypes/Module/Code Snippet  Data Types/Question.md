@@ -8,15 +8,15 @@ Code Snippet : Data Types
 
 ## Answer choices
 
-- ✅ **A. <p>-125</p>** — Correct answer
-- ⬜ **B.** <p>-126</p>
-- ⬜ **C.** <p>-127</p>
-- ⬜ **D.** <p>-128</p>
+- ✅ **A. <p>65</p>** — Correct answer
+- ⬜ **B.** <p>66</p>
+- ⬜ **C.** <p>67</p>
+- ⬜ **D.** <p>68</p>
 
 ## Submission
 
-- **Correct answer:** <p>-125</p>
-- **Submitted at:** 2026-06-02T05:30:46.567Z
+- **Correct answer:** <p>65</p>
+- **Submitted at:** 2026-06-02T05:35:27.096Z
 - **Correct submission:** True
 
 ## Explanation
