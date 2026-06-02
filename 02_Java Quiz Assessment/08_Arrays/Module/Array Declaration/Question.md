@@ -4,7 +4,7 @@
 
 ## Question
 
-Array Declaration
+Which is the correct way to declare an array in Java?
 
 ## Answer choices
 
