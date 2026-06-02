@@ -8,15 +8,15 @@ Ternary Operator
 
 ## Answer choices
 
-- ⬜ **A.** <p>10</p>
-- ✅ **B. <p>20</p>** — Correct answer
-- ⬜ **C.** <p>30</p>
-- ⬜ **D.** <p>0</p>
+- ⬜ **A.** 10
+- ✅ **B. 20** — Correct answer
+- ⬜ **C.** 30
+- ⬜ **D.** Compilation Error
 
 ## Submission
 
-- **Correct answer:** <p>20</p>
-- **Submitted at:** 2026-06-02T05:38:47.869Z
+- **Correct answer:** 20
+- **Submitted at:** 2026-06-02T05:39:38.747Z
 - **Correct submission:** True
 
 ## Explanation
