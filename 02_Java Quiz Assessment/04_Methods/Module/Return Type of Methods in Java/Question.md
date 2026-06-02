@@ -4,7 +4,7 @@
 
 ## Question
 
-Return Type of Methods in Java
+Identifying the method that does not have a return type.
 
 ## Answer choices
 
