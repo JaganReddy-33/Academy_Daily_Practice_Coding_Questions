@@ -4,7 +4,7 @@
 
 ## Question
 
-Memory Size of Double Datatype
+Does the Double datatype hold 16 bytes of memory?
 
 ## Answer choices
 
