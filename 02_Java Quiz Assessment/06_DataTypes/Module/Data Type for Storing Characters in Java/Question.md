@@ -4,7 +4,7 @@
 
 ## Question
 
-Data Type for Storing Characters in Java
+<p>Which data type is used to store characters in Java?</p>
 
 ## Answer choices
 
