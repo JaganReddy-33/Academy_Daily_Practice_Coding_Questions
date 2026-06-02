@@ -1,19 +1,19 @@
 # First Dimension in 2-Dimensional Array Declaration
 
+> ✅ Solved
+
 ## Question
 
 First Dimension in 2-Dimensional Array Declaration
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Type of an object</p> | No | No |
-| < | <p>Activate the JVM</p> | No | No |
-| < | <p>Refers to the number of rows</p> | Yes | Yes |
-| < | <p>Refers to the number of columns</p> | No | No |
+- ⬜ **A.** <p>Type of an object</p>
+- ⬜ **B.** <p>Activate the JVM</p>
+- ✅ **C. <p>Refers to the number of rows</p>** — Correct answer
+- ⬜ **D.** <p>Refers to the number of columns</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Refers to the number of rows</p>
 - **Submitted at:** 2026-06-02T16:16:53.661Z
