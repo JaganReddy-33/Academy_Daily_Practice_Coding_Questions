@@ -1,19 +1,19 @@
 # Assignment Operators
 
+> ✅ Solved
+
 ## Question
 
 Assignment Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>10</p> | No | No |
-| < | <p>15</p> | Yes | Yes |
-| < | <p>5</p> | No | No |
-| < | <p>20</p> | No | No |
+- ⬜ **A.** <p>10</p>
+- ✅ **B. <p>15</p>** — Correct answer
+- ⬜ **C.** <p>5</p>
+- ⬜ **D.** <p>20</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>15</p>
 - **Submitted at:** 2026-06-02T05:50:12.018Z
