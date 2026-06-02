@@ -1,19 +1,19 @@
 # Code Snippet4
 
+> ✅ Solved
+
 ## Question
 
 Code Snippet4
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>94</p> | Yes | Yes |
-| < | <p>95</p> | No | No |
-| < | <p>96</p> | No | No |
-| < | <p>97</p> | No | No |
+- ✅ **A. <p>94</p>** — Correct answer
+- ⬜ **B.** <p>95</p>
+- ⬜ **C.** <p>96</p>
+- ⬜ **D.** <p>97</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>94</p>
 - **Submitted at:** 2026-06-02T05:34:21.356Z
