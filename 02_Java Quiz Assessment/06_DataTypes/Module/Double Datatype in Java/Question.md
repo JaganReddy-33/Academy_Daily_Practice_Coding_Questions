@@ -4,7 +4,7 @@
 
 ## Question
 
-Double Datatype in Java
+<p>In Java, double datatype is an integer type of datatype.</p>
 
 ## Answer choices
 
