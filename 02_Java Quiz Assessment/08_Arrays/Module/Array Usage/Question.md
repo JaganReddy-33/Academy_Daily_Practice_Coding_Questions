@@ -1,19 +1,19 @@
 # Array Usage
 
+> ✅ Solved
+
 ## Question
 
 Array Usage
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| V | Variable | No | No |
-| M | Methods | No | No |
-| F | Functions | No | No |
-| A | Arrays | Yes | Yes |
+- ⬜ **A.** Variable
+- ⬜ **B.** Methods
+- ⬜ **C.** Functions
+- ✅ **D. Arrays** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Arrays
 - **Submitted at:** 2026-06-02T16:14:57.115Z
