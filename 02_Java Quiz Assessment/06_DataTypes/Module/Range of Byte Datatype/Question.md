@@ -1,19 +1,19 @@
 # Range of Byte Datatype
 
+> ✅ Solved
+
 ## Question
 
 Range of Byte Datatype
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| - | -128 to +127 | Yes | Yes |
-| + | +128 to -127 | No | No |
-| + | +128 to +127 | No | No |
-| - | -129 to -127 | No | No |
+- ✅ **A. -128 to +127** — Correct answer
+- ⬜ **B.** +128 to -127
+- ⬜ **C.** +128 to +127
+- ⬜ **D.** -129 to -127
 
-## Result
+## Submission
 
 - **Correct answer:** -128 to +127
 - **Submitted at:** 2026-06-02T05:36:01.298Z
