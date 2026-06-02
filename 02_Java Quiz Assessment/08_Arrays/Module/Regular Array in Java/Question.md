@@ -4,7 +4,7 @@
 
 ## Question
 
-Regular Array in Java
+Which of the following is considered as a regular array in Java?
 
 ## Answer choices
 
