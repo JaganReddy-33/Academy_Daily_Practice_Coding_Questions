@@ -4,7 +4,7 @@
 
 ## Question
 
-Increment Operators
+What will be the output of the following Java code snippet? int x = 10; System.out.println(x++);
 
 ## Answer choices
 
