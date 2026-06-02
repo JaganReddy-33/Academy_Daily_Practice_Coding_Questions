@@ -1,19 +1,19 @@
 # Data Type for Storing Characters in Java
 
+> ✅ Solved
+
 ## Question
 
 Data Type for Storing Characters in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>char</p> | Yes | Yes |
-| < | <p>byte</p> | No | No |
-| < | <p>float</p> | No | No |
-| < | <p>Character</p> | No | No |
+- ✅ **A. <p>char</p>** — Correct answer
+- ⬜ **B.** <p>byte</p>
+- ⬜ **C.** <p>float</p>
+- ⬜ **D.** <p>Character</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>char</p>
 - **Submitted at:** 2026-06-02T05:27:04.138Z
