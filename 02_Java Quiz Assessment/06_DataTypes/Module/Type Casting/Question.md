@@ -4,7 +4,10 @@
 
 ## Question
 
-Type Casting
+<p>What will be the output of the following Java code snippet?</p><pre class="ql-syntax" spellcheck="false">double x = 10.5;
+int y = (int)x;
+System.out.println(y);
+</pre>
 
 ## Answer choices
 
