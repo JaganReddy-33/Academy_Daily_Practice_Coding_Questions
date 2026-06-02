@@ -1,22 +1,22 @@
 # Equality Operators
 
+> ✅ Solved
+
 ## Question
 
 Equality Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>false</p> | No | No |
-| < | <p>true</p> | Yes | Yes |
-| < | <p>10</p> | No | No |
-| < | <p>Compilation Error</p> | No | No |
+- ⬜ **A.** <p>&nbsp;2.5</p>
+- ✅ **B. <p>0.0</p>** — Correct answer
+- ⬜ **C.** <p>2.0</p>
+- ⬜ **D.** <p>10.0</p>
 
-## Result
+## Submission
 
-- **Correct answer:** <p>true</p>
-- **Submitted at:** 2026-06-02T05:37:17.453Z
+- **Correct answer:** <p>0.0</p>
+- **Submitted at:** 2026-06-02T05:58:46.555Z
 - **Correct submission:** True
 
 ## Explanation
