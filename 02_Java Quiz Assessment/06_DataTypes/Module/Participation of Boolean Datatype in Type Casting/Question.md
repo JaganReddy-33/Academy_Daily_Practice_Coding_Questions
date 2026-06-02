@@ -4,7 +4,7 @@
 
 ## Question
 
-Participation of Boolean Datatype in Type Casting
+Does the boolean data type participate in type casting?
 
 ## Answer choices
 
