@@ -4,7 +4,7 @@
 
 ## Question
 
-Range of Byte Datatype
+What is the range of the byte datatype in Java?
 
 ## Answer choices
 
