@@ -4,19 +4,19 @@
 
 ## Question
 
-Ternary Operator
+<p>What will be the output of the following Java code snippet? </p><p>int x = 10; </p><p>int y = 20; </p><p>int max = (x &gt; y) ? x : y; </p><p>System.out.println(max);</p>
 
 ## Answer choices
 
-- ⬜ **A.** 10
-- ✅ **B. 20** — Correct answer
-- ⬜ **C.** 30
-- ⬜ **D.** Compilation Error
+- ⬜ **A.** <p>10</p>
+- ✅ **B. <p>20</p>** — Correct answer
+- ⬜ **C.** <p>30</p>
+- ⬜ **D.** <p>0</p>
 
 ## Submission
 
-- **Correct answer:** 20
-- **Submitted at:** 2026-06-02T05:39:38.747Z
+- **Correct answer:** <p>20</p>
+- **Submitted at:** 2026-06-02T05:38:47.869Z
 - **Correct submission:** True
 
 ## Explanation
