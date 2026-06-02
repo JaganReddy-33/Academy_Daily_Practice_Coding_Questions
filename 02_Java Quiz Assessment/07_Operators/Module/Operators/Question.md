@@ -8,15 +8,15 @@ Operators
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>11</p> | No | No |
-| < | <p>10</p> | Yes | Yes |
-| < | <p>9</p> | No | No |
+| < | <p>10</p> | No | No |
+| < | <p>11</p> | Yes | Yes |
 | < | <p>None of the mentioned</p> | No | No |
+| < | <p>Compilation Error</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>10</p>
-- **Submitted at:** 2026-06-02T05:53:36.196Z
+- **Correct answer:** <p>11</p>
+- **Submitted at:** 2026-06-02T05:53:48.437Z
 - **Correct submission:** True
 
 ## Explanation
