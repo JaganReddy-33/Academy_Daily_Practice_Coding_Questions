@@ -4,7 +4,7 @@
 
 ## Question
 
-Array Types
+Which of the following is a valid array type?
 
 ## Answer choices
 
