@@ -1,19 +1,19 @@
 # Array Declaration
 
+> ✅ Solved
+
 ## Question
 
 Array Declaration
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | int [array]; | No | No |
-| i | int[] array; | Yes | Yes |
-| a | array[] int; | No | No |
-| a | array int[]; | No | No |
+- ⬜ **A.** int [array];
+- ✅ **B. int[] array;** — Correct answer
+- ⬜ **C.** array[] int;
+- ⬜ **D.** array int[];
 
-## Result
+## Submission
 
 - **Correct answer:** int[] array;
 - **Submitted at:** 2026-06-02T16:14:23.245Z
