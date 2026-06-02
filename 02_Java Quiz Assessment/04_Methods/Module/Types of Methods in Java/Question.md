@@ -4,7 +4,7 @@
 
 ## Question
 
-Types of Methods in Java
+How many types of methods are there in Java?
 
 ## Answer choices
 
