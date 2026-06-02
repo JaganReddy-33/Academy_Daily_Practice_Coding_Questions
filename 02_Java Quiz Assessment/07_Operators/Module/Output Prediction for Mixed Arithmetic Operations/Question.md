@@ -1,19 +1,19 @@
 # Output Prediction for Mixed Arithmetic Operations
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction for Mixed Arithmetic Operations
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>1.0 3.0</p> | Yes | Yes |
-| < | <p>1 3</p> | No | No |
-| < | <p>1.0 3</p> | No | No |
-| < | <p>1 3.0</p> | No | No |
+- ✅ **A. <p>1.0 3.0</p>** — Correct answer
+- ⬜ **B.** <p>1 3</p>
+- ⬜ **C.** <p>1.0 3</p>
+- ⬜ **D.** <p>1 3.0</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>1.0 3.0</p>
 - **Submitted at:** 2026-06-02T05:48:30.015Z
