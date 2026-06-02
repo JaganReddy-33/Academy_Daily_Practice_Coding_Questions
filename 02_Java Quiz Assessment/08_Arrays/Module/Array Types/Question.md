@@ -1,19 +1,19 @@
 # Array Types
 
+> ✅ Solved
+
 ## Question
 
 Array Types
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 1 | 1 Dimension Array | No | No |
-| R | Regular Array | No | No |
-| J | Jagged Array | No | No |
-| A | All of the above | Yes | Yes |
+- ⬜ **A.** 1 Dimension Array
+- ⬜ **B.** Regular Array
+- ⬜ **C.** Jagged Array
+- ✅ **D. All of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All of the above
 - **Submitted at:** 2026-06-02T16:15:29.195Z
