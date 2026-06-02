@@ -4,7 +4,7 @@
 
 ## Question
 
-Primitive Datatype in Java
+Which of the following is a primitive datatype in Java?
 
 ## Answer choices
 
