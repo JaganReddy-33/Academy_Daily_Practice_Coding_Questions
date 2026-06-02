@@ -4,7 +4,9 @@
 
 ## Question
 
-Type casting
+<p>What will be the output of the following Java code snippet?</p><pre class="ql-syntax" spellcheck="false">int ch = 'a';
+System.out.println(ch);
+</pre>
 
 ## Answer choices
 
