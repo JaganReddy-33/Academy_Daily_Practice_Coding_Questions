@@ -4,7 +4,7 @@
 
 ## Question
 
-First Dimension in 2-Dimensional Array Declaration
+<p>In the below statement, what does the first '[]' dimension represents.</p><p><br></p><p>int x[][]=new int[5][6];</p>
 
 ## Answer choices
 
