@@ -4,7 +4,7 @@
 
 ## Question
 
-Datatype for Yes or No Data
+Which of the following datatypes holds the yes or no type of data?
 
 ## Answer choices
 
