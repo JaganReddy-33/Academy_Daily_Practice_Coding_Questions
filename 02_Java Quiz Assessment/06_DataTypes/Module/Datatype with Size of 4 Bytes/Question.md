@@ -4,7 +4,7 @@
 
 ## Question
 
-Datatype with Size of 4 Bytes
+<p>Which of the following datatypes holds the size of 4 bytes?</p>
 
 ## Answer choices
 
