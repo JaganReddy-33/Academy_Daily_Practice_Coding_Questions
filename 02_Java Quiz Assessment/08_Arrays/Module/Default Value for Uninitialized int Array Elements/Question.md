@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Value for Uninitialized int Array Elements
+What is the default value of the 'int' type, which will be assigned to an array if the elements of the array are not initialized?
 
 ## Answer choices
 
