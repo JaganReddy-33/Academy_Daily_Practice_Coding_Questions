@@ -8,15 +8,15 @@ Equality Operators
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>&nbsp;2.5</p> | No | No |
-| < | <p>0.0</p> | Yes | Yes |
-| < | <p>2.0</p> | No | No |
-| < | <p>10.0</p> | No | No |
+| < | <p>&nbsp;x=0, y=12, z=99, i=12</p> | No | No |
+| < | <p>x=0, y=10, z=100, i=10</p> | No | No |
+| < | <p>x=-2, y=9, z=98, i=-167</p> | Yes | Yes |
+| < | <p>x=0, y=10, z=99, i=0</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>0.0</p>
-- **Submitted at:** 2026-06-02T05:58:46.555Z
+- **Correct answer:** <p>x=-2, y=9, z=98, i=-167</p>
+- **Submitted at:** 2026-06-02T06:00:03.274Z
 - **Correct submission:** True
 
 ## Explanation
