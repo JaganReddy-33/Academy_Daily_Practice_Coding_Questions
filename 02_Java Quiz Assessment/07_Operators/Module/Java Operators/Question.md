@@ -4,7 +4,7 @@
 
 ## Question
 
-Java Operators
+<p>Which operator is used for string concatenation in Java?</p>
 
 ## Answer choices
 
