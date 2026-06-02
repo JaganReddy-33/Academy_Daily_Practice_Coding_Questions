@@ -8,15 +8,15 @@ Code Snippet : Data Types
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>65</p> | Yes | Yes |
-| < | <p>66</p> | No | No |
-| < | <p>67</p> | No | No |
-| < | <p>68</p> | No | No |
+| < | <p>-127</p> | Yes | Yes |
+| < | <p>-128</p> | No | No |
+| < | <p>-126</p> | No | No |
+| < | <p>-125</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>65</p>
-- **Submitted at:** 2026-06-02T05:35:27.096Z
+- **Correct answer:** <p>-127</p>
+- **Submitted at:** 2026-06-02T05:27:46.223Z
 - **Correct submission:** True
 
 ## Explanation
