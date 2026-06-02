@@ -1,22 +1,22 @@
 # Code Snippet : Data Types
 
+> ✅ Solved
+
 ## Question
 
 Code Snippet : Data Types
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>-125</p> | Yes | Yes |
-| < | <p>-126</p> | No | No |
-| < | <p>-127</p> | No | No |
-| < | <p>-128</p> | No | No |
+- ✅ **A. <p>65</p>** — Correct answer
+- ⬜ **B.** <p>66</p>
+- ⬜ **C.** <p>67</p>
+- ⬜ **D.** <p>68</p>
 
-## Result
+## Submission
 
-- **Correct answer:** <p>-125</p>
-- **Submitted at:** 2026-06-02T05:30:46.567Z
+- **Correct answer:** <p>65</p>
+- **Submitted at:** 2026-06-02T05:35:27.096Z
 - **Correct submission:** True
 
 ## Explanation
