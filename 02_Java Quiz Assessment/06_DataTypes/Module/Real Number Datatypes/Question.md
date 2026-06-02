@@ -4,7 +4,7 @@
 
 ## Question
 
-Real Number Datatypes
+<p>Which of the following are the real number type of datatypes?</p>
 
 ## Answer choices
 
