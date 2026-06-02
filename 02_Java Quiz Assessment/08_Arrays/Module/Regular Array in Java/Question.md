@@ -1,19 +1,19 @@
 # Regular Array in Java
 
+> ✅ Solved
+
 ## Question
 
 Regular Array in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 1 | 1 Dimension Array | No | No |
-| 2 | 2 Dimension Array | No | No |
-| 3 | 3 Dimension Array | No | No |
-| A | All of the above | Yes | Yes |
+- ⬜ **A.** 1 Dimension Array
+- ⬜ **B.** 2 Dimension Array
+- ⬜ **C.** 3 Dimension Array
+- ✅ **D. All of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All of the above
 - **Submitted at:** 2026-06-02T16:18:22.673Z
