@@ -1,22 +1,22 @@
 # Ternary Operator
 
+> ✅ Solved
+
 ## Question
 
 Ternary Operator
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 1 | 10 | No | No |
-| 2 | 20 | Yes | Yes |
-| 3 | 30 | No | No |
-| C | Compilation Error | No | No |
+- ⬜ **A.** <p>10</p>
+- ✅ **B. <p>20</p>** — Correct answer
+- ⬜ **C.** <p>30</p>
+- ⬜ **D.** <p>0</p>
 
-## Result
+## Submission
 
-- **Correct answer:** 20
-- **Submitted at:** 2026-06-02T05:39:38.747Z
+- **Correct answer:** <p>20</p>
+- **Submitted at:** 2026-06-02T05:38:47.869Z
 - **Correct submission:** True
 
 ## Explanation
