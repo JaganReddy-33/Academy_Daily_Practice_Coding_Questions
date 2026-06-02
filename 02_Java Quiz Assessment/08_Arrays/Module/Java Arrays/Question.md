@@ -4,7 +4,7 @@
 
 ## Question
 
-Java Arrays
+In Java, arrays are objects that allow you to store multiple values in a single container.
 
 ## Answer choices
 
