@@ -4,7 +4,13 @@
 
 ## Question
 
-Code Snippet4
+<p>Identify the correct output of the given code snippet.</p><pre class="ql-syntax" spellcheck="false">class Main{
+&nbsp;&nbsp;public static void main(String[] args) {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int ch = '0';
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(ch-- + --ch);
+&nbsp;&nbsp;&nbsp;}
+}
+</pre>
 
 ## Answer choices
 
