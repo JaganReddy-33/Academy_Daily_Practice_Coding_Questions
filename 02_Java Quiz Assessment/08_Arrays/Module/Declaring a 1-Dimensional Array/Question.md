@@ -4,7 +4,7 @@
 
 ## Question
 
-Declaring a 1-Dimensional Array
+Which of the following is a correct way of declaring a 1-dimensional array?
 
 ## Answer choices
 
