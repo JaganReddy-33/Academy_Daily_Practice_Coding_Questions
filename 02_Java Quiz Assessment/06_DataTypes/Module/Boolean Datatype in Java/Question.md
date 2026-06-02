@@ -4,7 +4,7 @@
 
 ## Question
 
-Boolean Datatype in Java
+Is the Boolean datatype a non-primitive datatype in Java?
 
 ## Answer choices
 
