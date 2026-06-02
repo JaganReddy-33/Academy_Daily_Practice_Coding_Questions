@@ -1,19 +1,19 @@
 # Primitive Datatype in Java
 
+> ✅ Solved
+
 ## Question
 
 Primitive Datatype in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | String | No | No |
-| A | Arrays | No | No |
-| C | Classes | No | No |
-| N | None of the above | Yes | Yes |
+- ⬜ **A.** String
+- ⬜ **B.** Arrays
+- ⬜ **C.** Classes
+- ✅ **D. None of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** None of the above
 - **Submitted at:** 2026-06-02T05:24:50.716Z
