@@ -4,7 +4,10 @@
 
 ## Question
 
-Logical Operators
+<p>What will be the output of the following Java code snippet?</p><pre class="ql-syntax" spellcheck="false">boolean x = true;
+boolean y = false;
+System.out.println(x &amp;&amp; y);
+</pre>
 
 ## Answer choices
 
