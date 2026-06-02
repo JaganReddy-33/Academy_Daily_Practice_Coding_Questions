@@ -8,15 +8,15 @@ Equality Operators
 
 ## Answer choices
 
-- ⬜ **A.** <p>false</p>
-- ✅ **B. <p>true</p>** — Correct answer
-- ⬜ **C.** <p>10</p>
-- ⬜ **D.** <p>Compilation Error</p>
+- ⬜ **A.** <p>&nbsp;2.5</p>
+- ✅ **B. <p>0.0</p>** — Correct answer
+- ⬜ **C.** <p>2.0</p>
+- ⬜ **D.** <p>10.0</p>
 
 ## Submission
 
-- **Correct answer:** <p>true</p>
-- **Submitted at:** 2026-06-02T05:37:17.453Z
+- **Correct answer:** <p>0.0</p>
+- **Submitted at:** 2026-06-02T05:58:46.555Z
 - **Correct submission:** True
 
 ## Explanation
