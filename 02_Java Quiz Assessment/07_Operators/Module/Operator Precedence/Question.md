@@ -1,22 +1,22 @@
 # Operator Precedence
 
+> ✅ Solved
+
 ## Question
 
 Operator Precedence
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>1000</p> | No | No |
-| < | <p>610</p> | Yes | Yes |
-| < | <p>60</p> | No | No |
-| < | <p>Compilation Error</p> | No | No |
+- ⬜ **A.** <p>5</p>
+- ✅ **B. <p>6</p>** — Correct answer
+- ⬜ **C.** <p>3</p>
+- ⬜ **D.** <p>4</p>
 
-## Result
+## Submission
 
-- **Correct answer:** <p>610</p>
-- **Submitted at:** 2026-06-02T05:55:05.517Z
+- **Correct answer:** <p>6</p>
+- **Submitted at:** 2026-06-02T05:52:55.689Z
 - **Correct submission:** True
 
 ## Explanation
