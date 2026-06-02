@@ -1,19 +1,19 @@
 # Datatype for Yes or No Data
 
+> ✅ Solved
+
 ## Question
 
 Datatype for Yes or No Data
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | int | No | No |
-| f | float | No | No |
-| d | double | No | No |
-| b | boolean | Yes | Yes |
+- ⬜ **A.** int
+- ⬜ **B.** float
+- ⬜ **C.** double
+- ✅ **D. boolean** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** boolean
 - **Submitted at:** 2026-06-02T05:35:43.479Z
