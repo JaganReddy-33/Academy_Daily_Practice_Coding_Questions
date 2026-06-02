@@ -4,7 +4,7 @@
 
 ## Question
 
-Datatype for a Single Character in Java
+Which of the following datatype is used to represent a single character in Java?
 
 ## Answer choices
 
