@@ -11,12 +11,12 @@ Unary Minus Operator
 - ⬜ **A.** <p>10</p>
 - ✅ **B. <p>-10</p>** — Correct answer
 - ⬜ **C.** <p>0</p>
-- ⬜ **D.** <p>Compilation Error</p>
+- ⬜ **D.** <p>-1</p>
 
 ## Submission
 
 - **Correct answer:** <p>-10</p>
-- **Submitted at:** 2026-06-02T05:50:24.170Z
+- **Submitted at:** 2026-06-02T05:57:56.947Z
 - **Correct submission:** True
 
 ## Explanation
