@@ -4,7 +4,7 @@
 
 ## Question
 
-Changing Background Color of Submit Button MCQ
+Which CSS selector can be used to change the background color of the submit button when the element selector fails to do so?
 
 ## Answer choices
 
