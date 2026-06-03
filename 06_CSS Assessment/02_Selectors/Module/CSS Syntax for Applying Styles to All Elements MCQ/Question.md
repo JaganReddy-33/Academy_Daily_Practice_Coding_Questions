@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Syntax for Applying Styles to All Elements MCQ
+<p>Which of the following CSS syntax applies styles to all elements within the HTML document?</p>
 
 ## Answer choices
 
