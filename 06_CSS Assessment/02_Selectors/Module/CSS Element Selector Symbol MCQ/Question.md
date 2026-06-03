@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Element Selector Symbol MCQ
+<p>Which symbol is used to denote an element selector in CSS?</p>
 
 ## Answer choices
 
