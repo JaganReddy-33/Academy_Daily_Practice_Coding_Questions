@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of CSS Selectors MCQ
+What is the primary purpose of CSS selectors?
 
 ## Answer choices
 
