@@ -4,7 +4,7 @@
 
 ## Question
 
-Syntax for Group Selector in CSS MCQ
+What is the syntax for combining multiple selectors into a group selector in CSS?
 
 ## Answer choices
 
