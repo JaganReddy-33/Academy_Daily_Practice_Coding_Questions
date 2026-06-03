@@ -13,4 +13,4 @@ class Main{
         System.out.println("Casted integer: " + b);
         System.out.println("Casted byte: " + c);
     }
-}
+}
