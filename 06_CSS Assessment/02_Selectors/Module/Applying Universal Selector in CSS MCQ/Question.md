@@ -4,7 +4,7 @@
 
 ## Question
 
-Applying Universal Selector in CSS MCQ
+How do you apply a universal selector to all elements within an HTML document?
 
 ## Answer choices
 
