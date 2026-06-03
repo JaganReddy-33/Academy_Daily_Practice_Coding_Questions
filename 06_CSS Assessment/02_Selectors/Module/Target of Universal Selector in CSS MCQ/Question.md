@@ -4,7 +4,7 @@
 
 ## Question
 
-Target of Universal Selector in CSS MCQ
+What does the universal selector '*' target in CSS?
 
 ## Answer choices
 
