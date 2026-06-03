@@ -4,7 +4,7 @@
 
 ## Question
 
-Significance of CSS Selectors MCQ
+What is the significance of CSS selectors in web development?
 
 ## Answer choices
 
