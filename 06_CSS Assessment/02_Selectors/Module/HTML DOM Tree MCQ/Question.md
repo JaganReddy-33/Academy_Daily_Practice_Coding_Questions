@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML DOM Tree MCQ
+Which of the following best describes the HTML DOM tree?
 
 ## Answer choices
 
