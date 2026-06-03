@@ -12,4 +12,4 @@ class Main
         // Write the logic to divide 'num1' by 'num2' and print the result
 
     }
-}
+}
