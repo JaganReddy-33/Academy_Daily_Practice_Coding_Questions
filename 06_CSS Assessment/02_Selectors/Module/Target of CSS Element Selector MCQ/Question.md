@@ -4,7 +4,7 @@
 
 ## Question
 
-Target of CSS Element Selector MCQ
+What does the CSS element selector target?
 
 ## Answer choices
 
