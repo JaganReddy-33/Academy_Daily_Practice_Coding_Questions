@@ -12,4 +12,4 @@ class Main
         // Write the logic to multiply 'x' and 'y' and print the result
 
     }
-}
+}
