@@ -9,4 +9,4 @@ class Main
         System.out.print(c);
 
     }
-}
+}
