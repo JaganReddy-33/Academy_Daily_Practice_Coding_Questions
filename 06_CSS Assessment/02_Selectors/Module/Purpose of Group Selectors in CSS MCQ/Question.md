@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of Group Selectors in CSS MCQ
+What purpose do group selectors serve in CSS?
 
 ## Answer choices
 
