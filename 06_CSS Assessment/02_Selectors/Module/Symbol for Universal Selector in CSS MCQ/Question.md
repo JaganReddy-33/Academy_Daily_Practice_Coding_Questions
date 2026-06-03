@@ -4,7 +4,7 @@
 
 ## Question
 
-Symbol for Universal Selector in CSS MCQ
+<p>Which symbol represents a universal selector in CSS?</p>
 
 ## Answer choices
 
