@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Selector 'p' Target MCQ
+<p>What does the CSS selector 'p' target?</p>
 
 ## Answer choices
 
