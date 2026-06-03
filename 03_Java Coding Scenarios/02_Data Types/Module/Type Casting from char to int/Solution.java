@@ -9,4 +9,4 @@ class Main{
         System.out.println("Original character: " + a);
         System.out.println("Corresponding integer: " + b);
     }
-}
+}
