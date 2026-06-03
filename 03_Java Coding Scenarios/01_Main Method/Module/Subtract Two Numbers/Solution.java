@@ -11,5 +11,4 @@ class Main
         // Write the logic to subtract 'b' from 'a' and print the result
 
     }
-}
-
+}
