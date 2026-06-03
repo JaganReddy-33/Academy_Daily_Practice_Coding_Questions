@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of Universal Selector in CSS MCQ
+What is the purpose of a universal selector in CSS?
 
 ## Answer choices
 
