@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML Element Selector MCQ
+What is an HTML element selector?
 
 ## Answer choices
 
