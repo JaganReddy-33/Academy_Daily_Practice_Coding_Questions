@@ -4,7 +4,7 @@
 
 ## Question
 
-Separator for Multiple Selectors in Group Selector MCQ
+Which symbol is used to separate multiple selectors in a group selector in CSS?
 
 ## Answer choices
 
