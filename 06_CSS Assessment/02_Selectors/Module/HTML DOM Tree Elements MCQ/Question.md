@@ -4,7 +4,7 @@
 
 ## Question
 
-HTML DOM Tree Elements MCQ
+In the HTML DOM tree, what does each HTML element represent?
 
 ## Answer choices
 
