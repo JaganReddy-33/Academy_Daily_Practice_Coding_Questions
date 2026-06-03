@@ -9,4 +9,4 @@ class Main {
         System.out.println("Original double: " + a);
         System.out.println("Casted integer: " + b);
     }
-}
+}
