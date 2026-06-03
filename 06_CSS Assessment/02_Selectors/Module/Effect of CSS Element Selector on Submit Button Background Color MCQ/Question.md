@@ -16,7 +16,7 @@ Effect of CSS Element Selector on Submit Button Background Color MCQ
 ## Submission
 
 - **Correct answer:** It will not change the background color of the submit button.
-- **Submitted at:** 2026-06-03T11:03:56.815Z
+- **Submitted at:** 2026-06-03T11:03:46.779Z
 - **Correct submission:** True
 
 ## Explanation
