@@ -4,7 +4,7 @@
 
 ## Question
 
-Difference Between Universal and Element Selectors in CSS MCQ
+What is the primary difference between universal selectors and element selectors in CSS?
 
 ## Answer choices
 
