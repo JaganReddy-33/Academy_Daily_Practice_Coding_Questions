@@ -1,22 +1,22 @@
 # String Conversion
 
+> ✅ Solved
+
 ## Question
 
 String Conversion
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | parseInt() | Yes | Yes |
-| t | toInteger() | No | No |
-| c | convertToInteger() | No | No |
-| c | castToInt() | No | No |
+- ✅ **A. toUpperCase()** — Correct answer
+- ⬜ **B.** toLowerCase()
+- ⬜ **C.** convertCase()
+- ⬜ **D.** caseChange()
 
-## Result
+## Submission
 
-- **Correct answer:** parseInt()
-- **Submitted at:** 2026-06-11T13:40:41.819Z
+- **Correct answer:** toUpperCase()
+- **Submitted at:** 2026-06-11T13:38:08.139Z
 - **Correct submission:** True
 
 ## Explanation
