@@ -8,15 +8,15 @@ String Conversion
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | toUpperCase() | Yes | Yes |
-| t | toLowerCase() | No | No |
-| c | convertCase() | No | No |
-| c | caseChange() | No | No |
+| p | parseInt() | Yes | Yes |
+| t | toInteger() | No | No |
+| c | convertToInteger() | No | No |
+| c | castToInt() | No | No |
 
 ## Result
 
-- **Correct answer:** toUpperCase()
-- **Submitted at:** 2026-06-11T13:38:08.139Z
+- **Correct answer:** parseInt()
+- **Submitted at:** 2026-06-11T13:40:41.819Z
 - **Correct submission:** True
 
 ## Explanation
