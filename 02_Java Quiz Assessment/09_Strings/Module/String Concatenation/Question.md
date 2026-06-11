@@ -8,15 +8,15 @@ String Concatenation
 
 ## Answer choices
 
-- ✅ **A. <p>   + operator</p>** — Correct answer
-- ⬜ **B.** <p>   * operator</p>
-- ⬜ **C.** <p>   - operator</p>
-- ⬜ **D.** <p>   / operator</p>
+- ⬜ **A.** Using the `+` operator
+- ✅ **B. Using the `StringBuilder` class** — Correct answer
+- ⬜ **C.** Using the `concat()` method
+- ⬜ **D.** Using the `StringBuffer` class
 
 ## Submission
 
-- **Correct answer:** <p>   + operator</p>
-- **Submitted at:** 2026-06-11T13:37:21.802Z
+- **Correct answer:** Using the `StringBuilder` class
+- **Submitted at:** 2026-06-11T13:42:37.881Z
 - **Correct submission:** True
 
 ## Explanation
