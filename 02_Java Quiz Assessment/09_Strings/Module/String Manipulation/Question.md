@@ -1,19 +1,19 @@
 # String Manipulation
 
+> ✅ Solved
+
 ## Question
 
 String Manipulation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| c | concat() | Yes | Yes |
-| a | append() | No | No |
-| a | add() | No | No |
-| c | combine() | No | No |
+- ✅ **A. concat()** — Correct answer
+- ⬜ **B.** append()
+- ⬜ **C.** add()
+- ⬜ **D.** combine()
 
-## Result
+## Submission
 
 - **Correct answer:** concat()
 - **Submitted at:** 2026-06-11T13:38:31.496Z
