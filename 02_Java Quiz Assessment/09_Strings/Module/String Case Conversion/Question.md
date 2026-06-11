@@ -4,7 +4,7 @@
 
 ## Question
 
-String Case Conversion
+Which method is used to convert a string to lowercase in Java?
 
 ## Answer choices
 
