@@ -4,7 +4,7 @@
 
 ## Question
 
-String Manipulation
+Which of the following methods is used to concatenate two strings in Java?
 
 ## Answer choices
 
