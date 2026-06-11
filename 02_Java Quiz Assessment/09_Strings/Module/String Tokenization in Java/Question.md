@@ -4,7 +4,7 @@
 
 ## Question
 
-String Tokenization in Java
+<p>Identifying the class used to split a string into tokens based on a specified delimiter.</p>
 
 ## Answer choices
 
