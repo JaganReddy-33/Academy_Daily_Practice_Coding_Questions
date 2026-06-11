@@ -4,7 +4,7 @@
 
 ## Question
 
-String Length in Java
+Identifying the method that return the length of a string in Java.
 
 ## Answer choices
 
