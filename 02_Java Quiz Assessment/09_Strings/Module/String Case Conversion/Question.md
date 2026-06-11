@@ -1,19 +1,19 @@
 # String Case Conversion
 
+> ✅ Solved
+
 ## Question
 
 String Case Conversion
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| t | toLowerCase() | Yes | Yes |
-| t | toUpperCase() | No | No |
-| t | trim() | No | No |
-| s | substring() | No | No |
+- ✅ **A. toLowerCase()** — Correct answer
+- ⬜ **B.** toUpperCase()
+- ⬜ **C.** trim()
+- ⬜ **D.** substring()
 
-## Result
+## Submission
 
 - **Correct answer:** toLowerCase()
 - **Submitted at:** 2026-06-11T13:40:03.368Z
