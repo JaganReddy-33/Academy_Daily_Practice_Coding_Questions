@@ -4,19 +4,19 @@
 
 ## Question
 
-String Split
+Which method is used to split a string into an array of substrings based on a specified delimiter in Java?
 
 ## Answer choices
 
-- ✅ **A. It splits a string into an array of substrings based on a specified delimiter** — Correct answer
-- ⬜ **B.** It combines multiple strings into a single string
-- ⬜ **C.** It removes whitespace characters from the beginning and end of a string
-- ⬜ **D.** It converts a string to uppercase or lowercase
+- ✅ **A. split()** — Correct answer
+- ⬜ **B.** substring()
+- ⬜ **C.** replace()
+- ⬜ **D.** trim()
 
 ## Submission
 
-- **Correct answer:** It splits a string into an array of substrings based on a specified delimiter
-- **Submitted at:** 2026-06-11T13:42:04.224Z
+- **Correct answer:** split()
+- **Submitted at:** 2026-06-11T13:40:57.517Z
 - **Correct submission:** True
 
 ## Explanation
