@@ -1,19 +1,19 @@
 # String Comparision
 
+> ✅ Solved
+
 ## Question
 
 String Comparision
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>True</p> | Yes | Yes |
-| < | <p>False</p> | No | No |
-| < | <p>0</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ✅ **A. <p>True</p>** — Correct answer
+- ⬜ **B.** <p>False</p>
+- ⬜ **C.** <p>0</p>
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>True</p>
 - **Submitted at:** 2026-06-11T13:39:28.988Z
