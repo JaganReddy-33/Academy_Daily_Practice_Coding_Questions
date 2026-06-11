@@ -1,19 +1,19 @@
 # String Substring
 
+> ✅ Solved
+
 ## Question
 
 String Substring
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | substring() | Yes | Yes |
-| e | extract() | No | No |
-| g | getSubstring() | No | No |
-| s | slice() | No | No |
+- ✅ **A. substring()** — Correct answer
+- ⬜ **B.** extract()
+- ⬜ **C.** getSubstring()
+- ⬜ **D.** slice()
 
-## Result
+## Submission
 
 - **Correct answer:** substring()
 - **Submitted at:** 2026-06-11T13:37:14.771Z
