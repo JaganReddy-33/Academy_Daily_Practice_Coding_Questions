@@ -4,7 +4,7 @@
 
 ## Question
 
-Java String Quotes
+<p>In Java, a string will be enclosed in a single quote.</p>
 
 ## Answer choices
 
