@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Value of Strings
+<p>What is the default value for a string instance variable in Java?</p>
 
 ## Answer choices
 
