@@ -1,22 +1,22 @@
 # String Split
 
+> ✅ Solved
+
 ## Question
 
 String Split
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It splits a string into an array of substrings based on a specified delimiter | Yes | Yes |
-| I | It combines multiple strings into a single string | No | No |
-| I | It removes whitespace characters from the beginning and end of a string | No | No |
-| I | It converts a string to uppercase or lowercase | No | No |
+- ✅ **A. split()** — Correct answer
+- ⬜ **B.** substring()
+- ⬜ **C.** replace()
+- ⬜ **D.** trim()
 
-## Result
+## Submission
 
-- **Correct answer:** It splits a string into an array of substrings based on a specified delimiter
-- **Submitted at:** 2026-06-11T13:42:04.224Z
+- **Correct answer:** split()
+- **Submitted at:** 2026-06-11T13:40:57.517Z
 - **Correct submission:** True
 
 ## Explanation
