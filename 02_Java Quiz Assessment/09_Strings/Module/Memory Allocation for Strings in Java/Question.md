@@ -1,19 +1,19 @@
 # Memory Allocation for Strings in Java
 
+> ✅ Solved
+
 ## Question
 
 Memory Allocation for Strings in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Constant pool | Yes | Yes |
-| N | Non-Constant pool | No | No |
-| B | Both Constant pool and Non-Constant pool | No | No |
-| N | None of the above | No | No |
+- ✅ **A. Constant pool** — Correct answer
+- ⬜ **B.** Non-Constant pool
+- ⬜ **C.** Both Constant pool and Non-Constant pool
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Constant pool
 - **Submitted at:** 2026-06-11T13:43:33.593Z
