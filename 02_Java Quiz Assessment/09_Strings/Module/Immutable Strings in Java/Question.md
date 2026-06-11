@@ -4,7 +4,7 @@
 
 ## Question
 
-Immutable Strings in Java
+Can an immutable string be modified after it is created in Java?
 
 ## Answer choices
 
