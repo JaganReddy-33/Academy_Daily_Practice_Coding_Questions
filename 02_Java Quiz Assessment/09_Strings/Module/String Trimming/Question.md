@@ -1,19 +1,19 @@
 # String Trimming
 
+> ✅ Solved
+
 ## Question
 
 String Trimming
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| t | trim() | Yes | Yes |
-| r | removeWhitespace() | No | No |
-| d | deleteWhitespace() | No | No |
-| r | replaceWhitespace() | No | No |
+- ✅ **A. trim()** — Correct answer
+- ⬜ **B.** removeWhitespace()
+- ⬜ **C.** deleteWhitespace()
+- ⬜ **D.** replaceWhitespace()
 
-## Result
+## Submission
 
 - **Correct answer:** trim()
 - **Submitted at:** 2026-06-11T13:37:58.084Z
