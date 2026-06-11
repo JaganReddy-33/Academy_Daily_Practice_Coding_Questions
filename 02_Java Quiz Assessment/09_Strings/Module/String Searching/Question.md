@@ -4,7 +4,7 @@
 
 ## Question
 
-String Searching
+Which method is used to search for a specific character or substring within a string in Java?
 
 ## Answer choices
 
