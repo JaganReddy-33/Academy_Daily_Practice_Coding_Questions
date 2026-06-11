@@ -4,7 +4,7 @@
 
 ## Question
 
-String Substring
+Which method is used to extract a substring from a string in Java?
 
 ## Answer choices
 
