@@ -4,7 +4,7 @@
 
 ## Question
 
-String Length
+Which method is used to determine the length of a string in Java?
 
 ## Answer choices
 
