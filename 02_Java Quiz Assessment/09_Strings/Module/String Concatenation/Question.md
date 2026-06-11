@@ -1,22 +1,22 @@
 # String Concatenation
 
+> ✅ Solved
+
 ## Question
 
 String Concatenation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| U | Using the `+` operator | No | No |
-| U | Using the `StringBuilder` class | Yes | Yes |
-| U | Using the `concat()` method | No | No |
-| U | Using the `StringBuffer` class | No | No |
+- ✅ **A. <p>   + operator</p>** — Correct answer
+- ⬜ **B.** <p>   * operator</p>
+- ⬜ **C.** <p>   - operator</p>
+- ⬜ **D.** <p>   / operator</p>
 
-## Result
+## Submission
 
-- **Correct answer:** Using the `StringBuilder` class
-- **Submitted at:** 2026-06-11T13:42:37.881Z
+- **Correct answer:** <p>   + operator</p>
+- **Submitted at:** 2026-06-11T13:37:21.802Z
 - **Correct submission:** True
 
 ## Explanation
