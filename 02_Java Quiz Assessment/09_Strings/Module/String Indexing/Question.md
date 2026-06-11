@@ -4,7 +4,7 @@
 
 ## Question
 
-String Indexing
+In Java, what is the index of the first character in a string?
 
 ## Answer choices
 
