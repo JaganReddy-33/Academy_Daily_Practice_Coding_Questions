@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating Immutable Strings in Java
+In Java, how are immutable strings created?
 
 ## Answer choices
 
