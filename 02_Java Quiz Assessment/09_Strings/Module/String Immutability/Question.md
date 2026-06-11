@@ -4,7 +4,7 @@
 
 ## Question
 
-String Immutability
+In Java, are strings immutable?
 
 ## Answer choices
 
