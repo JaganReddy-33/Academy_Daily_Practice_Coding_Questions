@@ -4,7 +4,7 @@
 
 ## Question
 
-Memory Allocation for Strings in Java
+Strings that are created without using the 'new' keyword are allocated memory in which pool?
 
 ## Answer choices
 
