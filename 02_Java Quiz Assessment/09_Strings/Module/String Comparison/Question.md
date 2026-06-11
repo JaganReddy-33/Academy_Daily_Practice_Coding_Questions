@@ -4,19 +4,19 @@
 
 ## Question
 
-String Comparison
+Which method should you use to compare two strings for equality in Java?
 
 ## Answer choices
 
-- ✅ **A. compareTo()** — Correct answer
-- ⬜ **B.** equals()
-- ⬜ **C.** substring()
-- ⬜ **D.** concat()
+- ⬜ **A.** == operator
+- ✅ **B. equals() method** — Correct answer
+- ⬜ **C.** compareTo() method
+- ⬜ **D.** compare() method
 
 ## Submission
 
-- **Correct answer:** compareTo()
-- **Submitted at:** 2026-06-11T13:41:37.578Z
+- **Correct answer:** equals() method
+- **Submitted at:** 2026-06-11T13:38:57.081Z
 - **Correct submission:** True
 
 ## Explanation
