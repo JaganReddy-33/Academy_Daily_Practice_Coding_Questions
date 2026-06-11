@@ -1,19 +1,19 @@
 # String Comparison in Java [Strings]
 
+> ✅ Solved
+
 ## Question
 
 String Comparison in Java [Strings]
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>The references of str1 and str2 are same</p> | No | No |
-| < | <p>The references of str1 and str2 are not same</p> | Yes | Yes |
-| < | <p>Error</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ⬜ **A.** <p>The references of str1 and str2 are same</p>
+- ✅ **B. <p>The references of str1 and str2 are not same</p>** — Correct answer
+- ⬜ **C.** <p>Error</p>
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>The references of str1 and str2 are not same</p>
 - **Submitted at:** 2026-06-11T13:43:53.188Z
