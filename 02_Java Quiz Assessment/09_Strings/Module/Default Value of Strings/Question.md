@@ -1,19 +1,19 @@
 # Default Value of Strings
 
+> ✅ Solved
+
 ## Question
 
 Default Value of Strings
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>null</p> | Yes | Yes |
-| < | <p>0</p> | No | No |
-| < | <p>false</p> | No | No |
-| < | <p>A</p> | No | No |
+- ✅ **A. <p>null</p>** — Correct answer
+- ⬜ **B.** <p>0</p>
+- ⬜ **C.** <p>false</p>
+- ⬜ **D.** <p>A</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>null</p>
 - **Submitted at:** 2026-06-11T13:41:23.825Z
