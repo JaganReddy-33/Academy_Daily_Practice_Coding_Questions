@@ -4,7 +4,7 @@
 
 ## Question
 
-String Trimming
+Which method is used to remove leading and trailing whitespace from a string in Java?
 
 ## Answer choices
 
