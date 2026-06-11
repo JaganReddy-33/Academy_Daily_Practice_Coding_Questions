@@ -1,19 +1,19 @@
 # String Compare
 
+> ✅ Solved
+
 ## Question
 
 String Compare
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>true</p> | No | No |
-| < | <p>false</p> | Yes | Yes |
-| < | <p>Java</p> | No | No |
-| < | <p>null</p> | No | No |
+- ⬜ **A.** <p>true</p>
+- ✅ **B. <p>false</p>** — Correct answer
+- ⬜ **C.** <p>Java</p>
+- ⬜ **D.** <p>null</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>false</p>
 - **Submitted at:** 2026-06-11T13:36:40.390Z
