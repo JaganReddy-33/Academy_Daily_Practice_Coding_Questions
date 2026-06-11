@@ -1,19 +1,19 @@
 # String Length
 
+> ✅ Solved
+
 ## Question
 
 String Length
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| l | length() | Yes | Yes |
-| s | size() | No | No |
-| c | count() | No | No |
-| g | getSize() | No | No |
+- ✅ **A. length()** — Correct answer
+- ⬜ **B.** size()
+- ⬜ **C.** count()
+- ⬜ **D.** getSize()
 
-## Result
+## Submission
 
 - **Correct answer:** length()
 - **Submitted at:** 2026-06-11T13:37:06.342Z
