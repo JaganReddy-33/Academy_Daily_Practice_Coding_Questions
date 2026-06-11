@@ -4,7 +4,7 @@
 
 ## Question
 
-Mutable Strings in Java
+Can a mutable string be modified after it is created in Java?
 
 ## Answer choices
 
