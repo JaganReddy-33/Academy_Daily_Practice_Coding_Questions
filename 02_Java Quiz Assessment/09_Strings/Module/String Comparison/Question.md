@@ -1,22 +1,22 @@
 # String Comparison
 
+> ✅ Solved
+
 ## Question
 
 String Comparison
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| c | compareTo() | Yes | Yes |
-| e | equals() | No | No |
-| s | substring() | No | No |
-| c | concat() | No | No |
+- ⬜ **A.** == operator
+- ✅ **B. equals() method** — Correct answer
+- ⬜ **C.** compareTo() method
+- ⬜ **D.** compare() method
 
-## Result
+## Submission
 
-- **Correct answer:** compareTo()
-- **Submitted at:** 2026-06-11T13:41:37.578Z
+- **Correct answer:** equals() method
+- **Submitted at:** 2026-06-11T13:38:57.081Z
 - **Correct submission:** True
 
 ## Explanation
