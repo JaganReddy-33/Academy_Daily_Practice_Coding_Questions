@@ -1,19 +1,19 @@
 # String Searching
 
+> ✅ Solved
+
 ## Question
 
 String Searching
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | indexOf() | Yes | Yes |
-| c | contains() | No | No |
-| s | startsWith() | No | No |
-| e | equals() | No | No |
+- ✅ **A. indexOf()** — Correct answer
+- ⬜ **B.** contains()
+- ⬜ **C.** startsWith()
+- ⬜ **D.** equals()
 
-## Result
+## Submission
 
 - **Correct answer:** indexOf()
 - **Submitted at:** 2026-06-11T13:37:49.381Z
