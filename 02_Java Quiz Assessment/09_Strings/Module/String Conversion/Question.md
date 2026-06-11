@@ -8,15 +8,15 @@ String Conversion
 
 ## Answer choices
 
-- ✅ **A. toUpperCase()** — Correct answer
-- ⬜ **B.** toLowerCase()
-- ⬜ **C.** convertCase()
-- ⬜ **D.** caseChange()
+- ✅ **A. parseInt()** — Correct answer
+- ⬜ **B.** toInteger()
+- ⬜ **C.** convertToInteger()
+- ⬜ **D.** castToInt()
 
 ## Submission
 
-- **Correct answer:** toUpperCase()
-- **Submitted at:** 2026-06-11T13:38:08.139Z
+- **Correct answer:** parseInt()
+- **Submitted at:** 2026-06-11T13:40:41.819Z
 - **Correct submission:** True
 
 ## Explanation
