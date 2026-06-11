@@ -1,17 +1,17 @@
 # Java String Quotes
 
+> ✅ Solved
+
 ## Question
 
 Java String Quotes
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Yes</p> | No | No |
-| < | <p>No</p> | Yes | Yes |
+- ⬜ **A.** <p>Yes</p>
+- ✅ **B. <p>No</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>No</p>
 - **Submitted at:** 2026-06-11T13:44:02.350Z
