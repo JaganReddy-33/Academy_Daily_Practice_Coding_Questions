@@ -1,17 +1,17 @@
 # Immutable Strings in Java
 
+> ✅ Solved
+
 ## Question
 
 Immutable Strings in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-06-11T13:42:50.720Z
