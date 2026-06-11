@@ -1,19 +1,19 @@
 # String Indexing
 
+> ✅ Solved
+
 ## Question
 
 String Indexing
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 0 | 0 | Yes | Yes |
-| 1 | 1 | No | No |
-| - | -1 | No | No |
-| n | null | No | No |
+- ✅ **A. 0** — Correct answer
+- ⬜ **B.** 1
+- ⬜ **C.** -1
+- ⬜ **D.** null
 
-## Result
+## Submission
 
 - **Correct answer:** 0
 - **Submitted at:** 2026-06-11T13:39:56.607Z
