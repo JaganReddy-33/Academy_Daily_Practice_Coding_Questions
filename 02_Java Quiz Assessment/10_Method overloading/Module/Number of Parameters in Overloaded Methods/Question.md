@@ -4,7 +4,7 @@
 
 ## Question
 
-Number of Parameters in Overloaded Methods
+Overloaded methods must have the same number of parameters.
 
 ## Answer choices
 
