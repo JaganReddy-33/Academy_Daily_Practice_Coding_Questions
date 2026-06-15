@@ -4,7 +4,7 @@
 
 ## Question
 
-Overloaded Methods and Method Names
+Overloaded methods must have different method names.
 
 ## Answer choices
 
