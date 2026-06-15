@@ -4,7 +4,7 @@
 
 ## Question
 
-Method Overloading and Return Type
+Can method overloading be based solely on the return type in Java?
 
 ## Answer choices
 
