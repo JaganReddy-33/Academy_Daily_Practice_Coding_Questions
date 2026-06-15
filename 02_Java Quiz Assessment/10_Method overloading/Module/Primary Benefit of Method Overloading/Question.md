@@ -4,7 +4,7 @@
 
 ## Question
 
-Primary Benefit of Method Overloading
+What is the primary benefit of method overloading in Java?
 
 ## Answer choices
 
