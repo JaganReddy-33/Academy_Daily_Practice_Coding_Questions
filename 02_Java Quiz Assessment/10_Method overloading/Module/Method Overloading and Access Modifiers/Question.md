@@ -4,7 +4,7 @@
 
 ## Question
 
-Method Overloading and Access Modifiers
+Can methods with different access modifiers be overloaded in Java?
 
 ## Answer choices
 
