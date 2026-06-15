@@ -8,15 +8,15 @@ Method Overloading
 
 ## Answer choices
 
-- ⬜ **A.** <p>Method overloading is the process of combining multiple methods into a single method.</p>
-- ⬜ **B.** <p>Method overloading allows a method to have multiple return types.</p>
-- ✅ **C. <p>Method overloading enables a class to have multiple methods with the same name but different parameters.</p>** — Correct answer
-- ⬜ **D.** <p>Method overloading is a technique used to override methods inherited from a superclass.</p>
+- ⬜ **A.** Defining multiple methods with the same name but different return types.
+- ✅ **B. Defining multiple methods with the same name but different parameter types.** — Correct answer
+- ⬜ **C.** Defining multiple methods with the same name and same parameter types.
+- ⬜ **D.** Defining multiple methods with the same name and same return types.
 
 ## Submission
 
-- **Correct answer:** <p>Method overloading enables a class to have multiple methods with the same name but different parameters.</p>
-- **Submitted at:** 2026-06-15T17:14:39.029Z
+- **Correct answer:** Defining multiple methods with the same name but different parameter types.
+- **Submitted at:** 2026-06-15T17:06:23.618Z
 - **Correct submission:** True
 
 ## Explanation
