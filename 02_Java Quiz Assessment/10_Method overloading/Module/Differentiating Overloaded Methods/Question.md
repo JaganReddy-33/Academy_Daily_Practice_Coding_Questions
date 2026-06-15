@@ -4,7 +4,7 @@
 
 ## Question
 
-Differentiating Overloaded Methods
+If a method is overloaded in a class, how does the Java compiler differentiate between the overloaded methods?
 
 ## Answer choices
 
