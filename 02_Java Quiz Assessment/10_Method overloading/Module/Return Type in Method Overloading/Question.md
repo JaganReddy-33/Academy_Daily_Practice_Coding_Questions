@@ -4,7 +4,7 @@
 
 ## Question
 
-Return Type in Method Overloading
+<p>Can the return type be different when overloading a method in Java?</p>
 
 ## Answer choices
 
