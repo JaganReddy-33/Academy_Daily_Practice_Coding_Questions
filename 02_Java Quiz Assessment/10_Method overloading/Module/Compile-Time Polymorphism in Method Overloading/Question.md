@@ -4,7 +4,7 @@
 
 ## Question
 
-Compile-Time Polymorphism in Method Overloading
+Explain the concept of compile-time polymorphism in the context of method overloading.
 
 ## Answer choices
 
