@@ -4,7 +4,7 @@
 
 ## Question
 
-Benefits of Method Overloading
+Method overloading can improve code readability and maintainability.
 
 ## Answer choices
 
