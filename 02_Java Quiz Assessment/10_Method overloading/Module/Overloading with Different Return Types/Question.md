@@ -4,7 +4,7 @@
 
 ## Question
 
-Overloading with Different Return Types
+Can two methods with the same name and parameter types but different return types be overloaded in Java?
 
 ## Answer choices
 
@@ -14,7 +14,7 @@ Overloading with Different Return Types
 ## Submission
 
 - **Correct answer:** No
-- **Submitted at:** 2026-06-15T17:13:03.606Z
+- **Submitted at:** 2026-06-15T17:07:21.734Z
 - **Correct submission:** True
 
 ## Explanation
