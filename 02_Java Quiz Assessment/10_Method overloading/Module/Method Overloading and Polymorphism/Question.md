@@ -4,7 +4,7 @@
 
 ## Question
 
-Method Overloading and Polymorphism
+Method overloading is an example of which of the following in Java?
 
 ## Answer choices
 
