@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>&lt;strike&gt;</p> | No | No |
-| < | <p>&lt;u&gt;</p> | No | No |
-| < | <p>&lt;overline&gt;</p> | No | No |
-| < | <p>&lt;span style="text-decoration: overline;"&gt;</p> | Yes | Yes |
+| b | border: 2px solid black; | No | No |
+| b | border-width: 2px; border-style: solid; border-color: black; | No | No |
+| b | border: 2 solid black; | No | No |
+| s | style="border: 2px solid black;" | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** <p>&lt;span style="text-decoration: overline;"&gt;</p>
-- **Submitted at:** 2026-06-16T14:14:06.041Z
+- **Correct answer:** style="border: 2px solid black;"
+- **Submitted at:** 2026-06-16T14:14:33.924Z
 - **Correct submission:** True
 
 ## Explanation
