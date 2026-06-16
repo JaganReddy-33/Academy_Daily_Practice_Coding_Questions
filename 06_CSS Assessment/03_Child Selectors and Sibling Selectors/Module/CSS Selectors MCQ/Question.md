@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 ## Answer choices
 
-- ✅ **A. <p>div &gt; p</p>** — Correct answer
-- ⬜ **B.** <p>div + p</p>
-- ⬜ **C.** <p>div ~ p</p>
-- ⬜ **D.** <p>div p</p>
+- ✅ **A. <p>&gt;</p>** — Correct answer
+- ⬜ **B.** <p>~</p>
+- ⬜ **C.** <p>+</p>
+- ⬜ **D.** <p>None of the above</p>
 
 ## Submission
 
-- **Correct answer:** <p>div &gt; p</p>
-- **Submitted at:** 2026-06-16T13:34:49.373Z
+- **Correct answer:** <p>&gt;</p>
+- **Submitted at:** 2026-06-16T13:35:13.982Z
 - **Correct submission:** True
 
 ## Explanation
