@@ -38,4 +38,4 @@ class Main {
         System.out.println("Quotient of an integer and a double: "+calc.divide(30, 2.5));
        
     }
-}
+}
