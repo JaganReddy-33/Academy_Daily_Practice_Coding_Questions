@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| A | All elements with the attribute type equal to 'submit' | Yes | Yes |
-| A | All submit buttons | No | No |
-| A | All elements with the class 'submit' | No | No |
-| A | All elements with the attribute name equal to 'submit' | No | No |
+| A | All elements with the class 'btn-' | No | No |
+| A | All elements with class names starting with 'btn-' | Yes | Yes |
+| A | All elements with class names containing 'btn-' | No | No |
+| A | All buttons with the class name 'btn-' | No | No |
 
 ## Result
 
-- **Correct answer:** All elements with the attribute type equal to 'submit'
-- **Submitted at:** 2026-06-16T13:38:29.269Z
+- **Correct answer:** All elements with class names starting with 'btn-'
+- **Submitted at:** 2026-06-16T13:38:56.212Z
 - **Correct submission:** True
 
 ## Explanation
