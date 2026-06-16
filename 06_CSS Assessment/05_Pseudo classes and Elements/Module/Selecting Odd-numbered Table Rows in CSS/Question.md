@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Odd-numbered Table Rows in CSS
+How do you select odd-numbered table rows using CSS?
 
 ## Answer choices
 
