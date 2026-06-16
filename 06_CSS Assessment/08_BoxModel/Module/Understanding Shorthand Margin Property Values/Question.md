@@ -4,7 +4,7 @@
 
 ## Question
 
-Understanding Shorthand Margin Property Values
+In a shorthand margin property (e.g., margin: 10px 5px 15px 20px;), what does the fourth value represent?
 
 ## Answer choices
 
