@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Odd-indexed Elements with Class in CSS
+Which CSS selector is used to select all odd-indexed elements with the class 'odd' in a list?
 
 ## Answer choices
 
