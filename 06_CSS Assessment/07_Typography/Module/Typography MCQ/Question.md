@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>&lt;ul&gt;</p> | No | No |
-| < | <p>&lt;em&gt;</p> | No | No |
-| < | <p>&lt;ins&gt;</p> | Yes | Yes |
-| < | <p>&lt;del&gt;</p> | No | No |
+| t | text-decoration-color | Yes | Yes |
+| t | text-decoration-line | No | No |
+| t | text-decoration-style | No | No |
+| d | decoration-color | No | No |
 
 ## Result
 
-- **Correct answer:** <p>&lt;ins&gt;</p>
-- **Submitted at:** 2026-06-16T14:08:21.630Z
+- **Correct answer:** text-decoration-color
+- **Submitted at:** 2026-06-16T14:10:58.519Z
 - **Correct submission:** True
 
 ## Explanation
