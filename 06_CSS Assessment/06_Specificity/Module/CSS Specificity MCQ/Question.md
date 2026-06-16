@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 ## Answer choices
 
-- ⬜ **A.** By the number of properties in a CSS rule
-- ⬜ **B.** By the number of selectors in a CSS rule
-- ⬜ **C.** By the number of elements affected by a CSS rule
-- ✅ **D. By assigning weights to different types of selectors in a CSS rule** — Correct answer
+- ✅ **A. ID selectors** — Correct answer
+- ⬜ **B.** Class selectors
+- ⬜ **C.** Element selectors
+- ⬜ **D.** Universal selectors
 
 ## Submission
 
-- **Correct answer:** By assigning weights to different types of selectors in a CSS rule
-- **Submitted at:** 2026-06-16T13:56:05.147Z
+- **Correct answer:** ID selectors
+- **Submitted at:** 2026-06-16T13:56:38.456Z
 - **Correct submission:** True
 
 ## Explanation
