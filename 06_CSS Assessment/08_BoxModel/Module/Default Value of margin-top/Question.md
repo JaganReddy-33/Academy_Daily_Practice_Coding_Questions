@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Value of 'margin-top'
+What is the default value of 'margin-top'?
 
 ## Answer choices
 
