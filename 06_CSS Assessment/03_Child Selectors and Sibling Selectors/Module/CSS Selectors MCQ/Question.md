@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| S | Selects all descendants of a specified element | Yes | Yes |
-| S | Selects only direct children of a specified element | No | No |
-| S | Selects elements that are siblings of a specified element and appear after it | No | No |
-| S | Selects elements that are siblings of a specified element regardless of their position | No | No |
+| < | <p>All elements inside <code>&lt;p&gt;</code> elements that are siblings of a <code>&lt;div&gt;</code>.</p> | No | No |
+| < | <p>All elements that are direct children of <code>&lt;a&gt;</code> elements, which are descendants of a <code>&lt;p&gt;</code>.</p> | No | No |
+| < | <p>All <code>&lt;a&gt;</code> elements that are direct children of <code>&lt;p&gt;</code> elements, which are siblings of <code>&lt;div&gt;</code> elements.</p> | Yes | Yes |
+| < | <p>All elements inside <code>&lt;div&gt;</code> elements that are siblings of <code>&lt;p&gt;</code>.</p> | No | No |
 
 ## Result
 
-- **Correct answer:** Selects all descendants of a specified element
-- **Submitted at:** 2026-06-16T13:36:00.117Z
+- **Correct answer:** <p>All <code>&lt;a&gt;</code> elements that are direct children of <code>&lt;p&gt;</code> elements, which are siblings of <code>&lt;div&gt;</code> elements.</p>
+- **Submitted at:** 2026-06-16T13:36:56.358Z
 - **Correct submission:** True
 
 ## Explanation
