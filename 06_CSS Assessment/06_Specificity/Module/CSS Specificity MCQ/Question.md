@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| . | .container > div | No | No |
-| d | div.container | No | No |
-| # | #container div | No | No |
-| d | div#container.info | Yes | Yes |
+| T | The rule written last in the stylesheet takes precedence | Yes | Yes |
+| T | The rule with the highest specificity takes precedence | No | No |
+| T | The browser applies both rules randomly | No | No |
+| T | The rule with the lowest specificity takes precedence | No | No |
 
 ## Result
 
-- **Correct answer:** div#container.info
-- **Submitted at:** 2026-06-16T13:57:56.333Z
+- **Correct answer:** The rule written last in the stylesheet takes precedence
+- **Submitted at:** 2026-06-16T13:58:09.471Z
 - **Correct submission:** True
 
 ## Explanation
