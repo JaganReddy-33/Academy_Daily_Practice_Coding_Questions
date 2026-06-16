@@ -4,7 +4,7 @@
 
 ## Question
 
-Centering an Element Horizontally Using 'margin-top'
+How can you center an element horizontally using 'margin-top'?
 
 ## Answer choices
 
