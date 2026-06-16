@@ -4,7 +4,7 @@
 
 ## Question
 
-Shorthand Margin Property
+In a shorthand margin property (e.g., margin: 10px 5px 15px 20px;), what does the first value represent?
 
 ## Answer choices
 
