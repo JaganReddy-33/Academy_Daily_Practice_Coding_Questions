@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the :not() Pseudo-class in CSS
+What is the purpose of the pseudo-class :not() in CSS?
 
 ## Answer choices
 
