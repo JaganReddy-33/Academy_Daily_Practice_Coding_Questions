@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Attribute Selector Character MCQ
+<p>What character is used in a partial value attribute selector to target elements with attributes containing a specified substring?</p>
 
 ## Answer choices
 
