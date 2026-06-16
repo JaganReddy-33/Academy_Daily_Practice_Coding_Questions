@@ -4,7 +4,7 @@
 
 ## Question
 
-Ignoring the 'margin-top' Property
+When is the 'margin-top' property ignored?
 
 ## Answer choices
 
