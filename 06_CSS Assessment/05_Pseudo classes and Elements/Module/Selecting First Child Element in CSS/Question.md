@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting First Child Element in CSS
+How do you select the first child element of a parent?
 
 ## Answer choices
 
