@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Last Three List Items in CSS
+How do you select the last three list items in an unordered list with the class 'menu'?
 
 ## Answer choices
 
