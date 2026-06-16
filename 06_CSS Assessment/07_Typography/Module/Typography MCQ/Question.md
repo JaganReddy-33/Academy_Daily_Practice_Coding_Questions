@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | text-style: italic; | No | No |
-| f | font-style: italic; | Yes | Yes |
-| i | italic: true; | No | No |
-| s | style="font-style: italic;" | No | No |
+| d | decoration: underline; | No | No |
+| t | text-decoration: underline; | Yes | Yes |
+| u | underline: true; | No | No |
+| s | style="text-decoration: underline;" | No | No |
 
 ## Result
 
-- **Correct answer:** font-style: italic;
-- **Submitted at:** 2026-06-16T14:15:30.883Z
+- **Correct answer:** text-decoration: underline;
+- **Submitted at:** 2026-06-16T14:15:40.443Z
 - **Correct submission:** True
 
 ## Explanation
