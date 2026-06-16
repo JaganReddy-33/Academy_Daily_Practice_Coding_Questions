@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting All Elements Except One in CSS
+Which CSS selector is used to select all elements except the one with a specific ID?
 
 ## Answer choices
 
