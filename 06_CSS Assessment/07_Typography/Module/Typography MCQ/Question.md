@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| l | line-height | No | No |
-| t | text-spacing | No | No |
-| l | letter-spacing | Yes | Yes |
-| w | word-spacing | No | No |
+| t | text-transform | Yes | Yes |
+| f | font-style | No | No |
+| f | font-variant | No | No |
+| t | text-decoration | No | No |
 
 ## Result
 
-- **Correct answer:** letter-spacing
-- **Submitted at:** 2026-06-16T14:06:41.183Z
+- **Correct answer:** text-transform
+- **Submitted at:** 2026-06-16T14:07:06.088Z
 - **Correct submission:** True
 
 ## Explanation
