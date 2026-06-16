@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| I | It increases the specificity of a rule to the maximum possible value | Yes | Yes |
-| I | It decreases the specificity of a rule to the minimum possible value | No | No |
-| I | It has no effect on specificity | No | No |
-| I | It makes the rule less important compared to other rules | No | No |
+| # | #content p | Yes | Yes |
+| . | .content p | No | No |
+| p | p.content | No | No |
+| d | div p | No | No |
 
 ## Result
 
-- **Correct answer:** It increases the specificity of a rule to the maximum possible value
-- **Submitted at:** 2026-06-16T13:59:21.474Z
+- **Correct answer:** #content p
+- **Submitted at:** 2026-06-16T13:59:33.264Z
 - **Correct submission:** True
 
 ## Explanation
