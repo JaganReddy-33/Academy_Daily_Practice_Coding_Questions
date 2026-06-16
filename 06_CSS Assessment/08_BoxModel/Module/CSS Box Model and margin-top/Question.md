@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Box Model and 'margin-top'
+Which CSS box model property does 'margin-top' belong to?
 
 ## Answer choices
 
