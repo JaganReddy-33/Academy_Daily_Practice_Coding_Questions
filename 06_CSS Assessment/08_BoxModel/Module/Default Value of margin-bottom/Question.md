@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Value of 'margin-bottom'
+What is the default value of 'margin-bottom'?
 
 ## Answer choices
 
