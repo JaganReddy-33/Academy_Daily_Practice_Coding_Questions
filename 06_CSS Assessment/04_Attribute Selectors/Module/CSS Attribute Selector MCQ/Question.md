@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| = | = | No | No |
-| ~ | ~= | Yes | Yes |
-| * | *= | No | No |
-| | | |= | No | No |
+| A | All elements with the attribute lang containing 'en' | No | No |
+| A | All elements with the attribute lang starting with 'en' | No | No |
+| A | All elements with the attribute lang ending with 'en' | No | No |
+| A | All elements with the attribute lang having a value equal to 'en' or starting with 'en-' | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** ~=
-- **Submitted at:** 2026-06-16T13:42:07.895Z
+- **Correct answer:** All elements with the attribute lang having a value equal to 'en' or starting with 'en-'
+- **Submitted at:** 2026-06-16T13:42:21.218Z
 - **Correct submission:** True
 
 ## Explanation
