@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| = | = | No | No |
-| ~ | ~= | No | No |
-| * | *= | Yes | Yes |
-| ^ | ^= | No | No |
+| [ | [href^="value"] | No | No |
+| [ | [name="value"] | No | No |
+| [ | [class~="value"] | No | No |
+| [ | [href="value" value="target"] | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** *=
-- **Submitted at:** 2026-06-16T13:40:56.923Z
+- **Correct answer:** [href="value" value="target"]
+- **Submitted at:** 2026-06-16T13:41:07.176Z
 - **Correct submission:** True
 
 ## Explanation
