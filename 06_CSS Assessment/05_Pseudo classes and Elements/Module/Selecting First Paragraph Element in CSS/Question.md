@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting First Paragraph Element in CSS
+How do you select the first paragraph element inside a div with the class 'content'?
 
 ## Answer choices
 
