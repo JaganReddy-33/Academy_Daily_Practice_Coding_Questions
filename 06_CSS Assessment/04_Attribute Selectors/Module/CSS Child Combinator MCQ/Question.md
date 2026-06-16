@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Child Combinator MCQ
+In CSS, what does the child combinator (>) select?
 
 ## Answer choices
 
