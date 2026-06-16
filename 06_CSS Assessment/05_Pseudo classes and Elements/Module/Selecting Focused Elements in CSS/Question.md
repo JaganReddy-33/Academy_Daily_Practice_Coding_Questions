@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Focused Elements in CSS
+Which CSS selector is used to select an element when it has focus?
 
 ## Answer choices
 
