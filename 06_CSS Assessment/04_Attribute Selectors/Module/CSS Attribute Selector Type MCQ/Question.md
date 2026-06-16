@@ -8,15 +8,15 @@ CSS Attribute Selector Type MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Simple attribute selector</p> | No | No |
-| < | <p>Exact value attribute selector</p> | Yes | Yes |
-| < | <p>Partial value attribute selector</p> | No | No |
-| < | <p>Grouped attribute selector</p> | No | No |
+| S | Simple attribute selector | No | No |
+| E | Exact value attribute selector | No | No |
+| P | Partial value attribute selector | Yes | Yes |
+| G | Grouped attribute selector | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Exact value attribute selector</p>
-- **Submitted at:** 2026-06-16T13:44:48.530Z
+- **Correct answer:** Partial value attribute selector
+- **Submitted at:** 2026-06-16T13:45:29.676Z
 - **Correct submission:** True
 
 ## Explanation
