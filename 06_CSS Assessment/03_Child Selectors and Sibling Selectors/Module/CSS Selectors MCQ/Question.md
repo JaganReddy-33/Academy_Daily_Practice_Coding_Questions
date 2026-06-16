@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>All <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, and <code>&lt;h3&gt;</code> elements on the page</p> | Yes | Yes |
-| < | <p>Only <code>&lt;h1&gt;</code> elements</p> | No | No |
-| < | <p>Only <code>&lt;h2&gt;</code> and <code>&lt;h3&gt;</code> elements</p> | No | No |
-| < | <p>All elements with the class names 'h1', 'h2', and 'h3'</p> | No | No |
+| < | <p>All <code>&lt;p&gt;</code> elements that are immediate children of <code>&lt;ul&gt;</code> elements</p> | No | No |
+| < | <p>All <code>&lt;p&gt;</code> elements that are siblings of <code>&lt;ul&gt;</code> elements</p> | Yes | Yes |
+| < | <p>All <code>&lt;p&gt;</code> elements that come before <code>&lt;ul&gt;</code> elements</p> | No | No |
+| < | <p>All <code>&lt;p&gt;</code> elements that are descendants of <code>&lt;ul&gt;</code> elements</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>All <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, and <code>&lt;h3&gt;</code> elements on the page</p>
-- **Submitted at:** 2026-06-16T13:32:34.825Z
+- **Correct answer:** <p>All <code>&lt;p&gt;</code> elements that are siblings of <code>&lt;ul&gt;</code> elements</p>
+- **Submitted at:** 2026-06-16T13:32:54.944Z
 - **Correct submission:** True
 
 ## Explanation
