@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| l | line-height | Yes | Yes |
-| s | spacing | No | No |
-| t | text-spacing | No | No |
-| s | style="line-height: ...;" | No | No |
+| t | text-style: italic; | No | No |
+| f | font-style: italic; | Yes | Yes |
+| i | italic: true; | No | No |
+| s | style="font-style: italic;" | No | No |
 
 ## Result
 
-- **Correct answer:** line-height
-- **Submitted at:** 2026-06-16T14:15:08.423Z
+- **Correct answer:** font-style: italic;
+- **Submitted at:** 2026-06-16T14:15:30.883Z
 - **Correct submission:** True
 
 ## Explanation
