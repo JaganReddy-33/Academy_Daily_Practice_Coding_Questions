@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting First Child Element with ID in CSS
+How do you select the first child element with the ID 'intro' within a section?
 
 ## Answer choices
 
