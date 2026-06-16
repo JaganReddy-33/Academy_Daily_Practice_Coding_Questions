@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| I | It decreases the specificity of a rule | No | No |
-| I | It increases the specificity of a rule | Yes | Yes |
-| I | It overrides inline styles | No | No |
-| I | It has no effect on specificity | No | No |
+| T | The more specific rules always override less specific ones | Yes | Yes |
+| S | Specificity is irrelevant in CSS | No | No |
+| S | Specificity determines the order in which rules are applied | No | No |
+| S | Specificity only applies to inline styles | No | No |
 
 ## Result
 
-- **Correct answer:** It increases the specificity of a rule
-- **Submitted at:** 2026-06-16T14:00:52.068Z
+- **Correct answer:** The more specific rules always override less specific ones
+- **Submitted at:** 2026-06-16T14:01:18.304Z
 - **Correct submission:** True
 
 ## Explanation
