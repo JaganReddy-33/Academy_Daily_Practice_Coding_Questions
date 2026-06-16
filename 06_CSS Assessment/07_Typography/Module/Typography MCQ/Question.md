@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
+| f | font-weight | Yes | Yes |
 | f | font-style | No | No |
-| f | font-weight | No | No |
-| f | font-family | Yes | Yes |
+| t | text-decoration | No | No |
 | f | font-size | No | No |
 
 ## Result
 
-- **Correct answer:** font-family
-- **Submitted at:** 2026-06-16T14:02:49.242Z
+- **Correct answer:** font-weight
+- **Submitted at:** 2026-06-16T14:03:11.919Z
 - **Correct submission:** True
 
 ## Explanation
