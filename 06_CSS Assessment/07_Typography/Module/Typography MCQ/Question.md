@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | text-align | Yes | Yes |
-| a | align-text | No | No |
-| t | text-justify | No | No |
-| a | align-content | No | No |
+| t | text-align: center; | Yes | Yes |
+| t | text-align: right; | No | No |
+| t | text-align: left; | No | No |
+| t | text-align: justify; | No | No |
 
 ## Result
 
-- **Correct answer:** text-align
-- **Submitted at:** 2026-06-16T14:13:39.443Z
+- **Correct answer:** text-align: center;
+- **Submitted at:** 2026-06-16T14:13:45.663Z
 - **Correct submission:** True
 
 ## Explanation
