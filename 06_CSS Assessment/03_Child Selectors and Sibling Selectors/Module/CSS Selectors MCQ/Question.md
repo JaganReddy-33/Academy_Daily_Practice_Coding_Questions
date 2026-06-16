@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 ## Answer choices
 
-- ⬜ **A.** <p>h1 + p</p>
-- ✅ **B. <p>h1 ~ p</p>** — Correct answer
-- ⬜ **C.** <p>h1 &gt; p</p>
-- ⬜ **D.** <p>h1 p</p>
+- ⬜ **A.** <p>&gt;</p>
+- ⬜ **B.** <p>~</p>
+- ⬜ **C.** <p>+</p>
+- ✅ **D. <p>None of the above</p>** — Correct answer
 
 ## Submission
 
-- **Correct answer:** <p>h1 ~ p</p>
-- **Submitted at:** 2026-06-16T13:29:41.695Z
+- **Correct answer:** <p>None of the above</p>
+- **Submitted at:** 2026-06-16T13:30:48.321Z
 - **Correct submission:** True
 
 ## Explanation
