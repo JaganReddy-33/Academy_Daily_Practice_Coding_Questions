@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 ## Answer choices
 
-- ⬜ **A.** <p>&gt;</p>
-- ⬜ **B.** <p>~</p>
-- ⬜ **C.** <p>+</p>
-- ✅ **D. <p>None of the above</p>** — Correct answer
+- ✅ **A. A>** — Correct answer
+- ⬜ **B.** B~
+- ⬜ **C.** C+
+- ⬜ **D.** DNone of the above
 
 ## Submission
 
-- **Correct answer:** <p>None of the above</p>
-- **Submitted at:** 2026-06-16T13:30:48.321Z
+- **Correct answer:** A>
+- **Submitted at:** 2026-06-16T13:31:06.871Z
 - **Correct submission:** True
 
 ## Explanation
