@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| # | #container .box p | No | No |
-| # | #container p.box | Yes | Yes |
-| . | .box p#container | No | No |
-| # | #container .box | No | No |
+| I | It decreases the specificity of a rule | No | No |
+| I | It increases the specificity of a rule | Yes | Yes |
+| I | It overrides inline styles | No | No |
+| I | It has no effect on specificity | No | No |
 
 ## Result
 
-- **Correct answer:** #container p.box
-- **Submitted at:** 2026-06-16T14:00:34.168Z
+- **Correct answer:** It increases the specificity of a rule
+- **Submitted at:** 2026-06-16T14:00:52.068Z
 - **Correct submission:** True
 
 ## Explanation
