@@ -4,7 +4,7 @@
 
 ## Question
 
-Effect of Negative 'margin-top' Value
+What happens if you set 'margin-top' to a negative value?
 
 ## Answer choices
 
