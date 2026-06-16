@@ -4,7 +4,7 @@
 
 ## Question
 
-Collapsing Margins Between Adjacent Elements
+Which property is used to collapse margins between adjacent elements?
 
 ## Answer choices
 
