@@ -8,15 +8,15 @@ Typography MCQ
 
 ## Answer choices
 
-- ✅ **A. text-decoration-line** — Correct answer
-- ⬜ **B.** text-line-decoration
-- ⬜ **C.** text-decoration-style
-- ⬜ **D.** text-style-decoration
+- ✅ **A. text-align** — Correct answer
+- ⬜ **B.** align-text
+- ⬜ **C.** text-justify
+- ⬜ **D.** align-content
 
 ## Submission
 
-- **Correct answer:** text-decoration-line
-- **Submitted at:** 2026-06-16T14:13:31.011Z
+- **Correct answer:** text-align
+- **Submitted at:** 2026-06-16T14:13:39.443Z
 - **Correct submission:** True
 
 ## Explanation
