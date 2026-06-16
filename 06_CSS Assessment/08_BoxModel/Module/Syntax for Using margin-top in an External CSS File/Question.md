@@ -4,7 +4,7 @@
 
 ## Question
 
-Syntax for Using 'margin-top' in an External CSS File
+Which of the following is the correct syntax for using 'margin-top' in an external CSS file?
 
 ## Answer choices
 
