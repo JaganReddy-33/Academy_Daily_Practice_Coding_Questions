@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | text-decoration-color | Yes | Yes |
-| t | text-decoration-line | No | No |
-| t | text-decoration-style | No | No |
-| d | decoration-color | No | No |
+| o | overflow-wrap | No | No |
+| t | text-align-last | Yes | Yes |
+| t | text-transform | No | No |
+| t | text-indent | No | No |
 
 ## Result
 
-- **Correct answer:** text-decoration-color
-- **Submitted at:** 2026-06-16T14:10:58.519Z
+- **Correct answer:** text-align-last
+- **Submitted at:** 2026-06-16T14:11:25.704Z
 - **Correct submission:** True
 
 ## Explanation
