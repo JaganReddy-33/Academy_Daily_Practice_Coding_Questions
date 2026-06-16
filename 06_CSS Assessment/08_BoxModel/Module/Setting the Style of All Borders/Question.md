@@ -4,7 +4,7 @@
 
 ## Question
 
-Setting the Style of All Borders
+Which CSS value is used to set the style of all borders?
 
 ## Answer choices
 
