@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| # | #content p | Yes | Yes |
-| . | .content p | No | No |
-| p | p.content | No | No |
-| d | div p | No | No |
+| I | ID selectors | No | No |
+| C | Class selectors | No | No |
+| E | Element selectors | No | No |
+| U | Universal selectors | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** #content p
-- **Submitted at:** 2026-06-16T13:59:33.264Z
+- **Correct answer:** Universal selectors
+- **Submitted at:** 2026-06-16T13:59:42.307Z
 - **Correct submission:** True
 
 ## Explanation
