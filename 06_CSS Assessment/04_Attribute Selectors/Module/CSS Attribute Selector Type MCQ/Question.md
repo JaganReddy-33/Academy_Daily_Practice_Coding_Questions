@@ -16,7 +16,7 @@ CSS Attribute Selector Type MCQ
 ## Result
 
 - **Correct answer:** Partial value attribute selector
-- **Submitted at:** 2026-06-16T13:45:29.676Z
+- **Submitted at:** 2026-06-16T13:45:51.812Z
 - **Correct submission:** True
 
 ## Explanation
