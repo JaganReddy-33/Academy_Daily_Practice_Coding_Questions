@@ -37,4 +37,4 @@ class Main {
         // Call the calculateArea method for a triangle
       System.out.println("Area of the triangle: "+cal.calculateArea(8, 6.5));
     }
-}
+}
