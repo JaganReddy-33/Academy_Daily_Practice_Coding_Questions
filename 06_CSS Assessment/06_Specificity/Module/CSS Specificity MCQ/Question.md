@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 ## Answer choices
 
-- ✅ **A. The rule written last in the stylesheet takes precedence** — Correct answer
-- ⬜ **B.** The rule with the highest specificity takes precedence
-- ⬜ **C.** The browser applies both rules randomly
-- ⬜ **D.** The rule with the lowest specificity takes precedence
+- ⬜ **A.** 1, 0, 0, 0
+- ✅ **B. 0, 0, 0, 0** — Correct answer
+- ⬜ **C.** 0, 0, 0, 1
+- ⬜ **D.** 0, 0, 1, 0
 
 ## Submission
 
-- **Correct answer:** The rule written last in the stylesheet takes precedence
-- **Submitted at:** 2026-06-16T13:58:09.471Z
+- **Correct answer:** 0, 0, 0, 0
+- **Submitted at:** 2026-06-16T13:58:25.886Z
 - **Correct submission:** True
 
 ## Explanation
