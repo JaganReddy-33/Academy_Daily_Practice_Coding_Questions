@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| 0 | 0, 1, 1, 1 | Yes | Yes |
-| 0 | 0, 0, 2, 1 | No | No |
-| 0 | 0, 1, 2, 0 | No | No |
-| 0 | 0, 2, 1, 0 | No | No |
+| I | Inline styles have higher specificity than ID selectors | Yes | Yes |
+| I | Inline styles have lower specificity than ID selectors | No | No |
+| I | Inline styles have equal specificity to ID selectors | No | No |
+| I | Inline styles have higher specificity than class selectors | No | No |
 
 ## Result
 
-- **Correct answer:** 0, 1, 1, 1
-- **Submitted at:** 2026-06-16T14:02:14.531Z
+- **Correct answer:** Inline styles have higher specificity than ID selectors
+- **Submitted at:** 2026-06-16T14:02:38.487Z
 - **Correct submission:** True
 
 ## Explanation
