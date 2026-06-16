@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Second Element with Class in CSS
+How do you select the second element with the class 'highlight' in CSS?
 
 ## Answer choices
 
