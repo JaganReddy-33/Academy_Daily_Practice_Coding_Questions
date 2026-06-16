@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>&gt;</p> | No | No |
-| < | <p>~</p> | Yes | Yes |
-| < | <p>+</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+| < | <p>div &gt; p</p> | No | No |
+| < | <p>div + p</p> | No | No |
+| < | <p>div ~ p</p> | Yes | Yes |
+| < | <p>div p</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>~</p>
-- **Submitted at:** 2026-06-16T13:33:45.507Z
+- **Correct answer:** <p>div ~ p</p>
+- **Submitted at:** 2026-06-16T13:34:12.877Z
 - **Correct submission:** True
 
 ## Explanation
