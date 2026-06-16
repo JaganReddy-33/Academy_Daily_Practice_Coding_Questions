@@ -36,4 +36,4 @@ class Main {
         // Call the calculatePerimeter method for a triangle
        System.out.println("Perimeter of the triangle: "+cal.calculatePerimeter(3,4,5));
     }
-}
+}
