@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Last Child Element with Specific ID in CSS
+Which CSS selector is used to select the last child element with a specific ID?
 
 ## Answer choices
 
