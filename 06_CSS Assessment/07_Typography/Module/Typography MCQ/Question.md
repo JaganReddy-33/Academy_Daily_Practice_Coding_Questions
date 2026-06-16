@@ -8,15 +8,15 @@ Typography MCQ
 
 ## Answer choices
 
-- ⬜ **A.** <p>&lt;ul&gt;</p>
-- ⬜ **B.** <p>&lt;em&gt;</p>
-- ✅ **C. <p>&lt;ins&gt;</p>** — Correct answer
-- ⬜ **D.** <p>&lt;del&gt;</p>
+- ✅ **A. text-decoration-color** — Correct answer
+- ⬜ **B.** text-decoration-line
+- ⬜ **C.** text-decoration-style
+- ⬜ **D.** decoration-color
 
 ## Submission
 
-- **Correct answer:** <p>&lt;ins&gt;</p>
-- **Submitted at:** 2026-06-16T14:08:21.630Z
+- **Correct answer:** text-decoration-color
+- **Submitted at:** 2026-06-16T14:10:58.519Z
 - **Correct submission:** True
 
 ## Explanation
