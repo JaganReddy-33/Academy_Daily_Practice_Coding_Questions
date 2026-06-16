@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 ## Answer choices
 
-- ⬜ **A.** It selects elements that are siblings of the specified element.
-- ⬜ **B.** It selects elements that are descendants of the specified element.
-- ✅ **C. It selects elements that are immediate children of the specified element.** — Correct answer
-- ⬜ **D.** It selects elements based on their position relative to the specified element.
+- ✅ **A. <p>div &gt; p</p>** — Correct answer
+- ⬜ **B.** <p>div + p</p>
+- ⬜ **C.** <p>div ~ p</p>
+- ⬜ **D.** <p>div p</p>
 
 ## Submission
 
-- **Correct answer:** It selects elements that are immediate children of the specified element.
-- **Submitted at:** 2026-06-16T13:34:39.856Z
+- **Correct answer:** <p>div &gt; p</p>
+- **Submitted at:** 2026-06-16T13:34:49.373Z
 - **Correct submission:** True
 
 ## Explanation
