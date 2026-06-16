@@ -38,4 +38,4 @@ class Main {
         // Call the multiply method for an integer and a double
       System.out.println("Product of an integer and a double: "+cal.multiply(6, 3.5));
     }
-}
+}
