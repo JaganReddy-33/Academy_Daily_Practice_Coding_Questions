@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| = | = | No | No |
-| ~ | ~= | No | No |
-| ^ | ^= | Yes | Yes |
-| | | |= | No | No |
+| A | All elements with the attribute title containing the word 'keyword' | No | No |
+| A | All elements with the attribute title starting with 'keyword' | No | No |
+| A | All elements with the attribute title ending with 'keyword' | No | No |
+| A | All elements with the attribute title having a space-separated list containing 'keyword' | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** ^=
-- **Submitted at:** 2026-06-16T13:40:08.952Z
+- **Correct answer:** All elements with the attribute title having a space-separated list containing 'keyword'
+- **Submitted at:** 2026-06-16T13:40:29.359Z
 - **Correct submission:** True
 
 ## Explanation
