@@ -4,7 +4,7 @@
 
 ## Question
 
-Understanding the 'margin-top' CSS Property
+What does the CSS property 'margin-top' define?
 
 ## Answer choices
 
