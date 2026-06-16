@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the CSS Margin Property
+What is the purpose of the CSS 'margin' property when all sides are specified, including 'margin-top'?
 
 ## Answer choices
 
