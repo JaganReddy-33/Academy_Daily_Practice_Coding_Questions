@@ -9,14 +9,14 @@ CSS Selectors MCQ
 ## Answer choices
 
 - ⬜ **A.** <p>&gt;</p>
-- ✅ **B. <p>~</p>** — Correct answer
+- ⬜ **B.** <p>~</p>
 - ⬜ **C.** <p>+</p>
-- ⬜ **D.** <p>None of the above</p>
+- ✅ **D. <p>None of the above</p>** — Correct answer
 
 ## Submission
 
-- **Correct answer:** <p>~</p>
-- **Submitted at:** 2026-06-16T13:31:51.594Z
+- **Correct answer:** <p>None of the above</p>
+- **Submitted at:** 2026-06-16T13:32:21.032Z
 - **Correct submission:** True
 
 ## Explanation
