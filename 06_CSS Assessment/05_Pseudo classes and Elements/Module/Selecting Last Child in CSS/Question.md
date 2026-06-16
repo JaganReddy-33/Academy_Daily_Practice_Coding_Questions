@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Last Child in CSS
+Which selector is used to select only the last child of a parent element?
 
 ## Answer choices
 
