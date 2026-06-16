@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| b | border: 2px solid black; | No | No |
-| b | border-width: 2px; border-style: solid; border-color: black; | No | No |
-| b | border: 2 solid black; | No | No |
-| s | style="border: 2px solid black;" | Yes | Yes |
+| l | line-height | Yes | Yes |
+| s | spacing | No | No |
+| t | text-spacing | No | No |
+| s | style="line-height: ...;" | No | No |
 
 ## Result
 
-- **Correct answer:** style="border: 2px solid black;"
-- **Submitted at:** 2026-06-16T14:14:33.924Z
+- **Correct answer:** line-height
+- **Submitted at:** 2026-06-16T14:15:08.423Z
 - **Correct submission:** True
 
 ## Explanation
