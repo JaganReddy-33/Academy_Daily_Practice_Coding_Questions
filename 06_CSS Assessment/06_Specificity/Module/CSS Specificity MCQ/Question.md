@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| T | The rule written last in the stylesheet takes precedence | Yes | Yes |
-| T | The rule with the highest specificity takes precedence | No | No |
-| T | The browser applies both rules randomly | No | No |
-| T | The rule with the lowest specificity takes precedence | No | No |
+| 1 | 1, 0, 0, 0 | No | No |
+| 0 | 0, 0, 0, 0 | Yes | Yes |
+| 0 | 0, 0, 0, 1 | No | No |
+| 0 | 0, 0, 1, 0 | No | No |
 
 ## Result
 
-- **Correct answer:** The rule written last in the stylesheet takes precedence
-- **Submitted at:** 2026-06-16T13:58:09.471Z
+- **Correct answer:** 0, 0, 0, 0
+- **Submitted at:** 2026-06-16T13:58:25.886Z
 - **Correct submission:** True
 
 ## Explanation
