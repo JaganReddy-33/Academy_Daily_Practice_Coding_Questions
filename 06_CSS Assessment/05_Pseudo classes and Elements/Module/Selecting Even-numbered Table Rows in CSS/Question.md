@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Even-numbered Table Rows in CSS
+How do you select all even-numbered table rows?
 
 ## Answer choices
 
