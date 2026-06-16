@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>All <code>&lt;p&gt;</code> elements that are immediate children of <code>&lt;ul&gt;</code> elements</p> | No | No |
-| < | <p>All <code>&lt;p&gt;</code> elements that are siblings of <code>&lt;ul&gt;</code> elements</p> | Yes | Yes |
-| < | <p>All <code>&lt;p&gt;</code> elements that come before <code>&lt;ul&gt;</code> elements</p> | No | No |
-| < | <p>All <code>&lt;p&gt;</code> elements that are descendants of <code>&lt;ul&gt;</code> elements</p> | No | No |
+| < | <p>All <code>&lt;p&gt;</code> elements that come after <code>&lt;h2&gt;</code> elements</p> | No | No |
+| < | <p>All <code>&lt;p&gt;</code> elements that come before <code>&lt;h2&gt;</code> elements</p> | No | No |
+| < | <p>All <code>&lt;p&gt;</code> elements that are immediate siblings of <code>&lt;h2&gt;</code> elements</p> | Yes | Yes |
+| < | <p>All <code>&lt;p&gt;</code> elements that are descendants of <code>&lt;h2&gt;</code> elements</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>All <code>&lt;p&gt;</code> elements that are siblings of <code>&lt;ul&gt;</code> elements</p>
-- **Submitted at:** 2026-06-16T13:32:54.944Z
+- **Correct answer:** <p>All <code>&lt;p&gt;</code> elements that are immediate siblings of <code>&lt;h2&gt;</code> elements</p>
+- **Submitted at:** 2026-06-16T13:33:09.198Z
 - **Correct submission:** True
 
 ## Explanation
