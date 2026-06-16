@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Element After Another Element in CSS
+How do you select an element with the ID 'footer' that comes immediately after an element with the ID 'main'?
 
 ## Answer choices
 
