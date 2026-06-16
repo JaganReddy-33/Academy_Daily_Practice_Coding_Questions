@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 ## Answer choices
 
-- ⬜ **A.** 0, 0, 2, 1
-- ✅ **B. 0, 1, 1, 1** — Correct answer
-- ⬜ **C.** 0, 2, 1, 0
-- ⬜ **D.** 1, 0, 0, 2
+- ⬜ **A.** They have the lowest specificity
+- ✅ **B. They have the highest specificity** — Correct answer
+- ⬜ **C.** They have the same specificity as ID selectors
+- ⬜ **D.** They have the same specificity as class selectors
 
 ## Submission
 
-- **Correct answer:** 0, 1, 1, 1
-- **Submitted at:** 2026-06-16T13:57:11.814Z
+- **Correct answer:** They have the highest specificity
+- **Submitted at:** 2026-06-16T13:57:30.870Z
 - **Correct submission:** True
 
 ## Explanation
