@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | text-align: center; | Yes | Yes |
-| t | text-align: right; | No | No |
-| t | text-align: left; | No | No |
-| t | text-align: justify; | No | No |
+| < | <p>&lt;strike&gt;</p> | No | No |
+| < | <p>&lt;u&gt;</p> | No | No |
+| < | <p>&lt;overline&gt;</p> | No | No |
+| < | <p>&lt;span style="text-decoration: overline;"&gt;</p> | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** text-align: center;
-- **Submitted at:** 2026-06-16T14:13:45.663Z
+- **Correct answer:** <p>&lt;span style="text-decoration: overline;"&gt;</p>
+- **Submitted at:** 2026-06-16T14:14:06.041Z
 - **Correct submission:** True
 
 ## Explanation
