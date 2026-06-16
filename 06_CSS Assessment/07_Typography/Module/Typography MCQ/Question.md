@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | text-decoration-line | Yes | Yes |
-| t | text-line-decoration | No | No |
-| t | text-decoration-style | No | No |
-| t | text-style-decoration | No | No |
+| t | text-align | Yes | Yes |
+| a | align-text | No | No |
+| t | text-justify | No | No |
+| a | align-content | No | No |
 
 ## Result
 
-- **Correct answer:** text-decoration-line
-- **Submitted at:** 2026-06-16T14:13:31.011Z
+- **Correct answer:** text-align
+- **Submitted at:** 2026-06-16T14:13:39.443Z
 - **Correct submission:** True
 
 ## Explanation
