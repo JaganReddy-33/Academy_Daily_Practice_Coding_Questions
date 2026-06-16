@@ -41,4 +41,4 @@ class Main {
         double mixedSum = calculator.add(4, 7.5);
         System.out.println("Sum of an integer and a double: " + mixedSum);
     }
-}
+}
