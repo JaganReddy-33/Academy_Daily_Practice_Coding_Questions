@@ -4,7 +4,7 @@
 
 ## Question
 
-Setting Space Outside an Element's Border
+Which CSS property is used to set the space outside an element's border?
 
 ## Answer choices
 
