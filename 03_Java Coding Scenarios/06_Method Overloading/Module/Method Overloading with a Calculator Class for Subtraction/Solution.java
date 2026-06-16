@@ -41,4 +41,4 @@ class Main {
         double mixedDiff = calculator.subtract(15, 7.5);
         System.out.println("Difference of an integer and a double: " + mixedDiff);
     }
-}
+}
