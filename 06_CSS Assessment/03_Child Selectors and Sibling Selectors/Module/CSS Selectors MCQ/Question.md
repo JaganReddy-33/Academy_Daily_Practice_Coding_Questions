@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>All <code>&lt;li&gt;</code> elements within <code>&lt;ul&gt;</code> elements</p> | No | No |
-| < | <p>All <code>&lt;ul&gt;</code> elements within <code>&lt;li&gt;</code> elements</p> | No | No |
-| < | <p>All <code>&lt;li&gt;</code> elements directly nested within <code>&lt;ul&gt;</code> elements</p> | Yes | Yes |
-| < | <p>All <code>&lt;ul&gt;</code> elements directly nested within <code>&lt;li&gt;</code> elements</p> | No | No |
+| < | <p>h1 + p</p> | No | No |
+| < | <p>h1 ~ p</p> | Yes | Yes |
+| < | <p>h1 &gt; p</p> | No | No |
+| < | <p>h1 p</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>All <code>&lt;li&gt;</code> elements directly nested within <code>&lt;ul&gt;</code> elements</p>
-- **Submitted at:** 2026-06-16T13:28:21.435Z
+- **Correct answer:** <p>h1 ~ p</p>
+- **Submitted at:** 2026-06-16T13:29:41.695Z
 - **Correct submission:** True
 
 ## Explanation
