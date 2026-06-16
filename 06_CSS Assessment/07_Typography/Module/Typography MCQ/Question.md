@@ -8,15 +8,15 @@ Typography MCQ
 
 ## Answer choices
 
-- ⬜ **A.** font-style
-- ⬜ **B.** font-weight
-- ✅ **C. font-family** — Correct answer
+- ✅ **A. font-weight** — Correct answer
+- ⬜ **B.** font-style
+- ⬜ **C.** text-decoration
 - ⬜ **D.** font-size
 
 ## Submission
 
-- **Correct answer:** font-family
-- **Submitted at:** 2026-06-16T14:02:49.242Z
+- **Correct answer:** font-weight
+- **Submitted at:** 2026-06-16T14:03:11.919Z
 - **Correct submission:** True
 
 ## Explanation
