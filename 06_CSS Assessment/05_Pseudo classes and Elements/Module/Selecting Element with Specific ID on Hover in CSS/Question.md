@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Element with Specific ID on Hover in CSS
+Which CSS selector is used to select an element with a specific ID when it is being hovered over?
 
 ## Answer choices
 
