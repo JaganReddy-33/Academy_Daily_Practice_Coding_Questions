@@ -8,15 +8,15 @@ CSS Selectors MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>&gt;</p> | No | No |
-| < | <p>~</p> | No | No |
-| < | <p>+</p> | No | No |
-| < | <p>None of the above</p> | Yes | Yes |
+| A | A> | Yes | Yes |
+| B | B~ | No | No |
+| C | C+ | No | No |
+| D | DNone of the above | No | No |
 
 ## Result
 
-- **Correct answer:** <p>None of the above</p>
-- **Submitted at:** 2026-06-16T13:30:48.321Z
+- **Correct answer:** A>
+- **Submitted at:** 2026-06-16T13:31:06.871Z
 - **Correct submission:** True
 
 ## Explanation
