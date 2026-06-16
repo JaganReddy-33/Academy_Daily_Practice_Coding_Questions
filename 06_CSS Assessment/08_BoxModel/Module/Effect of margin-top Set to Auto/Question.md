@@ -4,7 +4,7 @@
 
 ## Question
 
-Effect of 'margin-top' Set to Auto
+What happens if 'margin-top' is set to auto?
 
 ## Answer choices
 
