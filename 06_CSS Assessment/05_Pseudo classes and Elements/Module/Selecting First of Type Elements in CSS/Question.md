@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting First of Type Elements in CSS
+Which pseudo-class selects elements that are the first of their type within a parent element?
 
 ## Answer choices
 
