@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Animated Elements in CSS
+Which selector is used to select elements that are currently being animated?
 
 ## Answer choices
 
