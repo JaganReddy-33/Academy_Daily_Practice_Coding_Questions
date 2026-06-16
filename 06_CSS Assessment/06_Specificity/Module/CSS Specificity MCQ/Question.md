@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| 0 | 0, 2, 2, 1 | No | No |
-| 0 | 0, 1, 2, 1 | No | No |
-| 0 | 0, 2, 1, 1 | No | No |
-| 0 | 0, 1, 1, 2 | Yes | Yes |
+| # | #container .box p | No | No |
+| # | #container p.box | Yes | Yes |
+| . | .box p#container | No | No |
+| # | #container .box | No | No |
 
 ## Result
 
-- **Correct answer:** 0, 1, 1, 2
-- **Submitted at:** 2026-06-16T14:00:08.194Z
+- **Correct answer:** #container p.box
+- **Submitted at:** 2026-06-16T14:00:34.168Z
 - **Correct submission:** True
 
 ## Explanation
