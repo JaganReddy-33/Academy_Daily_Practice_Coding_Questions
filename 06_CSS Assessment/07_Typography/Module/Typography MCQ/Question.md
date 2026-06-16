@@ -8,15 +8,15 @@ Typography MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| t | text-transform | Yes | Yes |
-| f | font-style | No | No |
-| f | font-variant | No | No |
-| t | text-decoration | No | No |
+| c | capitalize | Yes | Yes |
+| u | uppercase | No | No |
+| l | lowercase | No | No |
+| i | initial | No | No |
 
 ## Result
 
-- **Correct answer:** text-transform
-- **Submitted at:** 2026-06-16T14:07:06.088Z
+- **Correct answer:** capitalize
+- **Submitted at:** 2026-06-16T14:07:19.023Z
 - **Correct submission:** True
 
 ## Explanation
