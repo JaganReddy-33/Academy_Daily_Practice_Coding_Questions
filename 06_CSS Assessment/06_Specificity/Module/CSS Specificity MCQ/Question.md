@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| T | They have the lowest specificity | No | No |
-| T | They have the highest specificity | Yes | Yes |
-| T | They have the same specificity as ID selectors | No | No |
-| T | They have the same specificity as class selectors | No | No |
+| . | .container > div | No | No |
+| d | div.container | No | No |
+| # | #container div | No | No |
+| d | div#container.info | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** They have the highest specificity
-- **Submitted at:** 2026-06-16T13:57:30.870Z
+- **Correct answer:** div#container.info
+- **Submitted at:** 2026-06-16T13:57:56.333Z
 - **Correct submission:** True
 
 ## Explanation
