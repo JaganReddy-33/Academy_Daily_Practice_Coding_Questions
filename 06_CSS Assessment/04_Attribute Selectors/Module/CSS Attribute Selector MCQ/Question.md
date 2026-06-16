@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 ## Answer choices
 
-- ⬜ **A.** :attribute
-- ✅ **B. [attribute]** — Correct answer
-- ⬜ **C.** #attribute
-- ⬜ **D.** .attribute
+- ⬜ **A.** =
+- ⬜ **B.** ~=
+- ⬜ **C.** *=
+- ✅ **D. [ ]** — Correct answer
 
 ## Submission
 
-- **Correct answer:** [attribute]
-- **Submitted at:** 2026-06-16T13:43:11.164Z
+- **Correct answer:** [ ]
+- **Submitted at:** 2026-06-16T13:37:46.823Z
 - **Correct submission:** True
 
 ## Explanation
