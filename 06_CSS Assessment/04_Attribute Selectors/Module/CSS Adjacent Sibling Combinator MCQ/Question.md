@@ -4,7 +4,7 @@
 
 ## Question
 
-CSS Adjacent Sibling Combinator MCQ
+What does the adjacent sibling combinator (+) do in a CSS selector?
 
 ## Answer choices
 
