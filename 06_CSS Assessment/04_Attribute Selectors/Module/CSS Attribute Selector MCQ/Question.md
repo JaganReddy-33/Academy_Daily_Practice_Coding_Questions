@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| [ | [href^="value"] | No | No |
-| [ | [name="value"] | No | No |
-| [ | [class~="value"] | No | No |
-| [ | [href="value" value="target"] | Yes | Yes |
+| A | All elements with the class 'example' | No | No |
+| A | All elements with class names starting with 'example' | No | No |
+| A | All elements with class names containing 'example' | No | No |
+| A | All elements with the class 'example' or a class starting with 'example-' | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** [href="value" value="target"]
-- **Submitted at:** 2026-06-16T13:41:07.176Z
+- **Correct answer:** All elements with the class 'example' or a class starting with 'example-'
+- **Submitted at:** 2026-06-16T13:41:32.603Z
 - **Correct submission:** True
 
 ## Explanation
