@@ -4,7 +4,7 @@
 
 ## Question
 
-Understanding the 'margin-bottom' CSS Property
+What does the CSS property 'margin-bottom' define?
 
 ## Answer choices
 
