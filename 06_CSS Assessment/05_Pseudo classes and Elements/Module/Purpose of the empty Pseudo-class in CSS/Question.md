@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the :empty Pseudo-class in CSS
+What is the purpose of the :empty pseudo-class in CSS?
 
 ## Answer choices
 
