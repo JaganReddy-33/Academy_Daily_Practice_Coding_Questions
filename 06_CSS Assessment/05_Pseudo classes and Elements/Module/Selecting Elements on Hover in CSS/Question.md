@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Elements on Hover in CSS
+Which CSS selector is used to select an element when you hover over it?
 
 ## Answer choices
 
