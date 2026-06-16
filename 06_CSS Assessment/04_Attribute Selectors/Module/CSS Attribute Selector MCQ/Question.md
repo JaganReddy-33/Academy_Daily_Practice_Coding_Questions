@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 ## Answer choices
 
-- ⬜ **A.** =
-- ⬜ **B.** ~=
-- ✅ **C. *=** — Correct answer
-- ⬜ **D.** ^=
+- ⬜ **A.** [href^="value"]
+- ⬜ **B.** [name="value"]
+- ⬜ **C.** [class~="value"]
+- ✅ **D. [href="value" value="target"]** — Correct answer
 
 ## Submission
 
-- **Correct answer:** *=
-- **Submitted at:** 2026-06-16T13:40:56.923Z
+- **Correct answer:** [href="value" value="target"]
+- **Submitted at:** 2026-06-16T13:41:07.176Z
 - **Correct submission:** True
 
 ## Explanation
