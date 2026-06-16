@@ -8,15 +8,15 @@ CSS Attribute Selector MCQ
 
 ## Answer choices
 
-- ⬜ **A.** =
-- ⬜ **B.** ~=
-- ⬜ **C.** *=
-- ✅ **D. [ ]** — Correct answer
+- ✅ **A. All elements with the attribute type equal to 'submit'** — Correct answer
+- ⬜ **B.** All submit buttons
+- ⬜ **C.** All elements with the class 'submit'
+- ⬜ **D.** All elements with the attribute name equal to 'submit'
 
 ## Submission
 
-- **Correct answer:** [ ]
-- **Submitted at:** 2026-06-16T13:37:46.823Z
+- **Correct answer:** All elements with the attribute type equal to 'submit'
+- **Submitted at:** 2026-06-16T13:38:29.269Z
 - **Correct submission:** True
 
 ## Explanation
