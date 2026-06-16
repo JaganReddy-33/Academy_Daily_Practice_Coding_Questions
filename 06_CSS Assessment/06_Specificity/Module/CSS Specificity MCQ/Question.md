@@ -8,15 +8,15 @@ CSS Specificity MCQ
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| d | div.container | No | No |
-| . | .container p | No | No |
-| p | p.container | No | No |
-| # | #container p | Yes | Yes |
+| I | It increases the specificity of a rule to the maximum possible value | Yes | Yes |
+| I | It decreases the specificity of a rule to the minimum possible value | No | No |
+| I | It has no effect on specificity | No | No |
+| I | It makes the rule less important compared to other rules | No | No |
 
 ## Result
 
-- **Correct answer:** #container p
-- **Submitted at:** 2026-06-16T13:58:48.330Z
+- **Correct answer:** It increases the specificity of a rule to the maximum possible value
+- **Submitted at:** 2026-06-16T13:59:21.474Z
 - **Correct submission:** True
 
 ## Explanation
