@@ -69,4 +69,4 @@ class Main {
         System.out.println(std.getStdAge());
         System.out.println(std.getStdGrade());
     }
-}
+}
