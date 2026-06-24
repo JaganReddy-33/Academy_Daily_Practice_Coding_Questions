@@ -100,4 +100,4 @@ class Main {
         System.out.println(emp.getPhone());
         System.out.println(emp.getSalary());
     }
-}
+}
