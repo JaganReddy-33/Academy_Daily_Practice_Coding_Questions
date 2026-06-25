@@ -4,7 +4,7 @@
 
 ## Question
 
-Getter and Setter Methods
+What is the main purpose of using getter and setter methods in encapsulation?
 
 ## Answer choices
 
