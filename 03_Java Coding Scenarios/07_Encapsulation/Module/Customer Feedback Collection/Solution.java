@@ -44,4 +44,4 @@ class Main {
         System.out.println(fb.getText());
         System.out.println(fb.getRating());
     }
-}
+}
