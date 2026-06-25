@@ -53,4 +53,4 @@ class Main {
         System.out.println(ba.getType());
         
     }
-}
+}
