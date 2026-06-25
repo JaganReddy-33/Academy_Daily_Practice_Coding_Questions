@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Encapsulation Benefits
+Which of the following is a primary benefit of encapsulation in Java?
 
 ## Answer choices
 
