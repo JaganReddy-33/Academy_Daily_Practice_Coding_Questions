@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Data Validation
+Which concept of encapsulation is used to validate and control the values assigned to class members?
 
 ## Answer choices
 
