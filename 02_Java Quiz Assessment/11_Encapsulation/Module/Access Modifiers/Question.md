@@ -9,14 +9,14 @@ Access Modifiers
 ## Answer choices
 
 - ⬜ **A.** public
-- ✅ **B. private** — Correct answer
+- ⬜ **B.** private
 - ⬜ **C.** protected
-- ⬜ **D.** default (no modifier)
+- ✅ **D. default** — Correct answer
 
 ## Submission
 
-- **Correct answer:** private
-- **Submitted at:** 2026-06-25T05:20:25.855Z
+- **Correct answer:** default
+- **Submitted at:** 2026-06-25T05:21:39.180Z
 - **Correct submission:** True
 
 ## Explanation
