@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Immutable Class
+Which of the following describes an immutable class in Java?
 
 ## Answer choices
 
