@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Information Hiding
+Which pillar of object orientation  states that the internal details of an object should be hidden from external entities?
 
 ## Answer choices
 
