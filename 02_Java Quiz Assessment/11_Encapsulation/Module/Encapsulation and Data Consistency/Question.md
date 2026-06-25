@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Data Consistency
+What is the advantage of encapsulating data and behaviour within a class?
 
 ## Answer choices
 
