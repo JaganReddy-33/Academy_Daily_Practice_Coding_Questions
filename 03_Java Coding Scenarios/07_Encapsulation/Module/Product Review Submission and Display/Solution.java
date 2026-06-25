@@ -52,4 +52,4 @@ class Main {
         System.out.println(r.getReviewText());
       
     }
-}
+}
