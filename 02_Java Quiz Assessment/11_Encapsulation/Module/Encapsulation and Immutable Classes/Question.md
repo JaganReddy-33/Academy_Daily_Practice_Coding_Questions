@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Immutable Classes
+Which of the following is a characteristic of an immutable class?
 
 ## Answer choices
 
