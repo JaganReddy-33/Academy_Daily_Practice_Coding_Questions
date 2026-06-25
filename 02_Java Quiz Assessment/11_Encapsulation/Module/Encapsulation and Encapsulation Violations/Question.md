@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Encapsulation Violations
+Which of the following is an example of violating encapsulation in Java?
 
 ## Answer choices
 
