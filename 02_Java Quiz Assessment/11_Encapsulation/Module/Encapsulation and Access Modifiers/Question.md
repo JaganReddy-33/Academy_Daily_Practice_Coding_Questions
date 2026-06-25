@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Access Modifiers
+Which access modifier is typically used for encapsulated data members in Java?
 
 ## Answer choices
 
