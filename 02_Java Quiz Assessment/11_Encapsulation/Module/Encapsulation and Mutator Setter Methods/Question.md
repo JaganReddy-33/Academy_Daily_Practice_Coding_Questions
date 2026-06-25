@@ -4,7 +4,7 @@
 
 ## Question
 
-Encapsulation and Mutator (Setter) Methods
+What is the primary purpose of a mutator method (setter) in encapsulation?
 
 ## Answer choices
 
