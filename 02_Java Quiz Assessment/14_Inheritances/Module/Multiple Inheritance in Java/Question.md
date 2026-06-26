@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Inheritance in Java
+In Java, does multiple inheritance mean a class can inherit properties from more than one parent class?
 
 ## Answer choices
 
