@@ -8,13 +8,15 @@ Accessing Static Variables in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+| B | By using the class name | Yes | Yes |
+| B | By using the method name | No | No |
+| B | By using the datatype | No | No |
+| N | None of the above | No | No |
 
 ## Result
 
-- **Correct answer:** No
-- **Submitted at:** 2026-06-26T14:19:05.116Z
+- **Correct answer:** By using the class name
+- **Submitted at:** 2026-06-26T14:19:53.754Z
 - **Correct submission:** True
 
 ## Explanation
