@@ -4,7 +4,7 @@
 
 ## Question
 
-Inheritance Methods
+Which of the following methods will be present in inheritance?
 
 ## Answer choices
 
