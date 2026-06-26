@@ -8,15 +8,15 @@ Inheritance in Java
 
 ## Answer choices
 
-- ⬜ **A.** Multiple Inheritance
-- ⬜ **B.** Multilevel Inheritance
-- ⬜ **C.** Single Inheritance
-- ✅ **D. Cyclic Inheritance** — Correct answer
+- ⬜ **A.** extend
+- ✅ **B. extends** — Correct answer
+- ⬜ **C.** this
+- ⬜ **D.** None of the above
 
 ## Submission
 
-- **Correct answer:** Cyclic Inheritance
-- **Submitted at:** 2026-06-26T14:27:50.176Z
+- **Correct answer:** extends
+- **Submitted at:** 2026-06-26T14:23:19.897Z
 - **Correct submission:** True
 
 ## Explanation
