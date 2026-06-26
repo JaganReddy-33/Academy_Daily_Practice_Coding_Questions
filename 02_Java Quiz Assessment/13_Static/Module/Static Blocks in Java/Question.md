@@ -8,13 +8,13 @@ Static Blocks in Java
 
 ## Answer choices
 
-- ✅ **A. Yes** — Correct answer
-- ⬜ **B.** No
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
 ## Submission
 
-- **Correct answer:** Yes
-- **Submitted at:** 2026-06-26T14:20:02.666Z
+- **Correct answer:** No
+- **Submitted at:** 2026-06-26T14:16:53.805Z
 - **Correct submission:** True
 
 ## Explanation
