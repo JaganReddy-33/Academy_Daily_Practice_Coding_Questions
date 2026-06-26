@@ -4,7 +4,7 @@
 
 ## Question
 
-Static Methods in Java
+ In Java, static methods are declared using the class keyword.
 
 ## Answer choices
 
