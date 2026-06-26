@@ -4,7 +4,7 @@
 
 ## Question
 
-Usage of This Keyword in Constructor
+In Java, 'this' keyword must be used as the first line of code within the constructor.
 
 ## Answer choices
 
