@@ -4,7 +4,7 @@
 
 ## Question
 
-Advantages of Using Static Methods in Java
+ In Java, the main advantage of using the static methods is memory efficiency.
 
 ## Answer choices
 
