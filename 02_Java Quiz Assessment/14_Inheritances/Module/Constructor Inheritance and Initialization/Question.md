@@ -4,7 +4,7 @@
 
 ## Question
 
-Constructor Inheritance and Initialization
+<p>Guess the output of the code.</p><p><br></p><p>class Parent {</p><p>&nbsp;&nbsp;public Parent() {</p><p>&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Parent Constructor");</p><p>&nbsp;&nbsp;}</p><p>}</p><p><br></p><p>class Child extends Parent {</p><p>&nbsp;&nbsp;public Child() {</p><p>&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("Child Constructor");</p><p>&nbsp;&nbsp;}</p><p>}</p><p><br></p><p><br></p><p>public class Demo {</p><p>public static void main(String[] args) {</p><p>Child child = new Child();</p><p>}</p><p>}</p>
 
 ## Answer choices
 
