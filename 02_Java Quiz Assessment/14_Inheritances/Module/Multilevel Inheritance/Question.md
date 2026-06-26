@@ -4,7 +4,7 @@
 
 ## Question
 
-Multilevel Inheritance
+Which of the following types of inheritance involves multiple classes linked in a chain-like manner to form a parent-child relationship?
 
 ## Answer choices
 
