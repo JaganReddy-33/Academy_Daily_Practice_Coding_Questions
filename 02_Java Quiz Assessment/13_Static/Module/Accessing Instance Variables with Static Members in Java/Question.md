@@ -4,7 +4,7 @@
 
 ## Question
 
-Accessing Instance Variables with Static Members in Java
+Can static members in Java access instance variables?
 
 ## Answer choices
 
