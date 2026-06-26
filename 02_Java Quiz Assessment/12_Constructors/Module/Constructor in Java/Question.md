@@ -8,15 +8,13 @@ Constructor in Java
 
 ## Answer choices
 
-- ⬜ **A.** Main method
-- ✅ **B. Constructor** — Correct answer
-- ⬜ **C.** Add method
-- ⬜ **D.** Sub method
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
 ## Submission
 
-- **Correct answer:** Constructor
-- **Submitted at:** 2026-06-26T14:10:39.442Z
+- **Correct answer:** Yes
+- **Submitted at:** 2026-06-26T14:08:55.837Z
 - **Correct submission:** True
 
 ## Explanation
