@@ -4,7 +4,7 @@
 
 ## Question
 
-Independence of Static Methods in Java
+In Java, are static methods independent of the state of any specific object?
 
 ## Answer choices
 
