@@ -8,15 +8,13 @@ Constructor in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| M | Main method | No | No |
-| C | Constructor | Yes | Yes |
-| A | Add method | No | No |
-| S | Sub method | No | No |
+| Y | Yes | Yes | Yes |
+| N | No | No | No |
 
 ## Result
 
-- **Correct answer:** Constructor
-- **Submitted at:** 2026-06-26T14:10:39.442Z
+- **Correct answer:** Yes
+- **Submitted at:** 2026-06-26T14:08:55.837Z
 - **Correct submission:** True
 
 ## Explanation
