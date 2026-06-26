@@ -4,7 +4,7 @@
 
 ## Question
 
-Static and Instance Members in Java
+Are static members also called instance members of a class in Java?
 
 ## Answer choices
 
