@@ -8,13 +8,15 @@ Static Blocks in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+| S | Static methods | No | No |
+| S | Static variables | Yes | Yes |
+| S | Static blocks | No | No |
+| N | None of the above | No | No |
 
 ## Result
 
-- **Correct answer:** No
-- **Submitted at:** 2026-06-26T14:16:53.805Z
+- **Correct answer:** Static variables
+- **Submitted at:** 2026-06-26T14:20:23.064Z
 - **Correct submission:** True
 
 ## Explanation
