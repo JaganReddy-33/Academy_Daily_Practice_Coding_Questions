@@ -4,7 +4,7 @@
 
 ## Question
 
-Non-Static Members in Java
+Do non-static members in Java belong to a method?
 
 ## Answer choices
 
