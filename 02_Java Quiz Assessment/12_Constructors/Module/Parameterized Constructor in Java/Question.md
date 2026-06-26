@@ -4,7 +4,7 @@
 
 ## Question
 
-Parameterized Constructor in Java
+In Java, parameterized constructor takes only one argument and is used to initialize objects with a specific value.
 
 ## Answer choices
 
