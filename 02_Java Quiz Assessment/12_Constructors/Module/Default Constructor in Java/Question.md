@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Constructor in Java
+Identifying the constructor used to initialize default values for an object.
 
 ## Answer choices
 
