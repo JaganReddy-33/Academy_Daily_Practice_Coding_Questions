@@ -4,7 +4,7 @@
 
 ## Question
 
-Constructor in Java
+Is constructor is used to initialize the state of an object?
 
 ## Answer choices
 
