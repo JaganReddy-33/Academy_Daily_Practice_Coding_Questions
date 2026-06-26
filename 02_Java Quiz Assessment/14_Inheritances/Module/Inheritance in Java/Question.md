@@ -8,15 +8,13 @@ Inheritance in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| e | extend | No | No |
-| e | extends | Yes | Yes |
-| t | this | No | No |
-| N | None of the above | No | No |
+| Y | Yes | No | No |
+| N | No | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** extends
-- **Submitted at:** 2026-06-26T14:23:19.897Z
+- **Correct answer:** No
+- **Submitted at:** 2026-06-26T14:23:52.668Z
 - **Correct submission:** True
 
 ## Explanation
