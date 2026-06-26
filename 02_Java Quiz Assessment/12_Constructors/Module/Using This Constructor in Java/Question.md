@@ -4,7 +4,7 @@
 
 ## Question
 
-Using This() Constructor in Java
+Is 'this()' constructor is used to invoke another constructor from the same class?
 
 ## Answer choices
 
