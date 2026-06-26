@@ -8,15 +8,14 @@ Inheritance in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| S | Single Inheritance | No | No |
-| M | Multiple Inheritance | Yes | Yes |
 | M | Multilevel Inheritance | No | No |
-| A | All of the above | No | No |
+| M | Multiple Inheritance | Yes | Yes |
+| N | None of the above | No | No |
 
 ## Result
 
 - **Correct answer:** Multiple Inheritance
-- **Submitted at:** 2026-06-26T14:25:20.629Z
+- **Submitted at:** 2026-06-26T14:28:01.316Z
 - **Correct submission:** True
 
 ## Explanation
