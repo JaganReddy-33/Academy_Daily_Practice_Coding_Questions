@@ -4,7 +4,7 @@
 
 ## Question
 
-No-Argument Constructor in Java
+Identifying the name for a constructor that does not take any arguments.
 
 ## Answer choices
 
