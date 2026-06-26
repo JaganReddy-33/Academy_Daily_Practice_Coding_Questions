@@ -1,19 +1,19 @@
 # Accessing Instance Variable in Static Context
 
+> ✅ Solved
+
 ## Question
 
 Accessing Instance Variable in Static Context
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>20</p> | No | No |
-| < | <p>60</p> | No | No |
-| < | <p>Error</p> | Yes | Yes |
-| < | <p>None of the above</p> | No | No |
+- ⬜ **A.** <p>20</p>
+- ⬜ **B.** <p>60</p>
+- ✅ **C. <p>Error</p>** — Correct answer
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Error</p>
 - **Submitted at:** 2026-06-26T14:13:29.104Z
