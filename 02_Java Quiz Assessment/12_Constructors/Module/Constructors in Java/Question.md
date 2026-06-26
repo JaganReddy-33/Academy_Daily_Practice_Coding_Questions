@@ -4,7 +4,7 @@
 
 ## Question
 
-Constructors in Java
+<p>Do constructors in Java participate in inheritance?</p>
 
 ## Answer choices
 
