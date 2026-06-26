@@ -14,7 +14,7 @@ Inheritance in Java
 ## Result
 
 - **Correct answer:** No
-- **Submitted at:** 2026-06-26T14:23:52.668Z
+- **Submitted at:** 2026-06-26T14:24:30.682Z
 - **Correct submission:** True
 
 ## Explanation
