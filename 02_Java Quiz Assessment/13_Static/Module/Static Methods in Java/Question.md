@@ -8,13 +8,13 @@ Static Methods in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+| Y | Yes | No | No |
+| N | No | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** Yes
-- **Submitted at:** 2026-06-26T14:16:35.717Z
+- **Correct answer:** No
+- **Submitted at:** 2026-06-26T14:14:35.358Z
 - **Correct submission:** True
 
 ## Explanation
