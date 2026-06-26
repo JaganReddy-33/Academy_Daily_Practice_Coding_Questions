@@ -4,7 +4,7 @@
 
 ## Question
 
-Understanding the 'static' Keyword in Java
+Does the keyword 'static' in Java indicate that a member belongs to an instance of that type rather than the type itself?
 
 ## Answer choices
 
