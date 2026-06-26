@@ -4,7 +4,7 @@
 
 ## Question
 
-Advantages of Inheritance in Java
+Is code reusability one of the advantages of inheritance in Java?
 
 ## Answer choices
 
