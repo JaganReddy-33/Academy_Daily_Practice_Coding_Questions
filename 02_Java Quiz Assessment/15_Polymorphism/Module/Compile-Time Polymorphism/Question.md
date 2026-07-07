@@ -4,7 +4,7 @@
 
 ## Question
 
-Compile-Time Polymorphism
+What is compile-time polymorphism in Java?
 
 ## Answer choices
 
