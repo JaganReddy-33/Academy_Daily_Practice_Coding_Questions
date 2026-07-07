@@ -4,7 +4,7 @@
 
 ## Question
 
-Dynamic Polymorphism
+What is dynamic polymorphism in Java?
 
 ## Answer choices
 
