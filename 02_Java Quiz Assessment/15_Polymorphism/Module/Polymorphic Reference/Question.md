@@ -4,7 +4,7 @@
 
 ## Question
 
-Polymorphic Reference
+Which statement is true about polymorphic reference in Java?
 
 ## Answer choices
 
