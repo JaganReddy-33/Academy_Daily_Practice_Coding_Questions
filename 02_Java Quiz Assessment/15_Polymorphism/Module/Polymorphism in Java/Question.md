@@ -8,15 +8,15 @@ Polymorphism in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| I | It is the ability of an object to take on many forms. | Yes | Yes |
-| I | It is the ability of a class to have multiple constructors. | No | No |
-| I | It is the process of inheriting properties from a superclass. | No | No |
-| I | It is the practice of overloading methods with the same name. | No | No |
+| I | Increased code reusability | Yes | Yes |
+| I | Improved performance | No | No |
+| S | Simplified debugging | No | No |
+| E | Enhanced data encapsulation | No | No |
 
 ## Result
 
-- **Correct answer:** It is the ability of an object to take on many forms.
-- **Submitted at:** 2026-07-07T16:15:29.449Z
+- **Correct answer:** Increased code reusability
+- **Submitted at:** 2026-07-07T16:40:22.001Z
 - **Correct submission:** True
 
 ## Explanation
