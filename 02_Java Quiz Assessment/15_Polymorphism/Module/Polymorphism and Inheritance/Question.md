@@ -4,19 +4,19 @@
 
 ## Question
 
-Polymorphism and Inheritance
+Which statement best describes the relationship between polymorphism and inheritance in Java?
 
 ## Answer choices
 
-- ⬜ **A.** Polymorphism allows a subclass to inherit all the properties and behaviours of its superclass.
-- ⬜ **B.** Inheritance is a way to achieve runtime polymorphism in Java.
-- ✅ **C. Polymorphism allows a single object to have different forms or types at runtime.** — Correct answer
-- ⬜ **D.** Inheritance and polymorphism are mutually exclusive concepts in Java.
+- ⬜ **A.** Polymorphism is a concept that is independent of inheritance.
+- ⬜ **B.** Inheritance is a concept that is independent of polymorphism.
+- ✅ **C. Polymorphism is achieved through inheritance.** — Correct answer
+- ⬜ **D.** Inheritance is achieved through polymorphism.
 
 ## Submission
 
-- **Correct answer:** Polymorphism allows a single object to have different forms or types at runtime.
-- **Submitted at:** 2026-07-07T16:40:09.790Z
+- **Correct answer:** Polymorphism is achieved through inheritance.
+- **Submitted at:** 2026-07-07T16:38:03.887Z
 - **Correct submission:** True
 
 ## Explanation
