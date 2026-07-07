@@ -8,15 +8,15 @@ Polymorphism and Inheritance
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| P | Polymorphism is a concept that is independent of inheritance. | No | No |
-| I | Inheritance is a concept that is independent of polymorphism. | No | No |
-| P | Polymorphism is achieved through inheritance. | Yes | Yes |
-| I | Inheritance is achieved through polymorphism. | No | No |
+| P | Polymorphism allows a subclass to inherit all the properties and behaviours of its superclass. | No | No |
+| I | Inheritance is a way to achieve runtime polymorphism in Java. | No | No |
+| P | Polymorphism allows a single object to have different forms or types at runtime. | Yes | Yes |
+| I | Inheritance and polymorphism are mutually exclusive concepts in Java. | No | No |
 
 ## Result
 
-- **Correct answer:** Polymorphism is achieved through inheritance.
-- **Submitted at:** 2026-07-07T16:38:03.887Z
+- **Correct answer:** Polymorphism allows a single object to have different forms or types at runtime.
+- **Submitted at:** 2026-07-07T16:40:09.790Z
 - **Correct submission:** True
 
 ## Explanation
