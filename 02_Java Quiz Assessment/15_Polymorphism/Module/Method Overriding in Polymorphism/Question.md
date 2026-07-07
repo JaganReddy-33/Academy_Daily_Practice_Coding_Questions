@@ -4,7 +4,7 @@
 
 ## Question
 
-Method Overriding in Polymorphism
+What is method overriding in the context of polymorphism in Java?
 
 ## Answer choices
 
