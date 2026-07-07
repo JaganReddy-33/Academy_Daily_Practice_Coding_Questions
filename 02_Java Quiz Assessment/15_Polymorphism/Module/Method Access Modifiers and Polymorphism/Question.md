@@ -4,7 +4,7 @@
 
 ## Question
 
-Method Access Modifiers and Polymorphism
+<p>Guess the output of the code.</p><p><br></p><p>class A{</p><p>protected int method(){</p><p>return 1;</p><p>}</p><p>}</p><p>public class B extends A{</p><p>private int method() {</p><p>return 6;</p><p>}</p><p>public static void main(String[] args){</p><p>A a = new B();</p><p>System.out.println(a.method());</p><p>}</p><p>}</p>
 
 ## Answer choices
 
