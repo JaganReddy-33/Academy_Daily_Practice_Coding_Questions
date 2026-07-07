@@ -4,7 +4,7 @@
 
 ## Question
 
-Polymorphism and Method Overriding
+Which of the following statements regarding polymorphism and method overriding in Java is correct?
 
 ## Answer choices
 
