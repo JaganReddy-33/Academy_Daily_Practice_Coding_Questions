@@ -4,7 +4,7 @@
 
 ## Question
 
-Method Overriding
+What is method overriding in Java?
 
 ## Answer choices
 
