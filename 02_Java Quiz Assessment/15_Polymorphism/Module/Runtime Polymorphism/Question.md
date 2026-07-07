@@ -4,7 +4,7 @@
 
 ## Question
 
-Runtime Polymorphism
+What is runtime polymorphism in Java?
 
 ## Answer choices
 
