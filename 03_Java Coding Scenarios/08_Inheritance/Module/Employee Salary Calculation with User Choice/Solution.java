@@ -95,4 +95,4 @@ public class Main {
             System.out.printf("Annual Salary of Engineer: %.2f\n", engineer.getAnnualSalary());
         }
     }
-}
+}
