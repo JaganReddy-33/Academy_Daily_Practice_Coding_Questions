@@ -8,15 +8,15 @@ Abstraction in Java
 
 ## Answer choices
 
-- ✅ **A. Data hiding** — Correct answer
-- ⬜ **B.** Data visualization
-- ⬜ **C.** Data representation
-- ⬜ **D.** Data manipulation
+- ⬜ **A.** implementation, behavior
+- ✅ **B. behavior, implementation** — Correct answer
+- ⬜ **C.** public interface, private interface
+- ⬜ **D.** properties, methods
 
 ## Submission
 
-- **Correct answer:** Data hiding
-- **Submitted at:** 2026-07-10T16:30:52.742Z
+- **Correct answer:** behavior, implementation
+- **Submitted at:** 2026-07-10T16:31:52.808Z
 - **Correct submission:** True
 
 ## Explanation
