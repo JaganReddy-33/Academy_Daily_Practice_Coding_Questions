@@ -4,7 +4,7 @@
 
 ## Question
 
-Abstract and Final Class in Java
+Can a class be both abstract and final at the same time?
 
 ## Answer choices
 
