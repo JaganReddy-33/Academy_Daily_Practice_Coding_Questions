@@ -4,7 +4,7 @@
 
 ## Question
 
-Final Keyword in Java
+Which keyword is used in Java to define a constant value that cannot be changed?
 
 ## Answer choices
 
