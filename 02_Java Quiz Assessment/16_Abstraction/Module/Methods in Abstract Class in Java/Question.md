@@ -4,7 +4,7 @@
 
 ## Question
 
-Methods in Abstract Class in Java
+An abstract class can have:
 
 ## Answer choices
 
