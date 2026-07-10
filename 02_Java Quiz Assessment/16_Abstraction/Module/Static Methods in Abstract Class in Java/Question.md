@@ -4,7 +4,7 @@
 
 ## Question
 
-Static Methods in Abstract Class in Java
+Can an abstract class have a static method in Java?
 
 ## Answer choices
 
