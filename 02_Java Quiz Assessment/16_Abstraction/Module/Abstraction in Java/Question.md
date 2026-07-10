@@ -8,15 +8,15 @@ Abstraction in Java
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| D | Data hiding | Yes | Yes |
-| D | Data visualization | No | No |
-| D | Data representation | No | No |
-| D | Data manipulation | No | No |
+| i | implementation, behavior | No | No |
+| b | behavior, implementation | Yes | Yes |
+| p | public interface, private interface | No | No |
+| p | properties, methods | No | No |
 
 ## Result
 
-- **Correct answer:** Data hiding
-- **Submitted at:** 2026-07-10T16:30:52.742Z
+- **Correct answer:** behavior, implementation
+- **Submitted at:** 2026-07-10T16:31:52.808Z
 - **Correct submission:** True
 
 ## Explanation
