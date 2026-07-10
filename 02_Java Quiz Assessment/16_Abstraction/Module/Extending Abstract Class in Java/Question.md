@@ -4,7 +4,7 @@
 
 ## Question
 
-Extending Abstract Class in Java
+Can an abstract class extend another abstract class in Java?
 
 ## Answer choices
 
