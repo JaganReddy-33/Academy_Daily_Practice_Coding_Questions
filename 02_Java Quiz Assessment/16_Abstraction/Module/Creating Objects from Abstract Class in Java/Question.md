@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating Objects from Abstract Class in Java
+Can you create an object from an abstract class in Java?
 
 ## Answer choices
 
