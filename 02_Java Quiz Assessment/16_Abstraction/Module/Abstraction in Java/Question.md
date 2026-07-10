@@ -4,19 +4,19 @@
 
 ## Question
 
-Abstraction in Java
+Abstraction is a concept related to:
 
 ## Answer choices
 
-- ⬜ **A.** implementation, behavior
-- ✅ **B. behavior, implementation** — Correct answer
-- ⬜ **C.** public interface, private interface
-- ⬜ **D.** properties, methods
+- ✅ **A. Data hiding** — Correct answer
+- ⬜ **B.** Data visualization
+- ⬜ **C.** Data representation
+- ⬜ **D.** Data manipulation
 
 ## Submission
 
-- **Correct answer:** behavior, implementation
-- **Submitted at:** 2026-07-10T16:31:52.808Z
+- **Correct answer:** Data hiding
+- **Submitted at:** 2026-07-10T16:30:52.742Z
 - **Correct submission:** True
 
 ## Explanation
