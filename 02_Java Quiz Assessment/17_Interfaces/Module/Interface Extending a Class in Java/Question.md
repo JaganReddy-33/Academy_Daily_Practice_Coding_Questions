@@ -4,7 +4,7 @@
 
 ## Question
 
-Interface Extending a Class in Java
+Can an interface extend a class in Java?
 
 ## Answer choices
 
