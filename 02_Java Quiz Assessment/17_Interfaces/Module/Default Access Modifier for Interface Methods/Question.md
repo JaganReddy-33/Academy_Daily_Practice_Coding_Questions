@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Access Modifier for Interface Methods
+Which access modifier is used for the methods in an interface by default?
 
 ## Answer choices
 
