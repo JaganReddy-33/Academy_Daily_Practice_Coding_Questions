@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Methods in Interfaces
+Which of the following statements about default methods in interfaces is true?
 
 ## Answer choices
 
