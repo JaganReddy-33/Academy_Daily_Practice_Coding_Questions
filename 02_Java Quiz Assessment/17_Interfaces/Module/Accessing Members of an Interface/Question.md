@@ -4,7 +4,7 @@
 
 ## Question
 
-Accessing Members of an Interface
+Which keyword is used to access the members of an interface?
 
 ## Answer choices
 
