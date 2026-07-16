@@ -4,7 +4,7 @@
 
 ## Question
 
-Implementing Interfaces in Java
+What keyword is used to implement an interface in a class?
 
 ## Answer choices
 
