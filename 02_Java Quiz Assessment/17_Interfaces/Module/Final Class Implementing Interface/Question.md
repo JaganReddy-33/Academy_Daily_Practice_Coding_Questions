@@ -4,7 +4,7 @@
 
 ## Question
 
-Final Class Implementing Interface
+Can a class be marked as final and implement an interface simultaneously?
 
 ## Answer choices
 
