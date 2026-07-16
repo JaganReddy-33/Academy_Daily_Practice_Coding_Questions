@@ -4,7 +4,7 @@
 
 ## Question
 
-Implementing an Interface in Java
+A class implementing an interface must provide definitions for all of its:
 
 ## Answer choices
 
