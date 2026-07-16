@@ -4,7 +4,7 @@
 
 ## Question
 
-Extending Interfaces in Java
+Can an interface extend another interface in Java?
 
 ## Answer choices
 
