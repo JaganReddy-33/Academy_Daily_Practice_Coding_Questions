@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Interface Extension in Java
+An interface can extend multiple interfaces in Java.
 
 ## Answer choices
 
