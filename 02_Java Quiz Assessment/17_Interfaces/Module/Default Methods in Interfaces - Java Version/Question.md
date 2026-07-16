@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Methods in Interfaces - Java Version
+Which version of Java introduced the concept of default methods in interfaces?
 
 ## Answer choices
 
