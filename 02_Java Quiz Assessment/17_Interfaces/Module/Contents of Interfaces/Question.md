@@ -8,15 +8,15 @@ Contents of Interfaces
 
 ## Answer choices
 
-- ⬜ **A.** Instance variables
-- ✅ **B. Static methods** — Correct answer
-- ⬜ **C.** Constructors
-- ⬜ **D.** Method implementations
+- ⬜ **A.** Constructors
+- ✅ **B. Static initializer blocks** — Correct answer
+- ⬜ **C.** Instance initializer blocks
+- ⬜ **D.** Initializer methods
 
 ## Submission
 
-- **Correct answer:** Static methods
-- **Submitted at:** 2026-07-16T09:06:45.772Z
+- **Correct answer:** Static initializer blocks
+- **Submitted at:** 2026-07-16T09:15:19.596Z
 - **Correct submission:** True
 
 ## Explanation
