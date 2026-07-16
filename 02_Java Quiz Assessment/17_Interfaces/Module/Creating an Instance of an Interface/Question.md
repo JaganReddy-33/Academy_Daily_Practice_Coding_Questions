@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating an Instance of an Interface
+Which of the following is a valid way to create an instance of an interface in Java?
 
 ## Answer choices
 
