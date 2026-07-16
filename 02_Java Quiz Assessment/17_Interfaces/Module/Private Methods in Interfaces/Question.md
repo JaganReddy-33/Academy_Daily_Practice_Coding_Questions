@@ -4,7 +4,7 @@
 
 ## Question
 
-Private Methods in Interfaces
+In Java, can an interface have a private method?
 
 ## Answer choices
 
