@@ -4,7 +4,7 @@
 
 ## Question
 
-Valid Interface Names in Java
+Which of the following is NOT a valid interface name in Java?
 
 ## Answer choices
 
