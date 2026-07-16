@@ -4,7 +4,7 @@
 
 ## Question
 
-Interfaces in Java
+What is an interface in Java?
 
 ## Answer choices
 
