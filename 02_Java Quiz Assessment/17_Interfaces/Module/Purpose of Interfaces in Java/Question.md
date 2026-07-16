@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of Interfaces in Java
+What is the purpose of using interfaces in Java?
 
 ## Answer choices
 
