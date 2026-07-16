@@ -8,15 +8,15 @@ Contents of Interfaces
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| I | Instance variables | No | No |
-| S | Static methods | Yes | Yes |
 | C | Constructors | No | No |
-| M | Method implementations | No | No |
+| S | Static initializer blocks | Yes | Yes |
+| I | Instance initializer blocks | No | No |
+| I | Initializer methods | No | No |
 
 ## Result
 
-- **Correct answer:** Static methods
-- **Submitted at:** 2026-07-16T09:06:45.772Z
+- **Correct answer:** Static initializer blocks
+- **Submitted at:** 2026-07-16T09:15:19.596Z
 - **Correct submission:** True
 
 ## Explanation
