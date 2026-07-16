@@ -4,7 +4,7 @@
 
 ## Question
 
-Number of Interfaces a Java Class can Implement
+How many interfaces can a Java class implement?
 
 ## Answer choices
 
