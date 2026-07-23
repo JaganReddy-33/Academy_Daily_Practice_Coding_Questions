@@ -4,7 +4,7 @@
 
 ## Question
 
-The 'finally' Block in Java
+Which keyword is used to specify a block of code that should always be executed, regardless of an exception occurring or not?
 
 ## Answer choices
 
