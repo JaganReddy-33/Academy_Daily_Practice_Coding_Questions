@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating Exception Objects in Java
+Can we manually create exception objects?
 
 ## Answer choices
 
