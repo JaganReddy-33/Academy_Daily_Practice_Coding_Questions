@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple 'finally' Blocks in Java
+Can we have multiple 'finally' blocks for a single 'try' block in Java?
 
 ## Answer choices
 
