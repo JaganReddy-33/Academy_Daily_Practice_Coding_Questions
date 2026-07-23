@@ -4,7 +4,7 @@
 
 ## Question
 
-Handling Exception Objects in Java
+Whom is the exception object given to soon after its creation?
 
 ## Answer choices
 
