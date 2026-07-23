@@ -4,7 +4,7 @@
 
 ## Question
 
-Execution of 'finally' Block in Java
+Is there any way in Java by which the 'finally' block would not get executed?
 
 ## Answer choices
 
