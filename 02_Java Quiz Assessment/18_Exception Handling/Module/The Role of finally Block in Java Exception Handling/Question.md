@@ -4,7 +4,7 @@
 
 ## Question
 
-The Role of 'finally' Block in Java Exception Handling
+What is the role of the 'finally' block in Java exception handling?
 
 ## Answer choices
 
