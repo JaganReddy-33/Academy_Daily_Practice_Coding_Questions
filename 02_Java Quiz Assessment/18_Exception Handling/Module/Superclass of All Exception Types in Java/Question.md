@@ -4,7 +4,7 @@
 
 ## Question
 
-Superclass of All Exception Types in Java
+What is the superclass of all exception types in Java?
 
 ## Answer choices
 
