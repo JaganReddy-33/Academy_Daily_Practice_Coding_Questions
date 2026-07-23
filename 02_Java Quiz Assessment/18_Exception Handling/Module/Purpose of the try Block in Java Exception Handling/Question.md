@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the 'try' Block in Java Exception Handling
+What is the purpose of the 'try' block in Java exception handling?
 
 ## Answer choices
 
