@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Catch Blocks in Java
+In Java, can we have multiple catch blocks for a single try block?
 
 ## Answer choices
 
