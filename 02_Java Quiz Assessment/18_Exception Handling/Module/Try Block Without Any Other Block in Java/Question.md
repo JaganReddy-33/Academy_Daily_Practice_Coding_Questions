@@ -4,7 +4,7 @@
 
 ## Question
 
-Try Block Without Any Other Block in Java
+Can we have a 'try' block without any other block in Java?
 
 ## Answer choices
 
