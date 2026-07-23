@@ -4,7 +4,7 @@
 
 ## Question
 
-Uncaught Exceptions in Java
+What happens if an exception is not caught in Java?
 
 ## Answer choices
 
