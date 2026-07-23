@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the 'throws' Clause in Java Method Declarations
+What is the purpose of the 'throws' clause in Java method declarations?
 
 ## Answer choices
 
