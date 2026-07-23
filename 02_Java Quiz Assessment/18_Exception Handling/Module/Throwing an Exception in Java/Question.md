@@ -4,7 +4,7 @@
 
 ## Question
 
-Throwing an Exception in Java
+Which keyword is used to explicitly throw an exception in Java?
 
 ## Answer choices
 
