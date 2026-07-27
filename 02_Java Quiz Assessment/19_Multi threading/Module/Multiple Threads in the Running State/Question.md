@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Threads in the Running State
+Can we have multiple threads in the 'running' state in Java?
 
 ## Answer choices
 
