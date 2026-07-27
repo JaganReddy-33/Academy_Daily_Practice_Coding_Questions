@@ -4,7 +4,7 @@
 
 ## Question
 
-ERD Abbreviation
+ERD stands for entity relationship design.
 
 ## Answer choices
 
