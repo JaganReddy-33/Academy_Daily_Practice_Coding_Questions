@@ -8,13 +8,13 @@ Single-Valued Attribute
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>True</p> | No | No |
-| < | <p>False</p> | Yes | Yes |
+| T | True | Yes | Yes |
+| F | False | No | No |
 
 ## Result
 
-- **Correct answer:** <p>False</p>
-- **Submitted at:** 2026-07-27T14:25:24.009Z
+- **Correct answer:** True
+- **Submitted at:** 2026-07-27T14:27:03.983Z
 - **Correct submission:** True
 
 ## Explanation
