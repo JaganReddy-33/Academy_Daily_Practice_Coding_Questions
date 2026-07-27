@@ -4,7 +4,7 @@
 
 ## Question
 
-Applying a Lock on a Resource in Java
+Which keyword is used to apply a lock on a resource in Java?
 
 ## Answer choices
 
