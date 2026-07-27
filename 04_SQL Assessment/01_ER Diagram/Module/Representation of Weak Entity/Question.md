@@ -4,7 +4,7 @@
 
 ## Question
 
-Representation of Weak Entity
+<p>The weak entity is represented by a double rectangle.</p>
 
 ## Answer choices
 
