@@ -8,13 +8,13 @@ Single-Valued Attribute
 
 ## Answer choices
 
-- ⬜ **A.** <p>True</p>
-- ✅ **B. <p>False</p>** — Correct answer
+- ✅ **A. True** — Correct answer
+- ⬜ **B.** False
 
 ## Submission
 
-- **Correct answer:** <p>False</p>
-- **Submitted at:** 2026-07-27T14:25:24.009Z
+- **Correct answer:** True
+- **Submitted at:** 2026-07-27T14:27:03.983Z
 - **Correct submission:** True
 
 ## Explanation
