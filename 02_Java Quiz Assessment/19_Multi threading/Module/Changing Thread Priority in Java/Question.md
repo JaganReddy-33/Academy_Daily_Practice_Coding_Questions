@@ -4,7 +4,7 @@
 
 ## Question
 
-Changing Thread Priority in Java
+Can we change the priority of a thread in Java?
 
 ## Answer choices
 
