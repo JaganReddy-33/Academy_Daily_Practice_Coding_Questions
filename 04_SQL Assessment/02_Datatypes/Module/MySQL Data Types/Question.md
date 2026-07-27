@@ -8,15 +8,15 @@ MySQL Data Types
 
 ## Answer choices
 
-- ✅ **A. CHAR** — Correct answer
-- ⬜ **B.** VARCHAR
-- ⬜ **C.** TEXT
-- ⬜ **D.** INT
+- ✅ **A. <p>VARCHAR</p>** — Correct answer
+- ⬜ **B.** <p>FLOAT</p>
+- ⬜ **C.** <p>INTEGER</p>
+- ⬜ **D.** <p>DATE</p>
 
 ## Submission
 
-- **Correct answer:** CHAR
-- **Submitted at:** 2026-07-28T06:21:29.686Z
+- **Correct answer:** <p>VARCHAR</p>
+- **Submitted at:** 2026-07-27T14:30:40.879Z
 - **Correct submission:** True
 
 ## Explanation
