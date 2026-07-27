@@ -4,7 +4,7 @@
 
 ## Question
 
-Purpose of the notify() Method in Java
+What is the purpose of the 'notify()' method in Java?
 
 ## Answer choices
 
