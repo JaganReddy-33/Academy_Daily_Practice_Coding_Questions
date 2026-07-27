@@ -4,7 +4,7 @@
 
 ## Question
 
-Better Way to Achieve Multithreading in Java
+Which is a better way to achieve multithreading in Java?
 
 ## Answer choices
 
