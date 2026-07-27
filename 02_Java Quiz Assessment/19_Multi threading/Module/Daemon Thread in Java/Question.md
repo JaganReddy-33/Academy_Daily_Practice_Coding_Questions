@@ -4,7 +4,7 @@
 
 ## Question
 
-Daemon Thread in Java
+What is a daemon thread in Java?
 
 ## Answer choices
 
