@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Priority of Main Thread in Java
+What is the default priority of a main thread in Java?
 
 ## Answer choices
 
