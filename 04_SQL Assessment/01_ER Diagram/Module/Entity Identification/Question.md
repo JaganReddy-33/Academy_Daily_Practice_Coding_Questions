@@ -4,7 +4,7 @@
 
 ## Question
 
-Entity Identification
+An entity that cannot be uniquely identified by its own attributes and relies on the relationship with other entities is called ____________ entity.
 
 ## Answer choices
 
