@@ -4,7 +4,7 @@
 
 ## Question
 
-Attribute Representation
+The attribute is represented by ________________ in an Entity-Relationship Diagram.
 
 ## Answer choices
 
