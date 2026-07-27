@@ -4,7 +4,7 @@
 
 ## Question
 
-ER Diagram Purpose
+<p>An ER Diagram describes the structure of a database.</p>
 
 ## Answer choices
 
