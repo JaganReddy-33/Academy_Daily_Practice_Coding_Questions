@@ -4,7 +4,7 @@
 
 ## Question
 
-Derived Attribute
+A derived attribute is one whose value is dynamic and derived from another attribute.
 
 ## Answer choices
 
