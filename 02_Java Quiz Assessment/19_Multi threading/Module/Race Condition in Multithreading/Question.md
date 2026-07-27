@@ -4,7 +4,7 @@
 
 ## Question
 
-Race Condition in Multithreading
+What is a race condition in multithreading?
 
 ## Answer choices
 
