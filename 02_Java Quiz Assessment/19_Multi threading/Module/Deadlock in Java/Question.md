@@ -1,0 +1,22 @@
+# Deadlock in Java
+
+## Question
+
+Deadlock in Java
+
+## Answer Choices
+
+| Choice | Answer | Selected | Correct |
+|:---:|---|:---:|:---:|
+| T | True | Yes | Yes |
+| F | False | No | No |
+
+## Result
+
+- **Correct answer:** True
+- **Submitted at:** 2026-07-27T04:45:07.767Z
+- **Correct submission:** True
+
+## Explanation
+
+_Not available._
