@@ -4,7 +4,7 @@
 
 ## Question
 
-Advantage of Multithreading in Java
+What is the main advantage of multithreading?
 
 ## Answer choices
 
