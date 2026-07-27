@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Threads in the Blocked State
+Can we have multiple threads in the 'blocked' state in Java?
 
 ## Answer choices
 
