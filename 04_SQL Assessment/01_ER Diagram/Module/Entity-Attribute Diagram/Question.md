@@ -4,7 +4,7 @@
 
 ## Question
 
-Entity-Attribute Diagram
+An Entity-Relationship Diagram (ER diagram) is a diagrammatic way of representing data.
 
 ## Answer choices
 
