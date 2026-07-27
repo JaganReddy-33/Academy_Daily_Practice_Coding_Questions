@@ -4,7 +4,7 @@
 
 ## Question
 
-Entity Definition
+<p>An entity is an object or component of data.</p>
 
 ## Answer choices
 
