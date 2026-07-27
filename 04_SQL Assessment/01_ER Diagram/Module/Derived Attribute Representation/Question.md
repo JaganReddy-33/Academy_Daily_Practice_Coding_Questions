@@ -4,7 +4,7 @@
 
 ## Question
 
-Derived Attribute Representation
+The derived attribute is represented by _______________ in an Entity-Relationship Diagram.
 
 ## Answer choices
 
