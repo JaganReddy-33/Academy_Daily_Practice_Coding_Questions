@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Values of Thread Priority in Java
+What is the default value of the priority variable MIN_PRIORITY and MAX_PRIORITY in Java?
 
 ## Answer choices
 
