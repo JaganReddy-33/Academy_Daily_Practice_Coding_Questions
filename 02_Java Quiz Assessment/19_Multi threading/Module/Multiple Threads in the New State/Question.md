@@ -4,7 +4,7 @@
 
 ## Question
 
-Multiple Threads in the New State
+Can we have multiple threads in the 'new' state in Java?
 
 ## Answer choices
 
