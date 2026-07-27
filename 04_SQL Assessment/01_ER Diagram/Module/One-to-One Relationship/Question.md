@@ -4,7 +4,7 @@
 
 ## Question
 
-One-to-One Relationship
+When a single instance of an entity is associated with a single instance of another entity, it is called __________ relationship.
 
 ## Answer choices
 
