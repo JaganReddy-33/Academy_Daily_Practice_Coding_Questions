@@ -4,7 +4,7 @@
 
 ## Question
 
-Checking if a Thread is Still Running in Java
+Which of the following methods is used to find out if a thread is still running or not?
 
 ## Answer choices
 
