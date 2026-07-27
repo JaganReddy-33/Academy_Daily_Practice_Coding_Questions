@@ -4,7 +4,7 @@
 
 ## Question
 
-Thread Termination in Java
+Which of the following methods waits for the thread to terminate in Java?
 
 ## Answer choices
 
