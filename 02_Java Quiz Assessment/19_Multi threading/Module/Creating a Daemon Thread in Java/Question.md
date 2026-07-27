@@ -4,7 +4,7 @@
 
 ## Question
 
-Creating a Daemon Thread in Java
+How can you create a daemon thread in Java?
 
 ## Answer choices
 
