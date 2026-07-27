@@ -4,7 +4,7 @@
 
 ## Question
 
-Inter-Thread Communication in Java
+Can we achieve Inter-Thread communication in Java?
 
 ## Answer choices
 
