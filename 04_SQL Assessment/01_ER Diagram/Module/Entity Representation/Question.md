@@ -4,7 +4,7 @@
 
 ## Question
 
-Entity Representation
+The _________ represents an entity in an Entity-Relationship Diagram.
 
 ## Answer choices
 
