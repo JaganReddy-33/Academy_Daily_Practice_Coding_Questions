@@ -4,7 +4,7 @@
 
 ## Question
 
-Many-to-Many Relationship
+When more than one instance of an entity is associated with more than one instance of another entity, it is called __________ relationship.
 
 ## Answer choices
 
