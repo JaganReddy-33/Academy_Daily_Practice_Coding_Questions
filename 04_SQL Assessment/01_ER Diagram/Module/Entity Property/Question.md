@@ -4,7 +4,7 @@
 
 ## Question
 
-Entity Property
+<p>An _________ describes the property of an entity.</p>
 
 ## Answer choices
 
