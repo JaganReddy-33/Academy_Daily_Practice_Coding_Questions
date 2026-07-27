@@ -4,7 +4,7 @@
 
 ## Question
 
-Starting the Execution of a Thread in Java
+Which method is used to start the execution of a thread?
 
 ## Answer choices
 
