@@ -4,7 +4,7 @@
 
 ## Question
 
-ER Diagram Relationship
+<p>An ER diagram shows the relationship among entities.</p>
 
 ## Answer choices
 
