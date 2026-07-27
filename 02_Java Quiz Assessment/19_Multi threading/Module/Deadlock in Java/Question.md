@@ -4,7 +4,7 @@
 
 ## Question
 
-Deadlock in Java
+Deadlock is a situation when a thread is waiting for another thread to release an acquired object.
 
 ## Answer choices
 
