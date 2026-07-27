@@ -4,7 +4,7 @@
 
 ## Question
 
-Multivalued Attribute Representation
+The multivalued attribute is represented by _______________ in an Entity-Relationship Diagram.
 
 ## Answer choices
 
