@@ -4,7 +4,7 @@
 
 ## Question
 
-Difference between wait() and sleep() methods in Java
+What is the difference between wait() and sleep() methods in Java?
 
 ## Answer choices
 
