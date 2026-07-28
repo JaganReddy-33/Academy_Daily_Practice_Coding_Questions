@@ -4,7 +4,7 @@
 
 ## Question
 
-FLOAT Data Type in MySQL
+What is the size of the FLOAT data type in MySQL?
 
 ## Answer choices
 
