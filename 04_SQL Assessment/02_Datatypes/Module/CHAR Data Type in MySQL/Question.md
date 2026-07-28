@@ -4,7 +4,7 @@
 
 ## Question
 
-CHAR Data Type in MySQL
+<p>What is the size of the CHAR data type in MySQL?</p>
 
 ## Answer choices
 
