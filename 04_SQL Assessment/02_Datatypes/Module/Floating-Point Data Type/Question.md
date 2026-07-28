@@ -4,7 +4,7 @@
 
 ## Question
 
-Floating-Point Data Type
+Which data type in MySQL is used to store numbers with fractional parts?
 
 ## Answer choices
 
