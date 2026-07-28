@@ -4,7 +4,7 @@
 
 ## Question
 
-Data Types in MySQL
+<p>Which of the following data type is used to store the combination of data in MySQL?</p>
 
 ## Answer choices
 
