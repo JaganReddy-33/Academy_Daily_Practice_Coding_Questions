@@ -4,7 +4,7 @@
 
 ## Question
 
-Integer Data Type
+Which data type in MySQL is used to store whole numbers without fractional parts?
 
 ## Answer choices
 
