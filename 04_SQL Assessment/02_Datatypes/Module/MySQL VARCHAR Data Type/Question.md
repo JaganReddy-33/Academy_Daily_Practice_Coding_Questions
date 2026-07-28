@@ -4,7 +4,7 @@
 
 ## Question
 
-MySQL VARCHAR Data Type
+What is the maximum number of characters that can be stored in a VARCHAR data type in MySQL?
 
 ## Answer choices
 
