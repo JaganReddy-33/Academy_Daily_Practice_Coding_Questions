@@ -4,7 +4,7 @@
 
 ## Question
 
-MySQL DATE Data Type Format
+What is the format of a DATE data type value in MySQL?
 
 ## Answer choices
 
