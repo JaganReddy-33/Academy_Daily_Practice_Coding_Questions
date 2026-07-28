@@ -4,7 +4,7 @@
 
 ## Question
 
-MySQL Variable-Length Character Data Type
+Which data type in MySQL is used to store variable-length character data?
 
 ## Answer choices
 
