@@ -4,7 +4,7 @@
 
 ## Question
 
-INT Data Type in MySQL
+What is the size of the INT data type in MySQL?
 
 ## Answer choices
 
