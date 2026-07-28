@@ -4,7 +4,7 @@
 
 ## Question
 
-Date and Time Data Types
+Which data type in MySQL is used to store date values in the format 'YYYY-MM-DD'?
 
 ## Answer choices
 
