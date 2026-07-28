@@ -4,7 +4,7 @@
 
 ## Question
 
-Auto-Increment in INT
+Which data type in MySQL is commonly used for auto-incrementing numeric values in a table?
 
 ## Answer choices
 
