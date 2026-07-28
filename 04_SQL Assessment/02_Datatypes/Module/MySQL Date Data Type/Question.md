@@ -4,7 +4,7 @@
 
 ## Question
 
-MySQL Date Data Type
+Which data type in MySQL is used to store a date value?
 
 ## Answer choices
 
