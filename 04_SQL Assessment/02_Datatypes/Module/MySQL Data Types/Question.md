@@ -8,15 +8,15 @@ MySQL Data Types
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>VARCHAR</p> | Yes | Yes |
-| < | <p>FLOAT</p> | No | No |
-| < | <p>INTEGER</p> | No | No |
-| < | <p>DATE</p> | No | No |
+| C | CHAR | Yes | Yes |
+| V | VARCHAR | No | No |
+| T | TEXT | No | No |
+| I | INT | No | No |
 
 ## Result
 
-- **Correct answer:** <p>VARCHAR</p>
-- **Submitted at:** 2026-07-27T14:30:40.879Z
+- **Correct answer:** CHAR
+- **Submitted at:** 2026-07-28T06:21:29.686Z
 - **Correct submission:** True
 
 ## Explanation
