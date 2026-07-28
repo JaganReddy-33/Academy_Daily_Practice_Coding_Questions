@@ -4,7 +4,7 @@
 
 ## Question
 
-Invalid MySQL Data Type
+Which among the following is not a valid MySQL data type?
 
 ## Answer choices
 
