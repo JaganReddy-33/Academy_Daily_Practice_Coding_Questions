@@ -4,7 +4,7 @@
 
 ## Question
 
-Primary Key and Foreign Key in SQL
+<p>Are primary key and composite primary key the same?</p>
 
 ## Answer choices
 
