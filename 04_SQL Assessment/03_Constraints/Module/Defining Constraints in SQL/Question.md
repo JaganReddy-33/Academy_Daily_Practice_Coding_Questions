@@ -4,7 +4,7 @@
 
 ## Question
 
-Defining Constraints in SQL
+Is it mandatory to define constraints for each column of a table?
 
 ## Answer choices
 
