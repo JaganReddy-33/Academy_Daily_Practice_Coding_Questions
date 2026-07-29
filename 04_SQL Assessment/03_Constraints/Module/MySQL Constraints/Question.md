@@ -8,15 +8,13 @@ MySQL Constraints
 
 ## Answer choices
 
-- ⬜ **A.** PRIMARY KEY
-- ✅ **B. FOREIGN KEY** — Correct answer
-- ⬜ **C.** NOT NULL
-- ⬜ **D.** UNIQUE
+- ⬜ **A.** <p>Yes</p>
+- ✅ **B. <p>No</p>** — Correct answer
 
 ## Submission
 
-- **Correct answer:** FOREIGN KEY
-- **Submitted at:** 2026-07-29T10:19:09.375Z
+- **Correct answer:** <p>No</p>
+- **Submitted at:** 2026-07-29T10:18:57.084Z
 - **Correct submission:** True
 
 ## Explanation
