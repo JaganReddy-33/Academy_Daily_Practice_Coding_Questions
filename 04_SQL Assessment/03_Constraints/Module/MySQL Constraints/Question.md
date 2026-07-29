@@ -10,13 +10,13 @@ MySQL Constraints
 |:---:|---|:---:|:---:|
 | < | <p>PRIMARY KEY</p> | No | No |
 | < | <p>FOREIGN KEY</p> | No | No |
-| < | <p>CHECK</p> | Yes | Yes |
-| < | <p>UNIQUE</p> | No | No |
+| < | <p>NOT NULL</p> | No | No |
+| < | <p>DEFAULT</p> | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** <p>CHECK</p>
-- **Submitted at:** 2026-07-29T10:17:55.975Z
+- **Correct answer:** <p>DEFAULT</p>
+- **Submitted at:** 2026-07-29T10:18:47.818Z
 - **Correct submission:** True
 
 ## Explanation
