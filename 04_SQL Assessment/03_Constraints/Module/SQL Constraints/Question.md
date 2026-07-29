@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Constraints
+<p>Constraints in SQL are used to apply restrictions on columns in the specified table.</p>
 
 ## Answer choices
 
