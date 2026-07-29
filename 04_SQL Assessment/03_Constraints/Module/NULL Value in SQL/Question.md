@@ -4,7 +4,7 @@
 
 ## Question
 
-NULL Value in SQL
+Is a NULL value treated as a zero?
 
 ## Answer choices
 
