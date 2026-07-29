@@ -4,7 +4,7 @@
 
 ## Question
 
-Constraint for Age Column in SQL
+In SQL, if you want to allow the age of a student > 18 in the column Age of table student, then which constraint will be applied to the AGE column?
 
 ## Answer choices
 
