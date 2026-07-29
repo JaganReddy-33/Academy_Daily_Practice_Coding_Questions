@@ -4,7 +4,7 @@
 
 ## Question
 
-Types of Keys in SQL
+Which of the following is not a key in SQL?
 
 ## Answer choices
 
