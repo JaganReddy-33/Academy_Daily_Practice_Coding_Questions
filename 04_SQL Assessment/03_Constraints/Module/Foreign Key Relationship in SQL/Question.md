@@ -4,7 +4,7 @@
 
 ## Question
 
-Foreign Key Relationship in SQL
+<p>A foreign key in one table can be related to the primary key of another table.</p>
 
 ## Answer choices
 
