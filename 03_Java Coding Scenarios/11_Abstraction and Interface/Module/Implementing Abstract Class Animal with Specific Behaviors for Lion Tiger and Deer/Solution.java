@@ -66,4 +66,4 @@ public class Main {
             deer.sleep();
         } 
     }
-}
+}
