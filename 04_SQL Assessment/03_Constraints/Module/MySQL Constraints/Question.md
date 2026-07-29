@@ -8,15 +8,15 @@ MySQL Constraints
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>PRIMARY KEY</p> | No | No |
-| < | <p>FOREIGN KEY</p> | No | No |
-| < | <p>NOT NULL</p> | No | No |
-| < | <p>DEFAULT</p> | Yes | Yes |
+| P | PRIMARY KEY | No | No |
+| F | FOREIGN KEY | Yes | Yes |
+| N | NOT NULL | No | No |
+| U | UNIQUE | No | No |
 
 ## Result
 
-- **Correct answer:** <p>DEFAULT</p>
-- **Submitted at:** 2026-07-29T10:18:47.818Z
+- **Correct answer:** FOREIGN KEY
+- **Submitted at:** 2026-07-29T10:19:09.375Z
 - **Correct submission:** True
 
 ## Explanation
