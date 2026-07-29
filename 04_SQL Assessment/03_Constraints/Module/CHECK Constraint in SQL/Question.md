@@ -8,13 +8,13 @@ CHECK Constraint in SQL
 
 ## Answer choices
 
-- ✅ **A. <p>Yes</p>** — Correct answer
-- ⬜ **B.** <p>No</p>
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
 ## Submission
 
-- **Correct answer:** <p>Yes</p>
-- **Submitted at:** 2026-07-29T10:21:01.940Z
+- **Correct answer:** Yes
+- **Submitted at:** 2026-07-29T10:23:38.549Z
 - **Correct submission:** True
 
 ## Explanation
