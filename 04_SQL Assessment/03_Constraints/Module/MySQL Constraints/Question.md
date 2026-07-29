@@ -8,15 +8,15 @@ MySQL Constraints
 
 ## Answer choices
 
-- ✅ **A. <p>PRIMARY KEY</p>** — Correct answer
+- ⬜ **A.** <p>PRIMARY KEY</p>
 - ⬜ **B.** <p>FOREIGN KEY</p>
-- ⬜ **C.** <p>NOT NULL</p>
+- ✅ **C. <p>CHECK</p>** — Correct answer
 - ⬜ **D.** <p>UNIQUE</p>
 
 ## Submission
 
-- **Correct answer:** <p>PRIMARY KEY</p>
-- **Submitted at:** 2026-07-29T10:16:59.552Z
+- **Correct answer:** <p>CHECK</p>
+- **Submitted at:** 2026-07-29T10:17:55.975Z
 - **Correct submission:** True
 
 ## Explanation
