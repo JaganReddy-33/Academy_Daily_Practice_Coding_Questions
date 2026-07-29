@@ -4,7 +4,7 @@
 
 ## Question
 
-Accepting Multiple NULL Values in SQL
+Which key accepts multiple NULL values in SQL?
 
 ## Answer choices
 
