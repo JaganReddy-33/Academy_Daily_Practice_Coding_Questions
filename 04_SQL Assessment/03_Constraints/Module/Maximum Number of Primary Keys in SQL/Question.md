@@ -4,7 +4,7 @@
 
 ## Question
 
-Maximum Number of Primary Keys in SQL
+<p>How many primary keys can a table maximum have in SQL?</p>
 
 ## Answer choices
 
