@@ -4,7 +4,7 @@
 
 ## Question
 
-PRIMARY KEY Constraint in SQL
+<p>Which statement is wrong about the PRIMARY KEY constraint in SQL?</p>
 
 ## Answer choices
 
