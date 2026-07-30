@@ -11,4 +11,4 @@ public class Main {
       System.out.println("Invalid input, please enter an integer");
     }
   }
-}
+}
