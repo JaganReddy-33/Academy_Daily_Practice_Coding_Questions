@@ -21,4 +21,4 @@ public class Main {
       System.out.print("Invalid input, please enter integers only");
     }
   }
-}
+}
