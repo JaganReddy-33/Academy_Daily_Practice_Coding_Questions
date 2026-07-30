@@ -12,4 +12,4 @@ public class Main {
       System.out.println("Array size cannot be negative");
     }
   }
-}
+}
