@@ -4,7 +4,7 @@
 
 ## Question
 
-Drop Column from Existing Table
+Which of the following is/are the correct syntax to drop a column into the existing table?
 
 ## Answer choices
 
