@@ -4,7 +4,7 @@
 
 ## Question
 
-DELETE Command for Removing Database/Table
+<p>Can the DELETE command be used to permanently remove a database or table from the system?</p>
 
 ## Answer choices
 
