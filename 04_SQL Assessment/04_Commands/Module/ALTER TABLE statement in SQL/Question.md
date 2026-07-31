@@ -4,7 +4,7 @@
 
 ## Question
 
-ALTER TABLE statement in SQL
+<p>In SQL, the ALTER TABLE statement is used to ________ in an existing table.</p>
 
 ## Answer choices
 
