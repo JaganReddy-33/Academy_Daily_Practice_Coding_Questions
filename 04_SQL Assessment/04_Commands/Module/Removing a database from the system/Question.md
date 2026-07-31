@@ -4,7 +4,7 @@
 
 ## Question
 
-Removing a database from the system
+<p>Which of the following is a correct syntax to remove a database from the system?</p>
 
 ## Answer choices
 
