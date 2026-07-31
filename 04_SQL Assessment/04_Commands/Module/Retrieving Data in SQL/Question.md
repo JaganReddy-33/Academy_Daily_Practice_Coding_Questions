@@ -4,7 +4,7 @@
 
 ## Question
 
-Retrieving Data in SQL
+Which of the following SQL commands is used to retrieve data?
 
 ## Answer choices
 
