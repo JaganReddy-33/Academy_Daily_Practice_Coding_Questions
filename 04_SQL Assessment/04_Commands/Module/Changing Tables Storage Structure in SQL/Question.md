@@ -4,7 +4,7 @@
 
 ## Question
 
-Changing Table's Storage Structure in SQL
+<p>Which command is used to change a table's storage structure in SQL?</p>
 
 ## Answer choices
 
