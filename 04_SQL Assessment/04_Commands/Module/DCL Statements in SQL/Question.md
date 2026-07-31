@@ -4,7 +4,7 @@
 
 ## Question
 
-DCL Statements in SQL
+Which of the following keyword is used with DCL statements in SQL?
 
 ## Answer choices
 
