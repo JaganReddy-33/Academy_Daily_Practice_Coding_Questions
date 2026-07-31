@@ -4,7 +4,7 @@
 
 ## Question
 
-Updating Data in an Existing Table
+<p>Which SQL command is used to update data in an existing table?</p>
 
 ## Answer choices
 
