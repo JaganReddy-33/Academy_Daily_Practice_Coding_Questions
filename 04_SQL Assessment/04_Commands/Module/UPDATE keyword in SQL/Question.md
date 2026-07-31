@@ -4,7 +4,7 @@
 
 ## Question
 
-UPDATE keyword in SQL
+<p>Which of the following statements is wrong about the UPDATE command in SQL?</p>
 
 ## Answer choices
 
