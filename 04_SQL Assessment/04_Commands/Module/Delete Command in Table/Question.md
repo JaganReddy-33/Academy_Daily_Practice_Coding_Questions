@@ -4,7 +4,7 @@
 
 ## Question
 
-Delete Command in Table
+<p>Is the delete command used to delete/remove a column in a table?</p>
 
 ## Answer choices
 
