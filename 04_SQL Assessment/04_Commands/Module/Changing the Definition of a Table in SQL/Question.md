@@ -4,7 +4,7 @@
 
 ## Question
 
-Changing the Definition of a Table in SQL
+Which statement in SQL allows us to change the definition of an existing table?
 
 ## Answer choices
 
