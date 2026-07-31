@@ -4,7 +4,7 @@
 
 ## Question
 
-Categories of SQL Commands
+______________ is not a category of SQL command.
 
 ## Answer choices
 
