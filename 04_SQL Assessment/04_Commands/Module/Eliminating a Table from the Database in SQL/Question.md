@@ -4,7 +4,7 @@
 
 ## Question
 
-Eliminating a Table from the Database in SQL
+<p>Which among the following command is used to eliminate a table from the database in SQL?</p>
 
 ## Answer choices
 
