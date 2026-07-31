@@ -4,7 +4,7 @@
 
 ## Question
 
-DDL Commands in SQL
+<p>Which among the following is not a DDL command?</p>
 
 ## Answer choices
 
