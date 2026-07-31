@@ -4,7 +4,7 @@
 
 ## Question
 
-DROP Command
+<p>DROP command removes a table, and it cannot be rolled back from the database.</p>
 
 ## Answer choices
 
