@@ -4,7 +4,7 @@
 
 ## Question
 
-TCL commands in SQL
+Which among the following are TCL commands in SQL?
 
 ## Answer choices
 
