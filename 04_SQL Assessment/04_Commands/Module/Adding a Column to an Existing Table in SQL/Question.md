@@ -4,7 +4,7 @@
 
 ## Question
 
-Adding a Column to an Existing Table in SQL
+<p>Which of the following is/are a correct syntax to add a column into the existing table?</p>
 
 ## Answer choices
 
