@@ -4,7 +4,7 @@
 
 ## Question
 
-Removing a Relation in SQL
+<p>To remove a relation(table) from a database, we use the ______ command in SQL.</p>
 
 ## Answer choices
 
