@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Database Language
+In SQL, the database language used for defining the whole database structure and schema is called ____________.
 
 ## Answer choices
 
