@@ -4,7 +4,7 @@
 
 ## Question
 
-Changing the Structure of a Table in SQL
+<p>Which SQL command or keyword is used to change the structure, properties, or constraints of a table?</p>
 
 ## Answer choices
 
