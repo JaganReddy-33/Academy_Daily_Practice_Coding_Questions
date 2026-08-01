@@ -4,7 +4,7 @@
 
 ## Question
 
-Using IN Keyword in SQL
+In an SQL query, which SQL keyword is used to determine if a column value is equal to any one of a set of values?
 
 ## Answer choices
 
