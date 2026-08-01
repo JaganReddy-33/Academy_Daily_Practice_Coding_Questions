@@ -4,7 +4,7 @@
 
 ## Question
 
-Fetching all the records in SQL
+<p>In SQL, is * operator is  used to display all columns from the specified table?</p>
 
 ## Answer choices
 
