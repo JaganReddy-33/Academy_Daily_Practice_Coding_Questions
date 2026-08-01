@@ -4,19 +4,19 @@
 
 ## Question
 
-Query with LIKE Clause
+<p>What does the following statement do?</p><p>WHERE Name LIKE '%a'</p>
 
 ## Answer choices
 
-- ✅ **A. <p>Finds any CustomerName that start with 'a' and end with 'o'</p>** — Correct answer
-- ⬜ **B.** <p>Finds any CustomerName that start with 'o' and end with 'a'</p>
-- ⬜ **C.** <p>Finds any CustomerName that start with 'a' and end with 'a'</p>
-- ⬜ **D.** <p>Finds any CustomerName that start with 'o' and end with 'o'</p>
+- ⬜ **A.** <p>Finds any names that start with 'a'</p>
+- ✅ **B. <p>Finds any names that end with 'a'</p>** — Correct answer
+- ⬜ **C.** <p>Finds any names that start and end with 'a'</p>
+- ⬜ **D.** <p>None of the above</p>
 
 ## Submission
 
-- **Correct answer:** <p>Finds any CustomerName that start with 'a' and end with 'o'</p>
-- **Submitted at:** 2026-08-01T06:51:43.411Z
+- **Correct answer:** <p>Finds any names that end with 'a'</p>
+- **Submitted at:** 2026-08-01T06:49:43.002Z
 - **Correct submission:** True
 
 ## Explanation
