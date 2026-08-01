@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query for Finding Student Details in a Range
+Which SQL query will find all the details of students whose id is in the range of 50 to 100?
 
 ## Answer choices
 
