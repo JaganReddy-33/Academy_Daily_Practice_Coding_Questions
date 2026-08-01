@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query for Finding Students Outside a Range
+<p>SQL query to find all the details of students whose id is not in the range of 50 to 100.</p>
 
 ## Answer choices
 
