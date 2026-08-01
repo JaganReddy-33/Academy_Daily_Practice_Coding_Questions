@@ -8,15 +8,15 @@ Query with LIKE Clause
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Finds any customer names that start with 'a' and are at least 1 character in length</p> | No | No |
-| < | <p>Finds any customer names that start with 'a' and are at least 2 characters in length</p> | Yes | Yes |
-| < | <p>Finds any customer names that start with 'a' and are at least 3 characters in length</p> | No | No |
-| < | <p>Finds any customer names that start with 'a' and are at least 4 characters in length</p> | No | No |
+| < | <p>Finds any CustomerName that start with 'a' and end with 'o'</p> | Yes | Yes |
+| < | <p>Finds any CustomerName that start with 'o' and end with 'a'</p> | No | No |
+| < | <p>Finds any CustomerName that start with 'a' and end with 'a'</p> | No | No |
+| < | <p>Finds any CustomerName that start with 'o' and end with 'o'</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Finds any customer names that start with 'a' and are at least 2 characters in length</p>
-- **Submitted at:** 2026-08-01T06:51:21.487Z
+- **Correct answer:** <p>Finds any CustomerName that start with 'a' and end with 'o'</p>
+- **Submitted at:** 2026-08-01T06:51:43.411Z
 - **Correct submission:** True
 
 ## Explanation
