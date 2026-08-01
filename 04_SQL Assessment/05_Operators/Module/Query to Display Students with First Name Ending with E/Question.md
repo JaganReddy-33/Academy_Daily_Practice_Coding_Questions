@@ -4,7 +4,7 @@
 
 ## Question
 
-Query to Display Students with First Name Ending with 'E'
+Which of the following query would display all the students whose first name ends with the character 'E'?
 
 ## Answer choices
 
