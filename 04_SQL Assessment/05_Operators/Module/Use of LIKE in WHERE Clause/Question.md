@@ -4,7 +4,7 @@
 
 ## Question
 
-Use of LIKE in WHERE Clause
+<p>The keyword LIKE can be used in a WHERE clause to refer to a range of values.</p>
 
 ## Answer choices
 
