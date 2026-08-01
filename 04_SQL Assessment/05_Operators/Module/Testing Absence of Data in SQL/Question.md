@@ -4,7 +4,7 @@
 
 ## Question
 
-Testing Absence of Data in SQL
+Which operator tests the column for the absence of data?
 
 ## Answer choices
 
