@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query for Finding Students with Specific Ages
+Which of the following SQL query will find the details of students whose age is either 22 or 23.
 
 ## Answer choices
 
