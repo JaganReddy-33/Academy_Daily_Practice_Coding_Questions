@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Equality Operator
+In SQL, the equal (=) operator is used for checking equality.
 
 ## Answer choices
 
