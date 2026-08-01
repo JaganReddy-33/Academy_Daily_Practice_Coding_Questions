@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query for Finding Students with Specific IDs
+Which of the following SQL query will find all the details of students whose id is 10, 20, or 30.
 
 ## Answer choices
 
