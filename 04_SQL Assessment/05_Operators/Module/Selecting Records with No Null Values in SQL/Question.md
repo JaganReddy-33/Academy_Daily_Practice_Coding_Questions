@@ -4,7 +4,7 @@
 
 ## Question
 
-Selecting Records with No Null Values in SQL
+<p>How to select records with no null values in SQL?</p>
 
 ## Answer choices
 
