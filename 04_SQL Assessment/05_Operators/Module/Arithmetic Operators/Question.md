@@ -4,7 +4,7 @@
 
 ## Question
 
-Arithmetic Operators
+<p>Which of the following operators is used for performing modulus (remainder) division in MySQL?</p>
 
 ## Answer choices
 
