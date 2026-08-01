@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query to Display Students within a Grade Range
+Write a query to display the students whose grades are within the range of 7.5 to 8.5.
 
 ## Answer choices
 
