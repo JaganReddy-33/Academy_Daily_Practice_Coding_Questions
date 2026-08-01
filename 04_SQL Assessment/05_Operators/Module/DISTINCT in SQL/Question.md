@@ -4,7 +4,7 @@
 
 ## Question
 
-DISTINCT in SQL
+<p>In SQL, is DISTINCT used if a user wants to see duplicate values?</p>
 
 ## Answer choices
 
