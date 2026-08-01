@@ -8,15 +8,15 @@ Logical Operators
 
 ## Answer choices
 
-- ✅ **A. <p>OR</p>** — Correct answer
-- ⬜ **B.** <p>AND</p>
-- ⬜ **C.** <p>NOT</p>
-- ⬜ **D.** <p>XOR</p>
+- ✅ **A. AND** — Correct answer
+- ⬜ **B.** &&
+- ⬜ **C.** OR
+- ⬜ **D.** ||
 
 ## Submission
 
-- **Correct answer:** <p>OR</p>
-- **Submitted at:** 2026-08-01T06:46:13.213Z
+- **Correct answer:** AND
+- **Submitted at:** 2026-08-01T06:46:56.928Z
 - **Correct submission:** True
 
 ## Explanation
