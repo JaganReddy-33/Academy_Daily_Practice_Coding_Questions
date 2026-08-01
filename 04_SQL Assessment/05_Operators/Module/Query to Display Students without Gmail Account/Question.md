@@ -4,7 +4,7 @@
 
 ## Question
 
-Query to Display Students without Gmail Account
+<p>Which of the following query would display all details of students who do not have 'gmail.com' in there email account?</p>
 
 ## Answer choices
 
