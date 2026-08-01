@@ -4,7 +4,7 @@
 
 ## Question
 
-Distinct Values in SQL Query
+<p>If the 'account' table has a 'cust_id' column with values (1,2,2,3,3,5,6,7,8,8), what will be the output of the following query?</p><p> SELECT DISTINCT cust_id FROM account;</p>
 
 ## Answer choices
 
