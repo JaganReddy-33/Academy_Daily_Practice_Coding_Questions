@@ -8,15 +8,15 @@ Query with LIKE Clause
 
 ## Answer choices
 
-- ⬜ **A.** <p>Finds any customer names that start with 'a' and are at least 1 character in length</p>
-- ✅ **B. <p>Finds any customer names that start with 'a' and are at least 2 characters in length</p>** — Correct answer
-- ⬜ **C.** <p>Finds any customer names that start with 'a' and are at least 3 characters in length</p>
-- ⬜ **D.** <p>Finds any customer names that start with 'a' and are at least 4 characters in length</p>
+- ✅ **A. <p>Finds any CustomerName that start with 'a' and end with 'o'</p>** — Correct answer
+- ⬜ **B.** <p>Finds any CustomerName that start with 'o' and end with 'a'</p>
+- ⬜ **C.** <p>Finds any CustomerName that start with 'a' and end with 'a'</p>
+- ⬜ **D.** <p>Finds any CustomerName that start with 'o' and end with 'o'</p>
 
 ## Submission
 
-- **Correct answer:** <p>Finds any customer names that start with 'a' and are at least 2 characters in length</p>
-- **Submitted at:** 2026-08-01T06:51:21.487Z
+- **Correct answer:** <p>Finds any CustomerName that start with 'a' and end with 'o'</p>
+- **Submitted at:** 2026-08-01T06:51:43.411Z
 - **Correct submission:** True
 
 ## Explanation
