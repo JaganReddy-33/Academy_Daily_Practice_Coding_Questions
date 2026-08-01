@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Lesser Than Operator
+<p>In SQL, the lesser than (&lt;) operator is used for getting the less than the value of the given expression.</p>
 
 ## Answer choices
 
