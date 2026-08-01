@@ -8,15 +8,15 @@ Query with LIKE Clause
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Finds any names that start with 'a'</p> | Yes | Yes |
-| < | <p>Finds any names that end with 'a'</p> | No | No |
-| < | <p>Finds any names that start and end with 'a'</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+| < | <p>Finds any names that have 'or' in any position</p> | Yes | Yes |
+| < | <p>Finds any names that have 'or' in the first position</p> | No | No |
+| < | <p>Finds any names that have 'or' in the second position</p> | No | No |
+| < | <p>Finds any names that have 'or' in the third position</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Finds any names that start with 'a'</p>
-- **Submitted at:** 2026-08-01T06:50:18.485Z
+- **Correct answer:** <p>Finds any names that have 'or' in any position</p>
+- **Submitted at:** 2026-08-01T06:50:35.746Z
 - **Correct submission:** True
 
 ## Explanation
