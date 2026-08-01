@@ -8,15 +8,15 @@ Query with LIKE Clause
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Finds any names that have 'or' in any position</p> | Yes | Yes |
-| < | <p>Finds any names that have 'or' in the first position</p> | No | No |
-| < | <p>Finds any names that have 'or' in the second position</p> | No | No |
-| < | <p>Finds any names that have 'or' in the third position</p> | No | No |
+| A | AFinds any names that have 'r' in the first position | No | No |
+| B | BFinds any names that have 'r' in the second position | Yes | Yes |
+| C | CFinds any names that have 'r' in the third position | No | No |
+| D | DFinds any names that have 'r' in the fourth position | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Finds any names that have 'or' in any position</p>
-- **Submitted at:** 2026-08-01T06:50:35.746Z
+- **Correct answer:** BFinds any names that have 'r' in the second position
+- **Submitted at:** 2026-08-01T06:51:00.593Z
 - **Correct submission:** True
 
 ## Explanation
