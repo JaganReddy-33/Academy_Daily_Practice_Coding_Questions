@@ -4,7 +4,7 @@
 
 ## Question
 
-Using IN Operator in SQL
+<p>Which among the following operator is used to compare a value to a specified list of values?</p>
 
 ## Answer choices
 
