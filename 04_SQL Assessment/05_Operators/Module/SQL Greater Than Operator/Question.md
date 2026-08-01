@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Greater Than Operator
+<p>In SQL, the greater than (&gt;) operator is used for getting the greater than the value of the given expression.</p>
 
 ## Answer choices
 
