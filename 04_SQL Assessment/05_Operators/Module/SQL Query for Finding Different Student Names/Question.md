@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query for Finding Different Student Names
+<p>Which of the following SQL query will find all the different names of the students.</p>
 
 ## Answer choices
 
