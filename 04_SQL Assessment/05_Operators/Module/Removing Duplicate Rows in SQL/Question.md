@@ -4,7 +4,7 @@
 
 ## Question
 
-Removing Duplicate Rows in SQL
+In SQL, to remove duplicate rows from the results of a SELECT statement, the ________ qualifier keyword must be included in a select statement.
 
 ## Answer choices
 
