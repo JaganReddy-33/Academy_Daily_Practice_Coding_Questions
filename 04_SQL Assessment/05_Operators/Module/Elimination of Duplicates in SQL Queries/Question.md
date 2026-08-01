@@ -4,7 +4,7 @@
 
 ## Question
 
-Elimination of Duplicates in SQL Queries
+Does a SQL query automatically eliminate duplicates?
 
 ## Answer choices
 
