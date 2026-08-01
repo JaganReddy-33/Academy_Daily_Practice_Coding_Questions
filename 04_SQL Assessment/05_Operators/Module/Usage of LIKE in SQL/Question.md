@@ -4,7 +4,7 @@
 
 ## Question
 
-Usage of LIKE in SQL
+<p>LIKE is a keyword that is used in the _________________ clause.</p>
 
 ## Answer choices
 
