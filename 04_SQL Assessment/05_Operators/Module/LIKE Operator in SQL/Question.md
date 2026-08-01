@@ -4,7 +4,7 @@
 
 ## Question
 
-LIKE Operator in SQL
+Is the LIKE operator used in a WHERE clause to search for a specified pattern in a column?
 
 ## Answer choices
 
