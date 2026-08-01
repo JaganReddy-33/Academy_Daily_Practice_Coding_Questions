@@ -4,7 +4,7 @@
 
 ## Question
 
-Operator Precedence
+Which of the following statements regarding operator precedence in MySQL is correct?
 
 ## Answer choices
 
