@@ -4,7 +4,7 @@
 
 ## Question
 
-Pattern Matching Operator in SQL
+Which operator performs pattern matching?
 
 ## Answer choices
 
