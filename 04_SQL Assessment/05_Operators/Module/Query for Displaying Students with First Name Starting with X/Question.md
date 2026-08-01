@@ -4,7 +4,7 @@
 
 ## Question
 
-Query for Displaying Students with First Name Starting with 'X'
+Which of the following queries would display all the students whose first name starts with the character 'X'?
 
 ## Answer choices
 
