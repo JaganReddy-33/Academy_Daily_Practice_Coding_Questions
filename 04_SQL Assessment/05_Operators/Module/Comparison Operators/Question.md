@@ -8,15 +8,15 @@ Comparison Operators
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>=</p> | Yes | Yes |
-| < | <p>&lt;&gt;</p> | No | No |
-| < | <p>&lt;</p> | No | No |
-| < | <p>&gt;</p> | No | No |
+| < | <p>!=!</p> | No | No |
+| < | <p>&lt;&gt;</p> | Yes | Yes |
+| < | <p>=</p> | No | No |
+| < | <p>&gt;=</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>=</p>
-- **Submitted at:** 2026-08-01T06:44:55.510Z
+- **Correct answer:** <p>&lt;&gt;</p>
+- **Submitted at:** 2026-08-01T06:46:26.464Z
 - **Correct submission:** True
 
 ## Explanation
