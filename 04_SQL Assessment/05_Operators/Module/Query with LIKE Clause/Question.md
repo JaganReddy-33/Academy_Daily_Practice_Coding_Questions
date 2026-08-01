@@ -8,15 +8,15 @@ Query with LIKE Clause
 
 ## Answer choices
 
-- ✅ **A. <p>Finds any names that have 'or' in any position</p>** — Correct answer
-- ⬜ **B.** <p>Finds any names that have 'or' in the first position</p>
-- ⬜ **C.** <p>Finds any names that have 'or' in the second position</p>
-- ⬜ **D.** <p>Finds any names that have 'or' in the third position</p>
+- ⬜ **A.** AFinds any names that have 'r' in the first position
+- ✅ **B. BFinds any names that have 'r' in the second position** — Correct answer
+- ⬜ **C.** CFinds any names that have 'r' in the third position
+- ⬜ **D.** DFinds any names that have 'r' in the fourth position
 
 ## Submission
 
-- **Correct answer:** <p>Finds any names that have 'or' in any position</p>
-- **Submitted at:** 2026-08-01T06:50:35.746Z
+- **Correct answer:** BFinds any names that have 'r' in the second position
+- **Submitted at:** 2026-08-01T06:51:00.593Z
 - **Correct submission:** True
 
 ## Explanation
