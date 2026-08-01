@@ -4,7 +4,7 @@
 
 ## Question
 
-Correct SQL Statement
+<p>Which of the SQL statements is/are correct?</p>
 
 ## Answer choices
 
