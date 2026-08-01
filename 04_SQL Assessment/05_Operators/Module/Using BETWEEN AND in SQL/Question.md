@@ -4,7 +4,7 @@
 
 ## Question
 
-Using BETWEEN AND in SQL
+<p>For which of the following purposes is the operator BETWEEN AND used in SQL?</p>
 
 ## Answer choices
 
