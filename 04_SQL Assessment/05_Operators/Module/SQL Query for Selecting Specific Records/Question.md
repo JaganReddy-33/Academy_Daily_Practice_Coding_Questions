@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Query for Selecting Specific Records
+<p>Select a query which will display all records from the 'Persons' table where the 'FirstName' is 'Aru' and the 'LastName' is 'Jackson'.</p>
 
 ## Answer choices
 
