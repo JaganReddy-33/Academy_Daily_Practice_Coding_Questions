@@ -1,0 +1,24 @@
+# Query to Display Students without Gmail Account
+
+## Question
+
+Query to Display Students without Gmail Account
+
+## Answer Choices
+
+| Choice | Answer | Selected | Correct |
+|:---:|---|:---:|:---:|
+| < | <p>Select * from student where email not like '%gmail.com%';</p> | Yes | Yes |
+| < | <p>Select * from student where email not like 'gmail.com%';</p> | No | No |
+| < | <p>Select * from student where email like '%gmail.com';</p> | No | No |
+| < | <p>Select * from student where email like 'gmail.com%';</p> | No | No |
+
+## Result
+
+- **Correct answer:** <p>Select * from student where email not like '%gmail.com%';</p>
+- **Submitted at:** 2026-08-01T06:49:29.188Z
+- **Correct submission:** True
+
+## Explanation
+
+_Not available._
