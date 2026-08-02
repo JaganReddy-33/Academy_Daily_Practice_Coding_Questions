@@ -4,19 +4,19 @@
 
 ## Question
 
-Output Prediction with SUBSTR Function
+<p>Predict the output of the following SQL statement: SELECT SUBSTR('Welcome', 1) FROM DUAL;</p>
 
 ## Answer choices
 
-- ✅ **A. <p>Hell</p>** — Correct answer
-- ⬜ **B.** <p>Hello</p>
-- ⬜ **C.** <p>Hel</p>
-- ⬜ **D.** <p>Error</p>
+- ✅ **A. <p>Welcome</p>** — Correct answer
+- ⬜ **B.** <p>W</p>
+- ⬜ **C.** <p>Error</p>
+- ⬜ **D.** <p>None of the above</p>
 
 ## Submission
 
-- **Correct answer:** <p>Hell</p>
-- **Submitted at:** 2026-08-02T06:24:18.341Z
+- **Correct answer:** <p>Welcome</p>
+- **Submitted at:** 2026-08-02T06:24:05.011Z
 - **Correct submission:** True
 
 ## Explanation
