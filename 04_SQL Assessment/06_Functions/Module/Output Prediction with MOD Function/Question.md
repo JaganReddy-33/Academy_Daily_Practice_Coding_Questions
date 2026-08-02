@@ -4,7 +4,7 @@
 
 ## Question
 
-Output Prediction with MOD Function
+<p>Predict the output of the following SQL query: SELECT MOD(100, 1) FROM dual</p>
 
 ## Answer choices
 
