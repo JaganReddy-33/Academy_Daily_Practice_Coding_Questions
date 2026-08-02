@@ -8,15 +8,15 @@ MySQL Functions
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| C | COUNT() | No | No |
-| M | MAX() | No | No |
-| S | SUM() | No | No |
-| A | AVG() | Yes | Yes |
+| < | <p>CONCAT()</p> | Yes | Yes |
+| < | <p>SUBSTR()</p> | No | No |
+| < | <p>LENGTH()</p> | No | No |
+| < | <p>UPPER()</p> | No | No |
 
 ## Result
 
-- **Correct answer:** AVG()
-- **Submitted at:** 2026-08-02T06:26:59.504Z
+- **Correct answer:** <p>CONCAT()</p>
+- **Submitted at:** 2026-08-02T06:27:09.602Z
 - **Correct submission:** True
 
 ## Explanation
