@@ -4,7 +4,7 @@
 
 ## Question
 
-Aggregate Functions in SQL
+<p>In SQL, can the aggregate functions SUM, AVG, MIN, and MAX only be used with numeric columns?</p>
 
 ## Answer choices
 
