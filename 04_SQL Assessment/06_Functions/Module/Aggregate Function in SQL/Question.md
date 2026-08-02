@@ -8,13 +8,15 @@ Aggregate Function in SQL
 
 ## Answer choices
 
-- ⬜ **A.** <p>Yes</p>
-- ✅ **B. <p>No</p>** — Correct answer
+- ⬜ **A.** TRIM
+- ✅ **B. AVG** — Correct answer
+- ⬜ **C.** JOIN
+- ⬜ **D.** LENGTH
 
 ## Submission
 
-- **Correct answer:** <p>No</p>
-- **Submitted at:** 2026-08-02T06:25:38.962Z
+- **Correct answer:** AVG
+- **Submitted at:** 2026-08-02T06:25:48.589Z
 - **Correct submission:** True
 
 ## Explanation
