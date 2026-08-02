@@ -8,15 +8,14 @@ MySQL Functions
 
 ## Answer choices
 
-- ✅ **A. <p>MIN()</p>** — Correct answer
-- ⬜ **B.** <p>MAX()</p>
-- ⬜ **C.** <p>COUNT()</p>
-- ⬜ **D.** <p>SUM()</p>
+- ✅ **A. <p>ROUND()</p>** — Correct answer
+- ⬜ **B.** <p>CEIL()</p>
+- ⬜ **C.** <p>FLOOR()</p>
 
 ## Submission
 
-- **Correct answer:** <p>MIN()</p>
-- **Submitted at:** 2026-08-02T06:27:35.723Z
+- **Correct answer:** <p>ROUND()</p>
+- **Submitted at:** 2026-08-02T06:27:46.381Z
 - **Correct submission:** True
 
 ## Explanation
