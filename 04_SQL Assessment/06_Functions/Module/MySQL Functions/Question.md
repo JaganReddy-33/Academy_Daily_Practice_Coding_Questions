@@ -8,15 +8,15 @@ MySQL Functions
 
 ## Answer choices
 
-- ✅ **A. <p>TRIM()</p>** — Correct answer
-- ⬜ **B.** <p>LENGTH()</p>
-- ⬜ **C.** <p>UPPER()</p>
-- ⬜ **D.** <p>SUBSTR()</p>
+- ✅ **A. <p>MIN()</p>** — Correct answer
+- ⬜ **B.** <p>MAX()</p>
+- ⬜ **C.** <p>COUNT()</p>
+- ⬜ **D.** <p>SUM()</p>
 
 ## Submission
 
-- **Correct answer:** <p>TRIM()</p>
-- **Submitted at:** 2026-08-02T06:27:25.737Z
+- **Correct answer:** <p>MIN()</p>
+- **Submitted at:** 2026-08-02T06:27:35.723Z
 - **Correct submission:** True
 
 ## Explanation
