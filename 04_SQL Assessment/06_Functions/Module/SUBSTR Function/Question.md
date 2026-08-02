@@ -1,0 +1,24 @@
+# SUBSTR() Function
+
+## Question
+
+SUBSTR() Function
+
+## Answer Choices
+
+| Choice | Answer | Selected | Correct |
+|:---:|---|:---:|:---:|
+| < | <p>The SUBSTR() function is used to convert a string to lowercase.</p> | No | No |
+| < | <p>The SUBSTR() function can only be used with numeric values.</p> | No | No |
+| < | <p>The SUBSTR() function supports both single-byte and multi-byte character sets.</p> | Yes | Yes |
+| < | <p>The SUBSTR() function returns the length of a string.</p> | No | No |
+
+## Result
+
+- **Correct answer:** <p>The SUBSTR() function supports both single-byte and multi-byte character sets.</p>
+- **Submitted at:** 2026-08-02T06:31:02.451Z
+- **Correct submission:** True
+
+## Explanation
+
+_Not available._
