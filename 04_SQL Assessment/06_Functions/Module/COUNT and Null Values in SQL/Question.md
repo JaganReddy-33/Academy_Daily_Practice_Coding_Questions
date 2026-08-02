@@ -4,7 +4,7 @@
 
 ## Question
 
-COUNT(*) and Null Values in SQL
+<p>Does COUNT(*) take the null value row into consideration in SQL?</p>
 
 ## Answer choices
 
