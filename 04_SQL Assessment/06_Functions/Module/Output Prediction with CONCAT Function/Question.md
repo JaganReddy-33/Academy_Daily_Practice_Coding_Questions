@@ -4,7 +4,7 @@
 
 ## Question
 
-Output Prediction with CONCAT Function
+<p>Predict the output of the following SQL statement: </p><p><br></p><p>SELECT CONCAT('A', 'C', 'D') FROM DUAL;</p>
 
 ## Answer choices
 
