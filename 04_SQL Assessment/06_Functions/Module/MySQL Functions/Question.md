@@ -8,15 +8,15 @@ MySQL Functions
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>SUBSTR()</p> | Yes | Yes |
-| < | <p>LENGTH()</p> | No | No |
-| < | <p>UPPER()</p> | No | No |
-| < | <p>LOWER()</p> | No | No |
+| < | <p>SUM()</p> | Yes | Yes |
+| < | <p>COUNT()</p> | No | No |
+| < | <p>MIN()</p> | No | No |
+| < | <p>MAX()</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>SUBSTR()</p>
-- **Submitted at:** 2026-08-02T06:27:56.518Z
+- **Correct answer:** <p>SUM()</p>
+- **Submitted at:** 2026-08-02T06:28:33.930Z
 - **Correct submission:** True
 
 ## Explanation
