@@ -8,15 +8,15 @@ Output Prediction with CONCAT Function
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>PayalP</p> | Yes | Yes |
-| < | <p>Payal P</p> | No | No |
-| < | <p>Error</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+| < | <p>ACD</p> | Yes | Yes |
+| < | <p>acd</p> | No | No |
+| < | <p>A C D</p> | No | No |
+| < | <p>a c d</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>PayalP</p>
-- **Submitted at:** 2026-08-02T06:23:11.033Z
+- **Correct answer:** <p>ACD</p>
+- **Submitted at:** 2026-08-02T06:20:30.578Z
 - **Correct submission:** True
 
 ## Explanation
