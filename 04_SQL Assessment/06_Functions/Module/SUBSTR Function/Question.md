@@ -4,7 +4,7 @@
 
 ## Question
 
-SUBSTR() Function
+<p>Which of the following statements accurately describes the SUBSTR() function in MySQL?</p>
 
 ## Answer choices
 
