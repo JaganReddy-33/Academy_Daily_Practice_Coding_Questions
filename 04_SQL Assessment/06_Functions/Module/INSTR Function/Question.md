@@ -4,19 +4,19 @@
 
 ## Question
 
-INSTR() Function
+<p>Which of the following statements is true about the INSTR() function in MySQL?</p>
 
 ## Answer choices
 
-- ⬜ **A.** <p>-1</p>
-- ✅ **B. <p>0</p>** — Correct answer
-- ⬜ **C.** <p>NULL</p>
-- ⬜ **D.** <p>It will throw an error</p>
+- ✅ **A. <p>The INSTR() function returns the position of the first occurrence of a substring within a string.</p>** — Correct answer
+- ⬜ **B.** <p>The INSTR() function is used to concatenate two strings together.</p>
+- ⬜ **C.** <p>The INSTR() function is case-sensitive.</p>
+- ⬜ **D.** <p>The INSTR() function can only search for exact matches, it cannot handle wildcard characters.</p>
 
 ## Submission
 
-- **Correct answer:** <p>0</p>
-- **Submitted at:** 2026-08-02T06:29:00.511Z
+- **Correct answer:** <p>The INSTR() function returns the position of the first occurrence of a substring within a string.</p>
+- **Submitted at:** 2026-08-02T06:28:20.833Z
 - **Correct submission:** True
 
 ## Explanation
