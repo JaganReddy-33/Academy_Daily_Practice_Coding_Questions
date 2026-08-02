@@ -8,15 +8,15 @@ Output Prediction with SUBSTR Function
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Welcome</p> | Yes | Yes |
-| < | <p>W</p> | No | No |
+| < | <p>Hell</p> | Yes | Yes |
+| < | <p>Hello</p> | No | No |
+| < | <p>Hel</p> | No | No |
 | < | <p>Error</p> | No | No |
-| < | <p>None of the above</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Welcome</p>
-- **Submitted at:** 2026-08-02T06:24:05.011Z
+- **Correct answer:** <p>Hell</p>
+- **Submitted at:** 2026-08-02T06:24:18.341Z
 - **Correct submission:** True
 
 ## Explanation
