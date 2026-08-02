@@ -8,15 +8,15 @@ Output Prediction with CONCAT Function
 
 ## Answer choices
 
-- ✅ **A. <p>ACD</p>** — Correct answer
-- ⬜ **B.** <p>acd</p>
-- ⬜ **C.** <p>A C D</p>
-- ⬜ **D.** <p>a c d</p>
+- ✅ **A. <p>PayalP</p>** — Correct answer
+- ⬜ **B.** <p>Payal P</p>
+- ⬜ **C.** <p>Error</p>
+- ⬜ **D.** <p>None of the above</p>
 
 ## Submission
 
-- **Correct answer:** <p>ACD</p>
-- **Submitted at:** 2026-08-02T06:20:30.578Z
+- **Correct answer:** <p>PayalP</p>
+- **Submitted at:** 2026-08-02T06:23:11.033Z
 - **Correct submission:** True
 
 ## Explanation
