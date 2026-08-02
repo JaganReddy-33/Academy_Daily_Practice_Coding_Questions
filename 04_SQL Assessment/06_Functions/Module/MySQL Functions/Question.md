@@ -8,15 +8,15 @@ MySQL Functions
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>LENGTH()</p> | Yes | Yes |
-| < | <p>CONCAT()</p> | No | No |
-| < | <p>SUBSTR()</p> | No | No |
+| < | <p>TRIM()</p> | Yes | Yes |
+| < | <p>LENGTH()</p> | No | No |
 | < | <p>UPPER()</p> | No | No |
+| < | <p>SUBSTR()</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>LENGTH()</p>
-- **Submitted at:** 2026-08-02T06:27:17.055Z
+- **Correct answer:** <p>TRIM()</p>
+- **Submitted at:** 2026-08-02T06:27:25.737Z
 - **Correct submission:** True
 
 ## Explanation
