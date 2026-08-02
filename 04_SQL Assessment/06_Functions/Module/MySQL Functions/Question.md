@@ -8,15 +8,15 @@ MySQL Functions
 
 ## Answer choices
 
-- ✅ **A. <p>SUM()</p>** — Correct answer
-- ⬜ **B.** <p>COUNT()</p>
-- ⬜ **C.** <p>MIN()</p>
-- ⬜ **D.** <p>MAX()</p>
+- ⬜ **A.** COUNT()
+- ⬜ **B.** MAX()
+- ⬜ **C.** SUM()
+- ✅ **D. AVG()** — Correct answer
 
 ## Submission
 
-- **Correct answer:** <p>SUM()</p>
-- **Submitted at:** 2026-08-02T06:28:33.930Z
+- **Correct answer:** AVG()
+- **Submitted at:** 2026-08-02T06:26:59.504Z
 - **Correct submission:** True
 
 ## Explanation
