@@ -8,15 +8,15 @@ INSTR() Function
 
 ## Answer choices
 
-- ✅ **A. <p>The INSTR() function returns the position of the first occurrence of a substring within a string.</p>** — Correct answer
-- ⬜ **B.** <p>The INSTR() function is used to concatenate two strings together.</p>
-- ⬜ **C.** <p>The INSTR() function is case-sensitive.</p>
-- ⬜ **D.** <p>The INSTR() function can only search for exact matches, it cannot handle wildcard characters.</p>
+- ✅ **A. INSTR(string, substring)** — Correct answer
+- ⬜ **B.** INSTR(substring, string)
+- ⬜ **C.** INSTR(substring)
+- ⬜ **D.** INSTR(string)
 
 ## Submission
 
-- **Correct answer:** <p>The INSTR() function returns the position of the first occurrence of a substring within a string.</p>
-- **Submitted at:** 2026-08-02T06:28:20.833Z
+- **Correct answer:** INSTR(string, substring)
+- **Submitted at:** 2026-08-02T06:29:23.753Z
 - **Correct submission:** True
 
 ## Explanation
