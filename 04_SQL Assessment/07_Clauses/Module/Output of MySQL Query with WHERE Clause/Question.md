@@ -4,7 +4,7 @@
 
 ## Question
 
-Output of MySQL Query with WHERE Clause
+<p>What will be the output of the following MySQL command?</p><p>SELECT *</p><p>FROM employee</p><p>WHERE job_title=’MANAGER’;</p>
 
 ## Answer choices
 
