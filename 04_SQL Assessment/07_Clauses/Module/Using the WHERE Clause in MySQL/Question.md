@@ -4,7 +4,7 @@
 
 ## Question
 
-Using the WHERE Clause in MySQL
+<p>What is the use of the “WHERE” clause in MySQL?</p>
 
 ## Answer choices
 
