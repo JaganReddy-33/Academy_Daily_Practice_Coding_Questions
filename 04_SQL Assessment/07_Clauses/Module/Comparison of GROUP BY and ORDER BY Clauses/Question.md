@@ -4,7 +4,7 @@
 
 ## Question
 
-Comparison of GROUP BY and ORDER BY Clauses
+Is the 'GROUP BY' clause similar to the 'ORDER BY' clause?
 
 ## Answer choices
 
