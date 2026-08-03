@@ -4,7 +4,7 @@
 
 ## Question
 
-Significance of 'ORDER BY' Clause in MySQL
+<p>What is the significance of 'ORDER BY' in the given MySQL statement?</p><p>SELECT emp_id, fname, lname</p><p>FROM employee</p><p>ORDER BY emp_id;</p>
 
 ## Answer choices
 
