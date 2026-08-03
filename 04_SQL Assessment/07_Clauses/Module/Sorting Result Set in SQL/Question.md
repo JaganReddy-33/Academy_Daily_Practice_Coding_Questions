@@ -4,7 +4,7 @@
 
 ## Question
 
-Sorting Result Set in SQL
+<p>Which clause is used to sort the result set in descending order in SQL?</p>
 
 ## Answer choices
 
