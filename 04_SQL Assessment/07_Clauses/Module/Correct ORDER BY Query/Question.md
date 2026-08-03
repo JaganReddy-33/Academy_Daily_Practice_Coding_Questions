@@ -8,14 +8,14 @@ Correct ORDER BY Query
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>SELECT * FROM Table_name Order Column_name;</p> | No | No |
-| < | <p>SELECT * FROM  Order By Column_name DESC;</p> | No | No |
-| < | <p>All of the above</p> | No | No |
+| < | <p>SELECT * FROM Table_name Order By Column_name;</p> | No | No |
+| < | <p>SELECT * FROM Table_name Order By Column_name DESC;</p> | No | No |
+| < | <p>SELECT * FROM Table_name Order By Column_name ascending;</p> | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** 64df03b97b291254f2e43b9e
-- **Submitted at:** 2026-08-03T05:03:20.133Z
+- **Correct answer:** <p>SELECT * FROM Table_name Order By Column_name ascending;</p>
+- **Submitted at:** 2026-08-03T05:03:49.141Z
 - **Correct submission:** True
 
 ## Explanation
