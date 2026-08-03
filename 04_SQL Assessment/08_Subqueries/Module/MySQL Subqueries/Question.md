@@ -8,15 +8,15 @@ MySQL Subqueries
 
 ## Answer choices
 
-- ⬜ **A.** A subquery is always executed after the main query.
-- ⬜ **B.** A subquery is used to retrieve data from multiple tables in a single query.
-- ✅ **C. A subquery is a query nested within another query.** — Correct answer
-- ⬜ **D.** A subquery can only be used with the INSERT statement.
+- ⬜ **A.** <p>Correlated subqueries are not supported in MySQL.</p>
+- ⬜ **B.** <p>Correlated subqueries always execute before the outer query.</p>
+- ✅ **C. <p>Correlated subqueries are used to compare a column value with the result of an inner query.</p>** — Correct answer
+- ⬜ **D.** <p>Correlated subqueries can only be written using the NOT IN operator.</p>
 
 ## Submission
 
-- **Correct answer:** A subquery is a query nested within another query.
-- **Submitted at:** 2026-08-04T05:02:28.595Z
+- **Correct answer:** <p>Correlated subqueries are used to compare a column value with the result of an inner query.</p>
+- **Submitted at:** 2026-08-03T05:08:04.341Z
 - **Correct submission:** True
 
 ## Explanation
