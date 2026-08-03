@@ -4,7 +4,7 @@
 
 ## Question
 
-GROUP BY in SQL
+<p>The SQL clause GROUP BY instructs to group together those rows that have the same value in a column.</p>
 
 ## Answer choices
 
