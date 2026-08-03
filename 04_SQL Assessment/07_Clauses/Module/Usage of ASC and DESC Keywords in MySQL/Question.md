@@ -4,7 +4,7 @@
 
 ## Question
 
-Usage of 'ASC' and 'DESC' Keywords in MySQL
+<p>Keyword 'ASC' and 'DESC' cannot be used without which clause in MySQL?</p>
 
 ## Answer choices
 
