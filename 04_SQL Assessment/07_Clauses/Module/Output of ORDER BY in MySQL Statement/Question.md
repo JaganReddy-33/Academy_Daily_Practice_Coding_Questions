@@ -8,15 +8,15 @@ Output of 'ORDER BY' in MySQL Statement
 
 ## Answer choices
 
-- ✅ **A. <p>{1, 1, 1, 2, 3, 4}</p>** — Correct answer
-- ⬜ **B.** <p>{1, 2, 3, 4, 1, 1}</p>
-- ⬜ **C.** <p>{1, 1, 2, 3, 4, 1}</p>
+- ✅ **A. <p>{-3, -2, -1, 1, 2, 3}</p>** — Correct answer
+- ⬜ **B.** <p>{-1, 1, -2, 2, -3, 3}</p>
+- ⬜ **C.** <p>{1, 2, 3, -1, -2, -3}</p>
 - ⬜ **D.** <p>None of the mentioned</p>
 
 ## Submission
 
-- **Correct answer:** <p>{1, 1, 1, 2, 3, 4}</p>
-- **Submitted at:** 2026-08-03T05:00:54.091Z
+- **Correct answer:** <p>{-3, -2, -1, 1, 2, 3}</p>
+- **Submitted at:** 2026-08-03T04:56:41.041Z
 - **Correct submission:** True
 
 ## Explanation
