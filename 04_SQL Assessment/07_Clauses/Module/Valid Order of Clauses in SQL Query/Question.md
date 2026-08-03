@@ -4,7 +4,7 @@
 
 ## Question
 
-Valid Order of Clauses in SQL Query
+<p>Which among the following is the valid order of clauses for an SQL Query?</p>
 
 ## Answer choices
 
