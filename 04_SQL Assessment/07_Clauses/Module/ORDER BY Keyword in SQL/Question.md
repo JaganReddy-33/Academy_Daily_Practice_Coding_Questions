@@ -4,7 +4,7 @@
 
 ## Question
 
-ORDER BY Keyword in SQL
+<p>Which of the following statements is wrong about the ORDER BY clause in SQL?</p>
 
 ## Answer choices
 
