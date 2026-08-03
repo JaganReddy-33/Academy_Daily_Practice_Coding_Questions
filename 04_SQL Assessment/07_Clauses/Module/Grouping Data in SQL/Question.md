@@ -4,7 +4,7 @@
 
 ## Question
 
-Grouping Data in SQL
+<p>Which of the following clause is used to group the data?</p>
 
 ## Answer choices
 
