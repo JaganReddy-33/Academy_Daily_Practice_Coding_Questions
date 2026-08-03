@@ -4,7 +4,7 @@
 
 ## Question
 
-Similarity of 'HAVING' Clause in MySQL
+<p>Which clause is similar to the 'HAVING' clause in MySQL?</p>
 
 ## Answer choices
 
