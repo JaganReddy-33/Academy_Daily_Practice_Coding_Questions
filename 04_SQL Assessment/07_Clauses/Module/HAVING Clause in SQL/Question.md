@@ -4,7 +4,7 @@
 
 ## Question
 
-HAVING Clause in SQL
+<p>The HAVING clause was added to SQL because the WHERE clause could not be used with aggregate functions.</p>
 
 ## Answer choices
 
