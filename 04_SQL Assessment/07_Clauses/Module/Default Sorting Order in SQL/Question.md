@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Sorting Order in SQL
+<p>ASC is the default sorting order in SQL.</p>
 
 ## Answer choices
 
