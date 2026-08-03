@@ -4,19 +4,19 @@
 
 ## Question
 
-MySQL Subqueries
+Which of the following statements about subqueries in MySQL is true?
 
 ## Answer choices
 
-- ⬜ **A.** <p>Correlated subqueries are not supported in MySQL.</p>
-- ⬜ **B.** <p>Correlated subqueries always execute before the outer query.</p>
-- ✅ **C. <p>Correlated subqueries are used to compare a column value with the result of an inner query.</p>** — Correct answer
-- ⬜ **D.** <p>Correlated subqueries can only be written using the NOT IN operator.</p>
+- ⬜ **A.** Subqueries can only be used in the SELECT statement.
+- ⬜ **B.** Subqueries always return multiple rows of data.
+- ✅ **C. Subqueries are enclosed within parentheses.** — Correct answer
+- ⬜ **D.** Subqueries can only be used with numeric data types.
 
 ## Submission
 
-- **Correct answer:** <p>Correlated subqueries are used to compare a column value with the result of an inner query.</p>
-- **Submitted at:** 2026-08-03T05:08:04.341Z
+- **Correct answer:** Subqueries are enclosed within parentheses.
+- **Submitted at:** 2026-08-03T05:07:00.078Z
 - **Correct submission:** True
 
 ## Explanation
