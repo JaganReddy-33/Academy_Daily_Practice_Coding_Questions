@@ -4,7 +4,7 @@
 
 ## Question
 
-Default Sorting Order in SQL ORDER BY
+<p>If you don't specify ASC or DESC after a SQL ORDER BY clause, the following sorting is done by default in ___________</p>
 
 ## Answer choices
 
