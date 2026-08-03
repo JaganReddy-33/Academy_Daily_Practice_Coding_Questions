@@ -4,7 +4,7 @@
 
 ## Question
 
-Descending Order Sorting in MySQL
+<p>If emp_id contains the set {9, 7, 6, 4, 3, 1, 2}, what will be the output on execution of the following MySQL command? </p><p>SELECT emp_id </p><p>FROM employee </p><p>ORDER BY emp_id DESC;</p>
 
 ## Answer choices
 
