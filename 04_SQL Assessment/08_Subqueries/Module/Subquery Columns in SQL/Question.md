@@ -4,7 +4,7 @@
 
 ## Question
 
-Subquery Columns in SQL
+Can a subquery have only one column in the SELECT clause, unless multiple columns are in the main query for the subquery to compare its selected columns?
 
 ## Answer choices
 
