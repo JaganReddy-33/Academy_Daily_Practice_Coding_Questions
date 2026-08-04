@@ -8,13 +8,13 @@ Comparison Operators in Subqueries
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+| < | <p>Yes</p> | Yes | Yes |
+| < | <p>No</p> | No | No |
 
 ## Result
 
-- **Correct answer:** Yes
-- **Submitted at:** 2026-08-04T05:04:12.132Z
+- **Correct answer:** <p>Yes</p>
+- **Submitted at:** 2026-08-04T05:06:51.318Z
 - **Correct submission:** True
 
 ## Explanation
