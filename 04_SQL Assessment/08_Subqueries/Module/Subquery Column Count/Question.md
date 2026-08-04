@@ -4,7 +4,7 @@
 
 ## Question
 
-Subquery Column Count
+<p>A subquery should have multiple columns in the SELECT statement always.</p>
 
 ## Answer choices
 
