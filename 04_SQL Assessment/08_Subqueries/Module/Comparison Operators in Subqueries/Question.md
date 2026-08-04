@@ -8,13 +8,13 @@ Comparison Operators in Subqueries
 
 ## Answer choices
 
-- ✅ **A. <p>Yes</p>** — Correct answer
-- ⬜ **B.** <p>No</p>
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
 ## Submission
 
-- **Correct answer:** <p>Yes</p>
-- **Submitted at:** 2026-08-04T05:06:51.318Z
+- **Correct answer:** Yes
+- **Submitted at:** 2026-08-04T05:04:12.132Z
 - **Correct submission:** True
 
 ## Explanation
