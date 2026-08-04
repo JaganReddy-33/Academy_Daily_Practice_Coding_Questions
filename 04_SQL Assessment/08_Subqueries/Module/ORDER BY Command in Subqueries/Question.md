@@ -4,7 +4,7 @@
 
 ## Question
 
-ORDER BY Command in Subqueries
+<p>An ORDER BY clause cannot be used in a subquery.</p>
 
 ## Answer choices
 
