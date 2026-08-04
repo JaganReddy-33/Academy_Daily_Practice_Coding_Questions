@@ -4,7 +4,7 @@
 
 ## Question
 
-Enclosing Subqueries in Parentheses
+Subqueries must be enclosed within parentheses.
 
 ## Answer choices
 
