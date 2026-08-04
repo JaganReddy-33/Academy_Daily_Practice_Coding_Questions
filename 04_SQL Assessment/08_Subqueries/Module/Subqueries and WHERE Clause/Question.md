@@ -4,7 +4,7 @@
 
 ## Question
 
-Subqueries and WHERE Clause
+<p>A nested query is also called as the outer query in MySQL.</p>
 
 ## Answer choices
 
