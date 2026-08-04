@@ -4,7 +4,7 @@
 
 ## Question
 
-Subqueries and Multiple Value Operators
+Subqueries that return more than one row can only be used with multiple value operators such as the IN operator.
 
 ## Answer choices
 
