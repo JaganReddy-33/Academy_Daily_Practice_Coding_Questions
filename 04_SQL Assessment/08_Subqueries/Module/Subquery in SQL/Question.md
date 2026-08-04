@@ -4,7 +4,7 @@
 
 ## Question
 
-Subquery in SQL
+Is a subquery or inner query or a nested query a query within another SQL query and embedded within the WHERE clause?
 
 ## Answer choices
 
