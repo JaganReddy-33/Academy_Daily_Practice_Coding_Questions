@@ -8,15 +8,15 @@ MySQL Subqueries
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| S | Subqueries can only be used in the SELECT statement. | No | No |
-| S | Subqueries always return multiple rows of data. | No | No |
-| S | Subqueries are enclosed within parentheses. | Yes | Yes |
-| S | Subqueries can only be used with numeric data types. | No | No |
+| A | A subquery is always executed after the main query. | No | No |
+| A | A subquery is used to retrieve data from multiple tables in a single query. | No | No |
+| A | A subquery is a query nested within another query. | Yes | Yes |
+| A | A subquery can only be used with the INSERT statement. | No | No |
 
 ## Result
 
-- **Correct answer:** Subqueries are enclosed within parentheses.
-- **Submitted at:** 2026-08-03T05:07:00.078Z
+- **Correct answer:** A subquery is a query nested within another query.
+- **Submitted at:** 2026-08-04T05:02:28.595Z
 - **Correct submission:** True
 
 ## Explanation
