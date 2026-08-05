@@ -4,7 +4,7 @@
 
 ## Question
 
-Join Type with Excluded Condition
+In which of the following type of join the condition will not be included?
 
 ## Answer choices
 
