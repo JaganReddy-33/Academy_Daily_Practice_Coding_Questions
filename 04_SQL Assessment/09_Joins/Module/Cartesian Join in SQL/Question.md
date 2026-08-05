@@ -8,13 +8,15 @@ Cartesian Join in SQL
 
 ## Answer choices
 
-- ✅ **A. Yes** — Correct answer
-- ⬜ **B.** No
+- ⬜ **A.** Left Join
+- ⬜ **B.** Left Outer Join
+- ⬜ **C.** Right Outer Join
+- ✅ **D. Cross Join** — Correct answer
 
 ## Submission
 
-- **Correct answer:** Yes
-- **Submitted at:** 2026-08-05T04:14:12.813Z
+- **Correct answer:** Cross Join
+- **Submitted at:** 2026-08-05T04:14:51.214Z
 - **Correct submission:** True
 
 ## Explanation
