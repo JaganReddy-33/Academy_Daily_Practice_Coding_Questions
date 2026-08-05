@@ -4,7 +4,7 @@
 
 ## Question
 
-LEFT JOIN in SQL
+Does LEFT JOIN return rows that are common between the tables and all rows of the Left-hand side table?
 
 ## Answer choices
 
