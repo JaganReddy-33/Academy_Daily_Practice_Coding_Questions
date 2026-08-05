@@ -4,7 +4,7 @@
 
 ## Question
 
-Type of Join with All Rows from Left Table
+In which join all the rows from the left table appear in the output irrespective of the content of the other table?
 
 ## Answer choices
 
