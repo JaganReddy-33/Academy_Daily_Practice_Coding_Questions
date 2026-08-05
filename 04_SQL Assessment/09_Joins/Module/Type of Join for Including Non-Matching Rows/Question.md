@@ -4,7 +4,7 @@
 
 ## Question
 
-Type of Join for Including Non-Matching Rows
+In SQL, which type of join is needed when you wish to include rows that do not have matching values?
 
 ## Answer choices
 
