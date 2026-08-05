@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL INNER JOIN
+Is SQL INNER JOIN also known as a simple join?
 
 ## Answer choices
 
