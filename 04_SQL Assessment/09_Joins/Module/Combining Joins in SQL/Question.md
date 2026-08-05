@@ -4,7 +4,7 @@
 
 ## Question
 
-Combining Joins in SQL
+<p>Which type of join is used to combine the result of both left and right outer join and returns all the rows from both the tables?</p>
 
 ## Answer choices
 
