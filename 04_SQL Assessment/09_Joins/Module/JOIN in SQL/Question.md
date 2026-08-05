@@ -4,7 +4,7 @@
 
 ## Question
 
-JOIN in SQL
+In the case of SQL, does JOIN mean 'to combine only two tables'?
 
 ## Answer choices
 
