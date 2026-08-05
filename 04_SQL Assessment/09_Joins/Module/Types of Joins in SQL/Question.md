@@ -4,7 +4,7 @@
 
 ## Question
 
-Types of Joins in SQL
+<p>Are INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, and NATURAL JOIN types of joins?</p>
 
 ## Answer choices
 
