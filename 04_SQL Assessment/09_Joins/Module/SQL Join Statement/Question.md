@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL Join Statement
+<p>Is the SQL JOIN clause used to combine result sets from two or more tables?</p>
 
 ## Answer choices
 
