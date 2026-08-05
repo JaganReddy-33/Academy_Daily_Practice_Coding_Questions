@@ -4,7 +4,7 @@
 
 ## Question
 
-Alternate Names for Left and Right Joins
+The left and right joins are also known as __________
 
 ## Answer choices
 
