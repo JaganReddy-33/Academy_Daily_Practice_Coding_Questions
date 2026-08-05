@@ -4,7 +4,7 @@
 
 ## Question
 
-SQL JOIN Types
+<p>Which JOIN returns a table with the matched data of two tables, then remaining rows of the right table and null for the left table's columns in SQL?</p>
 
 ## Answer choices
 
