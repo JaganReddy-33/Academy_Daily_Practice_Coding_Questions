@@ -4,7 +4,7 @@
 
 ## Question
 
-Combining Rows in SQL
+<p>Which clause is used to combine rows from two or more tables based on a related column between them in SQL?</p>
 
 ## Answer choices
 
