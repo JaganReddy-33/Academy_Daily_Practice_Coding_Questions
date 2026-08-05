@@ -4,7 +4,7 @@
 
 ## Question
 
-Joining a Table to Itself
+What is joining a table to itself called?
 
 ## Answer choices
 
