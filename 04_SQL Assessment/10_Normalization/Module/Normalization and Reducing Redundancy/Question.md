@@ -4,7 +4,7 @@
 
 ## Question
 
-Normalization and Reducing Redundancy
+The normal form is used to reduce redundancy from the database table.
 
 ## Answer choices
 
