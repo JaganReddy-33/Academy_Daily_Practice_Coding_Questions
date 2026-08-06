@@ -4,7 +4,7 @@
 
 ## Question
 
-Restrictions for a Table to be a Relation
+<p>Which of the following is not a restriction for a table to be a relation?</p>
 
 ## Answer choices
 
