@@ -4,7 +4,7 @@
 
 ## Question
 
-Candidate Keys
+Which of the following can be the candidate keys?
 
 ## Answer choices
 
