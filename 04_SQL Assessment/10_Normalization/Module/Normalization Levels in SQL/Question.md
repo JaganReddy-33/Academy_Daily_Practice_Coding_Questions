@@ -8,15 +8,15 @@ Normalization Levels in SQL
 
 ## Answer choices
 
-- ⬜ **A.** <p>Transitive dependencies</p>
+- ✅ **A. <p>Transitive dependencies</p>** — Correct answer
 - ⬜ **B.** <p>Partial dependencies</p>
 - ⬜ **C.** <p>Repeating groups</p>
-- ✅ **D. <p>Multivalued dependencies</p>** — Correct answer
+- ⬜ **D.** <p>Multivalued dependencies</p>
 
 ## Submission
 
-- **Correct answer:** <p>Multivalued dependencies</p>
-- **Submitted at:** 2026-08-06T06:46:46.500Z
+- **Correct answer:** <p>Transitive dependencies</p>
+- **Submitted at:** 2026-08-06T06:47:13.192Z
 - **Correct submission:** True
 
 ## Explanation
