@@ -4,7 +4,7 @@
 
 ## Question
 
-Functional Dependency in SQL
+In SQL, a functional dependency is a relationship between _____________.
 
 ## Answer choices
 
