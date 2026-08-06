@@ -4,7 +4,7 @@
 
 ## Question
 
-Normalization and Anomalies in SQL
+<p>In normalization, anomalies are avoided by splitting the tables is also known as_____________</p>
 
 ## Answer choices
 
