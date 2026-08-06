@@ -8,15 +8,15 @@ Normalization Levels in SQL
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| < | <p>Transitive dependencies</p> | No | No |
+| < | <p>Transitive dependencies</p> | Yes | Yes |
 | < | <p>Partial dependencies</p> | No | No |
 | < | <p>Repeating groups</p> | No | No |
-| < | <p>Multivalued dependencies</p> | Yes | Yes |
+| < | <p>Multivalued dependencies</p> | No | No |
 
 ## Result
 
-- **Correct answer:** <p>Multivalued dependencies</p>
-- **Submitted at:** 2026-08-06T06:46:46.500Z
+- **Correct answer:** <p>Transitive dependencies</p>
+- **Submitted at:** 2026-08-06T06:47:13.192Z
 - **Correct submission:** True
 
 ## Explanation
