@@ -8,15 +8,15 @@ Normalization Levels in SQL
 
 | Choice | Answer | Selected | Correct |
 |:---:|---|:---:|:---:|
-| 0 | 0NF | No | No |
-| 1 | 1NF | No | No |
-| 2 | 2NF | No | No |
-| 3 | 3NF | Yes | Yes |
+| < | <p>Transitive dependencies</p> | No | No |
+| < | <p>Partial dependencies</p> | No | No |
+| < | <p>Repeating groups</p> | No | No |
+| < | <p>Multivalued dependencies</p> | Yes | Yes |
 
 ## Result
 
-- **Correct answer:** 3NF
-- **Submitted at:** 2026-08-06T06:46:32.363Z
+- **Correct answer:** <p>Multivalued dependencies</p>
+- **Submitted at:** 2026-08-06T06:46:46.500Z
 - **Correct submission:** True
 
 ## Explanation
