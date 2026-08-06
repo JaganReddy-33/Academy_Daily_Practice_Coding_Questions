@@ -4,7 +4,7 @@
 
 ## Question
 
-Normalization and Table Division
+Normalization divides the larger table into the smaller table.
 
 ## Answer choices
 
