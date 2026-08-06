@@ -4,7 +4,7 @@
 
 ## Question
 
-Third Normal Form (3NF)
+A relation will be in 3NF if it is in 2NF and no transitive dependency exists.
 
 ## Answer choices
 
