@@ -4,7 +4,7 @@
 
 ## Question
 
-Types of Keys in SQL
+Which of the following keys are present in SQL?
 
 ## Answer choices
 
