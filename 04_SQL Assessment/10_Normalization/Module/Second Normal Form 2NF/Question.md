@@ -4,7 +4,7 @@
 
 ## Question
 
-Second Normal Form (2NF)
+A relation will be in 2NF if it is in 1NF and all non-key attributes are fully functional dependent on the foreign key.
 
 ## Answer choices
 
