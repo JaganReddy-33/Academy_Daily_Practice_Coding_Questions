@@ -4,7 +4,7 @@
 
 ## Question
 
-Attributes After Changing Primary Key
+In the following, if the student_id attribute becomes the primary key, then the rest of the attributes will be?
 
 ## Answer choices
 
