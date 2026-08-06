@@ -4,7 +4,7 @@
 
 ## Question
 
-Composite Key
+A composite key is a key that is the combination of more than one field or column of a given table.
 
 ## Answer choices
 
