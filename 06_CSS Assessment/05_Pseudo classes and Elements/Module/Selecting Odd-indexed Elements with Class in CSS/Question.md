@@ -1,19 +1,19 @@
 # Selecting Odd-indexed Elements with Class in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Odd-indexed Elements with Class in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) .odd:nth-child(odd) | No | No |
-| B | B) .odd:nth-of-type(odd) | Yes | Yes |
-| C | C) .odd:nth-child(even) | No | No |
-| D | D) .odd:even | No | No |
+- ⬜ **A.** A) .odd:nth-child(odd)
+- ✅ **B. B) .odd:nth-of-type(odd)** — Correct answer
+- ⬜ **C.** C) .odd:nth-child(even)
+- ⬜ **D.** D) .odd:even
 
-## Result
+## Submission
 
 - **Correct answer:** B) .odd:nth-of-type(odd)
 - **Submitted at:** 2026-06-16T13:54:29.205Z

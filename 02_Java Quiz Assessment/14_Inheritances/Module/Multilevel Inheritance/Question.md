@@ -1,19 +1,19 @@
 # Multilevel Inheritance
 
+> ✅ Solved
+
 ## Question
 
 Multilevel Inheritance
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | Single Inheritance | No | No |
-| M | Multiple Inheritance | No | No |
-| M | Multilevel Inheritance | Yes | Yes |
-| N | None of the above | No | No |
+- ⬜ **A.** Single Inheritance
+- ⬜ **B.** Multiple Inheritance
+- ✅ **C. Multilevel Inheritance** — Correct answer
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Multilevel Inheritance
 - **Submitted at:** 2026-06-26T14:29:58.596Z

@@ -1,19 +1,19 @@
 # HTML Definition List MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Definition List MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;ol&gt;</p> | No | No |
-| < | <p>&lt;ul&gt;</p> | No | No |
-| < | <p>&lt;li&gt;</p> | No | No |
-| < | <p>&lt;dl&gt;</p> | Yes | Yes |
+- ⬜ **A.** <p>&lt;ol&gt;</p>
+- ⬜ **B.** <p>&lt;ul&gt;</p>
+- ⬜ **C.** <p>&lt;li&gt;</p>
+- ✅ **D. <p>&lt;dl&gt;</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;dl&gt;</p>
 - **Submitted at:** 2026-05-28T07:52:43.120Z

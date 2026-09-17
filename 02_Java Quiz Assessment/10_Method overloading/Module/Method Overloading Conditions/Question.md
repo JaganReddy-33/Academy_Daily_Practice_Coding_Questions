@@ -1,19 +1,19 @@
 # Method Overloading Conditions
 
+> ✅ Solved
+
 ## Question
 
 Method Overloading Conditions
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&nbsp;The methods must have the same name</p> | No | No |
-| < | <p>The methods must have different parameter types</p> | No | No |
-| < | <p>The methods must have the same return type</p> | Yes | Yes |
-| < | <p>The methods must be in the same class</p> | No | No |
+- ⬜ **A.** <p>&nbsp;The methods must have the same name</p>
+- ⬜ **B.** <p>The methods must have different parameter types</p>
+- ✅ **C. <p>The methods must have the same return type</p>** — Correct answer
+- ⬜ **D.** <p>The methods must be in the same class</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>The methods must have the same return type</p>
 - **Submitted at:** 2026-06-15T17:06:47.976Z

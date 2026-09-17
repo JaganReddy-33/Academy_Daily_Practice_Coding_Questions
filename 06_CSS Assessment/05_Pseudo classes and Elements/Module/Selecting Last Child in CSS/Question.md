@@ -1,19 +1,19 @@
 # Selecting Last Child in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Last Child in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :last-child | Yes | Yes |
-| B | B) :nth-child(last) | No | No |
-| C | C) :only-child | No | No |
-| D | D) :last | No | No |
+- ✅ **A. A) :last-child** — Correct answer
+- ⬜ **B.** B) :nth-child(last)
+- ⬜ **C.** C) :only-child
+- ⬜ **D.** D) :last
 
-## Result
+## Submission
 
 - **Correct answer:** A) :last-child
 - **Submitted at:** 2026-06-16T13:49:26.451Z

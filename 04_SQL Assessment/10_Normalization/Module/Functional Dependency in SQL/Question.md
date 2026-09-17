@@ -1,19 +1,19 @@
 # Functional Dependency in SQL
 
+> ✅ Solved
+
 ## Question
 
 Functional Dependency in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| E | Entities | No | No |
-| R | Rows | No | No |
-| A | Attributes | Yes | Yes |
-| T | Tables | No | No |
+- ⬜ **A.** Entities
+- ⬜ **B.** Rows
+- ✅ **C. Attributes** — Correct answer
+- ⬜ **D.** Tables
 
-## Result
+## Submission
 
 - **Correct answer:** Attributes
 - **Submitted at:** 2026-08-06T06:46:15.312Z

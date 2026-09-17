@@ -1,19 +1,19 @@
 # Inheritance in Java
 
+> ✅ Solved
+
 ## Question
 
 Inheritance in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| M | Multiple Inheritance | No | No |
-| M | Multilevel Inheritance | No | No |
-| S | Single Inheritance | No | No |
-| C | Cyclic Inheritance | Yes | Yes |
+- ⬜ **A.** Multiple Inheritance
+- ⬜ **B.** Multilevel Inheritance
+- ⬜ **C.** Single Inheritance
+- ✅ **D. Cyclic Inheritance** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Cyclic Inheritance
 - **Submitted at:** 2026-06-26T14:27:50.176Z

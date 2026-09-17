@@ -1,19 +1,19 @@
 # Effect of Negative 'margin-top' Value
 
+> ✅ Solved
+
 ## Question
 
 Effect of Negative 'margin-top' Value
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| E | Element shrinks | No | No |
-| E | Element moves upward | Yes | Yes |
-| E | Element becomes invisible | No | No |
-| E | Error occurs | No | No |
+- ⬜ **A.** Element shrinks
+- ✅ **B. Element moves upward** — Correct answer
+- ⬜ **C.** Element becomes invisible
+- ⬜ **D.** Error occurs
 
-## Result
+## Submission
 
 - **Correct answer:** Element moves upward
 - **Submitted at:** 2026-06-16T14:17:05.006Z

@@ -1,19 +1,19 @@
 # Selecting All Elements Except One in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting All Elements Except One in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :not(#id) | Yes | Yes |
-| B | B) #id:not | No | No |
-| C | C) #id:exclude | No | No |
-| D | D) :except(#id) | No | No |
+- ✅ **A. A) :not(#id)** — Correct answer
+- ⬜ **B.** B) #id:not
+- ⬜ **C.** C) #id:exclude
+- ⬜ **D.** D) :except(#id)
 
-## Result
+## Submission
 
 - **Correct answer:** A) :not(#id)
 - **Submitted at:** 2026-06-16T13:53:14.961Z

@@ -1,19 +1,19 @@
 # Eliminating a Table from the Database in SQL
 
+> ✅ Solved
+
 ## Question
 
 Eliminating a Table from the Database in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>REMOVE TABLE STUDENT;</p> | No | No |
-| < | <p>DROP TABLE STUDENT;</p> | Yes | Yes |
-| < | <p>DELETE TABLE STUDENT;</p> | No | No |
-| < | <p>UPDATE TABLE STUDENT;</p> | No | No |
+- ⬜ **A.** <p>REMOVE TABLE STUDENT;</p>
+- ✅ **B. <p>DROP TABLE STUDENT;</p>** — Correct answer
+- ⬜ **C.** <p>DELETE TABLE STUDENT;</p>
+- ⬜ **D.** <p>UPDATE TABLE STUDENT;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>DROP TABLE STUDENT;</p>
 - **Submitted at:** 2026-07-31T06:41:02.463Z

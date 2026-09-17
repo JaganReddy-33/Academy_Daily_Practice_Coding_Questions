@@ -1,17 +1,17 @@
 # Elimination of Duplicates in SQL Queries
 
+> ✅ Solved
+
 ## Question
 
 Elimination of Duplicates in SQL Queries
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-08-01T06:32:38.348Z

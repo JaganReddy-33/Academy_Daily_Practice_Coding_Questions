@@ -1,19 +1,19 @@
 # HTML MCQ: Creating Checkbox Input
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Creating Checkbox Input
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Using the <code>&lt;input&gt;</code> tag with type="checkbox"</p> | Yes | Yes |
-| < | <p>Using the <code>&lt;checkbox&gt;</code> tag</p> | No | No |
-| < | <p>Using the <code>&lt;input&gt;</code> tag without a type</p> | No | No |
-| < | <p>Using the <code>&lt;input&gt;</code> tag with type="check"</p> | No | No |
+- ✅ **A. <p>Using the <code>&lt;input&gt;</code> tag with type="checkbox"</p>** — Correct answer
+- ⬜ **B.** <p>Using the <code>&lt;checkbox&gt;</code> tag</p>
+- ⬜ **C.** <p>Using the <code>&lt;input&gt;</code> tag without a type</p>
+- ⬜ **D.** <p>Using the <code>&lt;input&gt;</code> tag with type="check"</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Using the <code>&lt;input&gt;</code> tag with type="checkbox"</p>
 - **Submitted at:** 2026-05-28T08:05:28.693Z

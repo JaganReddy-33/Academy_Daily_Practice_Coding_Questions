@@ -1,19 +1,19 @@
 # Interface Extending Classes in Java
 
+> ✅ Solved
+
 ## Question
 
 Interface Extending Classes in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes, but only if the class is abstract | No | No |
-| Y | Yes, only one class | No | No |
-| N | No, interfaces cannot extend classes | Yes | Yes |
-| Y | Yes, but only if the class is final | No | No |
+- ⬜ **A.** Yes, but only if the class is abstract
+- ⬜ **B.** Yes, only one class
+- ✅ **C. No, interfaces cannot extend classes** — Correct answer
+- ⬜ **D.** Yes, but only if the class is final
 
-## Result
+## Submission
 
 - **Correct answer:** No, interfaces cannot extend classes
 - **Submitted at:** 2026-07-16T09:09:21.823Z

@@ -1,19 +1,19 @@
 # Purpose of Interfaces in Java
 
+> ✅ Solved
+
 ## Question
 
 Purpose of Interfaces in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To achieve multiple inheritance | No | No |
-| T | To define constants | No | No |
-| T | To reduce memory consumption | No | No |
-| T | To provide a contract for a class to follow | Yes | Yes |
+- ⬜ **A.** To achieve multiple inheritance
+- ⬜ **B.** To define constants
+- ⬜ **C.** To reduce memory consumption
+- ✅ **D. To provide a contract for a class to follow** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** To provide a contract for a class to follow
 - **Submitted at:** 2026-07-16T09:11:37.195Z

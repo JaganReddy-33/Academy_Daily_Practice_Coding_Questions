@@ -1,19 +1,19 @@
 # DCL Statements in SQL
 
+> ✅ Solved
+
 ## Question
 
 DCL Statements in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | SELECT | No | No |
-| I | INSERT | No | No |
-| D | DELETE | No | No |
-| G | GRANT | Yes | Yes |
+- ⬜ **A.** SELECT
+- ⬜ **B.** INSERT
+- ⬜ **C.** DELETE
+- ✅ **D. GRANT** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** GRANT
 - **Submitted at:** 2026-07-31T06:14:11.331Z

@@ -1,19 +1,19 @@
 # Thread Termination in Java
 
+> ✅ Solved
+
 ## Question
 
 Thread Termination in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | sleep() | No | No |
-| i | isAlive() | No | No |
-| j | join() | Yes | Yes |
-| s | stop() | No | No |
+- ⬜ **A.** sleep()
+- ⬜ **B.** isAlive()
+- ✅ **C. join()** — Correct answer
+- ⬜ **D.** stop()
 
-## Result
+## Submission
 
 - **Correct answer:** join()
 - **Submitted at:** 2026-07-27T04:46:10.616Z

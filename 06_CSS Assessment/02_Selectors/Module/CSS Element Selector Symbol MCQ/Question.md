@@ -1,19 +1,19 @@
 # CSS Element Selector Symbol MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Element Selector Symbol MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>#</p> | No | No |
-| < | <p>.</p> | No | No |
-| < | <p>:</p> | No | No |
-| < | <p>None of the above</p> | Yes | Yes |
+- ⬜ **A.** <p>#</p>
+- ⬜ **B.** <p>.</p>
+- ⬜ **C.** <p>:</p>
+- ✅ **D. <p>None of the above</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>None of the above</p>
 - **Submitted at:** 2026-06-03T11:00:45.151Z

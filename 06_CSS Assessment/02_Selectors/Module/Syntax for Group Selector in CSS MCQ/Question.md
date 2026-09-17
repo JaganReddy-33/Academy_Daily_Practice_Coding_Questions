@@ -1,19 +1,19 @@
 # Syntax for Group Selector in CSS MCQ
 
+> ✅ Solved
+
 ## Question
 
 Syntax for Group Selector in CSS MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| . | .class1, class2, class3 { } | No | No |
-| # | #id1, id2, id3 { } | No | No |
-| e | element1, element2, element3 { } | Yes | Yes |
-| . | .class1 .class2 .class3 { } | No | No |
+- ⬜ **A.** .class1, class2, class3 { }
+- ⬜ **B.** #id1, id2, id3 { }
+- ✅ **C. element1, element2, element3 { }** — Correct answer
+- ⬜ **D.** .class1 .class2 .class3 { }
 
-## Result
+## Submission
 
 - **Correct answer:** element1, element2, element3 { }
 - **Submitted at:** 2026-06-03T11:05:37.871Z

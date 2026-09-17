@@ -1,19 +1,19 @@
 # Join Type with Excluded Condition
 
+> ✅ Solved
+
 ## Question
 
 Join Type with Excluded Condition
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Inner Join | No | No |
-| C | Cartesian Join | Yes | Yes |
-| R | Right Join | No | No |
-| F | Full Join | No | No |
+- ⬜ **A.** Inner Join
+- ✅ **B. Cartesian Join** — Correct answer
+- ⬜ **C.** Right Join
+- ⬜ **D.** Full Join
 
-## Result
+## Submission
 
 - **Correct answer:** Cartesian Join
 - **Submitted at:** 2026-08-05T04:12:08.457Z

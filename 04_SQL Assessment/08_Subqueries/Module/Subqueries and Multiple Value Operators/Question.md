@@ -1,17 +1,17 @@
 # Subqueries and Multiple Value Operators
 
+> ✅ Solved
+
 ## Question
 
 Subqueries and Multiple Value Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | Yes | Yes |
-| F | False | No | No |
+- ✅ **A. True** — Correct answer
+- ⬜ **B.** False
 
-## Result
+## Submission
 
 - **Correct answer:** True
 - **Submitted at:** 2026-08-04T05:03:41.910Z

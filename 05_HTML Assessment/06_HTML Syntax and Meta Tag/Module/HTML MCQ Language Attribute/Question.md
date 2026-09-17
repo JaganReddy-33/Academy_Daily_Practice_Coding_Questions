@@ -1,19 +1,19 @@
 # HTML MCQ: Language Attribute
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Language Attribute
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| l | lang | Yes | Yes |
-| l | language | No | No |
-| h | html-lang | No | No |
-| d | doc-language | No | No |
+- ✅ **A. lang** — Correct answer
+- ⬜ **B.** language
+- ⬜ **C.** html-lang
+- ⬜ **D.** doc-language
 
-## Result
+## Submission
 
 - **Correct answer:** lang
 - **Submitted at:** 2026-05-28T08:10:25.243Z

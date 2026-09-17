@@ -1,17 +1,17 @@
 # Creating Objects from Abstract Class in Java
 
+> ✅ Solved
+
 ## Question
 
 Creating Objects from Abstract Class in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-07-10T16:31:30.642Z

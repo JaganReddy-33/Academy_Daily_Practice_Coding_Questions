@@ -1,19 +1,19 @@
 # Method Overriding in Polymorphism
 
+> ✅ Solved
+
 ## Question
 
 Method Overriding in Polymorphism
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It is the process of defining multiple methods with the same name but different parameters in a class. | No | No |
-| I | It is the process of creating multiple objects of the same class. | No | No |
-| I | It is the process of providing a different implementation of a method in a subclass that is already defined in its superclass. | Yes | Yes |
-| I | It is the process of declaring an abstract method in an interface and implementing it in a class. | No | No |
+- ⬜ **A.** It is the process of defining multiple methods with the same name but different parameters in a class.
+- ⬜ **B.** It is the process of creating multiple objects of the same class.
+- ✅ **C. It is the process of providing a different implementation of a method in a subclass that is already defined in its superclass.** — Correct answer
+- ⬜ **D.** It is the process of declaring an abstract method in an interface and implementing it in a class.
 
-## Result
+## Submission
 
 - **Correct answer:** It is the process of providing a different implementation of a method in a subclass that is already defined in its superclass.
 - **Submitted at:** 2026-07-07T16:37:19.940Z

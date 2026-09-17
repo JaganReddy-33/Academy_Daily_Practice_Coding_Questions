@@ -1,19 +1,19 @@
 # Centering an Element Horizontally Using 'margin-top'
 
+> ✅ Solved
+
 ## Question
 
 Centering an Element Horizontally Using 'margin-top'
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| m | margin-top: auto; | Yes | Yes |
-| m | margin-top: 0 auto; | No | No |
-| m | margin-top: 50%; | No | No |
-| m | margin-top: center; | No | No |
+- ✅ **A. margin-top: auto;** — Correct answer
+- ⬜ **B.** margin-top: 0 auto;
+- ⬜ **C.** margin-top: 50%;
+- ⬜ **D.** margin-top: center;
 
-## Result
+## Submission
 
 - **Correct answer:** margin-top: auto;
 - **Submitted at:** 2026-06-16T14:21:43.458Z

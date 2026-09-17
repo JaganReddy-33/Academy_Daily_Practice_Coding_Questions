@@ -1,19 +1,19 @@
 # Application Definition MCQ
 
+> ✅ Solved
+
 ## Question
 
 Application Definition MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A type of database | No | No |
-| A | A collection of server scripts | No | No |
-| A | A software program designed to perform a specific task or function | Yes | Yes |
-| A | A network protocol | No | No |
+- ⬜ **A.** A type of database
+- ⬜ **B.** A collection of server scripts
+- ✅ **C. A software program designed to perform a specific task or function** — Correct answer
+- ⬜ **D.** A network protocol
 
-## Result
+## Submission
 
 - **Correct answer:** A software program designed to perform a specific task or function
 - **Submitted at:** 2026-05-28T07:30:45.633Z

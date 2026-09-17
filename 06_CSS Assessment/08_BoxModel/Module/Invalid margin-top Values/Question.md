@@ -1,19 +1,19 @@
 # Invalid 'margin-top' Values
 
+> ✅ Solved
+
 ## Question
 
 Invalid 'margin-top' Values
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| e | extends | Yes | Yes |
-| i | initial | No | No |
-| u | unset | No | No |
-| n | none | No | No |
+- ✅ **A. extends** — Correct answer
+- ⬜ **B.** initial
+- ⬜ **C.** unset
+- ⬜ **D.** none
 
-## Result
+## Submission
 
 - **Correct answer:** extends
 - **Submitted at:** 2026-06-16T14:19:48.540Z

@@ -1,19 +1,19 @@
 # Output Prediction with SUBSTR and INSTR Functions
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction with SUBSTR and INSTR Functions
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>bc</p> | Yes | Yes |
-| < | <p>de</p> | No | No |
-| < | <p>ji</p> | No | No |
-| < | <p>gh</p> | No | No |
+- ✅ **A. <p>bc</p>** — Correct answer
+- ⬜ **B.** <p>de</p>
+- ⬜ **C.** <p>ji</p>
+- ⬜ **D.** <p>gh</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>bc</p>
 - **Submitted at:** 2026-08-02T06:22:55.937Z

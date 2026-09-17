@@ -1,19 +1,19 @@
 # Target of CSS Element Selector MCQ
 
+> ✅ Solved
+
 ## Question
 
 Target of CSS Element Selector MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Classes | No | No |
-| E | Elements | Yes | Yes |
-| I | IDs | No | No |
-| A | All of the above | No | No |
+- ⬜ **A.** Classes
+- ✅ **B. Elements** — Correct answer
+- ⬜ **C.** IDs
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Elements
 - **Submitted at:** 2026-06-03T11:01:02.874Z

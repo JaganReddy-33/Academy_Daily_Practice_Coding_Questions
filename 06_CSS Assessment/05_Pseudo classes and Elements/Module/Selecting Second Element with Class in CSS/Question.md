@@ -1,19 +1,19 @@
 # Selecting Second Element with Class in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Second Element with Class in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) .highlight:nth-child(2) | No | No |
-| B | B) .highlight:nth-of-type(2) | Yes | Yes |
-| C | C) .highlight:first-child + .highlight | No | No |
-| D | D) .highlight:first-of-type ~ .highlight | No | No |
+- ⬜ **A.** A) .highlight:nth-child(2)
+- ✅ **B. B) .highlight:nth-of-type(2)** — Correct answer
+- ⬜ **C.** C) .highlight:first-child + .highlight
+- ⬜ **D.** D) .highlight:first-of-type ~ .highlight
 
-## Result
+## Submission
 
 - **Correct answer:** B) .highlight:nth-of-type(2)
 - **Submitted at:** 2026-06-16T13:53:31.267Z

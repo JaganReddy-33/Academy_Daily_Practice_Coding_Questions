@@ -1,19 +1,19 @@
 # Accessing Members of an Interface
 
+> ✅ Solved
+
 ## Question
 
 Accessing Members of an Interface
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| t | this | No | No |
-| s | super | No | No |
-| i | implements | No | No |
-| N | None, members are implicitly accessible | Yes | Yes |
+- ⬜ **A.** this
+- ⬜ **B.** super
+- ⬜ **C.** implements
+- ✅ **D. None, members are implicitly accessible** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** None, members are implicitly accessible
 - **Submitted at:** 2026-07-16T09:12:21.401Z

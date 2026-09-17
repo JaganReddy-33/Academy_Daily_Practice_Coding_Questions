@@ -1,17 +1,17 @@
 # Primary Key and Foreign Key in SQL
 
+> ✅ Solved
+
 ## Question
 
 Primary Key and Foreign Key in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Yes</p> | No | No |
-| < | <p>No</p> | Yes | Yes |
+- ⬜ **A.** <p>Yes</p>
+- ✅ **B. <p>No</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>No</p>
 - **Submitted at:** 2026-07-29T10:24:24.655Z

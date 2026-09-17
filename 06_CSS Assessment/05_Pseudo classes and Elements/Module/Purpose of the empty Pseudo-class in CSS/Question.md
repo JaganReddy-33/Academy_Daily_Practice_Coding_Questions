@@ -1,19 +1,19 @@
 # Purpose of the :empty Pseudo-class in CSS
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the :empty Pseudo-class in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) Selects elements with no content | Yes | Yes |
-| B | B) Styles elements with a specific class | No | No |
-| C | C) Selects elements with specific attributes | No | No |
-| D | D) Targets elements with a specific ID | No | No |
+- ✅ **A. A) Selects elements with no content** — Correct answer
+- ⬜ **B.** B) Styles elements with a specific class
+- ⬜ **C.** C) Selects elements with specific attributes
+- ⬜ **D.** D) Targets elements with a specific ID
 
-## Result
+## Submission
 
 - **Correct answer:** A) Selects elements with no content
 - **Submitted at:** 2026-06-16T13:50:18.285Z

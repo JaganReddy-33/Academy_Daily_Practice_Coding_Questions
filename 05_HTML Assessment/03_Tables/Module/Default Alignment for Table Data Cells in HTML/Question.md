@@ -1,19 +1,19 @@
 # Default Alignment for Table Data Cells in HTML
 
+> ✅ Solved
+
 ## Question
 
 Default Alignment for Table Data Cells in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| t | top | No | No |
-| b | bottom | No | No |
-| m | middle | No | No |
-| l | left | Yes | Yes |
+- ⬜ **A.** top
+- ⬜ **B.** bottom
+- ⬜ **C.** middle
+- ✅ **D. left** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** left
 - **Submitted at:** 2026-05-28T07:45:51.140Z

@@ -1,19 +1,19 @@
 # Race Condition in Multithreading
 
+> ✅ Solved
+
 ## Question
 
 Race Condition in Multithreading
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A situation where multiple threads compete to acquire the same resource or data simultaneously | Yes | Yes |
-| A | A deadlock situation where all threads are waiting for each other | No | No |
-| A | A situation where a thread enters a sleep state indefinitely | No | No |
-| A | A situation where a thread is terminated unexpectedly | No | No |
+- ✅ **A. A situation where multiple threads compete to acquire the same resource or data simultaneously** — Correct answer
+- ⬜ **B.** A deadlock situation where all threads are waiting for each other
+- ⬜ **C.** A situation where a thread enters a sleep state indefinitely
+- ⬜ **D.** A situation where a thread is terminated unexpectedly
 
-## Result
+## Submission
 
 - **Correct answer:** A situation where multiple threads compete to acquire the same resource or data simultaneously
 - **Submitted at:** 2026-07-27T04:44:37.651Z

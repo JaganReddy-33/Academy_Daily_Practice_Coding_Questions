@@ -1,19 +1,19 @@
 # CSS Selector 'p' Target MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Selector 'p' Target MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>All <code>&lt;p&gt;</code> elements</p> | Yes | Yes |
-| < | <p>All elements with the class 'p'</p> | No | No |
-| < | <p>All <code>&lt;p&gt;</code> elements that are children of another element</p> | No | No |
-| < | <p>All elements that are preceded by a <code>&lt;p&gt;</code> element</p> | No | No |
+- ✅ **A. <p>All <code>&lt;p&gt;</code> elements</p>** — Correct answer
+- ⬜ **B.** <p>All elements with the class 'p'</p>
+- ⬜ **C.** <p>All <code>&lt;p&gt;</code> elements that are children of another element</p>
+- ⬜ **D.** <p>All elements that are preceded by a <code>&lt;p&gt;</code> element</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>All <code>&lt;p&gt;</code> elements</p>
 - **Submitted at:** 2026-06-03T11:01:28.521Z

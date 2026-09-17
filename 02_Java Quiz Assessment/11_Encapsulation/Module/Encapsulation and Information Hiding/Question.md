@@ -1,19 +1,19 @@
 # Encapsulation and Information Hiding
 
+> ✅ Solved
+
 ## Question
 
 Encapsulation and Information Hiding
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Inheritance | No | No |
-| P | Polymorphism | No | No |
-| A | Abstraction | No | No |
-| E | Encapsulation | Yes | Yes |
+- ⬜ **A.** Inheritance
+- ⬜ **B.** Polymorphism
+- ⬜ **C.** Abstraction
+- ✅ **D. Encapsulation** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Encapsulation
 - **Submitted at:** 2026-06-25T05:27:38.029Z

@@ -1,17 +1,17 @@
 # TCL commands in SQL
 
+> ✅ Solved
+
 ## Question
 
 TCL commands in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | SELECT and SAVEPOINT | No | No |
-| G | GRANT and REVOKE | No | No |
+- ⬜ **A.** SELECT and SAVEPOINT
+- ⬜ **B.** GRANT and REVOKE
 
-## Result
+## Submission
 
 - **Correct answer:** 64c8ef825adfae65a4babe0c
 - **Submitted at:** 2026-07-31T06:20:05.528Z

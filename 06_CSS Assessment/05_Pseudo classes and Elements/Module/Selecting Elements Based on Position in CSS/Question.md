@@ -1,19 +1,19 @@
 # Selecting Elements Based on Position in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Elements Based on Position in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :position | No | No |
-| B | B) :nth-position | No | No |
-| C | C) :nth-of-type | Yes | Yes |
-| D | D) :location | No | No |
+- ⬜ **A.** A) :position
+- ⬜ **B.** B) :nth-position
+- ✅ **C. C) :nth-of-type** — Correct answer
+- ⬜ **D.** D) :location
 
-## Result
+## Submission
 
 - **Correct answer:** C) :nth-of-type
 - **Submitted at:** 2026-06-16T13:51:00.833Z

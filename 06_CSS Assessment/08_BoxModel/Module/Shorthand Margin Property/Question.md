@@ -1,19 +1,19 @@
 # Shorthand Margin Property
 
+> ✅ Solved
+
 ## Question
 
 Shorthand Margin Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | Top margin | Yes | Yes |
-| R | Right margin | No | No |
-| B | Bottom margin | No | No |
-| L | Left margin | No | No |
+- ✅ **A. Top margin** — Correct answer
+- ⬜ **B.** Right margin
+- ⬜ **C.** Bottom margin
+- ⬜ **D.** Left margin
 
-## Result
+## Submission
 
 - **Correct answer:** Top margin
 - **Submitted at:** 2026-06-16T14:17:46.236Z

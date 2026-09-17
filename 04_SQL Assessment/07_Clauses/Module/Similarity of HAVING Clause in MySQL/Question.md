@@ -1,19 +1,19 @@
 # Similarity of 'HAVING' Clause in MySQL
 
+> ✅ Solved
+
 ## Question
 
 Similarity of 'HAVING' Clause in MySQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>SELECT</p> | No | No |
-| < | <p>WHERE</p> | Yes | Yes |
-| < | <p>FROM</p> | No | No |
-| < | <p>None of the mentioned</p> | No | No |
+- ⬜ **A.** <p>SELECT</p>
+- ✅ **B. <p>WHERE</p>** — Correct answer
+- ⬜ **C.** <p>FROM</p>
+- ⬜ **D.** <p>None of the mentioned</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>WHERE</p>
 - **Submitted at:** 2026-08-03T04:56:49.177Z

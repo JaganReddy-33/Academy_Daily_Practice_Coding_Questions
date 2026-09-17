@@ -1,19 +1,19 @@
 # Categories of SQL Commands
 
+> ✅ Solved
+
 ## Question
 
 Categories of SQL Commands
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | TCL | No | No |
-| S | SCL | Yes | Yes |
-| D | DCL | No | No |
-| D | DDL | No | No |
+- ⬜ **A.** TCL
+- ✅ **B. SCL** — Correct answer
+- ⬜ **C.** DCL
+- ⬜ **D.** DDL
 
-## Result
+## Submission
 
 - **Correct answer:** SCL
 - **Submitted at:** 2026-07-31T06:15:15.562Z

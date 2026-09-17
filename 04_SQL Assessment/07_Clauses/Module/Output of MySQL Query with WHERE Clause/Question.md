@@ -1,19 +1,19 @@
 # Output of MySQL Query with WHERE Clause
 
+> ✅ Solved
+
 ## Question
 
 Output of MySQL Query with WHERE Clause
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>It will display all columns and rows belong to table employee.</p> | No | No |
-| < | <p>It will display all columns but only those rows which contain 'MANAGER' as a 'job_title'</p> | Yes | Yes |
-| < | <p>It will display all columns that don’t belong to table employee</p> | No | No |
-| < | <p>None of the mentioned</p> | No | No |
+- ⬜ **A.** <p>It will display all columns and rows belong to table employee.</p>
+- ✅ **B. <p>It will display all columns but only those rows which contain 'MANAGER' as a 'job_title'</p>** — Correct answer
+- ⬜ **C.** <p>It will display all columns that don’t belong to table employee</p>
+- ⬜ **D.** <p>None of the mentioned</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>It will display all columns but only those rows which contain 'MANAGER' as a 'job_title'</p>
 - **Submitted at:** 2026-08-03T04:58:51.111Z

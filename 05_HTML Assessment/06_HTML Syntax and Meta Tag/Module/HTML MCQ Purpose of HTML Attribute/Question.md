@@ -1,19 +1,19 @@
 # HTML MCQ: Purpose of HTML Attribute
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Purpose of HTML Attribute
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It specifies the tag name | No | No |
-| I | It defines the element's content | No | No |
-| I | It provides additional information about the element | Yes | Yes |
-| I | It changes the colour of the element | No | No |
+- ⬜ **A.** It specifies the tag name
+- ⬜ **B.** It defines the element's content
+- ✅ **C. It provides additional information about the element** — Correct answer
+- ⬜ **D.** It changes the colour of the element
 
-## Result
+## Submission
 
 - **Correct answer:** It provides additional information about the element
 - **Submitted at:** 2026-05-28T08:14:46.379Z

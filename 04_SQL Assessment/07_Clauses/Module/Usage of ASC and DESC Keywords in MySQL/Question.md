@@ -1,19 +1,19 @@
 # Usage of 'ASC' and 'DESC' Keywords in MySQL
 
+> ✅ Solved
+
 ## Question
 
 Usage of 'ASC' and 'DESC' Keywords in MySQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>ORDER BY</p> | Yes | Yes |
-| < | <p>GROUP BY</p> | No | No |
-| < | <p>SELECT</p> | No | No |
-| < | <p>HAVING</p> | No | No |
+- ✅ **A. <p>ORDER BY</p>** — Correct answer
+- ⬜ **B.** <p>GROUP BY</p>
+- ⬜ **C.** <p>SELECT</p>
+- ⬜ **D.** <p>HAVING</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>ORDER BY</p>
 - **Submitted at:** 2026-08-03T04:57:03.557Z

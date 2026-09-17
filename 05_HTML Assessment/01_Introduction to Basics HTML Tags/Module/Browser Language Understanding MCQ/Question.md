@@ -1,19 +1,19 @@
 # Browser Language Understanding MCQ
 
+> ✅ Solved
+
 ## Question
 
 Browser Language Understanding MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Programming languages | No | No |
-| S | Scripting language | No | No |
-| M | Markup language | Yes | Yes |
-| N | None of the above | No | No |
+- ⬜ **A.** Programming languages
+- ⬜ **B.** Scripting language
+- ✅ **C. Markup language** — Correct answer
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Markup language
 - **Submitted at:** 2026-05-28T07:31:54.845Z

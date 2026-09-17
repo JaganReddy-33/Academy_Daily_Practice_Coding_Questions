@@ -1,19 +1,19 @@
 # Method Overloading and Polymorphism
 
+> ✅ Solved
+
 ## Question
 
 Method Overloading and Polymorphism
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Compile-time polymorphism | Yes | Yes |
-| R | Runtime polymorphism | No | No |
-| M | Multiple inheritance | No | No |
-| M | Method overriding | No | No |
+- ✅ **A. Compile-time polymorphism** — Correct answer
+- ⬜ **B.** Runtime polymorphism
+- ⬜ **C.** Multiple inheritance
+- ⬜ **D.** Method overriding
 
-## Result
+## Submission
 
 - **Correct answer:** Compile-time polymorphism
 - **Submitted at:** 2026-06-15T17:09:09.106Z

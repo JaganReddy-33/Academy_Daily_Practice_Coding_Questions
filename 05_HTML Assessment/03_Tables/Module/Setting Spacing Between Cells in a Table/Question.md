@@ -1,19 +1,19 @@
 # Setting Spacing Between Cells in a Table
 
+> ✅ Solved
+
 ## Question
 
 Setting Spacing Between Cells in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| c | cell-spacing | No | No |
-| s | spacing | No | No |
-| c | cell-padding | No | No |
-| b | border-spacing | Yes | Yes |
+- ⬜ **A.** cell-spacing
+- ⬜ **B.** spacing
+- ⬜ **C.** cell-padding
+- ✅ **D. border-spacing** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** border-spacing
 - **Submitted at:** 2026-05-28T07:47:51.817Z

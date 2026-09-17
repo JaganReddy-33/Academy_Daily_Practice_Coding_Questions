@@ -1,19 +1,19 @@
 # HTML MCQ: Purpose of the 'multiple' Attribute in Select Box
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Purpose of the 'multiple' Attribute in Select Box
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | Allow multiple selections | Yes | Yes |
-| S | Set the box width | No | No |
-| E | Enable/disable the select box | No | No |
-| A | Add multiple options | No | No |
+- ✅ **A. Allow multiple selections** — Correct answer
+- ⬜ **B.** Set the box width
+- ⬜ **C.** Enable/disable the select box
+- ⬜ **D.** Add multiple options
 
-## Result
+## Submission
 
 - **Correct answer:** Allow multiple selections
 - **Submitted at:** 2026-05-28T08:08:28.748Z

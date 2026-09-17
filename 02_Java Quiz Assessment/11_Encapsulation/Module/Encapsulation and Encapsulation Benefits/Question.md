@@ -1,19 +1,19 @@
 # Encapsulation and Encapsulation Benefits
 
+> ✅ Solved
+
 ## Question
 
 Encapsulation and Encapsulation Benefits
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Improved code maintainability and code security. | Yes | Yes |
-| E | Enhanced performance and memory optimization. | No | No |
-| S | Simplification of complex program logic and control flow. | No | No |
-| F | Facilitation of inter-thread communication and synchronization. | No | No |
+- ✅ **A. Improved code maintainability and code security.** — Correct answer
+- ⬜ **B.** Enhanced performance and memory optimization.
+- ⬜ **C.** Simplification of complex program logic and control flow.
+- ⬜ **D.** Facilitation of inter-thread communication and synchronization.
 
-## Result
+## Submission
 
 - **Correct answer:** Improved code maintainability and code security.
 - **Submitted at:** 2026-06-25T05:25:14.916Z

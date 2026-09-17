@@ -1,19 +1,19 @@
 # HTML MCQ: Associating Label with Form Element
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Associating Label with Form Element
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| l | link | No | No |
-| c | connect | No | No |
-| f | for | Yes | Yes |
-| a | associate | No | No |
+- ⬜ **A.** link
+- ⬜ **B.** connect
+- ✅ **C. for** — Correct answer
+- ⬜ **D.** associate
 
-## Result
+## Submission
 
 - **Correct answer:** for
 - **Submitted at:** 2026-05-28T08:04:50.006Z

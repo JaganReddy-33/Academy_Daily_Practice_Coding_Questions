@@ -1,19 +1,19 @@
 # Inheritance Methods
 
+> ✅ Solved
+
 ## Question
 
 Inheritance Methods
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Inherited methods | No | No |
-| O | Overridden methods | No | No |
-| S | Specialized methods | No | No |
-| A | All of the above | Yes | Yes |
+- ⬜ **A.** Inherited methods
+- ⬜ **B.** Overridden methods
+- ⬜ **C.** Specialized methods
+- ✅ **D. All of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All of the above
 - **Submitted at:** 2026-06-26T14:29:31.283Z

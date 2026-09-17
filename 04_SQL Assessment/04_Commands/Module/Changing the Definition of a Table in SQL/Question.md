@@ -1,19 +1,19 @@
 # Changing the Definition of a Table in SQL
 
+> ✅ Solved
+
 ## Question
 
 Changing the Definition of a Table in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | ALTER | Yes | Yes |
-| U | UPDATE | No | No |
-| C | CREATE | No | No |
-| S | SELECT | No | No |
+- ✅ **A. ALTER** — Correct answer
+- ⬜ **B.** UPDATE
+- ⬜ **C.** CREATE
+- ⬜ **D.** SELECT
 
-## Result
+## Submission
 
 - **Correct answer:** ALTER
 - **Submitted at:** 2026-07-31T06:40:42.283Z

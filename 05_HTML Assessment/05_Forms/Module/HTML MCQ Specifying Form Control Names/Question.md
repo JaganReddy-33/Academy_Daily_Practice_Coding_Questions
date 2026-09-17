@@ -1,19 +1,19 @@
 # HTML MCQ: Specifying Form Control Names
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Specifying Form Control Names
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | id | No | No |
-| n | name | Yes | Yes |
-| l | label | No | No |
-| c | control | No | No |
+- ⬜ **A.** id
+- ✅ **B. name** — Correct answer
+- ⬜ **C.** label
+- ⬜ **D.** control
 
-## Result
+## Submission
 
 - **Correct answer:** name
 - **Submitted at:** 2026-05-28T08:03:56.709Z

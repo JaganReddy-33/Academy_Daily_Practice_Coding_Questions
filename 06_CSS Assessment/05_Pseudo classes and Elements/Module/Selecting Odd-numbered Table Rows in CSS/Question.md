@@ -1,19 +1,19 @@
 # Selecting Odd-numbered Table Rows in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Odd-numbered Table Rows in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) table tr:odd | No | No |
-| B | B) tr:nth-child(odd) | Yes | Yes |
-| C | C) tr.odd | No | No |
-| D | D) table:nth-child(odd) | No | No |
+- ⬜ **A.** A) table tr:odd
+- ✅ **B. B) tr:nth-child(odd)** — Correct answer
+- ⬜ **C.** C) tr.odd
+- ⬜ **D.** D) table:nth-child(odd)
 
-## Result
+## Submission
 
 - **Correct answer:** B) tr:nth-child(odd)
 - **Submitted at:** 2026-06-16T13:50:38.292Z

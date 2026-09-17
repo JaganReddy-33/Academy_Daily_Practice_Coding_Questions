@@ -1,19 +1,19 @@
 # Access Modifiers
 
+> ✅ Solved
+
 ## Question
 
 Access Modifiers
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | public | No | No |
-| p | private | No | No |
-| p | protected | No | No |
-| d | default | Yes | Yes |
+- ⬜ **A.** public
+- ⬜ **B.** private
+- ⬜ **C.** protected
+- ✅ **D. default** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** default
 - **Submitted at:** 2026-06-25T05:21:39.180Z

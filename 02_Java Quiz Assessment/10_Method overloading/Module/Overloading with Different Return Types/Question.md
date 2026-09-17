@@ -1,17 +1,17 @@
 # Overloading with Different Return Types
 
+> ✅ Solved
+
 ## Question
 
 Overloading with Different Return Types
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-06-15T17:13:03.606Z

@@ -1,19 +1,19 @@
 # HTML MCQ: HTML Version with <!DOCTYPE html>
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: HTML Version with <!DOCTYPE html>
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>HTML 4.01</p> | No | No |
-| < | <p>XHTML</p> | No | No |
-| < | <p>HTML5</p> | Yes | Yes |
-| < | <p>HTML 3.2</p> | No | No |
+- ⬜ **A.** <p>HTML 4.01</p>
+- ⬜ **B.** <p>XHTML</p>
+- ✅ **C. <p>HTML5</p>** — Correct answer
+- ⬜ **D.** <p>HTML 3.2</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>HTML5</p>
 - **Submitted at:** 2026-05-28T08:12:46.097Z

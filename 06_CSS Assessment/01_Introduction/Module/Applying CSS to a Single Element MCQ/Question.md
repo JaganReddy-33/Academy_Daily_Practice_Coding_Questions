@@ -1,19 +1,19 @@
 # Applying CSS to a Single Element MCQ
 
+> ✅ Solved
+
 ## Question
 
 Applying CSS to a Single Element MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Internal CSS | No | No |
-| E | External CSS | No | No |
-| I | Inline CSS | Yes | Yes |
-| E | Embedded CSS | No | No |
+- ⬜ **A.** Internal CSS
+- ⬜ **B.** External CSS
+- ✅ **C. Inline CSS** — Correct answer
+- ⬜ **D.** Embedded CSS
 
-## Result
+## Submission
 
 - **Correct answer:** Inline CSS
 - **Submitted at:** 2026-06-01T17:03:30.106Z

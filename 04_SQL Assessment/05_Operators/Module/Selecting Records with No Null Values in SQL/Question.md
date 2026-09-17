@@ -1,19 +1,19 @@
 # Selecting Records with No Null Values in SQL
 
+> ✅ Solved
+
 ## Question
 
 Selecting Records with No Null Values in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>By using IS NULL</p> | No | No |
-| < | <p>By using IS NOT NULL</p> | Yes | Yes |
-| < | <p>By using NULL</p> | No | No |
-| < | <p>All of the above</p> | No | No |
+- ⬜ **A.** <p>By using IS NULL</p>
+- ✅ **B. <p>By using IS NOT NULL</p>** — Correct answer
+- ⬜ **C.** <p>By using NULL</p>
+- ⬜ **D.** <p>All of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>By using IS NOT NULL</p>
 - **Submitted at:** 2026-08-01T06:39:13.864Z

@@ -1,19 +1,19 @@
 # CSS Font Property MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Font Property MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| f | font-style | No | No |
-| f | font-family | Yes | Yes |
-| t | text-transform | No | No |
-| f | font-size | No | No |
+- ⬜ **A.** font-style
+- ✅ **B. font-family** — Correct answer
+- ⬜ **C.** text-transform
+- ⬜ **D.** font-size
 
-## Result
+## Submission
 
 - **Correct answer:** font-family
 - **Submitted at:** 2026-06-01T17:01:02.478Z

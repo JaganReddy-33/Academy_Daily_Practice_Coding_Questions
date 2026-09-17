@@ -1,19 +1,19 @@
 # Preferred Browser for Frontend Development MCQ
 
+> ✅ Solved
+
 ## Question
 
 Preferred Browser for Frontend Development MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Internet Explorer | No | No |
-| G | Google Chrome | Yes | Yes |
-| S | Safari | No | No |
-| M | Mozilla Firefox | No | No |
+- ⬜ **A.** Internet Explorer
+- ✅ **B. Google Chrome** — Correct answer
+- ⬜ **C.** Safari
+- ⬜ **D.** Mozilla Firefox
 
-## Result
+## Submission
 
 - **Correct answer:** Google Chrome
 - **Submitted at:** 2026-05-28T07:32:52.354Z

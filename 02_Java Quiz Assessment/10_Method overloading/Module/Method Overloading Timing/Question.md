@@ -1,19 +1,19 @@
 # Method Overloading Timing
 
+> ✅ Solved
+
 ## Question
 
 Method Overloading Timing
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | During runtime | No | No |
-| D | During compile-time | Yes | Yes |
-| A | At the moment of method invocation | No | No |
-| W | When a method is marked as 'overloaded' | No | No |
+- ⬜ **A.** During runtime
+- ✅ **B. During compile-time** — Correct answer
+- ⬜ **C.** At the moment of method invocation
+- ⬜ **D.** When a method is marked as 'overloaded'
 
-## Result
+## Submission
 
 - **Correct answer:** During compile-time
 - **Submitted at:** 2026-06-15T17:09:54.620Z

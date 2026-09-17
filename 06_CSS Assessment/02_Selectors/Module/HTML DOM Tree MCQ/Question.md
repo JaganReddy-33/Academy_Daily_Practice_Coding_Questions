@@ -1,19 +1,19 @@
 # HTML DOM Tree MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML DOM Tree MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It is a visual representation of the HTML code structure | No | No |
-| I | It is a hierarchical representation of HTML elements, with the document node at the top and each HTML element represented as a node | Yes | Yes |
-| I | It is a method used to dynamically load external content into an HTML document | No | No |
-| I | It is a type of JavaScript function used to manipulate text strings | No | No |
+- ⬜ **A.** It is a visual representation of the HTML code structure
+- ✅ **B. It is a hierarchical representation of HTML elements, with the document node at the top and each HTML element represented as a node** — Correct answer
+- ⬜ **C.** It is a method used to dynamically load external content into an HTML document
+- ⬜ **D.** It is a type of JavaScript function used to manipulate text strings
 
-## Result
+## Submission
 
 - **Correct answer:** It is a hierarchical representation of HTML elements, with the document node at the top and each HTML element represented as a node
 - **Submitted at:** 2026-06-03T10:59:40.222Z

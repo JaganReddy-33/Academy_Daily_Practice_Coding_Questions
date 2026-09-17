@@ -1,19 +1,19 @@
 # Understanding the 'margin-top' CSS Property
 
+> ✅ Solved
+
 ## Question
 
 Understanding the 'margin-top' CSS Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| H | Horizontal margin | No | No |
-| B | Bottom margin | No | No |
-| T | Top margin | Yes | Yes |
-| V | Vertical margin | No | No |
+- ⬜ **A.** Horizontal margin
+- ⬜ **B.** Bottom margin
+- ✅ **C. Top margin** — Correct answer
+- ⬜ **D.** Vertical margin
 
-## Result
+## Submission
 
 - **Correct answer:** Top margin
 - **Submitted at:** 2026-06-16T14:16:32.565Z

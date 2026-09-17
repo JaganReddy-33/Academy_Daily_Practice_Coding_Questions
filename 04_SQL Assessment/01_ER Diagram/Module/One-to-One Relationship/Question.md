@@ -1,19 +1,19 @@
 # One-to-One Relationship
 
+> ✅ Solved
+
 ## Question
 
 One-to-One Relationship
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | One to One | Yes | Yes |
-| O | One to Two | No | No |
-| O | One to Many | No | No |
-| M | Many to One | No | No |
+- ✅ **A. One to One** — Correct answer
+- ⬜ **B.** One to Two
+- ⬜ **C.** One to Many
+- ⬜ **D.** Many to One
 
-## Result
+## Submission
 
 - **Correct answer:** One to One
 - **Submitted at:** 2026-07-27T14:30:00.606Z

@@ -1,17 +1,17 @@
 # Creating Exception Objects in Java
 
+> ✅ Solved
+
 ## Question
 
 Creating Exception Objects in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-07-23T04:49:58.680Z

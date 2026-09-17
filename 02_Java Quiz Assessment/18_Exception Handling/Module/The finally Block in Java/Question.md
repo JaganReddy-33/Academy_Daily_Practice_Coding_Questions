@@ -1,19 +1,19 @@
 # The 'finally' Block in Java
 
+> ✅ Solved
+
 ## Question
 
 The 'finally' Block in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| e | exception | No | No |
-| c | catch | No | No |
-| t | try | No | No |
-| f | finally | Yes | Yes |
+- ⬜ **A.** exception
+- ⬜ **B.** catch
+- ⬜ **C.** try
+- ✅ **D. finally** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** finally
 - **Submitted at:** 2026-07-23T04:47:39.627Z

@@ -1,19 +1,19 @@
 # Return Type of Methods in Java
 
+> ✅ Solved
+
 ## Question
 
 Return Type of Methods in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| m | main method | No | No |
-| c | constructor | Yes | Yes |
-| d | display() | No | No |
-| g | getid() | No | No |
+- ⬜ **A.** main method
+- ✅ **B. constructor** — Correct answer
+- ⬜ **C.** display()
+- ⬜ **D.** getid()
 
-## Result
+## Submission
 
 - **Correct answer:** constructor
 - **Submitted at:** 2026-06-02T06:05:15.116Z

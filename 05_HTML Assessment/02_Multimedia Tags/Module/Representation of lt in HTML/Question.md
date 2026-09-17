@@ -1,19 +1,19 @@
 # Representation of &lt; in HTML
 
+> ✅ Solved
+
 ## Question
 
 Representation of &lt; in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| G | Greater than sign | No | No |
-| L | Less than sign | Yes | Yes |
-| A | Ampersand | No | No |
-| D | Double quote | No | No |
+- ⬜ **A.** Greater than sign
+- ✅ **B. Less than sign** — Correct answer
+- ⬜ **C.** Ampersand
+- ⬜ **D.** Double quote
 
-## Result
+## Submission
 
 - **Correct answer:** Less than sign
 - **Submitted at:** 2026-05-28T07:39:03.444Z

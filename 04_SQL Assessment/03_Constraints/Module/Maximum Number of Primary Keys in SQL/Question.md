@@ -1,19 +1,19 @@
 # Maximum Number of Primary Keys in SQL
 
+> ✅ Solved
+
 ## Question
 
 Maximum Number of Primary Keys in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>one</p> | Yes | Yes |
-| < | <p>Two</p> | No | No |
-| < | <p>Three</p> | No | No |
-| < | <p>Four</p> | No | No |
+- ✅ **A. <p>one</p>** — Correct answer
+- ⬜ **B.** <p>Two</p>
+- ⬜ **C.** <p>Three</p>
+- ⬜ **D.** <p>Four</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>one</p>
 - **Submitted at:** 2026-07-29T10:22:22.804Z

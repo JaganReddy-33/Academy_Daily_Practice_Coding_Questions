@@ -1,19 +1,19 @@
 # HTML Entity for Non-Breaking Space
 
+> ✅ Solved
+
 ## Question
 
 HTML Entity for Non-Breaking Space
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&amp;nbs;</p> | No | No |
-| < | <p>&amp;nb;</p> | No | No |
-| < | <p>&amp;nbsp;</p> | Yes | Yes |
-| < | <p>&amp;space;</p> | No | No |
+- ⬜ **A.** <p>&amp;nbs;</p>
+- ⬜ **B.** <p>&amp;nb;</p>
+- ✅ **C. <p>&amp;nbsp;</p>** — Correct answer
+- ⬜ **D.** <p>&amp;space;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&amp;nbsp;</p>
 - **Submitted at:** 2026-05-28T07:39:55.924Z

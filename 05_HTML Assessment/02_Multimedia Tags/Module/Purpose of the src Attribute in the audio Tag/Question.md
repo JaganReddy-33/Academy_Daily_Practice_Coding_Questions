@@ -1,19 +1,19 @@
 # Purpose of the src Attribute in the <audio> Tag
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the src Attribute in the <audio> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | The audio controls | No | No |
-| T | The source file for the audio | Yes | Yes |
-| T | The type of the audio | No | No |
-| T | The title of the audio | No | No |
+- ⬜ **A.** The audio controls
+- ✅ **B. The source file for the audio** — Correct answer
+- ⬜ **C.** The type of the audio
+- ⬜ **D.** The title of the audio
 
-## Result
+## Submission
 
 - **Correct answer:** The source file for the audio
 - **Submitted at:** 2026-05-28T07:37:25.576Z

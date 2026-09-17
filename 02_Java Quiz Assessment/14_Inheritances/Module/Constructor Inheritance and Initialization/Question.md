@@ -1,19 +1,19 @@
 # Constructor Inheritance and Initialization
 
+> ✅ Solved
+
 ## Question
 
 Constructor Inheritance and Initialization
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Parent Constructor Child Constructor</p> | Yes | Yes |
-| < | <p>Child Constructor Parent Constructor</p> | No | No |
-| < | <p>Compilation error due to ambiguous constructor calls</p> | No | No |
-| < | <p>Compilation error due to illegal inheritance</p> | No | No |
+- ✅ **A. <p>Parent Constructor Child Constructor</p>** — Correct answer
+- ⬜ **B.** <p>Child Constructor Parent Constructor</p>
+- ⬜ **C.** <p>Compilation error due to ambiguous constructor calls</p>
+- ⬜ **D.** <p>Compilation error due to illegal inheritance</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Parent Constructor Child Constructor</p>
 - **Submitted at:** 2026-06-26T14:31:44.750Z

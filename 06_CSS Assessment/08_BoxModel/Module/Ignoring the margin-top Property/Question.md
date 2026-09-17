@@ -1,19 +1,19 @@
 # Ignoring the 'margin-top' Property
 
+> ✅ Solved
+
 ## Question
 
 Ignoring the 'margin-top' Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| W | When applied to a block-level element | No | No |
-| W | When the element has a fixed position | No | No |
-| W | When the element has a negative height | No | No |
-| W | When the element is inline | Yes | Yes |
+- ⬜ **A.** When applied to a block-level element
+- ⬜ **B.** When the element has a fixed position
+- ⬜ **C.** When the element has a negative height
+- ✅ **D. When the element is inline** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** When the element is inline
 - **Submitted at:** 2026-06-16T14:22:56.636Z

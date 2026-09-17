@@ -1,19 +1,19 @@
 # Normalization and Anomalies in SQL
 
+> ✅ Solved
+
 ## Question
 
 Normalization and Anomalies in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Decomposition</p> | Yes | Yes |
-| < | <p>Aggregation</p> | No | No |
-| < | <p>Denormalization</p> | No | No |
-| < | <p>Indexing</p> | No | No |
+- ✅ **A. <p>Decomposition</p>** — Correct answer
+- ⬜ **B.** <p>Aggregation</p>
+- ⬜ **C.** <p>Denormalization</p>
+- ⬜ **D.** <p>Indexing</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Decomposition</p>
 - **Submitted at:** 2026-08-06T06:47:00.843Z

@@ -1,19 +1,19 @@
 # Handling Exception Objects in Java
 
+> ✅ Solved
+
 ## Question
 
 Handling Exception Objects in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | Runtime System | Yes | Yes |
-| D | Default Exception Handler | No | No |
-| J | JVM | No | No |
-| t | try-catch | No | No |
+- ✅ **A. Runtime System** — Correct answer
+- ⬜ **B.** Default Exception Handler
+- ⬜ **C.** JVM
+- ⬜ **D.** try-catch
 
-## Result
+## Submission
 
 - **Correct answer:** Runtime System
 - **Submitted at:** 2026-07-23T04:48:23.226Z

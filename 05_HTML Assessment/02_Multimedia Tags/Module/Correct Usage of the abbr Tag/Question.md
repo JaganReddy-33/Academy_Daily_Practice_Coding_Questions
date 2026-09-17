@@ -1,19 +1,19 @@
 # Correct Usage of the <abbr> Tag
 
+> ✅ Solved
+
 ## Question
 
 Correct Usage of the <abbr> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <abbr>HTML</abbr> | No | No |
-| < | <abbr title="Hypertext Markup Language">HTML</abbr> | Yes | Yes |
-| < | <abbr="Hypertext Markup Language">HTML</abbr> | No | No |
-| < | <abbr full="Hypertext Markup Language">HTML</abbr> | No | No |
+- ⬜ **A.** <abbr>HTML</abbr>
+- ✅ **B. <abbr title="Hypertext Markup Language">HTML</abbr>** — Correct answer
+- ⬜ **C.** <abbr="Hypertext Markup Language">HTML</abbr>
+- ⬜ **D.** <abbr full="Hypertext Markup Language">HTML</abbr>
 
-## Result
+## Submission
 
 - **Correct answer:** <abbr title="Hypertext Markup Language">HTML</abbr>
 - **Submitted at:** 2026-05-28T07:41:59.255Z

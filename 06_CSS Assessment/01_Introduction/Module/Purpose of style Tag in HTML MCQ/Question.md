@@ -1,19 +1,19 @@
 # Purpose of <style> Tag in HTML MCQ
 
+> ✅ Solved
+
 ## Question
 
 Purpose of <style> Tag in HTML MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>To define JavaScript functions</p> | No | No |
-| < | <p>It allows web developers to manipulate features such as font, color, layout, and other visual aspects of web pages</p> | Yes | Yes |
-| < | <p>To include external CSS files</p> | No | No |
-| < | <p>To link HTML pages together</p> | No | No |
+- ⬜ **A.** <p>To define JavaScript functions</p>
+- ✅ **B. <p>It allows web developers to manipulate features such as font, color, layout, and other visual aspects of web pages</p>** — Correct answer
+- ⬜ **C.** <p>To include external CSS files</p>
+- ⬜ **D.** <p>To link HTML pages together</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>It allows web developers to manipulate features such as font, color, layout, and other visual aspects of web pages</p>
 - **Submitted at:** 2026-06-01T17:06:52.896Z

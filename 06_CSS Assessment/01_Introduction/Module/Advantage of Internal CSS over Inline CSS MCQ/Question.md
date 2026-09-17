@@ -1,19 +1,19 @@
 # Advantage of Internal CSS over Inline CSS MCQ
 
+> ✅ Solved
+
 ## Question
 
 Advantage of Internal CSS over Inline CSS MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It allows for easier maintenance of styles | Yes | Yes |
-| I | It provides better browser compatibility | No | No |
-| I | It allows for faster rendering of web pages | No | No |
-| I | It offers more flexibility in styling | No | No |
+- ✅ **A. It allows for easier maintenance of styles** — Correct answer
+- ⬜ **B.** It provides better browser compatibility
+- ⬜ **C.** It allows for faster rendering of web pages
+- ⬜ **D.** It offers more flexibility in styling
 
-## Result
+## Submission
 
 - **Correct answer:** It allows for easier maintenance of styles
 - **Submitted at:** 2026-06-01T17:06:10.270Z

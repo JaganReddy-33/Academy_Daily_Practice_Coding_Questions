@@ -1,19 +1,19 @@
 # Default Methods in Interfaces
 
+> ✅ Solved
+
 ## Question
 
 Default Methods in Interfaces
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | Default methods are always abstract. | No | No |
-| A | A class implementing the interface must override default methods. | No | No |
-| D | Default methods are marked with the 'default' keyword. | Yes | Yes |
-| A | A class can only inherit default methods from one interface. | No | No |
+- ⬜ **A.** Default methods are always abstract.
+- ⬜ **B.** A class implementing the interface must override default methods.
+- ✅ **C. Default methods are marked with the 'default' keyword.** — Correct answer
+- ⬜ **D.** A class can only inherit default methods from one interface.
 
-## Result
+## Submission
 
 - **Correct answer:** Default methods are marked with the 'default' keyword.
 - **Submitted at:** 2026-07-16T09:16:20.572Z

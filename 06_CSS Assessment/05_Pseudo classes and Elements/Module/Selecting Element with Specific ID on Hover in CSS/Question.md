@@ -1,19 +1,19 @@
 # Selecting Element with Specific ID on Hover in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Element with Specific ID on Hover in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) #id:hover | Yes | Yes |
-| B | B) :hover#id | No | No |
-| C | C) #id:active | No | No |
-| D | D) #id:hovered | No | No |
+- ✅ **A. A) #id:hover** — Correct answer
+- ⬜ **B.** B) :hover#id
+- ⬜ **C.** C) #id:active
+- ⬜ **D.** D) #id:hovered
 
-## Result
+## Submission
 
 - **Correct answer:** A) #id:hover
 - **Submitted at:** 2026-06-16T13:52:06.189Z

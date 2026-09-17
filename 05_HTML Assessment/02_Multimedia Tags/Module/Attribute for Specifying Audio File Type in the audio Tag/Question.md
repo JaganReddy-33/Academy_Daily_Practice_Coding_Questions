@@ -1,19 +1,19 @@
 # Attribute for Specifying Audio File Type in the <audio> Tag
 
+> ✅ Solved
+
 ## Question
 
 Attribute for Specifying Audio File Type in the <audio> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | src | No | No |
-| t | type | Yes | Yes |
-| f | format | No | No |
-| a | audio | No | No |
+- ⬜ **A.** src
+- ✅ **B. type** — Correct answer
+- ⬜ **C.** format
+- ⬜ **D.** audio
 
-## Result
+## Submission
 
 - **Correct answer:** type
 - **Submitted at:** 2026-05-28T07:35:57.099Z

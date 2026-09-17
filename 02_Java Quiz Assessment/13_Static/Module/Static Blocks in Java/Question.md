@@ -1,19 +1,19 @@
 # Static Blocks in Java
 
+> ✅ Solved
+
 ## Question
 
 Static Blocks in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | Static methods | No | No |
-| S | Static variables | Yes | Yes |
-| S | Static blocks | No | No |
-| N | None of the above | No | No |
+- ⬜ **A.** Static methods
+- ✅ **B. Static variables** — Correct answer
+- ⬜ **C.** Static blocks
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Static variables
 - **Submitted at:** 2026-06-26T14:20:23.064Z

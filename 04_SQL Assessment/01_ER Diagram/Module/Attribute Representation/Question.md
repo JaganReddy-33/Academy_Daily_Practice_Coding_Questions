@@ -1,19 +1,19 @@
 # Attribute Representation
 
+> ✅ Solved
+
 ## Question
 
 Attribute Representation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| L | Line | No | No |
-| D | Double line | No | No |
-| E | Ellipse | Yes | Yes |
-| A | All of the above | No | No |
+- ⬜ **A.** Line
+- ⬜ **B.** Double line
+- ✅ **C. Ellipse** — Correct answer
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Ellipse
 - **Submitted at:** 2026-07-27T14:28:00.753Z

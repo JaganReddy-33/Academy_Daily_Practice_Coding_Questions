@@ -1,19 +1,19 @@
 # Purpose of CSS Selectors MCQ
 
+> ✅ Solved
+
 ## Question
 
 Purpose of CSS Selectors MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To define the layout and structure of a webpage | No | No |
-| T | To select and style specific HTML elements | Yes | Yes |
-| T | To execute JavaScript functions | No | No |
-| T | To add interactive features to web forms | No | No |
+- ⬜ **A.** To define the layout and structure of a webpage
+- ✅ **B. To select and style specific HTML elements** — Correct answer
+- ⬜ **C.** To execute JavaScript functions
+- ⬜ **D.** To add interactive features to web forms
 
-## Result
+## Submission
 
 - **Correct answer:** To select and style specific HTML elements
 - **Submitted at:** 2026-06-03T10:58:57.386Z

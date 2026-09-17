@@ -1,19 +1,19 @@
 # Adding a Border Around a Table in HTML
 
+> ✅ Solved
+
 ## Question
 
 Adding a Border Around a Table in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| b | border | Yes | Yes |
-| t | table-border | No | No |
-| b | border-style | No | No |
-| b | border-all | No | No |
+- ✅ **A. border** — Correct answer
+- ⬜ **B.** table-border
+- ⬜ **C.** border-style
+- ⬜ **D.** border-all
 
-## Result
+## Submission
 
 - **Correct answer:** border
 - **Submitted at:** 2026-05-28T07:46:54.124Z

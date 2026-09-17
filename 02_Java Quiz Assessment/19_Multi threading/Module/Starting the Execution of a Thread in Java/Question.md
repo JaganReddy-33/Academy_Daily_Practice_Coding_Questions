@@ -1,19 +1,19 @@
 # Starting the Execution of a Thread in Java
 
+> ✅ Solved
+
 ## Question
 
 Starting the Execution of a Thread in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| b | begin() | No | No |
-| r | run() | No | No |
-| s | start() | Yes | Yes |
-| e | execute() | No | No |
+- ⬜ **A.** begin()
+- ⬜ **B.** run()
+- ✅ **C. start()** — Correct answer
+- ⬜ **D.** execute()
 
-## Result
+## Submission
 
 - **Correct answer:** start()
 - **Submitted at:** 2026-07-27T04:35:42.881Z

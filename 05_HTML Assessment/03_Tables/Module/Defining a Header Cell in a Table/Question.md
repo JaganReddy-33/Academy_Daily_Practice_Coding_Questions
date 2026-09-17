@@ -1,19 +1,19 @@
 # Defining a Header Cell in a Table
 
+> ✅ Solved
+
 ## Question
 
 Defining a Header Cell in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;td&gt;</p> | No | No |
-| < | <p>&lt;thead&gt;</p> | No | No |
-| < | <p>&lt;th&gt;</p> | Yes | Yes |
-| < | <p>&lt;h1&gt;</p> | No | No |
+- ⬜ **A.** <p>&lt;td&gt;</p>
+- ⬜ **B.** <p>&lt;thead&gt;</p>
+- ✅ **C. <p>&lt;th&gt;</p>** — Correct answer
+- ⬜ **D.** <p>&lt;h1&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;th&gt;</p>
 - **Submitted at:** 2026-05-28T07:43:56.496Z

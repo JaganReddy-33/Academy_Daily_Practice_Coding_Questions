@@ -1,19 +1,19 @@
 # Inline CSS Syntax MCQ
 
+> ✅ Solved
+
 ## Question
 
 Inline CSS Syntax MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;element style="property: value;"&gt;</p> | Yes | Yes |
-| < | <p>&lt;style&gt;...&lt;/style&gt;</p> | No | No |
-| < | <p>&lt;element class="classname"&gt;</p> | No | No |
-| < | <p>&lt;link rel="stylesheet" href="style.css"&gt;</p> | No | No |
+- ✅ **A. <p>&lt;element style="property: value;"&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;style&gt;...&lt;/style&gt;</p>
+- ⬜ **C.** <p>&lt;element class="classname"&gt;</p>
+- ⬜ **D.** <p>&lt;link rel="stylesheet" href="style.css"&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;element style="property: value;"&gt;</p>
 - **Submitted at:** 2026-06-01T17:07:52.052Z

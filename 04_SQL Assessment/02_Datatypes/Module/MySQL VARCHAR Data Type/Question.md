@@ -1,19 +1,19 @@
 # MySQL VARCHAR Data Type
 
+> ✅ Solved
+
 ## Question
 
 MySQL VARCHAR Data Type
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 2 | 255 | No | No |
-| 1 | 1,024 | No | No |
-| 6 | 65,535 | Yes | Yes |
-| U | Unlimited | No | No |
+- ⬜ **A.** 255
+- ⬜ **B.** 1,024
+- ✅ **C. 65,535** — Correct answer
+- ⬜ **D.** Unlimited
 
-## Result
+## Submission
 
 - **Correct answer:** 65,535
 - **Submitted at:** 2026-07-28T06:22:34.918Z

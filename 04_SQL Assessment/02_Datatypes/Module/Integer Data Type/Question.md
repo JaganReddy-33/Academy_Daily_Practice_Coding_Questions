@@ -1,19 +1,19 @@
 # Integer Data Type
 
+> ✅ Solved
+
 ## Question
 
 Integer Data Type
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | INT | Yes | Yes |
-| F | FLOAT | No | No |
-| C | CHAR | No | No |
-| V | VARCHAR | No | No |
+- ✅ **A. INT** — Correct answer
+- ⬜ **B.** FLOAT
+- ⬜ **C.** CHAR
+- ⬜ **D.** VARCHAR
 
-## Result
+## Submission
 
 - **Correct answer:** INT
 - **Submitted at:** 2026-07-28T06:29:22.888Z

@@ -1,19 +1,19 @@
 # Testing Absence of Data in SQL
 
+> ✅ Solved
+
 ## Question
 
 Testing Absence of Data in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| E | EXISTS operator | No | No |
-| N | NOT operator | No | No |
-| I | IS NULL operator | Yes | Yes |
-| N | None of these | No | No |
+- ⬜ **A.** EXISTS operator
+- ⬜ **B.** NOT operator
+- ✅ **C. IS NULL operator** — Correct answer
+- ⬜ **D.** None of these
 
-## Result
+## Submission
 
 - **Correct answer:** IS NULL operator
 - **Submitted at:** 2026-08-01T06:33:18.409Z

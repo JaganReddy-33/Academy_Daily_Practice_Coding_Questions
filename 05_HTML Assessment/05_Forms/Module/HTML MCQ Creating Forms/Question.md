@@ -1,19 +1,19 @@
 # HTML MCQ: Creating Forms
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Creating Forms
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;form&gt;</p> | Yes | Yes |
-| < | <p>&lt;input&gt;</p> | No | No |
-| < | <p>&lt;submit&gt;</p> | No | No |
-| < | <p>&lt;button&gt;</p> | No | No |
+- ✅ **A. <p>&lt;form&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;input&gt;</p>
+- ⬜ **C.** <p>&lt;submit&gt;</p>
+- ⬜ **D.** <p>&lt;button&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;form&gt;</p>
 - **Submitted at:** 2026-05-28T08:01:20.872Z

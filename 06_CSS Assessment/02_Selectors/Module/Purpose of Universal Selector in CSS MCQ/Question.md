@@ -1,20 +1,20 @@
 # Purpose of Universal Selector in CSS MCQ
 
+> ✅ Solved
+
 ## Question
 
 Purpose of Universal Selector in CSS MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It selects all elements within a specific class | No | No |
-| I | It selects all elements within a specific ID | No | No |
-| I | It selects all elements within a specific HTML tag | No | No |
-| I | It selects all elements within a specific attribute | No | No |
-| I | It selects all elements | Yes | Yes |
+- ⬜ **A.** It selects all elements within a specific class
+- ⬜ **B.** It selects all elements within a specific ID
+- ⬜ **C.** It selects all elements within a specific HTML tag
+- ⬜ **D.** It selects all elements within a specific attribute
+- ✅ **E. It selects all elements** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** It selects all elements
 - **Submitted at:** 2026-06-03T11:01:44.811Z

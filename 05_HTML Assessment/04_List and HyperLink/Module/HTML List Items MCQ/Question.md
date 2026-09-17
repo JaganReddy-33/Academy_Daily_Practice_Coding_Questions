@@ -1,19 +1,19 @@
 # HTML List Items MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML List Items MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;li&gt;</p> | Yes | Yes |
-| < | <p>&lt;item&gt;</p> | No | No |
-| < | <p>&lt;ol&gt;</p> | No | No |
-| < | <p>&lt;ul&gt;</p> | No | No |
+- ✅ **A. <p>&lt;li&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;item&gt;</p>
+- ⬜ **C.** <p>&lt;ol&gt;</p>
+- ⬜ **D.** <p>&lt;ul&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;li&gt;</p>
 - **Submitted at:** 2026-05-28T07:52:25.084Z

@@ -1,19 +1,19 @@
 # Presentation Layer Synonym MCQ
 
+> ✅ Solved
+
 ## Question
 
 Presentation Layer Synonym MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Backend </p> | No | No |
-| < | <p>Frontend </p> | Yes | Yes |
-| < | <p>Middle </p> | No | No |
-| < | <p>Database </p> | No | No |
+- ⬜ **A.** <p>Backend </p>
+- ✅ **B. <p>Frontend </p>** — Correct answer
+- ⬜ **C.** <p>Middle </p>
+- ⬜ **D.** <p>Database </p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Frontend </p>
 - **Submitted at:** 2026-05-28T07:30:30.314Z

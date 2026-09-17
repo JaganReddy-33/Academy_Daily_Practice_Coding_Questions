@@ -1,17 +1,17 @@
 # ER Diagram Relationship
 
+> ✅ Solved
+
 ## Question
 
 ER Diagram Relationship
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>True</p> | Yes | Yes |
-| < | <p>False</p> | No | No |
+- ✅ **A. <p>True</p>** — Correct answer
+- ⬜ **B.** <p>False</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>True</p>
 - **Submitted at:** 2026-07-27T14:23:55.162Z

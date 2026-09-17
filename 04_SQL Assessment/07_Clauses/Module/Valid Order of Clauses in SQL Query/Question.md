@@ -1,16 +1,16 @@
 # Valid Order of Clauses in SQL Query
 
+> ✅ Solved
+
 ## Question
 
 Valid Order of Clauses in SQL Query
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>can be arranged in any order</p> | No | No |
+- ⬜ **A.** <p>can be arranged in any order</p>
 
-## Result
+## Submission
 
 - **Correct answer:** 64df04df7b291254f2e48a33
 - **Submitted at:** 2026-08-03T05:04:32.842Z

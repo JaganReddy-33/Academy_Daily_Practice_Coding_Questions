@@ -1,19 +1,19 @@
 # Default Values of Thread Priority in Java
 
+> ✅ Solved
+
 ## Question
 
 Default Values of Thread Priority in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 0 | 0 & 256 | No | No |
-| 0 | 0 & 1 | No | No |
-| 1 | 1 & 10 | Yes | Yes |
-| 1 | 1 & 256 | No | No |
+- ⬜ **A.** 0 & 256
+- ⬜ **B.** 0 & 1
+- ✅ **C. 1 & 10** — Correct answer
+- ⬜ **D.** 1 & 256
 
-## Result
+## Submission
 
 - **Correct answer:** 1 & 10
 - **Submitted at:** 2026-07-27T04:45:38.639Z

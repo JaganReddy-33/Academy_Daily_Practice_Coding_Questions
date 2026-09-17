@@ -1,19 +1,19 @@
 # HTML MCQ: Paired HTML Tag
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Paired HTML Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;img&gt;</p> | No | No |
-| < | <p>&lt;br&gt;</p> | No | No |
-| < | <p>&lt;div&gt;</p> | Yes | Yes |
-| < | <p>&lt;hr&gt;</p> | No | No |
+- ⬜ **A.** <p>&lt;img&gt;</p>
+- ⬜ **B.** <p>&lt;br&gt;</p>
+- ✅ **C. <p>&lt;div&gt;</p>** — Correct answer
+- ⬜ **D.** <p>&lt;hr&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;div&gt;</p>
 - **Submitted at:** 2026-05-28T08:15:06.871Z

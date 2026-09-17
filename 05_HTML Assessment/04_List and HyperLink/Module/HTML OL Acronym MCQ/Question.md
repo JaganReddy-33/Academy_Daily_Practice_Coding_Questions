@@ -1,19 +1,19 @@
 # HTML OL Acronym MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML OL Acronym MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | Ordered List | Yes | Yes |
-| O | Open List | No | No |
-| O | Organized List | No | No |
-| O | Outer List | No | No |
+- ✅ **A. Ordered List** — Correct answer
+- ⬜ **B.** Open List
+- ⬜ **C.** Organized List
+- ⬜ **D.** Outer List
 
-## Result
+## Submission
 
 - **Correct answer:** Ordered List
 - **Submitted at:** 2026-05-28T07:51:30.496Z

@@ -1,19 +1,19 @@
 # Determining Employee Experience
 
+> ✅ Solved
+
 ## Question
 
 Determining Employee Experience
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A. Age | No | No |
-| B | B. Name | No | No |
-| C | C. Gender | No | No |
-| D | D. Joining Date | Yes | Yes |
+- ⬜ **A.** A. Age
+- ⬜ **B.** B. Name
+- ⬜ **C.** C. Gender
+- ✅ **D. D. Joining Date** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** D. Joining Date
 - **Submitted at:** 2026-08-06T06:47:43.433Z

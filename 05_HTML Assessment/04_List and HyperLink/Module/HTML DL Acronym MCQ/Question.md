@@ -1,19 +1,19 @@
 # HTML DL Acronym MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML DL Acronym MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| d | description list | Yes | Yes |
-| d | detailed list | No | No |
-| d | defined list | No | No |
-| d | document list | No | No |
+- ✅ **A. description list** — Correct answer
+- ⬜ **B.** detailed list
+- ⬜ **C.** defined list
+- ⬜ **D.** document list
 
-## Result
+## Submission
 
 - **Correct answer:** description list
 - **Submitted at:** 2026-05-28T07:53:01.614Z

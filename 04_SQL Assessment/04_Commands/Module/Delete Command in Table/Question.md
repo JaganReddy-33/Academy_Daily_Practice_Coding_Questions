@@ -1,17 +1,17 @@
 # Delete Command in Table
 
+> ✅ Solved
+
 ## Question
 
 Delete Command in Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Yes</p> | No | No |
-| < | <p>No</p> | Yes | Yes |
+- ⬜ **A.** <p>Yes</p>
+- ✅ **B. <p>No</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>No</p>
 - **Submitted at:** 2026-07-31T06:44:27.587Z

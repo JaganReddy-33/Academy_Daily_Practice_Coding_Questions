@@ -1,18 +1,18 @@
 # Default Constructor in Java
 
+> ✅ Solved
+
 ## Question
 
 Default Constructor in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| N | No argument constructor | Yes | Yes |
-| P | Parameterized constructor | No | No |
-| N | None of the above | No | No |
+- ✅ **A. No argument constructor** — Correct answer
+- ⬜ **B.** Parameterized constructor
+- ⬜ **C.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** No argument constructor
 - **Submitted at:** 2026-06-26T14:10:58.080Z

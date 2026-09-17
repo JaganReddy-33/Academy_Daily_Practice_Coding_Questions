@@ -1,18 +1,18 @@
 # User Presentation Layer MCQ
 
+> ✅ Solved
+
 ## Question
 
 User Presentation Layer MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Data access layer (database)</p> | No | No |
-| < | <p>Presentation layer (Front end)</p> | Yes | Yes |
-| < | <p>network layer</p> | No | No |
+- ⬜ **A.** <p>Data access layer (database)</p>
+- ✅ **B. <p>Presentation layer (Front end)</p>** — Correct answer
+- ⬜ **C.** <p>network layer</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Presentation layer (Front end)</p>
 - **Submitted at:** 2026-05-28T07:29:27.626Z

@@ -1,17 +1,17 @@
 # Multiple Interface Extension in Java
 
+> ✅ Solved
+
 ## Question
 
 Multiple Interface Extension in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | Yes | Yes |
-| F | False | No | No |
+- ✅ **A. True** — Correct answer
+- ⬜ **B.** False
 
-## Result
+## Submission
 
 - **Correct answer:** True
 - **Submitted at:** 2026-07-16T09:16:44.244Z

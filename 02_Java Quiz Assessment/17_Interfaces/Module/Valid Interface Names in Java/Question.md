@@ -1,19 +1,19 @@
 # Valid Interface Names in Java
 
+> ✅ Solved
+
 ## Question
 
 Valid Interface Names in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| M | My_Interface | No | No |
-| I | Interface_123 | No | No |
-| 1 | 123_Interface | Yes | Yes |
-| _ | _Interface | No | No |
+- ⬜ **A.** My_Interface
+- ⬜ **B.** Interface_123
+- ✅ **C. 123_Interface** — Correct answer
+- ⬜ **D.** _Interface
 
-## Result
+## Submission
 
 - **Correct answer:** 123_Interface
 - **Submitted at:** 2026-07-16T09:09:57.010Z

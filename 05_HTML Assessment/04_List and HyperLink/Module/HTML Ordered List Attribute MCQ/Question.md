@@ -1,19 +1,19 @@
 # HTML Ordered List Attribute MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Ordered List Attribute MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| l | list-type | No | No |
-| n | number-style | No | No |
-| t | type | Yes | Yes |
-| o | order-type | No | No |
+- ⬜ **A.** list-type
+- ⬜ **B.** number-style
+- ✅ **C. type** — Correct answer
+- ⬜ **D.** order-type
 
-## Result
+## Submission
 
 - **Correct answer:** type
 - **Submitted at:** 2026-05-28T07:51:53.641Z

@@ -1,19 +1,19 @@
 # HTML Ordered List Type Attribute MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Ordered List Type Attribute MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>1</p> | No | No |
-| < | <p>a</p> | No | No |
-| < | <p>i</p> | No | No |
-| < | <p>circle</p> | Yes | Yes |
+- ⬜ **A.** <p>1</p>
+- ⬜ **B.** <p>a</p>
+- ⬜ **C.** <p>i</p>
+- ✅ **D. <p>circle</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>circle</p>
 - **Submitted at:** 2026-05-28T07:56:15.722Z

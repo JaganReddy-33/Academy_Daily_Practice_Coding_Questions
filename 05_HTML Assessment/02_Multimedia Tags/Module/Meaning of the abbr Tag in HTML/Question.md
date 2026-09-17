@@ -1,19 +1,19 @@
 # Meaning of the <abbr> Tag in HTML
 
+> ✅ Solved
+
 ## Question
 
 Meaning of the <abbr> Tag in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Abbreviation</p> | Yes | Yes |
-| < | <p>Abnormal</p> | No | No |
-| < | <p>Abstract</p> | No | No |
-| < | <p>Abbreviated</p> | No | No |
+- ✅ **A. <p>Abbreviation</p>** — Correct answer
+- ⬜ **B.** <p>Abnormal</p>
+- ⬜ **C.** <p>Abstract</p>
+- ⬜ **D.** <p>Abbreviated</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Abbreviation</p>
 - **Submitted at:** 2026-05-28T07:40:07.056Z

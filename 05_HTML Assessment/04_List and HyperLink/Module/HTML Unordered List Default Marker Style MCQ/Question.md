@@ -1,19 +1,19 @@
 # HTML Unordered List Default Marker Style MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Unordered List Default Marker Style MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Numbers</p> | No | No |
-| < | <p>Letters</p> | No | No |
-| < | <p>Bullets (disc)</p> | Yes | Yes |
-| < | <p>Roman numerals</p> | No | No |
+- ⬜ **A.** <p>Numbers</p>
+- ⬜ **B.** <p>Letters</p>
+- ✅ **C. <p>Bullets (disc)</p>** — Correct answer
+- ⬜ **D.** <p>Roman numerals</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Bullets (disc)</p>
 - **Submitted at:** 2026-05-28T07:56:31.184Z

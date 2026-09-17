@@ -1,19 +1,19 @@
 # Date and Time Data Types
 
+> ✅ Solved
+
 ## Question
 
 Date and Time Data Types
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | DATE | Yes | Yes |
-| T | TIME | No | No |
-| D | DATETIME | No | No |
-| T | TIMESTAMP | No | No |
+- ✅ **A. DATE** — Correct answer
+- ⬜ **B.** TIME
+- ⬜ **C.** DATETIME
+- ⬜ **D.** TIMESTAMP
 
-## Result
+## Submission
 
 - **Correct answer:** DATE
 - **Submitted at:** 2026-07-28T06:26:27.286Z

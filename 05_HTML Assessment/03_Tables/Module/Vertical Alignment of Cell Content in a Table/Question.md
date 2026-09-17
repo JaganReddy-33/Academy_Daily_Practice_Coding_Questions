@@ -1,19 +1,19 @@
 # Vertical Alignment of Cell Content in a Table
 
+> ✅ Solved
+
 ## Question
 
 Vertical Alignment of Cell Content in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| v | vertical-align | No | No |
-| a | align | No | No |
-| v | valign | Yes | Yes |
-| c | content-align | No | No |
+- ⬜ **A.** vertical-align
+- ⬜ **B.** align
+- ✅ **C. valign** — Correct answer
+- ⬜ **D.** content-align
 
-## Result
+## Submission
 
 - **Correct answer:** valign
 - **Submitted at:** 2026-05-28T07:46:19.943Z

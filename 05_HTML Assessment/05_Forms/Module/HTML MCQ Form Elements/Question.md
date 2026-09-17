@@ -1,19 +1,19 @@
 # HTML MCQ: Form Elements
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Form Elements
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| t | text box. | No | No |
-| r | radio button. | No | No |
-| s | submit button. | No | No |
-| A | All of these. | Yes | Yes |
+- ⬜ **A.** text box.
+- ⬜ **B.** radio button.
+- ⬜ **C.** submit button.
+- ✅ **D. All of these.** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All of these.
 - **Submitted at:** 2026-05-28T08:05:09.623Z

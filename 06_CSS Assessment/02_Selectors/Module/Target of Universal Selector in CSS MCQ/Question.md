@@ -1,20 +1,20 @@
 # Target of Universal Selector in CSS MCQ
 
+> ✅ Solved
+
 ## Question
 
 Target of Universal Selector in CSS MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | All elements with a specific class | No | No |
-| A | All elements with a specific ID | No | No |
-| A | All elements within a specific HTML tag | No | No |
-| A | All elements with a specific attribute | No | No |
-| A | All elements | Yes | Yes |
+- ⬜ **A.** All elements with a specific class
+- ⬜ **B.** All elements with a specific ID
+- ⬜ **C.** All elements within a specific HTML tag
+- ⬜ **D.** All elements with a specific attribute
+- ✅ **E. All elements** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All elements
 - **Submitted at:** 2026-06-03T11:02:43.769Z

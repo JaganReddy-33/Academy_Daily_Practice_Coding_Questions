@@ -1,19 +1,19 @@
 # Changing Background Color of Submit Button MCQ
 
+> ✅ Solved
+
 ## Question
 
 Changing Background Color of Submit Button MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Class selector | Yes | Yes |
-| P | Pseudo-class selector | No | No |
-| U | Universal selector | No | No |
-| A | Attribute selector | No | No |
+- ✅ **A. Class selector** — Correct answer
+- ⬜ **B.** Pseudo-class selector
+- ⬜ **C.** Universal selector
+- ⬜ **D.** Attribute selector
 
-## Result
+## Submission
 
 - **Correct answer:** Class selector
 - **Submitted at:** 2026-06-03T11:04:24.407Z

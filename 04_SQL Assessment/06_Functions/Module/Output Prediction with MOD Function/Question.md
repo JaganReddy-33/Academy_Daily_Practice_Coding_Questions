@@ -1,19 +1,19 @@
 # Output Prediction with MOD Function
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction with MOD Function
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>0</p> | Yes | Yes |
-| < | <p>1</p> | No | No |
-| < | <p>2</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ✅ **A. <p>0</p>** — Correct answer
+- ⬜ **B.** <p>1</p>
+- ⬜ **C.** <p>2</p>
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>0</p>
 - **Submitted at:** 2026-08-02T06:26:27.542Z

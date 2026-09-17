@@ -1,19 +1,19 @@
 # Significance of CSS Selectors MCQ
 
+> ✅ Solved
+
 ## Question
 
 Significance of CSS Selectors MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | They enable the creation of dynamic web pages | No | No |
-| T | They determine the layout and structure of web pages | No | No |
-| T | They facilitate the selection and styling of specific HTML elements | Yes | Yes |
-| T | They automate the process of coding HTML | No | No |
+- ⬜ **A.** They enable the creation of dynamic web pages
+- ⬜ **B.** They determine the layout and structure of web pages
+- ✅ **C. They facilitate the selection and styling of specific HTML elements** — Correct answer
+- ⬜ **D.** They automate the process of coding HTML
 
-## Result
+## Submission
 
 - **Correct answer:** They facilitate the selection and styling of specific HTML elements
 - **Submitted at:** 2026-06-03T10:59:15.034Z

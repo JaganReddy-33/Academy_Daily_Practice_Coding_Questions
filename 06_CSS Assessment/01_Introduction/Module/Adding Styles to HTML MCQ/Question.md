@@ -1,19 +1,19 @@
 # Adding Styles to HTML MCQ
 
+> ✅ Solved
+
 ## Question
 
 Adding Styles to HTML MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Using the <code>&lt;style&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p> | Yes | Yes |
-| < | <p>Using the <code>&lt;font&gt;</code> tag within the <code>&lt;body&gt;</code> section.</p> | No | No |
-| < | <p>Using the <code>&lt;link&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p> | No | No |
-| < | <p>Using the <code>&lt;script&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p> | No | No |
+- ✅ **A. <p>Using the <code>&lt;style&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p>** — Correct answer
+- ⬜ **B.** <p>Using the <code>&lt;font&gt;</code> tag within the <code>&lt;body&gt;</code> section.</p>
+- ⬜ **C.** <p>Using the <code>&lt;link&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p>
+- ⬜ **D.** <p>Using the <code>&lt;script&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Using the <code>&lt;style&gt;</code> tag within the <code>&lt;head&gt;</code> section.</p>
 - **Submitted at:** 2026-06-01T17:02:21.075Z

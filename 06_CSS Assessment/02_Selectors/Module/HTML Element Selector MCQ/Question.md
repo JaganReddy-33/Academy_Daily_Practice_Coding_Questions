@@ -1,19 +1,19 @@
 # HTML Element Selector MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Element Selector MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It is a JavaScript function used to select and manipulate HTML elements | No | No |
-| I | It is a CSS rule that defines the style for a specific HTML element | Yes | Yes |
-| I | It is a method used to create new HTML elements | No | No |
-| I | It is an attribute added to HTML elements to make them selectable | No | No |
+- ⬜ **A.** It is a JavaScript function used to select and manipulate HTML elements
+- ✅ **B. It is a CSS rule that defines the style for a specific HTML element** — Correct answer
+- ⬜ **C.** It is a method used to create new HTML elements
+- ⬜ **D.** It is an attribute added to HTML elements to make them selectable
 
-## Result
+## Submission
 
 - **Correct answer:** It is a CSS rule that defines the style for a specific HTML element
 - **Submitted at:** 2026-06-03T11:00:20.369Z

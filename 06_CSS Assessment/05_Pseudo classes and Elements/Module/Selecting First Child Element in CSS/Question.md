@@ -1,19 +1,19 @@
 # Selecting First Child Element in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting First Child Element in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :first-child | Yes | Yes |
-| B | B) :first-element | No | No |
-| C | C) :child-first | No | No |
-| D | D) :first | No | No |
+- ✅ **A. A) :first-child** — Correct answer
+- ⬜ **B.** B) :first-element
+- ⬜ **C.** C) :child-first
+- ⬜ **D.** D) :first
 
-## Result
+## Submission
 
 - **Correct answer:** A) :first-child
 - **Submitted at:** 2026-06-16T13:47:36.915Z

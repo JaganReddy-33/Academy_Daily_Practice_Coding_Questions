@@ -1,19 +1,19 @@
 # Ways to Write CSS MCQ
 
+> ✅ Solved
+
 ## Question
 
 Ways to Write CSS MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | One way | No | No |
-| T | Two ways | No | No |
-| T | Three ways | Yes | Yes |
-| F | Four ways | No | No |
+- ⬜ **A.** One way
+- ⬜ **B.** Two ways
+- ✅ **C. Three ways** — Correct answer
+- ⬜ **D.** Four ways
 
-## Result
+## Submission
 
 - **Correct answer:** Three ways
 - **Submitted at:** 2026-06-01T17:05:15.554Z

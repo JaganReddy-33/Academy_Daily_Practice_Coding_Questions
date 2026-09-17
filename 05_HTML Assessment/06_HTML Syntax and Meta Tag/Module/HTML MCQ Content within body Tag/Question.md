@@ -1,19 +1,19 @@
 # HTML MCQ: Content within <body> Tag
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Content within <body> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>No</p> | No | No |
-| < | <p>Yes, it can contain most HTML elements</p> | Yes | Yes |
-| < | <p>Only if they are inline elements</p> | No | No |
-| < | <p>Only if they are block elements</p> | No | No |
+- ⬜ **A.** <p>No</p>
+- ✅ **B. <p>Yes, it can contain most HTML elements</p>** — Correct answer
+- ⬜ **C.** <p>Only if they are inline elements</p>
+- ⬜ **D.** <p>Only if they are block elements</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Yes, it can contain most HTML elements</p>
 - **Submitted at:** 2026-05-28T08:14:22.957Z

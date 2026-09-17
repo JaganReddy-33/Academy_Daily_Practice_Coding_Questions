@@ -1,19 +1,19 @@
 # Invalid Method Overloading
 
+> ✅ Solved
+
 ## Question
 
 Invalid Method Overloading
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Varying the number of parameters</p> | No | No |
-| < | <p>Varying the order of parameters</p> | No | No |
-| < | <p>Varying the return type</p> | Yes | Yes |
-| < | <p>Varying the data type of the parameter</p> | No | No |
+- ⬜ **A.** <p>Varying the number of parameters</p>
+- ⬜ **B.** <p>Varying the order of parameters</p>
+- ✅ **C. <p>Varying the return type</p>** — Correct answer
+- ⬜ **D.** <p>Varying the data type of the parameter</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Varying the return type</p>
 - **Submitted at:** 2026-06-15T17:07:54.536Z

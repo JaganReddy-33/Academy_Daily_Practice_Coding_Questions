@@ -1,19 +1,19 @@
 # Creating an Instance of an Interface
 
+> ✅ Solved
+
 ## Question
 
 Creating an Instance of an Interface
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| M | MyInterface obj = new MyInterface(); | No | No |
-| M | MyInterface obj = new MyClass(); | Yes | Yes |
-| M | MyInterface obj = MyClass.create(); | No | No |
-| M | MyInterface obj = create MyInterface(); | No | No |
+- ⬜ **A.** MyInterface obj = new MyInterface();
+- ✅ **B. MyInterface obj = new MyClass();** — Correct answer
+- ⬜ **C.** MyInterface obj = MyClass.create();
+- ⬜ **D.** MyInterface obj = create MyInterface();
 
-## Result
+## Submission
 
 - **Correct answer:** MyInterface obj = new MyClass();
 - **Submitted at:** 2026-07-16T09:13:15.469Z

@@ -1,19 +1,19 @@
 # Accessing Static Variables in Java
 
+> ✅ Solved
+
 ## Question
 
 Accessing Static Variables in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| B | By using the class name | Yes | Yes |
-| B | By using the method name | No | No |
-| B | By using the datatype | No | No |
-| N | None of the above | No | No |
+- ✅ **A. By using the class name** — Correct answer
+- ⬜ **B.** By using the method name
+- ⬜ **C.** By using the datatype
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** By using the class name
 - **Submitted at:** 2026-06-26T14:19:53.754Z

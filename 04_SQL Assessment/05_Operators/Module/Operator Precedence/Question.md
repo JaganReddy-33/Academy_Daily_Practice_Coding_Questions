@@ -1,19 +1,19 @@
 # Operator Precedence
 
+> ✅ Solved
+
 ## Question
 
 Operator Precedence
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | Operators with higher precedence are evaluated first. | Yes | Yes |
-| O | Operators with lower precedence are evaluated first. | No | No |
-| O | Operator precedence does not affect the order of evaluation. | No | No |
-| A | All operators have the same precedence in MySQL. | No | No |
+- ✅ **A. Operators with higher precedence are evaluated first.** — Correct answer
+- ⬜ **B.** Operators with lower precedence are evaluated first.
+- ⬜ **C.** Operator precedence does not affect the order of evaluation.
+- ⬜ **D.** All operators have the same precedence in MySQL.
 
-## Result
+## Submission
 
 - **Correct answer:** Operators with higher precedence are evaluated first.
 - **Submitted at:** 2026-08-01T06:44:25.217Z

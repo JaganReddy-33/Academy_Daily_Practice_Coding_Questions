@@ -1,19 +1,19 @@
 # Multiple 'finally' Blocks in Java
 
+> ✅ Solved
+
 ## Question
 
 Multiple 'finally' Blocks in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes, but only one of them will be executed. | No | No |
-| Y | Yes, they will all be executed in the order they are defined. | No | No |
-| N | No, only one 'finally' block is allowed for each 'try' block. | Yes | Yes |
-| N | No, 'finally' blocks are optional and not required in exception handling. | No | No |
+- ⬜ **A.** Yes, but only one of them will be executed.
+- ⬜ **B.** Yes, they will all be executed in the order they are defined.
+- ✅ **C. No, only one 'finally' block is allowed for each 'try' block.** — Correct answer
+- ⬜ **D.** No, 'finally' blocks are optional and not required in exception handling.
 
-## Result
+## Submission
 
 - **Correct answer:** No, only one 'finally' block is allowed for each 'try' block.
 - **Submitted at:** 2026-07-23T04:47:28.926Z

@@ -1,19 +1,19 @@
 # Final Keyword in Java
 
+> ✅ Solved
+
 ## Question
 
 Final Keyword in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | static | No | No |
-| c | const | No | No |
-| f | final | Yes | Yes |
-| i | immutable | No | No |
+- ⬜ **A.** static
+- ⬜ **B.** const
+- ✅ **C. final** — Correct answer
+- ⬜ **D.** immutable
 
-## Result
+## Submission
 
 - **Correct answer:** final
 - **Submitted at:** 2026-07-10T16:33:52.526Z

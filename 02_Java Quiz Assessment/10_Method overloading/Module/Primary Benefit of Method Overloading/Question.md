@@ -1,19 +1,19 @@
 # Primary Benefit of Method Overloading
 
+> ✅ Solved
+
 ## Question
 
 Primary Benefit of Method Overloading
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | Reducing the number of methods in a class. | No | No |
-| A | Allowing methods to have different return types. | No | No |
-| P | Providing different ways to call a method with varying parameters. | Yes | Yes |
-| E | Enabling methods to have different access modifiers. | No | No |
+- ⬜ **A.** Reducing the number of methods in a class.
+- ⬜ **B.** Allowing methods to have different return types.
+- ✅ **C. Providing different ways to call a method with varying parameters.** — Correct answer
+- ⬜ **D.** Enabling methods to have different access modifiers.
 
-## Result
+## Submission
 
 - **Correct answer:** Providing different ways to call a method with varying parameters.
 - **Submitted at:** 2026-06-15T17:12:41.711Z

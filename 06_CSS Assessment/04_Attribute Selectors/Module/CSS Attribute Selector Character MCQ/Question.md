@@ -1,19 +1,19 @@
 # CSS Attribute Selector Character MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Attribute Selector Character MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>^</p> | No | No |
-| < | <p>$</p> | No | No |
-| < | <p>*</p> | Yes | Yes |
-| < | <p>|</p> | No | No |
+- ⬜ **A.** <p>^</p>
+- ⬜ **B.** <p>$</p>
+- ✅ **C. <p>*</p>** — Correct answer
+- ⬜ **D.** <p>|</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>*</p>
 - **Submitted at:** 2026-06-16T13:45:10.855Z

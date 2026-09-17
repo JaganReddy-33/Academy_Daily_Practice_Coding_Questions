@@ -1,17 +1,17 @@
 # Second Normal Form (2NF)
 
+> ✅ Solved
+
 ## Question
 
 Second Normal Form (2NF)
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | No | No |
-| F | False | Yes | Yes |
+- ⬜ **A.** True
+- ✅ **B. False** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** False
 - **Submitted at:** 2026-08-06T06:45:07.617Z

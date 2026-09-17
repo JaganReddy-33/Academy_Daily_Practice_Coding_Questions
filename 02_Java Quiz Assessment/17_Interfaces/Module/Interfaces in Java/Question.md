@@ -1,19 +1,19 @@
 # Interfaces in Java
 
+> ✅ Solved
+
 ## Question
 
 Interfaces in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A class that cannot be instantiated | No | No |
-| A | A blueprint for objects | Yes | Yes |
-| A | A container for static methods | No | No |
-| A | A mechanism for code hiding | No | No |
+- ⬜ **A.** A class that cannot be instantiated
+- ✅ **B. A blueprint for objects** — Correct answer
+- ⬜ **C.** A container for static methods
+- ⬜ **D.** A mechanism for code hiding
 
-## Result
+## Submission
 
 - **Correct answer:** A blueprint for objects
 - **Submitted at:** 2026-07-16T09:04:46.621Z

@@ -1,19 +1,19 @@
 # Difference Between Universal and Element Selectors in CSS MCQ
 
+> ✅ Solved
+
 ## Question
 
 Difference Between Universal and Element Selectors in CSS MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| U | Universal selectors select all elements within a specific HTML tag, while element selectors select specific HTML elements. | No | No |
-| U | Universal selectors select specific HTML elements based on their attributes, while element selectors select all elements within an HTML document. | No | No |
-| U | Universal selectors and element selectors are the same and can be used interchangeably. | No | No |
-| U | Universal selectors select all elements within an HTML document, while element selectors select specific HTML elements. | Yes | Yes |
+- ⬜ **A.** Universal selectors select all elements within a specific HTML tag, while element selectors select specific HTML elements.
+- ⬜ **B.** Universal selectors select specific HTML elements based on their attributes, while element selectors select all elements within an HTML document.
+- ⬜ **C.** Universal selectors and element selectors are the same and can be used interchangeably.
+- ✅ **D. Universal selectors select all elements within an HTML document, while element selectors select specific HTML elements.** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Universal selectors select all elements within an HTML document, while element selectors select specific HTML elements.
 - **Submitted at:** 2026-06-03T11:03:06.273Z

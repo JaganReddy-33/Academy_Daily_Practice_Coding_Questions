@@ -1,19 +1,19 @@
 # SUBSTR() Function
 
+> ✅ Solved
+
 ## Question
 
 SUBSTR() Function
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>The SUBSTR() function is used to convert a string to lowercase.</p> | No | No |
-| < | <p>The SUBSTR() function can only be used with numeric values.</p> | No | No |
-| < | <p>The SUBSTR() function supports both single-byte and multi-byte character sets.</p> | Yes | Yes |
-| < | <p>The SUBSTR() function returns the length of a string.</p> | No | No |
+- ⬜ **A.** <p>The SUBSTR() function is used to convert a string to lowercase.</p>
+- ⬜ **B.** <p>The SUBSTR() function can only be used with numeric values.</p>
+- ✅ **C. <p>The SUBSTR() function supports both single-byte and multi-byte character sets.</p>** — Correct answer
+- ⬜ **D.** <p>The SUBSTR() function returns the length of a string.</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>The SUBSTR() function supports both single-byte and multi-byte character sets.</p>
 - **Submitted at:** 2026-08-02T06:31:02.451Z

@@ -1,17 +1,17 @@
 # Normalization and Reducing Redundancy
 
+> ✅ Solved
+
 ## Question
 
 Normalization and Reducing Redundancy
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | Yes | Yes |
-| F | False | No | No |
+- ✅ **A. True** — Correct answer
+- ⬜ **B.** False
 
-## Result
+## Submission
 
 - **Correct answer:** True
 - **Submitted at:** 2026-08-06T06:44:42.534Z

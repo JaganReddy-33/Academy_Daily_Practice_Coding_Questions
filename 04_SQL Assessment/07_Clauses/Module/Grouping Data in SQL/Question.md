@@ -1,19 +1,19 @@
 # Grouping Data in SQL
 
+> ✅ Solved
+
 ## Question
 
 Grouping Data in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Order by</p> | No | No |
-| < | <p>Having</p> | No | No |
-| < | <p>Update</p> | No | No |
-| < | <p>None of the above</p> | Yes | Yes |
+- ⬜ **A.** <p>Order by</p>
+- ⬜ **B.** <p>Having</p>
+- ⬜ **C.** <p>Update</p>
+- ✅ **D. <p>None of the above</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>None of the above</p>
 - **Submitted at:** 2026-08-03T05:01:18.152Z

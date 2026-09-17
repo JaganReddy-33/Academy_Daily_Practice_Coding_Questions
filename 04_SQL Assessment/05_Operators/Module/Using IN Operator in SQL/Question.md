@@ -1,18 +1,18 @@
 # Using IN Operator in SQL
 
+> ✅ Solved
+
 ## Question
 
 Using IN Operator in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>ANY</p> | No | No |
-| < | <p>IN</p> | Yes | Yes |
-| < | <p>ALL</p> | No | No |
+- ⬜ **A.** <p>ANY</p>
+- ✅ **B. <p>IN</p>** — Correct answer
+- ⬜ **C.** <p>ALL</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>IN</p>
 - **Submitted at:** 2026-08-01T06:38:32.588Z

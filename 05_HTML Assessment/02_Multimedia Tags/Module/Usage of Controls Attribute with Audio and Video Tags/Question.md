@@ -1,19 +1,19 @@
 # Usage of Controls Attribute with Audio and Video Tags
 
+> ✅ Solved
+
 ## Question
 
 Usage of Controls Attribute with Audio and Video Tags
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
-| O | Only with audio tags | No | No |
-| O | Only with video tags | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
+- ⬜ **C.** Only with audio tags
+- ⬜ **D.** Only with video tags
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-05-28T07:36:22.417Z

@@ -1,19 +1,19 @@
 # Relationship Representation
 
+> ✅ Solved
+
 ## Question
 
 Relationship Representation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | Rectangular | No | No |
-| D | Diamond | Yes | Yes |
-| E | Ellipse | No | No |
-| L | Line | No | No |
+- ⬜ **A.** Rectangular
+- ✅ **B. Diamond** — Correct answer
+- ⬜ **C.** Ellipse
+- ⬜ **D.** Line
 
-## Result
+## Submission
 
 - **Correct answer:** Diamond
 - **Submitted at:** 2026-07-27T14:28:28.017Z

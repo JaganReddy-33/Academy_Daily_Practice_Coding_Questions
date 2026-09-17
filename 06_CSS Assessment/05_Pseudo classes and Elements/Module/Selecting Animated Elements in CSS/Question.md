@@ -1,19 +1,19 @@
 # Selecting Animated Elements in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Animated Elements in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :animate | No | No |
-| B | B) :transition | No | No |
-| C | C) :animated | Yes | Yes |
-| D | D) :active | No | No |
+- ⬜ **A.** A) :animate
+- ⬜ **B.** B) :transition
+- ✅ **C. C) :animated** — Correct answer
+- ⬜ **D.** D) :active
 
-## Result
+## Submission
 
 - **Correct answer:** C) :animated
 - **Submitted at:** 2026-06-16T13:48:33.106Z

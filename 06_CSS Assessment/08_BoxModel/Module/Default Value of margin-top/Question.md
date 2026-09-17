@@ -1,19 +1,19 @@
 # Default Value of 'margin-top'
 
+> ✅ Solved
+
 ## Question
 
 Default Value of 'margin-top'
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| 0 | 0 | Yes | Yes |
-| 1 | 1px | No | No |
-| A | Auto | No | No |
-| I | Inherit | No | No |
+- ✅ **A. 0** — Correct answer
+- ⬜ **B.** 1px
+- ⬜ **C.** Auto
+- ⬜ **D.** Inherit
 
-## Result
+## Submission
 
 - **Correct answer:** 0
 - **Submitted at:** 2026-06-16T14:18:28.185Z

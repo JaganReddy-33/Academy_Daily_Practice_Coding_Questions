@@ -1,19 +1,19 @@
 # Inline CSS in HTML MCQ
 
+> ✅ Solved
+
 ## Question
 
 Inline CSS in HTML MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| W | Within the <head> section | No | No |
-| W | Within the <body> section | No | No |
-| D | Directly in the HTML element | Yes | Yes |
-| I | In an external CSS file | No | No |
+- ⬜ **A.** Within the <head> section
+- ⬜ **B.** Within the <body> section
+- ✅ **C. Directly in the HTML element** — Correct answer
+- ⬜ **D.** In an external CSS file
 
-## Result
+## Submission
 
 - **Correct answer:** Directly in the HTML element
 - **Submitted at:** 2026-06-01T17:02:33.106Z

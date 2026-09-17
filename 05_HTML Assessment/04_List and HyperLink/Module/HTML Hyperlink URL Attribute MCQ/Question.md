@@ -1,19 +1,19 @@
 # HTML Hyperlink URL Attribute MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Hyperlink URL Attribute MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>url</p> | No | No |
-| < | <p>href</p> | Yes | Yes |
-| < | <p>src</p> | No | No |
-| < | <p>link</p> | No | No |
+- ⬜ **A.** <p>url</p>
+- ✅ **B. <p>href</p>** — Correct answer
+- ⬜ **C.** <p>src</p>
+- ⬜ **D.** <p>link</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>href</p>
 - **Submitted at:** 2026-05-28T07:59:46.782Z

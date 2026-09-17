@@ -1,19 +1,19 @@
 # Private Methods in Interfaces
 
+> ✅ Solved
+
 ## Question
 
 Private Methods in Interfaces
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
-| Y | Yes, but only if it has no abstract methods | No | No |
-| Y | Yes, but only if it has default methods | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
+- ⬜ **C.** Yes, but only if it has no abstract methods
+- ⬜ **D.** Yes, but only if it has default methods
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-07-16T09:17:01.720Z

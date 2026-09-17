@@ -1,18 +1,18 @@
 # Updating Data in an Existing Table
 
+> ✅ Solved
+
 ## Question
 
 Updating Data in an Existing Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>SAVE</p> | No | No |
-| < | <p>MODIFY</p> | No | No |
-| < | <p>SAVE AS</p> | No | No |
+- ⬜ **A.** <p>SAVE</p>
+- ⬜ **B.** <p>MODIFY</p>
+- ⬜ **C.** <p>SAVE AS</p>
 
-## Result
+## Submission
 
 - **Correct answer:** 64c8dc10eb18db04fec8aee8
 - **Submitted at:** 2026-07-31T06:41:43.821Z

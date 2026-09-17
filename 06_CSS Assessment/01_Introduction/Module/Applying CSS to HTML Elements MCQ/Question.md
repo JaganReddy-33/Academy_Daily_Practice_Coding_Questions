@@ -1,19 +1,19 @@
 # Applying CSS to HTML Elements MCQ
 
+> ✅ Solved
+
 ## Question
 
 Applying CSS to HTML Elements MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| B | By using external CSS files | Yes | Yes |
-| B | By using inline CSS | No | No |
-| B | By using internal CSS | No | No |
-| B | By using JavaScript | No | No |
+- ✅ **A. By using external CSS files** — Correct answer
+- ⬜ **B.** By using inline CSS
+- ⬜ **C.** By using internal CSS
+- ⬜ **D.** By using JavaScript
 
-## Result
+## Submission
 
 - **Correct answer:** By using external CSS files
 - **Submitted at:** 2026-06-01T17:07:17.377Z

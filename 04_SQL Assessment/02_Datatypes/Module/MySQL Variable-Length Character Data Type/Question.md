@@ -1,19 +1,19 @@
 # MySQL Variable-Length Character Data Type
 
+> ✅ Solved
+
 ## Question
 
 MySQL Variable-Length Character Data Type
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | INT | No | No |
-| F | FLOAT | No | No |
-| V | VARCHAR | Yes | Yes |
-| C | CHAR | No | No |
+- ⬜ **A.** INT
+- ⬜ **B.** FLOAT
+- ✅ **C. VARCHAR** — Correct answer
+- ⬜ **D.** CHAR
 
-## Result
+## Submission
 
 - **Correct answer:** VARCHAR
 - **Submitted at:** 2026-07-28T06:23:45.833Z

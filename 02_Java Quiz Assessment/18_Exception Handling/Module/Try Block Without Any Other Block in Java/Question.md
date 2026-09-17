@@ -1,17 +1,17 @@
 # Try Block Without Any Other Block in Java
 
+> ✅ Solved
+
 ## Question
 
 Try Block Without Any Other Block in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-07-23T04:50:13.369Z

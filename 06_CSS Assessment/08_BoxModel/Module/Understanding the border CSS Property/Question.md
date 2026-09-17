@@ -1,19 +1,19 @@
 # Understanding the 'border' CSS Property
 
+> ✅ Solved
+
 ## Question
 
 Understanding the 'border' CSS Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| B | Bottom border of an element | No | No |
-| T | Top border of an element | No | No |
-| A | All four borders of an element | Yes | Yes |
-| L | Left border of an element | No | No |
+- ⬜ **A.** Bottom border of an element
+- ⬜ **B.** Top border of an element
+- ✅ **C. All four borders of an element** — Correct answer
+- ⬜ **D.** Left border of an element
 
-## Result
+## Submission
 
 - **Correct answer:** All four borders of an element
 - **Submitted at:** 2026-06-16T14:23:43.731Z

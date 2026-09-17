@@ -1,19 +1,19 @@
 # HTML MCQ: Defining Placeholder Text
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Defining Placeholder Text
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | placeholder | Yes | Yes |
-| h | hint | No | No |
-| t | text-holder | No | No |
-| i | input-placeholder | No | No |
+- ✅ **A. placeholder** — Correct answer
+- ⬜ **B.** hint
+- ⬜ **C.** text-holder
+- ⬜ **D.** input-placeholder
 
-## Result
+## Submission
 
 - **Correct answer:** placeholder
 - **Submitted at:** 2026-05-28T08:09:46.986Z

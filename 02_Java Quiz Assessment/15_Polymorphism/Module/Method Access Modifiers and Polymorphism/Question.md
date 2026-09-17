@@ -1,19 +1,19 @@
 # Method Access Modifiers and Polymorphism
 
+> ✅ Solved
+
 ## Question
 
 Method Access Modifiers and Polymorphism
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Compilation error</p> | Yes | Yes |
-| < | <p>Runtime error</p> | No | No |
-| < | <p>1</p> | No | No |
-| < | <p>6</p> | No | No |
+- ✅ **A. <p>Compilation error</p>** — Correct answer
+- ⬜ **B.** <p>Runtime error</p>
+- ⬜ **C.** <p>1</p>
+- ⬜ **D.** <p>6</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Compilation error</p>
 - **Submitted at:** 2026-07-07T16:41:37.284Z

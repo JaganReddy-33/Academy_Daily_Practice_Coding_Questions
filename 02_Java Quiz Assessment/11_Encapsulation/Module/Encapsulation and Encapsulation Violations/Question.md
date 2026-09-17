@@ -1,19 +1,19 @@
 # Encapsulation and Encapsulation Violations
 
+> ✅ Solved
+
 ## Question
 
 Encapsulation and Encapsulation Violations
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | Directly accessing and modifying a class's private data members. | Yes | Yes |
-| U | Using appropriate access modifiers to control access to class members. | No | No |
-| D | Defining public methods to provide controlled access to private data members. | No | No |
-| U | Using inheritance to extend the functionality of a class. | No | No |
+- ✅ **A. Directly accessing and modifying a class's private data members.** — Correct answer
+- ⬜ **B.** Using appropriate access modifiers to control access to class members.
+- ⬜ **C.** Defining public methods to provide controlled access to private data members.
+- ⬜ **D.** Using inheritance to extend the functionality of a class.
 
-## Result
+## Submission
 
 - **Correct answer:** Directly accessing and modifying a class's private data members.
 - **Submitted at:** 2026-06-25T05:24:41.879Z

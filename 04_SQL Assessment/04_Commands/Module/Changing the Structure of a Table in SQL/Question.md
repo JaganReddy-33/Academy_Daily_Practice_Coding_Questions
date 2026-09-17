@@ -1,19 +1,19 @@
 # Changing the Structure of a Table in SQL
 
+> ✅ Solved
+
 ## Question
 
 Changing the Structure of a Table in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Revoke</p> | No | No |
-| < | <p>Set</p> | No | No |
-| < | <p>Create</p> | No | No |
-| < | <p>Alter</p> | Yes | Yes |
+- ⬜ **A.** <p>Revoke</p>
+- ⬜ **B.** <p>Set</p>
+- ⬜ **C.** <p>Create</p>
+- ✅ **D. <p>Alter</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Alter</p>
 - **Submitted at:** 2026-07-31T06:23:07.063Z

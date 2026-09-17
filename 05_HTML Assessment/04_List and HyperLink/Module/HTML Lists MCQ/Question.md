@@ -1,19 +1,19 @@
 # HTML Lists MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Lists MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;ul&gt;</p> | Yes | Yes |
-| < | <p>&lt;ol&gt;</p> | No | No |
-| < | <p>&lt;li&gt;</p> | No | No |
-| < | <p>&lt;dl&gt;</p> | No | No |
+- ✅ **A. <p>&lt;ul&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;ol&gt;</p>
+- ⬜ **C.** <p>&lt;li&gt;</p>
+- ⬜ **D.** <p>&lt;dl&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;ul&gt;</p>
 - **Submitted at:** 2026-05-28T07:52:04.974Z

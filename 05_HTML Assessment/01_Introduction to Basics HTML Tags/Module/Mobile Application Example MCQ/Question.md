@@ -1,19 +1,19 @@
 # Mobile Application Example MCQ
 
+> ✅ Solved
+
 ## Question
 
 Mobile Application Example MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Eclipse</p> | No | No |
-| < | <p>MySQL Workbench</p> | No | No |
-| < | <p>VS Code</p> | No | No |
-| < | <p>Google Play Store</p> | Yes | Yes |
+- ⬜ **A.** <p>Eclipse</p>
+- ⬜ **B.** <p>MySQL Workbench</p>
+- ⬜ **C.** <p>VS Code</p>
+- ✅ **D. <p>Google Play Store</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Google Play Store</p>
 - **Submitted at:** 2026-05-28T07:31:13.302Z

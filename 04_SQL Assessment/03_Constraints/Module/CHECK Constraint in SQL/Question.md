@@ -1,17 +1,17 @@
 # CHECK Constraint in SQL
 
+> ✅ Solved
+
 ## Question
 
 CHECK Constraint in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-07-29T10:23:38.549Z

@@ -1,19 +1,19 @@
 # Web Application Example MCQ
 
+> ✅ Solved
+
 ## Question
 
 Web Application Example MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Microsoft Excel</p> | No | No |
-| < | <p>Amazon</p> | Yes | Yes |
-| < | <p>Command Prompt</p> | No | No |
-| < | <p>Notepad</p> | No | No |
+- ⬜ **A.** <p>Microsoft Excel</p>
+- ✅ **B. <p>Amazon</p>** — Correct answer
+- ⬜ **C.** <p>Command Prompt</p>
+- ⬜ **D.** <p>Notepad</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Amazon</p>
 - **Submitted at:** 2026-05-28T07:32:26.690Z

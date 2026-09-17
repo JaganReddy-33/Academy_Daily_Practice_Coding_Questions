@@ -1,19 +1,19 @@
 # Merging Columns in a Table
 
+> ✅ Solved
+
 ## Question
 
 Merging Columns in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | span | No | No |
-| c | colspan | Yes | Yes |
-| m | merge | No | No |
-| r | rowspan | No | No |
+- ⬜ **A.** span
+- ✅ **B. colspan** — Correct answer
+- ⬜ **C.** merge
+- ⬜ **D.** rowspan
 
-## Result
+## Submission
 
 - **Correct answer:** colspan
 - **Submitted at:** 2026-05-28T07:44:10.120Z

@@ -1,19 +1,19 @@
 # Adapting Web Content MCQ
 
+> ✅ Solved
+
 ## Question
 
 Adapting Web Content MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | Responsive Design | Yes | Yes |
-| D | Dynamic Styling | No | No |
-| A | Adaptive Markup | No | No |
-| M | Mobile Optimization | No | No |
+- ✅ **A. Responsive Design** — Correct answer
+- ⬜ **B.** Dynamic Styling
+- ⬜ **C.** Adaptive Markup
+- ⬜ **D.** Mobile Optimization
 
-## Result
+## Submission
 
 - **Correct answer:** Responsive Design
 - **Submitted at:** 2026-05-28T07:34:11.784Z

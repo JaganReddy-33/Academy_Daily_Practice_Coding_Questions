@@ -1,19 +1,19 @@
 # HTML MCQ: Placement of <html> Tag
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Placement of <html> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | At the end of the document | No | No |
-| W | Within the <head> section | No | No |
-| A | After the <body> tag | No | No |
-| A | At the beginning of the document | Yes | Yes |
+- ⬜ **A.** At the end of the document
+- ⬜ **B.** Within the <head> section
+- ⬜ **C.** After the <body> tag
+- ✅ **D. At the beginning of the document** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** At the beginning of the document
 - **Submitted at:** 2026-05-28T08:10:51.087Z

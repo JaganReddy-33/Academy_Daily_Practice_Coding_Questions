@@ -1,17 +1,17 @@
 # Static and Instance Members in Java
 
+> ✅ Solved
+
 ## Question
 
 Static and Instance Members in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-06-26T14:17:50.705Z

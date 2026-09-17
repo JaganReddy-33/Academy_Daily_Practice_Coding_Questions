@@ -1,19 +1,19 @@
 # Separator for Multiple Selectors in Group Selector MCQ
 
+> ✅ Solved
+
 ## Question
 
 Separator for Multiple Selectors in Group Selector MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Period (.) | No | No |
-| C | Comma (,) | Yes | Yes |
-| H | Hash (#) | No | No |
-| A | Asterisk (*) | No | No |
+- ⬜ **A.** Period (.)
+- ✅ **B. Comma (,)** — Correct answer
+- ⬜ **C.** Hash (#)
+- ⬜ **D.** Asterisk (*)
 
-## Result
+## Submission
 
 - **Correct answer:** Comma (,)
 - **Submitted at:** 2026-06-03T11:04:57.885Z

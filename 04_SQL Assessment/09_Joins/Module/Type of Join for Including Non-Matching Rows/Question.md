@@ -1,19 +1,19 @@
 # Type of Join for Including Non-Matching Rows
 
+> ✅ Solved
+
 ## Question
 
 Type of Join for Including Non-Matching Rows
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| E | Equi-join | No | No |
-| N | Natural join | No | No |
-| O | Outer join | Yes | Yes |
-| A | All of the above | No | No |
+- ⬜ **A.** Equi-join
+- ⬜ **B.** Natural join
+- ✅ **C. Outer join** — Correct answer
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Outer join
 - **Submitted at:** 2026-08-05T04:11:03.512Z

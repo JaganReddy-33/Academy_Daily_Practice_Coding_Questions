@@ -1,19 +1,19 @@
 # Encapsulation and Mutator (Setter) Methods
 
+> ✅ Solved
+
 ## Question
 
 Encapsulation and Mutator (Setter) Methods
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To retrieve the value of an instance variable. | No | No |
-| T | To encapsulate the data and provide controlled access to it. | Yes | Yes |
-| T | To hide the instance variables from other classes. | No | No |
-| T | To define the behaviour of an object. | No | No |
+- ⬜ **A.** To retrieve the value of an instance variable.
+- ✅ **B. To encapsulate the data and provide controlled access to it.** — Correct answer
+- ⬜ **C.** To hide the instance variables from other classes.
+- ⬜ **D.** To define the behaviour of an object.
 
-## Result
+## Submission
 
 - **Correct answer:** To encapsulate the data and provide controlled access to it.
 - **Submitted at:** 2026-06-25T05:28:11.811Z

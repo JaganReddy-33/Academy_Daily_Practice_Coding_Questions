@@ -1,19 +1,19 @@
 # Desktop Application Example MCQ
 
+> ✅ Solved
+
 ## Question
 
 Desktop Application Example MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>WhatsApp</p> | No | No |
-| < | <p>VS Code</p> | Yes | Yes |
-| < | <p>YouTube</p> | No | No |
-| < | <p>Snapchat</p> | No | No |
+- ⬜ **A.** <p>WhatsApp</p>
+- ✅ **B. <p>VS Code</p>** — Correct answer
+- ⬜ **C.** <p>YouTube</p>
+- ⬜ **D.** <p>Snapchat</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>VS Code</p>
 - **Submitted at:** 2026-05-28T07:31:39.263Z

@@ -1,19 +1,19 @@
 # HTML MCQ: Defining Document Title
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Defining Document Title
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;title&gt;</p> | Yes | Yes |
-| < | <p>&lt;meta&gt;</p> | No | No |
-| < | <p>&lt;head&gt;</p> | No | No |
-| < | <p>&lt;header&gt;</p> | No | No |
+- ✅ **A. <p>&lt;title&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;meta&gt;</p>
+- ⬜ **C.** <p>&lt;head&gt;</p>
+- ⬜ **D.** <p>&lt;header&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;title&gt;</p>
 - **Submitted at:** 2026-05-28T08:12:22.358Z

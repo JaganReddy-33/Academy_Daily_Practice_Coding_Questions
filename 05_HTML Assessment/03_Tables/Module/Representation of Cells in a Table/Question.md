@@ -1,19 +1,19 @@
 # Representation of Cells in a Table
 
+> ✅ Solved
+
 ## Question
 
 Representation of Cells in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;tr&gt;</p> | No | No |
-| < | <p>&lt;td&gt;</p> | Yes | Yes |
-| < | <p>&lt;th&gt;</p> | No | No |
-| < | <p>&lt;table&gt;</p> | No | No |
+- ⬜ **A.** <p>&lt;tr&gt;</p>
+- ✅ **B. <p>&lt;td&gt;</p>** — Correct answer
+- ⬜ **C.** <p>&lt;th&gt;</p>
+- ⬜ **D.** <p>&lt;table&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;td&gt;</p>
 - **Submitted at:** 2026-05-28T07:49:50.370Z

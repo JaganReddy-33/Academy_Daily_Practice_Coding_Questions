@@ -1,19 +1,19 @@
 # Floating-Point Data Type
 
+> ✅ Solved
+
 ## Question
 
 Floating-Point Data Type
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | INT | No | No |
-| F | FLOAT | Yes | Yes |
-| C | CHAR | No | No |
-| V | VARCHAR | No | No |
+- ⬜ **A.** INT
+- ✅ **B. FLOAT** — Correct answer
+- ⬜ **C.** CHAR
+- ⬜ **D.** VARCHAR
 
-## Result
+## Submission
 
 - **Correct answer:** FLOAT
 - **Submitted at:** 2026-07-28T06:29:35.485Z

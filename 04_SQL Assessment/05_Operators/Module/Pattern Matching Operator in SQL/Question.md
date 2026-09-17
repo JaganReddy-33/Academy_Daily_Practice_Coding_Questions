@@ -1,19 +1,19 @@
 # Pattern Matching Operator in SQL
 
+> ✅ Solved
+
 ## Question
 
 Pattern Matching Operator in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| B | BETWEEN operator | No | No |
-| L | LIKE operator | Yes | Yes |
-| E | EXISTS operator | No | No |
-| N | None of these | No | No |
+- ⬜ **A.** BETWEEN operator
+- ✅ **B. LIKE operator** — Correct answer
+- ⬜ **C.** EXISTS operator
+- ⬜ **D.** None of these
 
-## Result
+## Submission
 
 - **Correct answer:** LIKE operator
 - **Submitted at:** 2026-08-01T06:43:49.819Z

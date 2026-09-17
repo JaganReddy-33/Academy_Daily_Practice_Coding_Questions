@@ -1,19 +1,19 @@
 # Selecting Last Child Element with Specific ID in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Last Child Element with Specific ID in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) #id:last-child | Yes | Yes |
-| B | B) :last-child#id | No | No |
-| C | C) #id:last | No | No |
-| D | D) #id:last-of-type | No | No |
+- ✅ **A. A) #id:last-child** — Correct answer
+- ⬜ **B.** B) :last-child#id
+- ⬜ **C.** C) #id:last
+- ⬜ **D.** D) #id:last-of-type
 
-## Result
+## Submission
 
 - **Correct answer:** A) #id:last-child
 - **Submitted at:** 2026-06-16T13:52:17.441Z

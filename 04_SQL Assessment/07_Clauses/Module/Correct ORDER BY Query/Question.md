@@ -1,18 +1,18 @@
 # Correct ORDER BY Query
 
+> ✅ Solved
+
 ## Question
 
 Correct ORDER BY Query
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>SELECT * FROM Table_name Order By Column_name;</p> | No | No |
-| < | <p>SELECT * FROM Table_name Order By Column_name DESC;</p> | No | No |
-| < | <p>SELECT * FROM Table_name Order By Column_name ascending;</p> | Yes | Yes |
+- ⬜ **A.** <p>SELECT * FROM Table_name Order By Column_name;</p>
+- ⬜ **B.** <p>SELECT * FROM Table_name Order By Column_name DESC;</p>
+- ✅ **C. <p>SELECT * FROM Table_name Order By Column_name ascending;</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>SELECT * FROM Table_name Order By Column_name ascending;</p>
 - **Submitted at:** 2026-08-03T05:03:49.141Z

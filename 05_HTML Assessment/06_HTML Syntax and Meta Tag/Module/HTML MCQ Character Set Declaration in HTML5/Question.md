@@ -1,19 +1,19 @@
 # HTML MCQ: Character Set Declaration in HTML5
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Character Set Declaration in HTML5
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;meta charset="utf-8"&gt;</p> | Yes | Yes |
-| < | <p>&lt;meta CHARSET="UTF-8"&gt;</p> | No | No |
-| < | <p>&lt;meta character-set="UTF-8"&gt;</p> | No | No |
-| < | <p>&lt;meta char="UTF-8"&gt;</p> | No | No |
+- ✅ **A. <p>&lt;meta charset="utf-8"&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;meta CHARSET="UTF-8"&gt;</p>
+- ⬜ **C.** <p>&lt;meta character-set="UTF-8"&gt;</p>
+- ⬜ **D.** <p>&lt;meta char="UTF-8"&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;meta charset="utf-8"&gt;</p>
 - **Submitted at:** 2026-05-28T08:13:59.346Z

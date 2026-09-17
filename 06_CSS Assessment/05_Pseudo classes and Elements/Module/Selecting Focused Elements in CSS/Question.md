@@ -1,19 +1,19 @@
 # Selecting Focused Elements in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Focused Elements in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :focus | Yes | Yes |
-| B | B) :active | No | No |
-| C | C) :selected | No | No |
-| D | D) :hover | No | No |
+- ✅ **A. A) :focus** — Correct answer
+- ⬜ **B.** B) :active
+- ⬜ **C.** C) :selected
+- ⬜ **D.** D) :hover
 
-## Result
+## Submission
 
 - **Correct answer:** A) :focus
 - **Submitted at:** 2026-06-16T13:50:00.394Z

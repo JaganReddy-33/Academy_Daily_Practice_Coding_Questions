@@ -1,19 +1,19 @@
 # Final Class Implementing Interface
 
+> ✅ Solved
+
 ## Question
 
 Final Class Implementing Interface
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No, it will result in a compile-time error | No | No |
-| N | No, it will result in a runtime error | No | No |
-| O | Only if the interface has default methods | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No, it will result in a compile-time error
+- ⬜ **C.** No, it will result in a runtime error
+- ⬜ **D.** Only if the interface has default methods
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-07-16T09:10:30.057Z

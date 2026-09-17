@@ -1,19 +1,19 @@
 # Entity Property
 
+> ✅ Solved
+
 ## Question
 
 Entity Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>attribute</p> | Yes | Yes |
-| < | <p>weak entity</p> | No | No |
-| < | <p>strong entity</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ✅ **A. <p>attribute</p>** — Correct answer
+- ⬜ **B.** <p>weak entity</p>
+- ⬜ **C.** <p>strong entity</p>
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>attribute</p>
 - **Submitted at:** 2026-07-27T14:27:30.200Z

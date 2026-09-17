@@ -1,19 +1,19 @@
 # HTML tag is used to embed a video into a web page
 
+> ✅ Solved
+
 ## Question
 
 HTML tag is used to embed a video into a web page
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;media&gt;</p> | No | No |
-| < | <p>&lt;video&gt;</p> | Yes | Yes |
-| < | <p>&lt;embed&gt;</p> | No | No |
-| < | <p>&lt;iframe&gt;</p> | No | No |
+- ⬜ **A.** <p>&lt;media&gt;</p>
+- ✅ **B. <p>&lt;video&gt;</p>** — Correct answer
+- ⬜ **C.** <p>&lt;embed&gt;</p>
+- ⬜ **D.** <p>&lt;iframe&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;video&gt;</p>
 - **Submitted at:** 2026-05-28T07:39:38.797Z

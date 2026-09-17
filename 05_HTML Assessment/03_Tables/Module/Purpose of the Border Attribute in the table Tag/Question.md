@@ -1,19 +1,19 @@
 # Purpose of the Border Attribute in the <table> Tag
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the Border Attribute in the <table> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>To specify the border width of the table</p> | No | No |
-| < | <p>To display a border around the table</p> | Yes | Yes |
-| < | <p>To set the border color of the table</p> | No | No |
-| < | <p>To control the spacing between cells</p> | No | No |
+- ⬜ **A.** <p>To specify the border width of the table</p>
+- ✅ **B. <p>To display a border around the table</p>** — Correct answer
+- ⬜ **C.** <p>To set the border color of the table</p>
+- ⬜ **D.** <p>To control the spacing between cells</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>To display a border around the table</p>
 - **Submitted at:** 2026-05-28T07:44:52.693Z

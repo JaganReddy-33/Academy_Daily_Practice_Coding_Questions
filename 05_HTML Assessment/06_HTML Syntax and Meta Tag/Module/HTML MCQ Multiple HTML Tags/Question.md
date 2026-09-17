@@ -1,17 +1,17 @@
 # HTML MCQ: Multiple HTML Tags
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Multiple HTML Tags
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-05-28T08:10:06.978Z

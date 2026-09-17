@@ -1,19 +1,19 @@
 # Combining Joins in SQL
 
+> ✅ Solved
+
 ## Question
 
 Combining Joins in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Right Join</p> | No | No |
-| < | <p>Left Join</p> | No | No |
-| < | <p>Full Outer Join</p> | Yes | Yes |
-| < | <p>All of the above</p> | No | No |
+- ⬜ **A.** <p>Right Join</p>
+- ⬜ **B.** <p>Left Join</p>
+- ✅ **C. <p>Full Outer Join</p>** — Correct answer
+- ⬜ **D.** <p>All of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Full Outer Join</p>
 - **Submitted at:** 2026-08-05T04:16:16.148Z

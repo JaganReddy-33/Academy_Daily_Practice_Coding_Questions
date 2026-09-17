@@ -1,19 +1,19 @@
 # Purpose of the :not() Pseudo-class in CSS
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the :not() Pseudo-class in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) Selects elements based on their content | No | No |
-| B | B) Excludes elements from the selection | Yes | Yes |
-| C | C) Targets specific elements | No | No |
-| D | D) Styles elements with a specific class | No | No |
+- ⬜ **A.** A) Selects elements based on their content
+- ✅ **B. B) Excludes elements from the selection** — Correct answer
+- ⬜ **C.** C) Targets specific elements
+- ⬜ **D.** D) Styles elements with a specific class
 
-## Result
+## Submission
 
 - **Correct answer:** B) Excludes elements from the selection
 - **Submitted at:** 2026-06-16T13:48:01.367Z

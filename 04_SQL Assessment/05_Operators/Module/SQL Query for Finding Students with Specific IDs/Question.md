@@ -1,19 +1,19 @@
 # SQL Query for Finding Students with Specific IDs
 
+> ✅ Solved
+
 ## Question
 
 SQL Query for Finding Students with Specific IDs
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | SELECT * FROM student WHERE id IN 10 to 30; | No | No |
-| S | SELECT * FROM student WHERE id IN (10,20 AND 30); | No | No |
-| S | SELECT * FROM student WHERE id IN (10,20,30); | Yes | Yes |
-| S | SELECT * FROM student WHERE id IN (10-20-30); | No | No |
+- ⬜ **A.** SELECT * FROM student WHERE id IN 10 to 30;
+- ⬜ **B.** SELECT * FROM student WHERE id IN (10,20 AND 30);
+- ✅ **C. SELECT * FROM student WHERE id IN (10,20,30);** — Correct answer
+- ⬜ **D.** SELECT * FROM student WHERE id IN (10-20-30);
 
-## Result
+## Submission
 
 - **Correct answer:** SELECT * FROM student WHERE id IN (10,20,30);
 - **Submitted at:** 2026-08-01T06:40:23.361Z

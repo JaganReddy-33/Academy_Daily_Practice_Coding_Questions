@@ -1,19 +1,19 @@
 # HTML MCQ: HTML5 <html> Tag Syntax
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: HTML5 <html> Tag Syntax
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;html5 version="5.0"&gt;</p> | No | No |
-| < | <p>&lt;document lang="en"&gt;</p> | No | No |
-| < | <p>&lt;html version="5.0"&gt;</p> | No | No |
-| < | <p>&lt;html lang="en"&gt;</p> | Yes | Yes |
+- ⬜ **A.** <p>&lt;html5 version="5.0"&gt;</p>
+- ⬜ **B.** <p>&lt;document lang="en"&gt;</p>
+- ⬜ **C.** <p>&lt;html version="5.0"&gt;</p>
+- ✅ **D. <p>&lt;html lang="en"&gt;</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;html lang="en"&gt;</p>
 - **Submitted at:** 2026-05-28T08:11:10.363Z

@@ -1,18 +1,18 @@
 # Web Page Definition MCQ
 
+> ✅ Solved
+
 ## Question
 
 Web Page Definition MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | AA collection of server-side scripts | No | No |
-| C | CA database management system that displayed in the browser | No | No |
-| D | DA collection of websites in the web browser. | No | No |
+- ⬜ **A.** AA collection of server-side scripts
+- ⬜ **B.** CA database management system that displayed in the browser
+- ⬜ **C.** DA collection of websites in the web browser.
 
-## Result
+## Submission
 
 - **Correct answer:** 664f2ad47adf493676e87c3d
 - **Submitted at:** 2026-05-28T07:29:50.500Z

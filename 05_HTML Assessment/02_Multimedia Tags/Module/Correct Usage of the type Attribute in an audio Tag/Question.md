@@ -1,19 +1,19 @@
 # Correct Usage of the type Attribute in an <audio> Tag
 
+> ✅ Solved
+
 ## Question
 
 Correct Usage of the type Attribute in an <audio> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;audio src="song.mp3" controls="controls"&gt;&lt;/audio&gt;</p> | No | No |
-| < | <p>&lt;audio src="song.mp3" controls&gt;&lt;/audio&gt;</p> | Yes | Yes |
-| < | <p>&lt;audio src="song.mp3" controls="true"&gt;&lt;/audio&gt;</p> | No | No |
-| < | <p>&lt;audio src="song.mp3" controls="yes"&gt;&lt;/audio&gt;</p> | No | No |
+- ⬜ **A.** <p>&lt;audio src="song.mp3" controls="controls"&gt;&lt;/audio&gt;</p>
+- ✅ **B. <p>&lt;audio src="song.mp3" controls&gt;&lt;/audio&gt;</p>** — Correct answer
+- ⬜ **C.** <p>&lt;audio src="song.mp3" controls="true"&gt;&lt;/audio&gt;</p>
+- ⬜ **D.** <p>&lt;audio src="song.mp3" controls="yes"&gt;&lt;/audio&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;audio src="song.mp3" controls&gt;&lt;/audio&gt;</p>
 - **Submitted at:** 2026-05-28T07:37:10.902Z

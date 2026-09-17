@@ -1,19 +1,19 @@
 # Applying a Lock on a Resource in Java
 
+> ✅ Solved
+
 ## Question
 
 Applying a Lock on a Resource in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | synchronized | Yes | Yes |
-| l | lock | No | No |
-| f | final | No | No |
-| s | sleep | No | No |
+- ✅ **A. synchronized** — Correct answer
+- ⬜ **B.** lock
+- ⬜ **C.** final
+- ⬜ **D.** sleep
 
-## Result
+## Submission
 
 - **Correct answer:** synchronized
 - **Submitted at:** 2026-07-27T04:42:20.609Z

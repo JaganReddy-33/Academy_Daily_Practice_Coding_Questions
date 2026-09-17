@@ -1,19 +1,19 @@
 # Videos in HTML
 
+> ✅ Solved
+
 ## Question
 
 Videos in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>size</p> | No | No |
-| < | <p>dimensions</p> | No | No |
-| < | <p><code>width</code> and <code>height</code></p> | Yes | Yes |
-| < | <p><code>size-width</code> and <code>size-height</code></p> | No | No |
+- ⬜ **A.** <p>size</p>
+- ⬜ **B.** <p>dimensions</p>
+- ✅ **C. <p><code>width</code> and <code>height</code></p>** — Correct answer
+- ⬜ **D.** <p><code>size-width</code> and <code>size-height</code></p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p><code>width</code> and <code>height</code></p>
 - **Submitted at:** 2026-05-28T07:38:35.573Z

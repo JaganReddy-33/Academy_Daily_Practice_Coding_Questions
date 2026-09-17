@@ -1,19 +1,19 @@
 # Defining a Standard Data Cell in a Table
 
+> ✅ Solved
+
 ## Question
 
 Defining a Standard Data Cell in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p><code>&lt;th&gt;</code></p> | No | No |
-| < | <p><code>&lt;tr&gt;</code></p> | No | No |
-| < | <p><code>&lt;td&gt;</code></p> | Yes | Yes |
-| < | <p><code>&lt;caption&gt;</code></p> | No | No |
+- ⬜ **A.** <p><code>&lt;th&gt;</code></p>
+- ⬜ **B.** <p><code>&lt;tr&gt;</code></p>
+- ✅ **C. <p><code>&lt;td&gt;</code></p>** — Correct answer
+- ⬜ **D.** <p><code>&lt;caption&gt;</code></p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p><code>&lt;td&gt;</code></p>
 - **Submitted at:** 2026-05-28T07:48:10.315Z

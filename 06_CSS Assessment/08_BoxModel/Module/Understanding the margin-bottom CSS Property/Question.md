@@ -1,19 +1,19 @@
 # Understanding the 'margin-bottom' CSS Property
 
+> ✅ Solved
+
 ## Question
 
 Understanding the 'margin-bottom' CSS Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| H | Horizontal margin | No | No |
-| T | Top margin | No | No |
-| B | Bottom margin | Yes | Yes |
-| V | Vertical margin | No | No |
+- ⬜ **A.** Horizontal margin
+- ⬜ **B.** Top margin
+- ✅ **C. Bottom margin** — Correct answer
+- ⬜ **D.** Vertical margin
 
-## Result
+## Submission
 
 - **Correct answer:** Bottom margin
 - **Submitted at:** 2026-06-16T14:23:04.650Z

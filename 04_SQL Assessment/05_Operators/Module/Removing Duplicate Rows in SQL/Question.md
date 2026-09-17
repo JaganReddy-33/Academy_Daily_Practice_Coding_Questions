@@ -1,19 +1,19 @@
 # Removing Duplicate Rows in SQL
 
+> ✅ Solved
+
 ## Question
 
 Removing Duplicate Rows in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | ONLY | No | No |
-| U | UNIQUE | No | No |
-| D | DISTINCT | Yes | Yes |
-| S | SINGLE | No | No |
+- ⬜ **A.** ONLY
+- ⬜ **B.** UNIQUE
+- ✅ **C. DISTINCT** — Correct answer
+- ⬜ **D.** SINGLE
 
-## Result
+## Submission
 
 - **Correct answer:** DISTINCT
 - **Submitted at:** 2026-08-01T06:33:33.235Z

@@ -1,19 +1,19 @@
 # Understanding Shorthand Margin Property Values
 
+> ✅ Solved
+
 ## Question
 
 Understanding Shorthand Margin Property Values
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | Top margin | No | No |
-| R | Right margin | No | No |
-| B | Bottom margin | No | No |
-| L | Left margin | Yes | Yes |
+- ⬜ **A.** Top margin
+- ⬜ **B.** Right margin
+- ⬜ **C.** Bottom margin
+- ✅ **D. Left margin** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Left margin
 - **Submitted at:** 2026-06-16T14:23:30.425Z

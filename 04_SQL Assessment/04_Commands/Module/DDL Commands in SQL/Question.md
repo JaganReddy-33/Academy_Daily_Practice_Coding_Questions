@@ -1,19 +1,19 @@
 # DDL Commands in SQL
 
+> ✅ Solved
+
 ## Question
 
 DDL Commands in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>UPDATE</p> | Yes | Yes |
-| < | <p>TRUNCATE</p> | No | No |
-| < | <p>ALTER</p> | No | No |
-| < | <p>All of the above</p> | No | No |
+- ✅ **A. <p>UPDATE</p>** — Correct answer
+- ⬜ **B.** <p>TRUNCATE</p>
+- ⬜ **C.** <p>ALTER</p>
+- ⬜ **D.** <p>All of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>UPDATE</p>
 - **Submitted at:** 2026-07-31T06:22:35.811Z

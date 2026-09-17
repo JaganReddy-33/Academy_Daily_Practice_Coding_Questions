@@ -1,19 +1,19 @@
 # MySQL Data Types
 
+> ✅ Solved
+
 ## Question
 
 MySQL Data Types
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | CHAR | Yes | Yes |
-| V | VARCHAR | No | No |
-| T | TEXT | No | No |
-| I | INT | No | No |
+- ✅ **A. CHAR** — Correct answer
+- ⬜ **B.** VARCHAR
+- ⬜ **C.** TEXT
+- ⬜ **D.** INT
 
-## Result
+## Submission
 
 - **Correct answer:** CHAR
 - **Submitted at:** 2026-07-28T06:21:29.686Z

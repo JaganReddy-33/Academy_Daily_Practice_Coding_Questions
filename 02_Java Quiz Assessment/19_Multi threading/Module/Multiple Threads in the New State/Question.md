@@ -1,17 +1,17 @@
 # Multiple Threads in the New State
 
+> ✅ Solved
+
 ## Question
 
 Multiple Threads in the New State
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | Yes | Yes |
-| N | No | No | No |
+- ✅ **A. Yes** — Correct answer
+- ⬜ **B.** No
 
-## Result
+## Submission
 
 - **Correct answer:** Yes
 - **Submitted at:** 2026-07-27T04:42:44.387Z

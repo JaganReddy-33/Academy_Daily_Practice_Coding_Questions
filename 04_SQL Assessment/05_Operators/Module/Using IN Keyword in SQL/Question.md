@@ -1,19 +1,19 @@
 # Using IN Keyword in SQL
 
+> ✅ Solved
+
 ## Question
 
 Using IN Keyword in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| N | NOT IN | No | No |
-| I | IN | Yes | Yes |
-| O | OR | No | No |
-| A | AND | No | No |
+- ⬜ **A.** NOT IN
+- ✅ **B. IN** — Correct answer
+- ⬜ **C.** OR
+- ⬜ **D.** AND
 
-## Result
+## Submission
 
 - **Correct answer:** IN
 - **Submitted at:** 2026-08-01T06:39:03.862Z

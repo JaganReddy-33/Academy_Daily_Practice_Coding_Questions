@@ -1,19 +1,19 @@
 # CSS Attribute Selector MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Attribute Selector MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| : | :attribute | No | No |
-| [ | [attribute] | Yes | Yes |
-| # | #attribute | No | No |
-| . | .attribute | No | No |
+- ⬜ **A.** :attribute
+- ✅ **B. [attribute]** — Correct answer
+- ⬜ **C.** #attribute
+- ⬜ **D.** .attribute
 
-## Result
+## Submission
 
 - **Correct answer:** [attribute]
 - **Submitted at:** 2026-06-16T13:43:11.164Z

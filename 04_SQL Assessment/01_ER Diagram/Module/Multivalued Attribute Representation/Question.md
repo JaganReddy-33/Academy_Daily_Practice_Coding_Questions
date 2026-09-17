@@ -1,19 +1,19 @@
 # Multivalued Attribute Representation
 
+> ✅ Solved
+
 ## Question
 
 Multivalued Attribute Representation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| L | Line | No | No |
-| D | Diamond | No | No |
-| D | Double Ellipse | Yes | Yes |
-| C | Circle | No | No |
+- ⬜ **A.** Line
+- ⬜ **B.** Diamond
+- ✅ **C. Double Ellipse** — Correct answer
+- ⬜ **D.** Circle
 
-## Result
+## Submission
 
 - **Correct answer:** Double Ellipse
 - **Submitted at:** 2026-07-27T14:28:56.671Z

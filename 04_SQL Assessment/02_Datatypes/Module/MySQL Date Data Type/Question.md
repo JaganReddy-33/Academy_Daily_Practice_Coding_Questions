@@ -1,19 +1,19 @@
 # MySQL Date Data Type
 
+> ✅ Solved
+
 ## Question
 
 MySQL Date Data Type
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | INT | No | No |
-| F | FLOAT | No | No |
-| C | CHAR | No | No |
-| D | DATE | Yes | Yes |
+- ⬜ **A.** INT
+- ⬜ **B.** FLOAT
+- ⬜ **C.** CHAR
+- ✅ **D. DATE** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** DATE
 - **Submitted at:** 2026-07-28T06:22:50.797Z

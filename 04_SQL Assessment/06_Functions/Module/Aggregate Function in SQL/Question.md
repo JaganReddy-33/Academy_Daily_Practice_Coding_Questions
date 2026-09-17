@@ -1,19 +1,19 @@
 # Aggregate Function in SQL
 
+> ✅ Solved
+
 ## Question
 
 Aggregate Function in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | TRIM | No | No |
-| A | AVG | Yes | Yes |
-| J | JOIN | No | No |
-| L | LENGTH | No | No |
+- ⬜ **A.** TRIM
+- ✅ **B. AVG** — Correct answer
+- ⬜ **C.** JOIN
+- ⬜ **D.** LENGTH
 
-## Result
+## Submission
 
 - **Correct answer:** AVG
 - **Submitted at:** 2026-08-02T06:25:48.589Z

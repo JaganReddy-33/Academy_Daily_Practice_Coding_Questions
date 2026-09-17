@@ -1,18 +1,18 @@
 # Candidate Keys
 
+> ✅ Solved
+
 ## Question
 
 Candidate Keys
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A. Pan Card Number | No | No |
-| C | C. Passport Number | No | No |
-| D | D. All of the above | Yes | Yes |
+- ⬜ **A.** A. Pan Card Number
+- ⬜ **B.** C. Passport Number
+- ✅ **C. D. All of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** D. All of the above
 - **Submitted at:** 2026-08-06T06:47:56.134Z

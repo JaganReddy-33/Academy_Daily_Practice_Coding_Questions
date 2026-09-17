@@ -1,19 +1,19 @@
 # Entity Representation
 
+> ✅ Solved
+
 ## Question
 
 Entity Representation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | Attribute | No | No |
-| R | Rectangle | Yes | Yes |
-| L | Line | No | No |
-| C | Circle | No | No |
+- ⬜ **A.** Attribute
+- ✅ **B. Rectangle** — Correct answer
+- ⬜ **C.** Line
+- ⬜ **D.** Circle
 
-## Result
+## Submission
 
 - **Correct answer:** Rectangle
 - **Submitted at:** 2026-07-27T14:27:47.681Z

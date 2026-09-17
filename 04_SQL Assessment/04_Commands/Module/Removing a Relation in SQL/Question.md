@@ -1,19 +1,19 @@
 # Removing a Relation in SQL
 
+> ✅ Solved
+
 ## Question
 
 Removing a Relation in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Delete</p> | No | No |
-| < | <p>Purge</p> | No | No |
-| < | <p>Drop</p> | Yes | Yes |
-| < | <p>Remove</p> | No | No |
+- ⬜ **A.** <p>Delete</p>
+- ⬜ **B.** <p>Purge</p>
+- ✅ **C. <p>Drop</p>** — Correct answer
+- ⬜ **D.** <p>Remove</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Drop</p>
 - **Submitted at:** 2026-07-31T06:14:28.895Z

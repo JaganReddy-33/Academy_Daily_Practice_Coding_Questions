@@ -1,19 +1,19 @@
 # Query with LIKE Clause
 
+> ✅ Solved
+
 ## Question
 
 Query with LIKE Clause
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Finds any CustomerName that start with 'a' and end with 'o'</p> | Yes | Yes |
-| < | <p>Finds any CustomerName that start with 'o' and end with 'a'</p> | No | No |
-| < | <p>Finds any CustomerName that start with 'a' and end with 'a'</p> | No | No |
-| < | <p>Finds any CustomerName that start with 'o' and end with 'o'</p> | No | No |
+- ✅ **A. <p>Finds any CustomerName that start with 'a' and end with 'o'</p>** — Correct answer
+- ⬜ **B.** <p>Finds any CustomerName that start with 'o' and end with 'a'</p>
+- ⬜ **C.** <p>Finds any CustomerName that start with 'a' and end with 'a'</p>
+- ⬜ **D.** <p>Finds any CustomerName that start with 'o' and end with 'o'</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Finds any CustomerName that start with 'a' and end with 'o'</p>
 - **Submitted at:** 2026-08-01T06:51:43.411Z

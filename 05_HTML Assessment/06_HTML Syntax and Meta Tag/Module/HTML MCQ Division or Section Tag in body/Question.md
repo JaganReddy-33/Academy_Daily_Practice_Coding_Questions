@@ -1,19 +1,19 @@
 # HTML MCQ: Division or Section Tag in <body>
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Division or Section Tag in <body>
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p><span class="ql-cursor">﻿</span>&lt;p&gt;</p> | No | No |
-| < | <p>&lt;div&gt;</p> | Yes | Yes |
-| < | <p>&lt;section&gt;</p> | No | No |
-| < | <p>&lt;area&gt;</p> | No | No |
+- ⬜ **A.** <p><span class="ql-cursor">﻿</span>&lt;p&gt;</p>
+- ✅ **B. <p>&lt;div&gt;</p>** — Correct answer
+- ⬜ **C.** <p>&lt;section&gt;</p>
+- ⬜ **D.** <p>&lt;area&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;div&gt;</p>
 - **Submitted at:** 2026-05-28T08:14:36.065Z

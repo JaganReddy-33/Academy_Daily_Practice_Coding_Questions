@@ -1,19 +1,19 @@
 # Accepting Multiple NULL Values in SQL
 
+> ✅ Solved
+
 ## Question
 
 Accepting Multiple NULL Values in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| F | Foreign Key | Yes | Yes |
-| P | Primary Key | No | No |
-| B | Both a and b | No | No |
-| N | None of the above | No | No |
+- ✅ **A. Foreign Key** — Correct answer
+- ⬜ **B.** Primary Key
+- ⬜ **C.** Both a and b
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Foreign Key
 - **Submitted at:** 2026-07-29T10:12:44.965Z

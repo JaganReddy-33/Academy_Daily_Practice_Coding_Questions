@@ -1,19 +1,19 @@
 # HTML MCQ: Creating Submit Button in Form
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Creating Submit Button in Form
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Using the <code>&lt;input&gt;</code> tag with type="submit"</p> | Yes | Yes |
-| < | <p>Using the <code>&lt;submit&gt;</code> tag</p> | No | No |
-| < | <p>Using the <code>&lt;button&gt;</code> tag</p> | No | No |
-| < | <p>Using the <code>&lt;input&gt;</code> tag with type="button"</p> | No | No |
+- ✅ **A. <p>Using the <code>&lt;input&gt;</code> tag with type="submit"</p>** — Correct answer
+- ⬜ **B.** <p>Using the <code>&lt;submit&gt;</code> tag</p>
+- ⬜ **C.** <p>Using the <code>&lt;button&gt;</code> tag</p>
+- ⬜ **D.** <p>Using the <code>&lt;input&gt;</code> tag with type="button"</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Using the <code>&lt;input&gt;</code> tag with type="submit"</p>
 - **Submitted at:** 2026-05-28T08:07:56.024Z

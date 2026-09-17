@@ -1,19 +1,19 @@
 # HTML MCQ: Understanding Form Elements
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Understanding Form Elements
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>HTML form elements are used for taking user input.</p> | No | No |
-| < | <p>HTML form elements are defined inside the <code>&lt;form&gt;</code> tag.</p> | No | No |
-| < | <p>HTML form elements can be of different types.</p> | No | No |
-| < | <p>All of these.</p> | Yes | Yes |
+- ⬜ **A.** <p>HTML form elements are used for taking user input.</p>
+- ⬜ **B.** <p>HTML form elements are defined inside the <code>&lt;form&gt;</code> tag.</p>
+- ⬜ **C.** <p>HTML form elements can be of different types.</p>
+- ✅ **D. <p>All of these.</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>All of these.</p>
 - **Submitted at:** 2026-05-28T08:02:26.843Z

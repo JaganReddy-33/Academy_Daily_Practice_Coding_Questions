@@ -1,17 +1,17 @@
 # Multiple Threads in the Running State
 
+> ✅ Solved
+
 ## Question
 
 Multiple Threads in the Running State
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-07-27T04:43:03.541Z

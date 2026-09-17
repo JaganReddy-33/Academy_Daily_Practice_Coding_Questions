@@ -1,19 +1,19 @@
 # CSS Adjacent Sibling Combinator MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Adjacent Sibling Combinator MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | Selects all siblings | No | No |
-| S | Selects the first child | No | No |
-| S | Selects the next sibling | Yes | Yes |
-| S | Selects the previous sibling | No | No |
+- ⬜ **A.** Selects all siblings
+- ⬜ **B.** Selects the first child
+- ✅ **C. Selects the next sibling** — Correct answer
+- ⬜ **D.** Selects the previous sibling
 
-## Result
+## Submission
 
 - **Correct answer:** Selects the next sibling
 - **Submitted at:** 2026-06-16T13:43:34.210Z

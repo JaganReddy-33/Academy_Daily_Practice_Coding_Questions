@@ -1,19 +1,19 @@
 # Desktop Application Definition MCQ
 
+> ✅ Solved
+
 ## Question
 
 Desktop Application Definition MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A web-based tool | No | No |
-| A | A software program designed for use on mobile devices | No | No |
-| A | A software program installed on a personal computer for local use | Yes | Yes |
-| A | A type of server-side script | No | No |
+- ⬜ **A.** A web-based tool
+- ⬜ **B.** A software program designed for use on mobile devices
+- ✅ **C. A software program installed on a personal computer for local use** — Correct answer
+- ⬜ **D.** A type of server-side script
 
-## Result
+## Submission
 
 - **Correct answer:** A software program installed on a personal computer for local use
 - **Submitted at:** 2026-05-28T07:31:24.542Z

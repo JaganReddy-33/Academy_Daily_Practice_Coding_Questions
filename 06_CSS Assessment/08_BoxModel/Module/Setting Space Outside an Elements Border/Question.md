@@ -1,19 +1,19 @@
 # Setting Space Outside an Element's Border
 
+> ✅ Solved
+
 ## Question
 
 Setting Space Outside an Element's Border
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | padding | No | No |
-| m | margin | Yes | Yes |
-| s | spacing | No | No |
-| o | outline | No | No |
+- ⬜ **A.** padding
+- ✅ **B. margin** — Correct answer
+- ⬜ **C.** spacing
+- ⬜ **D.** outline
 
-## Result
+## Submission
 
 - **Correct answer:** margin
 - **Submitted at:** 2026-06-16T14:22:14.940Z

@@ -1,19 +1,19 @@
 # Query for Displaying Students with First Name Starting with 'X'
 
+> ✅ Solved
+
 ## Question
 
 Query for Displaying Students with First Name Starting with 'X'
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | select first_name from students where first_name like 'X%'; | Yes | Yes |
-| s | select first_name from students where first_name like '%X'; | No | No |
-| s | select first_name from students where first_name like '%X%'; | No | No |
-| s | select first_name from students where first_name like 'X'; | No | No |
+- ✅ **A. select first_name from students where first_name like 'X%';** — Correct answer
+- ⬜ **B.** select first_name from students where first_name like '%X';
+- ⬜ **C.** select first_name from students where first_name like '%X%';
+- ⬜ **D.** select first_name from students where first_name like 'X';
 
-## Result
+## Submission
 
 - **Correct answer:** select first_name from students where first_name like 'X%';
 - **Submitted at:** 2026-08-01T06:45:15.248Z

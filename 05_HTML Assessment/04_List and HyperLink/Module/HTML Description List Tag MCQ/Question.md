@@ -1,19 +1,19 @@
 # HTML Description List Tag MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Description List Tag MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;dd&gt;</p> | Yes | Yes |
-| < | <p>&lt;dl&gt;</p> | No | No |
-| < | <p>&lt;term&gt;</p> | No | No |
-| < | <p>&lt;dt&gt;</p> | No | No |
+- ✅ **A. <p>&lt;dd&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;dl&gt;</p>
+- ⬜ **C.** <p>&lt;term&gt;</p>
+- ⬜ **D.** <p>&lt;dt&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;dd&gt;</p>
 - **Submitted at:** 2026-05-28T07:53:38.386Z

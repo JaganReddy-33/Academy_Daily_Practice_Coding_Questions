@@ -1,19 +1,19 @@
 # Creating a Table in HTML
 
+> ✅ Solved
+
 ## Question
 
 Creating a Table in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;td&gt;</p> | No | No |
-| < | <p>&lt;div&gt;</p> | No | No |
-| < | <p>&lt;form&gt;</p> | No | No |
-| < | <p><span style="background-color: rgb(245, 245, 245);">&lt;table&gt;</span></p> | Yes | Yes |
+- ⬜ **A.** <p>&lt;td&gt;</p>
+- ⬜ **B.** <p>&lt;div&gt;</p>
+- ⬜ **C.** <p>&lt;form&gt;</p>
+- ✅ **D. <p><span style="background-color: rgb(245, 245, 245);">&lt;table&gt;</span></p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p><span style="background-color: rgb(245, 245, 245);">&lt;table&gt;</span></p>
 - **Submitted at:** 2026-05-28T07:43:37.399Z

@@ -1,19 +1,19 @@
 # Types of Keys in SQL
 
+> ✅ Solved
+
 ## Question
 
 Types of Keys in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A. Alternate key | Yes | Yes |
-| B | B. Multiple key | No | No |
-| C | C. Single key | No | No |
-| D | D. Associative key | No | No |
+- ✅ **A. A. Alternate key** — Correct answer
+- ⬜ **B.** B. Multiple key
+- ⬜ **C.** C. Single key
+- ⬜ **D.** D. Associative key
 
-## Result
+## Submission
 
 - **Correct answer:** A. Alternate key
 - **Submitted at:** 2026-08-06T06:48:39.651Z

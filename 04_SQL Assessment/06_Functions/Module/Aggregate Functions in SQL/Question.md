@@ -1,17 +1,17 @@
 # Aggregate Functions in SQL
 
+> ✅ Solved
+
 ## Question
 
 Aggregate Functions in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Yes</p> | No | No |
-| < | <p>No</p> | Yes | Yes |
+- ⬜ **A.** <p>Yes</p>
+- ✅ **B. <p>No</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>No</p>
 - **Submitted at:** 2026-08-02T06:24:54.902Z

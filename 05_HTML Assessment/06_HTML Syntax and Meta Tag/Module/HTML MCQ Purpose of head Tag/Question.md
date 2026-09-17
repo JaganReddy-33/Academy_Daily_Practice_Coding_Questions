@@ -1,19 +1,19 @@
 # HTML MCQ: Purpose of <head> Tag
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Purpose of <head> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>To define the main content of the page</p> | No | No |
-| < | <p>To specify the visual appearance of the page</p> | No | No |
-| < | <p>To include metadata and links to external resources</p> | Yes | Yes |
-| < | <p>To create a navigation bar</p> | No | No |
+- ⬜ **A.** <p>To define the main content of the page</p>
+- ⬜ **B.** <p>To specify the visual appearance of the page</p>
+- ✅ **C. <p>To include metadata and links to external resources</p>** — Correct answer
+- ⬜ **D.** <p>To create a navigation bar</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>To include metadata and links to external resources</p>
 - **Submitted at:** 2026-05-28T08:11:54.965Z

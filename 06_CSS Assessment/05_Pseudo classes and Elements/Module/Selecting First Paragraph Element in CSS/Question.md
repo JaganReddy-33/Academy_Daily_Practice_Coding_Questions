@@ -1,19 +1,19 @@
 # Selecting First Paragraph Element in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting First Paragraph Element in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) div.content p::first-child | No | No |
-| B | B) div.content:first-child p | No | No |
-| C | C) div.content > p:first-child | Yes | Yes |
-| D | D) div.content p:first | No | No |
+- ⬜ **A.** A) div.content p::first-child
+- ⬜ **B.** B) div.content:first-child p
+- ✅ **C. C) div.content > p:first-child** — Correct answer
+- ⬜ **D.** D) div.content p:first
 
-## Result
+## Submission
 
 - **Correct answer:** C) div.content > p:first-child
 - **Submitted at:** 2026-06-16T13:49:51.993Z

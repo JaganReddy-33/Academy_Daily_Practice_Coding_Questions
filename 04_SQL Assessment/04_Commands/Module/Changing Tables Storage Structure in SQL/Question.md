@@ -1,19 +1,19 @@
 # Changing Table's Storage Structure in SQL
 
+> ✅ Solved
+
 ## Question
 
 Changing Table's Storage Structure in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>ALTER</p> | Yes | Yes |
-| < | <p>REPLACE</p> | No | No |
-| < | <p>DROP</p> | No | No |
-| < | <p>All of the above</p> | No | No |
+- ✅ **A. <p>ALTER</p>** — Correct answer
+- ⬜ **B.** <p>REPLACE</p>
+- ⬜ **C.** <p>DROP</p>
+- ⬜ **D.** <p>All of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>ALTER</p>
 - **Submitted at:** 2026-07-31T06:43:45.623Z

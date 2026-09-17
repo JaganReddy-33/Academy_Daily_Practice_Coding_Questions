@@ -1,19 +1,19 @@
 # Joining a Table to Itself
 
+> ✅ Solved
+
 ## Question
 
 Joining a Table to Itself
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | INNER JOIN | No | No |
-| S | SELF JOIN | Yes | Yes |
-| F | FULL JOIN | No | No |
-| C | CROSS JOIN | No | No |
+- ⬜ **A.** INNER JOIN
+- ✅ **B. SELF JOIN** — Correct answer
+- ⬜ **C.** FULL JOIN
+- ⬜ **D.** CROSS JOIN
 
-## Result
+## Submission
 
 - **Correct answer:** SELF JOIN
 - **Submitted at:** 2026-08-05T04:11:24.973Z

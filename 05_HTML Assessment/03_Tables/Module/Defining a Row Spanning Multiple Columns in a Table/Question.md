@@ -1,19 +1,19 @@
 # Defining a Row Spanning Multiple Columns in a Table
 
+> ✅ Solved
+
 ## Question
 
 Defining a Row Spanning Multiple Columns in a Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>colspan</p> | Yes | Yes |
-| < | <p>rowspan</p> | No | No |
-| < | <p>span</p> | No | No |
-| < | <p>col</p> | No | No |
+- ✅ **A. <p>colspan</p>** — Correct answer
+- ⬜ **B.** <p>rowspan</p>
+- ⬜ **C.** <p>span</p>
+- ⬜ **D.** <p>col</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>colspan</p>
 - **Submitted at:** 2026-05-28T07:48:59.724Z

@@ -1,19 +1,19 @@
 # Types of Keys in SQL
 
+> ✅ Solved
+
 ## Question
 
 Types of Keys in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Primary key | No | No |
-| F | Foreign key | No | No |
-| S | Secondary key | Yes | Yes |
-| A | All of the above | No | No |
+- ⬜ **A.** Primary key
+- ⬜ **B.** Foreign key
+- ✅ **C. Secondary key** — Correct answer
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Secondary key
 - **Submitted at:** 2026-07-29T10:12:11.170Z

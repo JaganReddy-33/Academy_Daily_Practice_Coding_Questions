@@ -1,19 +1,19 @@
 # HTML URL Acronym MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML URL Acronym MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| U | Uniform Resource Locator | Yes | Yes |
-| U | Universal Request Language | No | No |
-| U | Unique Resource Link | No | No |
-| U | Unified Routing Language | No | No |
+- ✅ **A. Uniform Resource Locator** — Correct answer
+- ⬜ **B.** Universal Request Language
+- ⬜ **C.** Unique Resource Link
+- ⬜ **D.** Unified Routing Language
 
-## Result
+## Submission
 
 - **Correct answer:** Uniform Resource Locator
 - **Submitted at:** 2026-05-28T07:33:29.126Z

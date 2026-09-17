@@ -1,19 +1,19 @@
 # One-to-Many Relationship
 
+> ✅ Solved
+
 ## Question
 
 One-to-Many Relationship
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | One to One | No | No |
-| O | One to Many | Yes | Yes |
-| M | Many to One | No | No |
-| M | Many to Many | No | No |
+- ⬜ **A.** One to One
+- ✅ **B. One to Many** — Correct answer
+- ⬜ **C.** Many to One
+- ⬜ **D.** Many to Many
 
-## Result
+## Submission
 
 - **Correct answer:** One to Many
 - **Submitted at:** 2026-07-27T14:29:31.409Z

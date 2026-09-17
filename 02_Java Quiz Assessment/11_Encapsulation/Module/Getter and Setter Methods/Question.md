@@ -1,19 +1,19 @@
 # Getter and Setter Methods
 
+> ✅ Solved
+
 ## Question
 
 Getter and Setter Methods
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To provide direct access to the class's private members | No | No |
-| T | To enforce encapsulation by providing controlled access to private members | Yes | Yes |
-| T | To reduce code duplication by avoiding the use of private members | No | No |
-| T | To improve performance by directly accessing private members | No | No |
+- ⬜ **A.** To provide direct access to the class's private members
+- ✅ **B. To enforce encapsulation by providing controlled access to private members** — Correct answer
+- ⬜ **C.** To reduce code duplication by avoiding the use of private members
+- ⬜ **D.** To improve performance by directly accessing private members
 
-## Result
+## Submission
 
 - **Correct answer:** To enforce encapsulation by providing controlled access to private members
 - **Submitted at:** 2026-06-25T05:21:14.446Z

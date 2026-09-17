@@ -1,19 +1,19 @@
 # Purpose of the CSS Margin Property
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the CSS Margin Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | Defines only top margin | No | No |
-| D | Defines equal margins on all sides | No | No |
-| D | Defines different margins for each side | Yes | Yes |
-| O | Overrides margin-top property | No | No |
+- ⬜ **A.** Defines only top margin
+- ⬜ **B.** Defines equal margins on all sides
+- ✅ **C. Defines different margins for each side** — Correct answer
+- ⬜ **D.** Overrides margin-top property
 
-## Result
+## Submission
 
 - **Correct answer:** Defines different margins for each side
 - **Submitted at:** 2026-06-16T14:20:38.095Z

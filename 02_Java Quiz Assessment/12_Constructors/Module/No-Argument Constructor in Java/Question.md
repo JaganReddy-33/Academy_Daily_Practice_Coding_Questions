@@ -1,18 +1,18 @@
 # No-Argument Constructor in Java
 
+> ✅ Solved
+
 ## Question
 
 No-Argument Constructor in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Parameterized constructor | No | No |
-| N | No argument constructor | Yes | Yes |
-| N | None of the above | No | No |
+- ⬜ **A.** Parameterized constructor
+- ✅ **B. No argument constructor** — Correct answer
+- ⬜ **C.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** No argument constructor
 - **Submitted at:** 2026-06-26T14:11:10.213Z

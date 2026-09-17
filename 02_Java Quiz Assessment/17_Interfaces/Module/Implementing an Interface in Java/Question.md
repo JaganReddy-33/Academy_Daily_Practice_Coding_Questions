@@ -1,19 +1,19 @@
 # Implementing an Interface in Java
 
+> ✅ Solved
+
 ## Question
 
 Implementing an Interface in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | Static methods | No | No |
-| A | Abstract methods | Yes | Yes |
-| F | Final methods | No | No |
-| P | Private methods | No | No |
+- ⬜ **A.** Static methods
+- ✅ **B. Abstract methods** — Correct answer
+- ⬜ **C.** Final methods
+- ⬜ **D.** Private methods
 
-## Result
+## Submission
 
 - **Correct answer:** Abstract methods
 - **Submitted at:** 2026-07-16T09:07:20.031Z

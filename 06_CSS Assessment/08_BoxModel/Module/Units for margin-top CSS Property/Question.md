@@ -1,19 +1,19 @@
 # Units for 'margin-top' CSS Property
 
+> ✅ Solved
+
 ## Question
 
 Units for 'margin-top' CSS Property
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Pixels | No | No |
-| P | Percent | No | No |
-| E | EM | No | No |
-| A | All of the above | Yes | Yes |
+- ⬜ **A.** Pixels
+- ⬜ **B.** Percent
+- ⬜ **C.** EM
+- ✅ **D. All of the above** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** All of the above
 - **Submitted at:** 2026-06-16T14:16:43.551Z

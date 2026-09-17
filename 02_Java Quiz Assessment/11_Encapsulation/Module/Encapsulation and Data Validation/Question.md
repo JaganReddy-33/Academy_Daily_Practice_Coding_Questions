@@ -1,19 +1,19 @@
 # Encapsulation and Data Validation
 
+> ✅ Solved
+
 ## Question
 
 Encapsulation and Data Validation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | Access modifiers | No | No |
-| A | Access Specifiers | No | No |
-| G | Getters and setters | Yes | Yes |
-| I | Inheritance | No | No |
+- ⬜ **A.** Access modifiers
+- ⬜ **B.** Access Specifiers
+- ✅ **C. Getters and setters** — Correct answer
+- ⬜ **D.** Inheritance
 
-## Result
+## Submission
 
 - **Correct answer:** Getters and setters
 - **Submitted at:** 2026-06-25T05:23:19.255Z

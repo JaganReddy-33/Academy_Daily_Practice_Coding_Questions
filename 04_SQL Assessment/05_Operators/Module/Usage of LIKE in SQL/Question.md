@@ -1,19 +1,19 @@
 # Usage of LIKE in SQL
 
+> ✅ Solved
+
 ## Question
 
 Usage of LIKE in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>FROM</p> | No | No |
-| < | <p>WHERE</p> | Yes | Yes |
-| < | <p>SELECT</p> | No | No |
-| < | <p>All of the above</p> | No | No |
+- ⬜ **A.** <p>FROM</p>
+- ✅ **B. <p>WHERE</p>** — Correct answer
+- ⬜ **C.** <p>SELECT</p>
+- ⬜ **D.** <p>All of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>WHERE</p>
 - **Submitted at:** 2026-08-01T06:48:42.553Z

@@ -1,19 +1,19 @@
 # HTML MCQ: Setting Initial Value of Text Input
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Setting Initial Value of Text Input
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| i | init-value | No | No |
-| v | value | Yes | Yes |
-| d | default | No | No |
-| s | start | No | No |
+- ⬜ **A.** init-value
+- ✅ **B. value** — Correct answer
+- ⬜ **C.** default
+- ⬜ **D.** start
 
-## Result
+## Submission
 
 - **Correct answer:** value
 - **Submitted at:** 2026-05-28T08:05:50.325Z

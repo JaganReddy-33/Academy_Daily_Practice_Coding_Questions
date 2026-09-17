@@ -1,17 +1,17 @@
 # Benefits of Method Overloading
 
+> ✅ Solved
+
 ## Question
 
 Benefits of Method Overloading
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | Yes | Yes |
-| F | False | No | No |
+- ✅ **A. True** — Correct answer
+- ⬜ **B.** False
 
-## Result
+## Submission
 
 - **Correct answer:** True
 - **Submitted at:** 2026-06-15T17:11:34.834Z

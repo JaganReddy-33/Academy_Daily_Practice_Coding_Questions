@@ -1,19 +1,19 @@
 # Attribute for Specifying Source File for Video in HTML
 
+> ✅ Solved
+
 ## Question
 
 Attribute for Specifying Source File for Video in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>href</p> | No | No |
-| < | <p>src</p> | Yes | Yes |
-| < | <p>source</p> | No | No |
-| < | <p>link</p> | No | No |
+- ⬜ **A.** <p>href</p>
+- ✅ **B. <p>src</p>** — Correct answer
+- ⬜ **C.** <p>source</p>
+- ⬜ **D.** <p>link</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>src</p>
 - **Submitted at:** 2026-05-28T07:37:46.939Z

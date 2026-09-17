@@ -1,19 +1,19 @@
 # Entity Identification
 
+> ✅ Solved
+
 ## Question
 
 Entity Identification
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| w | weak | Yes | Yes |
-| s | strong | No | No |
-| m | medium | No | No |
-| A | All of the above | No | No |
+- ✅ **A. weak** — Correct answer
+- ⬜ **B.** strong
+- ⬜ **C.** medium
+- ⬜ **D.** All of the above
 
-## Result
+## Submission
 
 - **Correct answer:** weak
 - **Submitted at:** 2026-07-27T14:28:15.971Z

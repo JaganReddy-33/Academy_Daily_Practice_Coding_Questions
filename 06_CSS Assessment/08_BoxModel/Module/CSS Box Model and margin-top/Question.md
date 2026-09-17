@@ -1,19 +1,19 @@
 # CSS Box Model and 'margin-top'
 
+> ✅ Solved
+
 ## Question
 
 CSS Box Model and 'margin-top'
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| O | Outer box | Yes | Yes |
-| I | Inner box | No | No |
-| C | Content box | No | No |
-| P | Padding box | No | No |
+- ✅ **A. Outer box** — Correct answer
+- ⬜ **B.** Inner box
+- ⬜ **C.** Content box
+- ⬜ **D.** Padding box
 
-## Result
+## Submission
 
 - **Correct answer:** Outer box
 - **Submitted at:** 2026-06-16T14:18:12.431Z

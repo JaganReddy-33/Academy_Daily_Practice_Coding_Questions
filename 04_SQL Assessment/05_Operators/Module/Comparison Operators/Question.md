@@ -1,19 +1,19 @@
 # Comparison Operators
 
+> ✅ Solved
+
 ## Question
 
 Comparison Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>!=!</p> | No | No |
-| < | <p>&lt;&gt;</p> | Yes | Yes |
-| < | <p>=</p> | No | No |
-| < | <p>&gt;=</p> | No | No |
+- ⬜ **A.** <p>!=!</p>
+- ✅ **B. <p>&lt;&gt;</p>** — Correct answer
+- ⬜ **C.** <p>=</p>
+- ⬜ **D.** <p>&gt;=</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;&gt;</p>
 - **Submitted at:** 2026-08-01T06:46:26.464Z

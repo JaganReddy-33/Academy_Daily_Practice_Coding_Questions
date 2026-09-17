@@ -1,19 +1,19 @@
 # Type of Join with All Rows from Left Table
 
+> ✅ Solved
+
 ## Question
 
 Type of Join with All Rows from Left Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| R | RIGHT JOIN | No | No |
-| L | LEFT JOIN | Yes | Yes |
-| I | INNER JOIN | No | No |
-| O | OUTER JOIN | No | No |
+- ⬜ **A.** RIGHT JOIN
+- ✅ **B. LEFT JOIN** — Correct answer
+- ⬜ **C.** INNER JOIN
+- ⬜ **D.** OUTER JOIN
 
-## Result
+## Submission
 
 - **Correct answer:** LEFT JOIN
 - **Submitted at:** 2026-08-05T04:11:39.104Z

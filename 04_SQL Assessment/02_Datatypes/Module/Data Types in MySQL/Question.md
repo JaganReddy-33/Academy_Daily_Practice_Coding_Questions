@@ -1,19 +1,19 @@
 # Data Types in MySQL
 
+> ✅ Solved
+
 ## Question
 
 Data Types in MySQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>INT</p> | No | No |
-| < | <p>FLOAT</p> | No | No |
-| < | <p>DATE</p> | No | No |
-| < | <p>VARCHAR</p> | Yes | Yes |
+- ⬜ **A.** <p>INT</p>
+- ⬜ **B.** <p>FLOAT</p>
+- ⬜ **C.** <p>DATE</p>
+- ✅ **D. <p>VARCHAR</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>VARCHAR</p>
 - **Submitted at:** 2026-07-28T06:27:21.013Z

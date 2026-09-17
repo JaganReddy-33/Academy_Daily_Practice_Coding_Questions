@@ -1,19 +1,19 @@
 # HTML MCQ: <!DOCTYPE html> Declaration
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: <!DOCTYPE html> Declaration
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>It defines the document type and HTML version</p> | Yes | Yes |
-| < | <p>It styles the document</p> | No | No |
-| < | <p>It creates a link to a CSS file</p> | No | No |
-| < | <p>It embeds an image in the document</p> | No | No |
+- ✅ **A. <p>It defines the document type and HTML version</p>** — Correct answer
+- ⬜ **B.** <p>It styles the document</p>
+- ⬜ **C.** <p>It creates a link to a CSS file</p>
+- ⬜ **D.** <p>It embeds an image in the document</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>It defines the document type and HTML version</p>
 - **Submitted at:** 2026-05-28T08:12:34.500Z

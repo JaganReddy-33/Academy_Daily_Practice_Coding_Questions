@@ -1,19 +1,19 @@
 # Drop Column from Existing Table
 
+> ✅ Solved
+
 ## Question
 
 Drop Column from Existing Table
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | ALTER TABLE table_name DROP COLUMN column_name | Yes | Yes |
-| A | ALTER TABLE table_name REMOVE COLUMN column_name | No | No |
-| A | ALTER TABLE table_name DELETE COLUMN column_name | No | No |
-| A | ALTER TABLE table_name UNSET COLUMN column_name | No | No |
+- ✅ **A. ALTER TABLE table_name DROP COLUMN column_name** — Correct answer
+- ⬜ **B.** ALTER TABLE table_name REMOVE COLUMN column_name
+- ⬜ **C.** ALTER TABLE table_name DELETE COLUMN column_name
+- ⬜ **D.** ALTER TABLE table_name UNSET COLUMN column_name
 
-## Result
+## Submission
 
 - **Correct answer:** ALTER TABLE table_name DROP COLUMN column_name
 - **Submitted at:** 2026-07-31T06:16:50.792Z

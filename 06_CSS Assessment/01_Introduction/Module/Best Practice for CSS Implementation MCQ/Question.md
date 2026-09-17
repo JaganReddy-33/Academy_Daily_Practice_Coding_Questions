@@ -1,19 +1,19 @@
 # Best Practice for CSS Implementation MCQ
 
+> ✅ Solved
+
 ## Question
 
 Best Practice for CSS Implementation MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Inline CSS | No | No |
-| I | Internal CSS | No | No |
-| E | External CSS | Yes | Yes |
-| E | Embedded CSS | No | No |
+- ⬜ **A.** Inline CSS
+- ⬜ **B.** Internal CSS
+- ✅ **C. External CSS** — Correct answer
+- ⬜ **D.** Embedded CSS
 
-## Result
+## Submission
 
 - **Correct answer:** External CSS
 - **Submitted at:** 2026-06-01T17:04:47.955Z

@@ -1,19 +1,19 @@
 # Invalid MySQL Data Type
 
+> ✅ Solved
+
 ## Question
 
 Invalid MySQL Data Type
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | DECI | Yes | Yes |
-| I | INT | No | No |
-| V | VARCHAR | No | No |
-| C | CHAR | No | No |
+- ✅ **A. DECI** — Correct answer
+- ⬜ **B.** INT
+- ⬜ **C.** VARCHAR
+- ⬜ **D.** CHAR
 
-## Result
+## Submission
 
 - **Correct answer:** DECI
 - **Submitted at:** 2026-07-28T06:30:45.570Z

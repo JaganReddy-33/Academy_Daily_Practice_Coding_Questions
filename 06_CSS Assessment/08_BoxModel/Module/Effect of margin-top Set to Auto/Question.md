@@ -1,19 +1,19 @@
 # Effect of 'margin-top' Set to Auto
 
+> ✅ Solved
+
 ## Question
 
 Effect of 'margin-top' Set to Auto
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| M | Margin is automatically calculated | No | No |
-| M | Margin collapses to 0 | Yes | Yes |
-| E | Error occurs | No | No |
-| M | Margin becomes infinite | No | No |
+- ⬜ **A.** Margin is automatically calculated
+- ✅ **B. Margin collapses to 0** — Correct answer
+- ⬜ **C.** Error occurs
+- ⬜ **D.** Margin becomes infinite
 
-## Result
+## Submission
 
 - **Correct answer:** Margin collapses to 0
 - **Submitted at:** 2026-06-16T14:18:47.224Z

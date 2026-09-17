@@ -1,19 +1,19 @@
 # Purpose of the type Attribute in the <audio> Tag
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the type Attribute in the <audio> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To specify the URL of the audio file | No | No |
-| T | To specify the type/format of the audio file | Yes | Yes |
-| T | To specify the length of the audio file | No | No |
-| T | To specify the bitrate of the audio file | No | No |
+- ⬜ **A.** To specify the URL of the audio file
+- ✅ **B. To specify the type/format of the audio file** — Correct answer
+- ⬜ **C.** To specify the length of the audio file
+- ⬜ **D.** To specify the bitrate of the audio file
 
-## Result
+## Submission
 
 - **Correct answer:** To specify the type/format of the audio file
 - **Submitted at:** 2026-05-28T07:36:46.295Z

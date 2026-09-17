@@ -1,19 +1,19 @@
 # Restrictions for a Table to be a Relation
 
+> ✅ Solved
+
 ## Question
 
 Restrictions for a Table to be a Relation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Each column must have a unique name.</p> | No | No |
-| < | <p>Each row must be unique.</p> | No | No |
-| < | <p>The order of columns is significant.</p> | Yes | Yes |
-| < | <p>Each column must contain values of the same data type.</p> | No | No |
+- ⬜ **A.** <p>Each column must have a unique name.</p>
+- ⬜ **B.** <p>Each row must be unique.</p>
+- ✅ **C. <p>The order of columns is significant.</p>** — Correct answer
+- ⬜ **D.** <p>Each column must contain values of the same data type.</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>The order of columns is significant.</p>
 - **Submitted at:** 2026-08-06T06:47:28.612Z

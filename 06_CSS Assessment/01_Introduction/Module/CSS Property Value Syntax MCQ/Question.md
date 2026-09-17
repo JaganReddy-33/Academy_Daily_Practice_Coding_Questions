@@ -1,19 +1,19 @@
 # CSS Property Value Syntax MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Property Value Syntax MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| P | Property: Value; | Yes | Yes |
-| V | Value: Property; | No | No |
-| P | Property -> Value; | No | No |
-| V | Value -> Property; | No | No |
+- ✅ **A. Property: Value;** — Correct answer
+- ⬜ **B.** Value: Property;
+- ⬜ **C.** Property -> Value;
+- ⬜ **D.** Value -> Property;
 
-## Result
+## Submission
 
 - **Correct answer:** Property: Value;
 - **Submitted at:** 2026-06-01T17:01:53.877Z

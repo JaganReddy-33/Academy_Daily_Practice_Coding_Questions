@@ -1,19 +1,19 @@
 # Purpose of the <abbr> Tag in HTML
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the <abbr> Tag in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To create a link | No | No |
-| T | To highlight text | No | No |
-| T | To define an abbreviation or acronym | Yes | Yes |
-| T | To insert an image | No | No |
+- ⬜ **A.** To create a link
+- ⬜ **B.** To highlight text
+- ✅ **C. To define an abbreviation or acronym** — Correct answer
+- ⬜ **D.** To insert an image
 
-## Result
+## Submission
 
 - **Correct answer:** To define an abbreviation or acronym
 - **Submitted at:** 2026-05-28T07:41:21.304Z

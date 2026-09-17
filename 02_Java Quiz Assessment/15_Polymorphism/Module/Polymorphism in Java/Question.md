@@ -1,19 +1,19 @@
 # Polymorphism in Java
 
+> ✅ Solved
+
 ## Question
 
 Polymorphism in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | Increased code reusability | Yes | Yes |
-| I | Improved performance | No | No |
-| S | Simplified debugging | No | No |
-| E | Enhanced data encapsulation | No | No |
+- ✅ **A. Increased code reusability** — Correct answer
+- ⬜ **B.** Improved performance
+- ⬜ **C.** Simplified debugging
+- ⬜ **D.** Enhanced data encapsulation
 
-## Result
+## Submission
 
 - **Correct answer:** Increased code reusability
 - **Submitted at:** 2026-07-07T16:40:22.001Z

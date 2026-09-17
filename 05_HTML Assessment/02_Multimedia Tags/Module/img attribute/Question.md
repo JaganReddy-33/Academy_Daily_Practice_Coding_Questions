@@ -1,19 +1,19 @@
 # img attribute
 
+> ✅ Solved
+
 ## Question
 
 img attribute
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>alt</p> | No | No |
-| < | <p>href</p> | No | No |
-| < | <p>src</p> | Yes | Yes |
-| < | <p>title</p> | No | No |
+- ⬜ **A.** <p>alt</p>
+- ⬜ **B.** <p>href</p>
+- ✅ **C. <p>src</p>** — Correct answer
+- ⬜ **D.** <p>title</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>src</p>
 - **Submitted at:** 2026-05-28T07:35:10.399Z

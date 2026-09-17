@@ -1,19 +1,19 @@
 # Selecting Element After Another Element in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting Element After Another Element in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) #main #footer | No | No |
-| B | B) #main + #footer | Yes | Yes |
-| C | C) #main ~ #footer | No | No |
-| D | D) #footer > #main | No | No |
+- ⬜ **A.** A) #main #footer
+- ✅ **B. B) #main + #footer** — Correct answer
+- ⬜ **C.** C) #main ~ #footer
+- ⬜ **D.** D) #footer > #main
 
-## Result
+## Submission
 
 - **Correct answer:** B) #main + #footer
 - **Submitted at:** 2026-06-16T13:52:39.593Z

@@ -1,19 +1,19 @@
 # Adding CSS to HTML Tag MCQ
 
+> ✅ Solved
+
 ## Question
 
 Adding CSS to HTML Tag MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Using the <code>&lt;style&gt;</code> tag.</p> | No | No |
-| < | <p>Using the class attribute.</p> | No | No |
-| < | <p>Using the style attribute</p> | Yes | Yes |
-| < | <p>Using the <code>&lt;css&gt;</code> tag.</p> | No | No |
+- ⬜ **A.** <p>Using the <code>&lt;style&gt;</code> tag.</p>
+- ⬜ **B.** <p>Using the class attribute.</p>
+- ✅ **C. <p>Using the style attribute</p>** — Correct answer
+- ⬜ **D.** <p>Using the <code>&lt;css&gt;</code> tag.</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Using the style attribute</p>
 - **Submitted at:** 2026-06-01T17:05:45.671Z

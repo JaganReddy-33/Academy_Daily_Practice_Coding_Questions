@@ -1,19 +1,19 @@
 # Selecting First of Type Elements in CSS
 
+> ✅ Solved
+
 ## Question
 
 Selecting First of Type Elements in CSS
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | A) :first-of-type | Yes | Yes |
-| B | B) :last-of-type | No | No |
-| C | C) :only-of-type | No | No |
-| D | D) :nth-of-type | No | No |
+- ✅ **A. A) :first-of-type** — Correct answer
+- ⬜ **B.** B) :last-of-type
+- ⬜ **C.** C) :only-of-type
+- ⬜ **D.** D) :nth-of-type
 
-## Result
+## Submission
 
 - **Correct answer:** A) :first-of-type
 - **Submitted at:** 2026-06-16T13:54:50.369Z

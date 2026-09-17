@@ -1,19 +1,19 @@
 # MySQL DATE Data Type Format
 
+> ✅ Solved
+
 ## Question
 
 MySQL DATE Data Type Format
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | YYYY-MM-DD | Yes | Yes |
-| H | HH:MM:SS | No | No |
-| M | MM/DD/YYYY | No | No |
-| D | DD/MM/YYYY | No | No |
+- ✅ **A. YYYY-MM-DD** — Correct answer
+- ⬜ **B.** HH:MM:SS
+- ⬜ **C.** MM/DD/YYYY
+- ⬜ **D.** DD/MM/YYYY
 
-## Result
+## Submission
 
 - **Correct answer:** YYYY-MM-DD
 - **Submitted at:** 2026-07-28T06:23:28.421Z

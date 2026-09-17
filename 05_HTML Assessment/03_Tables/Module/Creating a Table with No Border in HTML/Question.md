@@ -1,19 +1,19 @@
 # Creating a Table with No Border in HTML
 
+> ✅ Solved
+
 ## Question
 
 Creating a Table with No Border in HTML
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;table border="none"&gt;</p> | No | No |
-| < | <p>&lt;table border="0"&gt;</p> | Yes | Yes |
-| < | <p>&lt;table border="1"&gt;</p> | No | No |
-| < | <p>&lt;table border="false"&gt;</p> | No | No |
+- ⬜ **A.** <p>&lt;table border="none"&gt;</p>
+- ✅ **B. <p>&lt;table border="0"&gt;</p>** — Correct answer
+- ⬜ **C.** <p>&lt;table border="1"&gt;</p>
+- ⬜ **D.** <p>&lt;table border="false"&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;table border="0"&gt;</p>
 - **Submitted at:** 2026-05-28T07:47:13.785Z

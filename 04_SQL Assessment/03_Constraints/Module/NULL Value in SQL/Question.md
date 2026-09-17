@@ -1,17 +1,17 @@
 # NULL Value in SQL
 
+> ✅ Solved
+
 ## Question
 
 NULL Value in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-07-29T10:22:00.564Z

@@ -1,19 +1,19 @@
 # Output Prediction with CONCAT Function
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction with CONCAT Function
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>ACD</p> | Yes | Yes |
-| < | <p>acd</p> | No | No |
-| < | <p>A C D</p> | No | No |
-| < | <p>a c d</p> | No | No |
+- ✅ **A. <p>ACD</p>** — Correct answer
+- ⬜ **B.** <p>acd</p>
+- ⬜ **C.** <p>A C D</p>
+- ⬜ **D.** <p>a c d</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>ACD</p>
 - **Submitted at:** 2026-08-02T06:20:30.578Z

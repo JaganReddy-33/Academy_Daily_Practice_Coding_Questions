@@ -1,17 +1,17 @@
 # Usage of This Keyword in Constructor
 
+> ✅ Solved
+
 ## Question
 
 Usage of This Keyword in Constructor
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes | No | No |
-| N | No | Yes | Yes |
+- ⬜ **A.** Yes
+- ✅ **B. No** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** No
 - **Submitted at:** 2026-06-26T14:08:07.784Z

@@ -1,19 +1,19 @@
 # HTML Description List DD Tag MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Description List DD Tag MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>It defines the term being defined</p> | No | No |
-| < | <p>It defines the description of the term</p> | Yes | Yes |
-| < | <p>It adds a definition to the list</p> | No | No |
-| < | <p>It stands for 'description detail'</p> | No | No |
+- ⬜ **A.** <p>It defines the term being defined</p>
+- ✅ **B. <p>It defines the description of the term</p>** — Correct answer
+- ⬜ **C.** <p>It adds a definition to the list</p>
+- ⬜ **D.** <p>It stands for 'description detail'</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>It defines the description of the term</p>
 - **Submitted at:** 2026-05-28T07:56:54.231Z

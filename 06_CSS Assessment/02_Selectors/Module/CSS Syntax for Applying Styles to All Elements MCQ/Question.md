@@ -1,19 +1,19 @@
 # CSS Syntax for Applying Styles to All Elements MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Syntax for Applying Styles to All Elements MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>* { }</p> | Yes | Yes |
-| < | <p>.universal { }</p> | No | No |
-| < | <p>#universal { }</p> | No | No |
-| < | <p>body { }</p> | No | No |
+- ✅ **A. <p>* { }</p>** — Correct answer
+- ⬜ **B.** <p>.universal { }</p>
+- ⬜ **C.** <p>#universal { }</p>
+- ⬜ **D.** <p>body { }</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>* { }</p>
 - **Submitted at:** 2026-06-03T11:02:37.529Z

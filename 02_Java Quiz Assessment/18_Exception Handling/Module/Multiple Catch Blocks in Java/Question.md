@@ -1,19 +1,19 @@
 # Multiple Catch Blocks in Java
 
+> ✅ Solved
+
 ## Question
 
 Multiple Catch Blocks in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes, but they must be sequential and cannot overlap. | Yes | Yes |
-| N | No, only one catch block is allowed per try block. | No | No |
-| Y | Yes, and they can be in any order. | No | No |
-| N | No, you can only have one catch block for the entire program. | No | No |
+- ✅ **A. Yes, but they must be sequential and cannot overlap.** — Correct answer
+- ⬜ **B.** No, only one catch block is allowed per try block.
+- ⬜ **C.** Yes, and they can be in any order.
+- ⬜ **D.** No, you can only have one catch block for the entire program.
 
-## Result
+## Submission
 
 - **Correct answer:** Yes, but they must be sequential and cannot overlap.
 - **Submitted at:** 2026-07-23T04:45:30.875Z

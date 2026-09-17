@@ -1,19 +1,19 @@
 # Purpose of the controls Attribute in the <audio> Tag
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the controls Attribute in the <audio> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To define the audio source | No | No |
-| T | To display audio controls (play, pause, etc.) | Yes | Yes |
-| T | To specify the audio format | No | No |
-| T | To loop the audio | No | No |
+- ⬜ **A.** To define the audio source
+- ✅ **B. To display audio controls (play, pause, etc.)** — Correct answer
+- ⬜ **C.** To specify the audio format
+- ⬜ **D.** To loop the audio
 
-## Result
+## Submission
 
 - **Correct answer:** To display audio controls (play, pause, etc.)
 - **Submitted at:** 2026-05-28T07:35:34.467Z

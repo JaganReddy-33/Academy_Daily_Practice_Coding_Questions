@@ -1,19 +1,19 @@
 # CSS Child Combinator MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Child Combinator MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | All descendants | No | No |
-| D | Direct children | Yes | Yes |
-| S | Siblings | No | No |
-| P | Parent elements | No | No |
+- ⬜ **A.** All descendants
+- ✅ **B. Direct children** — Correct answer
+- ⬜ **C.** Siblings
+- ⬜ **D.** Parent elements
 
-## Result
+## Submission
 
 - **Correct answer:** Direct children
 - **Submitted at:** 2026-06-16T13:43:44.395Z

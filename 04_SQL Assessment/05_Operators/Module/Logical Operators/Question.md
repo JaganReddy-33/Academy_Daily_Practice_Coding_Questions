@@ -1,19 +1,19 @@
 # Logical Operators
 
+> ✅ Solved
+
 ## Question
 
 Logical Operators
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| A | AND | Yes | Yes |
-| & | && | No | No |
-| O | OR | No | No |
-| | | || | No | No |
+- ✅ **A. AND** — Correct answer
+- ⬜ **B.** &&
+- ⬜ **C.** OR
+- ⬜ **D.** ||
 
-## Result
+## Submission
 
 - **Correct answer:** AND
 - **Submitted at:** 2026-08-01T06:46:56.928Z

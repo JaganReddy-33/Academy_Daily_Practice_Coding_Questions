@@ -1,19 +1,19 @@
 # Properties of the <abbr> Tag
 
+> ✅ Solved
+
 ## Question
 
 Properties of the <abbr> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| I | It is used for formatting text | No | No |
-| I | It should not be used in HTML5 | No | No |
-| I | It can be used to provide a tooltip for abbreviations | Yes | Yes |
-| I | It requires a closing tag | No | No |
+- ⬜ **A.** It is used for formatting text
+- ⬜ **B.** It should not be used in HTML5
+- ✅ **C. It can be used to provide a tooltip for abbreviations** — Correct answer
+- ⬜ **D.** It requires a closing tag
 
-## Result
+## Submission
 
 - **Correct answer:** It can be used to provide a tooltip for abbreviations
 - **Submitted at:** 2026-05-28T07:42:33.750Z

@@ -1,19 +1,19 @@
 # Retrieving Data in SQL
 
+> ✅ Solved
+
 ## Question
 
 Retrieving Data in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| D | DELETE | No | No |
-| I | INSERT | No | No |
-| S | SELECT | Yes | Yes |
-| J | JOIN | No | No |
+- ⬜ **A.** DELETE
+- ⬜ **B.** INSERT
+- ✅ **C. SELECT** — Correct answer
+- ⬜ **D.** JOIN
 
-## Result
+## Submission
 
 - **Correct answer:** SELECT
 - **Submitted at:** 2026-07-31T06:42:04.427Z

@@ -1,19 +1,19 @@
 # Linking External CSS to HTML Attribute MCQ
 
+> ✅ Solved
+
 ## Question
 
 Linking External CSS to HTML Attribute MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| s | src | No | No |
-| l | link | No | No |
-| h | href | Yes | Yes |
-| s | style | No | No |
+- ⬜ **A.** src
+- ⬜ **B.** link
+- ✅ **C. href** — Correct answer
+- ⬜ **D.** style
 
-## Result
+## Submission
 
 - **Correct answer:** href
 - **Submitted at:** 2026-06-01T17:06:31.816Z

@@ -1,19 +1,19 @@
 # Typography MCQ
 
+> ✅ Solved
+
 ## Question
 
 Typography MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| d | decoration: underline; | No | No |
-| t | text-decoration: underline; | Yes | Yes |
-| u | underline: true; | No | No |
-| s | style="text-decoration: underline;" | No | No |
+- ⬜ **A.** decoration: underline;
+- ✅ **B. text-decoration: underline;** — Correct answer
+- ⬜ **C.** underline: true;
+- ⬜ **D.** style="text-decoration: underline;"
 
-## Result
+## Submission
 
 - **Correct answer:** text-decoration: underline;
 - **Submitted at:** 2026-06-16T14:15:40.443Z

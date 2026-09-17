@@ -1,19 +1,19 @@
 # Purpose of the notify() Method in Java
 
+> ✅ Solved
+
 ## Question
 
 Purpose of the notify() Method in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To wake up a waiting thread | Yes | Yes |
-| T | To terminate a thread's execution | No | No |
-| T | To pause a thread temporarily | No | No |
-| T | To check if a thread is alive | No | No |
+- ✅ **A. To wake up a waiting thread** — Correct answer
+- ⬜ **B.** To terminate a thread's execution
+- ⬜ **C.** To pause a thread temporarily
+- ⬜ **D.** To check if a thread is alive
 
-## Result
+## Submission
 
 - **Correct answer:** To wake up a waiting thread
 - **Submitted at:** 2026-07-27T04:41:23.669Z

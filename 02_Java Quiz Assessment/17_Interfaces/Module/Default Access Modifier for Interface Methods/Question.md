@@ -1,19 +1,19 @@
 # Default Access Modifier for Interface Methods
 
+> ✅ Solved
+
 ## Question
 
 Default Access Modifier for Interface Methods
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| p | public | Yes | Yes |
-| p | private | No | No |
-| p | protected | No | No |
-| p | package-private | No | No |
+- ✅ **A. public** — Correct answer
+- ⬜ **B.** private
+- ⬜ **C.** protected
+- ⬜ **D.** package-private
 
-## Result
+## Submission
 
 - **Correct answer:** public
 - **Submitted at:** 2026-07-16T09:07:39.800Z

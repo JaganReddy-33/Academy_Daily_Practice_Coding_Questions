@@ -1,20 +1,20 @@
 # ALTER TABLE statement in SQL
 
+> ✅ Solved
+
 ## Question
 
 ALTER TABLE statement in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Add columns</p> | No | No |
-| < | <p>Add constraints</p> | No | No |
-| < | <p>Delete columns</p> | No | No |
-| < | <p>Delete constraints</p> | No | No |
-| < | <p>All of the above</p> | Yes | Yes |
+- ⬜ **A.** <p>Add columns</p>
+- ⬜ **B.** <p>Add constraints</p>
+- ⬜ **C.** <p>Delete columns</p>
+- ⬜ **D.** <p>Delete constraints</p>
+- ✅ **E. <p>All of the above</p>** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** <p>All of the above</p>
 - **Submitted at:** 2026-07-31T06:20:37.979Z

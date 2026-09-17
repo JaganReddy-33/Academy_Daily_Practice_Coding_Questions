@@ -1,19 +1,19 @@
 # Better Way to Achieve Multithreading in Java
 
+> ✅ Solved
+
 ## Question
 
 Better Way to Achieve Multithreading in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| U | Using Runnable | Yes | Yes |
-| U | Using Thread | No | No |
-| B | Both | No | No |
-| N | None of the above | No | No |
+- ✅ **A. Using Runnable** — Correct answer
+- ⬜ **B.** Using Thread
+- ⬜ **C.** Both
+- ⬜ **D.** None of the above
 
-## Result
+## Submission
 
 - **Correct answer:** Using Runnable
 - **Submitted at:** 2026-07-27T04:40:57.309Z

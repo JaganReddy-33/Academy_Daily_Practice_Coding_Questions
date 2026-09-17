@@ -1,19 +1,19 @@
 # CHAR Data Type in MySQL
 
+> ✅ Solved
+
 ## Question
 
 CHAR Data Type in MySQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>255 characters</p> | Yes | Yes |
-| < | <p>256 characters</p> | No | No |
-| < | <p>257 characters</p> | No | No |
-| < | <p>258 characters</p> | No | No |
+- ✅ **A. <p>255 characters</p>** — Correct answer
+- ⬜ **B.** <p>256 characters</p>
+- ⬜ **C.** <p>257 characters</p>
+- ⬜ **D.** <p>258 characters</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>255 characters</p>
 - **Submitted at:** 2026-07-28T06:27:49.666Z

@@ -1,19 +1,19 @@
 # Adding Columns in HTML Tables
 
+> ✅ Solved
+
 ## Question
 
 Adding Columns in HTML Tables
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>&lt;td&gt;</p> | Yes | Yes |
-| < | <p>&lt;tr&gt;</p> | No | No |
-| < | <p>&lt;th&gt;</p> | No | No |
-| < | <p>&lt;table&gt;</p> | No | No |
+- ✅ **A. <p>&lt;td&gt;</p>** — Correct answer
+- ⬜ **B.** <p>&lt;tr&gt;</p>
+- ⬜ **C.** <p>&lt;th&gt;</p>
+- ⬜ **D.** <p>&lt;table&gt;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>&lt;td&gt;</p>
 - **Submitted at:** 2026-05-28T07:50:57.075Z

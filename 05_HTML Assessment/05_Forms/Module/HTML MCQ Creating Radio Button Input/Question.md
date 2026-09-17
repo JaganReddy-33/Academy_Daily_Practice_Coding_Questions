@@ -1,19 +1,19 @@
 # HTML MCQ: Creating Radio Button Input
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Creating Radio Button Input
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Using the <code>&lt;input&gt;</code> tag with type="radio"</p> | Yes | Yes |
-| < | <p>Using the <code>&lt;radio&gt;</code> tag</p> | No | No |
-| < | <p>Using the <code>&lt;input&gt;</code> tag with type="button"</p> | No | No |
-| < | <p>Using the <code>&lt;button&gt;</code> tag</p> | No | No |
+- ✅ **A. <p>Using the <code>&lt;input&gt;</code> tag with type="radio"</p>** — Correct answer
+- ⬜ **B.** <p>Using the <code>&lt;radio&gt;</code> tag</p>
+- ⬜ **C.** <p>Using the <code>&lt;input&gt;</code> tag with type="button"</p>
+- ⬜ **D.** <p>Using the <code>&lt;button&gt;</code> tag</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Using the <code>&lt;input&gt;</code> tag with type="radio"</p>
 - **Submitted at:** 2026-05-28T08:06:19.866Z

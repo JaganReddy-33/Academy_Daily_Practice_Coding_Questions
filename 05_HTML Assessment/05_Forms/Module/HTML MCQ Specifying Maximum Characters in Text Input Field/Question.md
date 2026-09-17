@@ -1,19 +1,19 @@
 # HTML MCQ: Specifying Maximum Characters in Text Input Field
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Specifying Maximum Characters in Text Input Field
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| l | limit | No | No |
-| m | maxchars | No | No |
-| m | maxlength | Yes | Yes |
-| c | charlimit | No | No |
+- ⬜ **A.** limit
+- ⬜ **B.** maxchars
+- ✅ **C. maxlength** — Correct answer
+- ⬜ **D.** charlimit
 
-## Result
+## Submission
 
 - **Correct answer:** maxlength
 - **Submitted at:** 2026-05-28T08:08:47.781Z

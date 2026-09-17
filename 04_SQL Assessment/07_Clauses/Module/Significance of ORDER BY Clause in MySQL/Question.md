@@ -1,19 +1,19 @@
 # Significance of 'ORDER BY' Clause in MySQL
 
+> ✅ Solved
+
 ## Question
 
 Significance of 'ORDER BY' Clause in MySQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Data of emp_id will be sorted in ascending order</p> | Yes | Yes |
-| < | <p>Data of emp_id will be sorted in descending order</p> | No | No |
-| < | <p>Data of emp_id will be sorted in ascending and in descending order</p> | No | No |
-| < | <p>All of the mentioned</p> | No | No |
+- ✅ **A. <p>Data of emp_id will be sorted in ascending order</p>** — Correct answer
+- ⬜ **B.** <p>Data of emp_id will be sorted in descending order</p>
+- ⬜ **C.** <p>Data of emp_id will be sorted in ascending and in descending order</p>
+- ⬜ **D.** <p>All of the mentioned</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Data of emp_id will be sorted in ascending order</p>
 - **Submitted at:** 2026-08-03T05:00:12.757Z

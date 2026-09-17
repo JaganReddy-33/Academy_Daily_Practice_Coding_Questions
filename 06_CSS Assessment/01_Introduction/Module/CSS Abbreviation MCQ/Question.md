@@ -1,19 +1,19 @@
 # CSS Abbreviation MCQ
 
+> ✅ Solved
+
 ## Question
 
 CSS Abbreviation MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| C | Creative Style Sheets | No | No |
-| C | Cascading Style Sheets | Yes | Yes |
-| C | Computer Style System | No | No |
-| C | Complex Styling Syntax | No | No |
+- ⬜ **A.** Creative Style Sheets
+- ✅ **B. Cascading Style Sheets** — Correct answer
+- ⬜ **C.** Computer Style System
+- ⬜ **D.** Complex Styling Syntax
 
-## Result
+## Submission
 
 - **Correct answer:** Cascading Style Sheets
 - **Submitted at:** 2026-06-01T17:00:31.670Z

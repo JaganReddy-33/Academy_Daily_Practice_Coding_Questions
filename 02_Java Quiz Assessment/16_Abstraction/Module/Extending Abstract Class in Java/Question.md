@@ -1,19 +1,19 @@
 # Extending Abstract Class in Java
 
+> ✅ Solved
+
 ## Question
 
 Extending Abstract Class in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| Y | Yes, but only if the subclass provides an implementation for all abstract methods. | No | No |
-| N | No, Java does not support extending abstract classes. | No | No |
-| Y | Yes, Java allows abstract classes to extend other abstract classes. | Yes | Yes |
-| Y | Yes, but only if the subclass does not have any concrete methods. | No | No |
+- ⬜ **A.** Yes, but only if the subclass provides an implementation for all abstract methods.
+- ⬜ **B.** No, Java does not support extending abstract classes.
+- ✅ **C. Yes, Java allows abstract classes to extend other abstract classes.** — Correct answer
+- ⬜ **D.** Yes, but only if the subclass does not have any concrete methods.
 
-## Result
+## Submission
 
 - **Correct answer:** Yes, Java allows abstract classes to extend other abstract classes.
 - **Submitted at:** 2026-07-10T16:33:41.628Z

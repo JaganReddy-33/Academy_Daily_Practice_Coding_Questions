@@ -1,19 +1,19 @@
 # String Tokenization in Java
 
+> ✅ Solved
+
 ## Question
 
 String Tokenization in Java
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>StringBuilder</p> | No | No |
-| < | <p>StringBuffer</p> | No | No |
-| < | <p>StringTokenizer</p> | Yes | Yes |
-| < | <p>All of the above</p> | No | No |
+- ⬜ **A.** <p>StringBuilder</p>
+- ⬜ **B.** <p>StringBuffer</p>
+- ✅ **C. <p>StringTokenizer</p>** — Correct answer
+- ⬜ **D.** <p>All of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>StringTokenizer</p>
 - **Submitted at:** 2026-06-11T13:45:12.157Z

@@ -1,19 +1,19 @@
 # HTML Purpose MCQ
 
+> ✅ Solved
+
 ## Question
 
 HTML Purpose MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | To style web pages with colours and layouts | No | No |
-| T | To define the structure and content of web pages | Yes | Yes |
-| T | To provide interactivity and animations on web pages | No | No |
-| T | To manage databases and server-side operations | No | No |
+- ⬜ **A.** To style web pages with colours and layouts
+- ✅ **B. To define the structure and content of web pages** — Correct answer
+- ⬜ **C.** To provide interactivity and animations on web pages
+- ⬜ **D.** To manage databases and server-side operations
 
-## Result
+## Submission
 
 - **Correct answer:** To define the structure and content of web pages
 - **Submitted at:** 2026-05-28T07:33:21.001Z

@@ -1,17 +1,17 @@
 # ERD Abbreviation
 
+> ✅ Solved
+
 ## Question
 
 ERD Abbreviation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | No | No |
-| F | False | Yes | Yes |
+- ⬜ **A.** True
+- ✅ **B. False** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** False
 - **Submitted at:** 2026-07-27T14:26:49.444Z

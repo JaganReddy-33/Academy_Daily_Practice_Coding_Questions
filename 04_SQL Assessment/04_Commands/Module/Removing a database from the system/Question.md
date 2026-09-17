@@ -1,19 +1,19 @@
 # Removing a database from the system
 
+> ✅ Solved
+
 ## Question
 
 Removing a database from the system
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>DROP database database_name;</p> | Yes | Yes |
-| < | <p>DELETE database database_name;</p> | No | No |
-| < | <p>TRUNCATE database database_name;</p> | No | No |
-| < | <p>REMOVE database database_name;</p> | No | No |
+- ✅ **A. <p>DROP database database_name;</p>** — Correct answer
+- ⬜ **B.** <p>DELETE database database_name;</p>
+- ⬜ **C.** <p>TRUNCATE database database_name;</p>
+- ⬜ **D.** <p>REMOVE database database_name;</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>DROP database database_name;</p>
 - **Submitted at:** 2026-07-31T06:42:21.602Z

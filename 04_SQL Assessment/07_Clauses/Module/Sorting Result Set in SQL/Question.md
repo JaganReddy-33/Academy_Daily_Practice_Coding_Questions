@@ -1,19 +1,19 @@
 # Sorting Result Set in SQL
 
+> ✅ Solved
+
 ## Question
 
 Sorting Result Set in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>SORT BY</p> | No | No |
-| < | <p>ORDER</p> | No | No |
-| < | <p>ORDER BY</p> | Yes | Yes |
-| < | <p>SORT</p> | No | No |
+- ⬜ **A.** <p>SORT BY</p>
+- ⬜ **B.** <p>ORDER</p>
+- ✅ **C. <p>ORDER BY</p>** — Correct answer
+- ⬜ **D.** <p>SORT</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>ORDER BY</p>
 - **Submitted at:** 2026-08-03T05:02:39.707Z

@@ -1,19 +1,19 @@
 # Attribute for Including Controls in the <audio> Tag
 
+> ✅ Solved
+
 ## Question
 
 Attribute for Including Controls in the <audio> Tag
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>controls</p> | Yes | Yes |
-| < | <p>control</p> | No | No |
-| < | <p>manage</p> | No | No |
-| < | <p>playback</p> | No | No |
+- ✅ **A. <p>controls</p>** — Correct answer
+- ⬜ **B.** <p>control</p>
+- ⬜ **C.** <p>manage</p>
+- ⬜ **D.** <p>playback</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>controls</p>
 - **Submitted at:** 2026-05-28T07:35:25.183Z

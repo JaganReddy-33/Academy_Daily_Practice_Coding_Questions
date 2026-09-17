@@ -1,19 +1,19 @@
 # Derived Attribute Representation
 
+> ✅ Solved
+
 ## Question
 
 Derived Attribute Representation
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| L | Line | No | No |
-| E | Ellipse | No | No |
-| C | Circle | No | No |
-| D | Dotted Ellipse | Yes | Yes |
+- ⬜ **A.** Line
+- ⬜ **B.** Ellipse
+- ⬜ **C.** Circle
+- ✅ **D. Dotted Ellipse** — Correct answer
 
-## Result
+## Submission
 
 - **Correct answer:** Dotted Ellipse
 - **Submitted at:** 2026-07-27T14:29:08.631Z

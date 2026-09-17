@@ -1,19 +1,19 @@
 # Using BETWEEN AND in SQL
 
+> ✅ Solved
+
 ## Question
 
 Using BETWEEN AND in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>For range of values to fetch.</p> | Yes | Yes |
-| < | <p>To limit the columns displayed.</p> | No | No |
-| < | <p>Both a and b</p> | No | No |
-| < | <p>None of the above</p> | No | No |
+- ✅ **A. <p>For range of values to fetch.</p>** — Correct answer
+- ⬜ **B.** <p>To limit the columns displayed.</p>
+- ⬜ **C.** <p>Both a and b</p>
+- ⬜ **D.** <p>None of the above</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>For range of values to fetch.</p>
 - **Submitted at:** 2026-08-01T06:33:53.161Z

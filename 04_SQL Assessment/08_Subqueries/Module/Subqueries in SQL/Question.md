@@ -1,17 +1,17 @@
 # Subqueries in SQL
 
+> ✅ Solved
+
 ## Question
 
 Subqueries in SQL
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| T | True | Yes | Yes |
-| F | False | No | No |
+- ✅ **A. True** — Correct answer
+- ⬜ **B.** False
 
-## Result
+## Submission
 
 - **Correct answer:** True
 - **Submitted at:** 2026-08-04T05:04:31.119Z

@@ -1,19 +1,19 @@
 # Website Definition MCQ
 
+> ✅ Solved
+
 ## Question
 
 Website Definition MCQ
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>A collection of web servers</p> | No | No |
-| < | <p>A collection of web pages accessible via the internet</p> | Yes | Yes |
-| < | <p>A collection of web browser</p> | No | No |
-| < | <p>A collection of server-side web browsers</p> | No | No |
+- ⬜ **A.** <p>A collection of web servers</p>
+- ✅ **B. <p>A collection of web pages accessible via the internet</p>** — Correct answer
+- ⬜ **C.** <p>A collection of web browser</p>
+- ⬜ **D.** <p>A collection of server-side web browsers</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>A collection of web pages accessible via the internet</p>
 - **Submitted at:** 2026-05-28T07:30:11.848Z

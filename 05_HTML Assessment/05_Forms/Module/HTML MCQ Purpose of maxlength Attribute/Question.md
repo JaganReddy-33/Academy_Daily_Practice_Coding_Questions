@@ -1,19 +1,19 @@
 # HTML MCQ: Purpose of maxlength Attribute
 
+> ✅ Solved
+
 ## Question
 
 HTML MCQ: Purpose of maxlength Attribute
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| S | Set the maximum width of the input | No | No |
-| S | Specify the maximum number of characters | Yes | Yes |
-| D | Define the maximum height of the input | No | No |
-| S | Set the maximum value for numeric inputs | No | No |
+- ⬜ **A.** Set the maximum width of the input
+- ✅ **B. Specify the maximum number of characters** — Correct answer
+- ⬜ **C.** Define the maximum height of the input
+- ⬜ **D.** Set the maximum value for numeric inputs
 
-## Result
+## Submission
 
 - **Correct answer:** Specify the maximum number of characters
 - **Submitted at:** 2026-05-28T08:07:30.939Z

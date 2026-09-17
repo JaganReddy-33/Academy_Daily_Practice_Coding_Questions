@@ -1,19 +1,19 @@
 # Output Prediction with SUBSTR Function
 
+> ✅ Solved
+
 ## Question
 
 Output Prediction with SUBSTR Function
 
-## Answer Choices
+## Answer choices
 
-| Choice | Answer | Selected | Correct |
-|:---:|---|:---:|:---:|
-| < | <p>Hell</p> | Yes | Yes |
-| < | <p>Hello</p> | No | No |
-| < | <p>Hel</p> | No | No |
-| < | <p>Error</p> | No | No |
+- ✅ **A. <p>Hell</p>** — Correct answer
+- ⬜ **B.** <p>Hello</p>
+- ⬜ **C.** <p>Hel</p>
+- ⬜ **D.** <p>Error</p>
 
-## Result
+## Submission
 
 - **Correct answer:** <p>Hell</p>
 - **Submitted at:** 2026-08-02T06:24:18.341Z
