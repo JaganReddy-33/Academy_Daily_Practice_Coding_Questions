@@ -8,15 +8,15 @@ Adding CSS to HTML Tag MCQ
 
 ## Answer choices
 
-- ⬜ **A.** <p>Using the <code>&lt;style&gt;</code> tag.</p>
-- ⬜ **B.** <p>Using the class attribute.</p>
-- ✅ **C. <p>Using the style attribute</p>** — Correct answer
-- ⬜ **D.** <p>Using the <code>&lt;css&gt;</code> tag.</p>
+- ⬜ **A.** AUsing the <style> tag.
+- ⬜ **B.** BUsing the class attribute.
+- ✅ **C. CUsing the style attribute** — Correct answer
+- ⬜ **D.** DUsing the <css> tag.
 
 ## Submission
 
-- **Correct answer:** <p>Using the style attribute</p>
-- **Submitted at:** 2026-06-01T17:05:45.671Z
+- **Correct answer:** CUsing the style attribute
+- **Submitted at:** Not available
 - **Correct submission:** True
 
 ## Explanation
